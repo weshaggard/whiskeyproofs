@@ -10,9 +10,9 @@ title: Whiskey Index
 
 # Whiskey Index
 
-<div class="stats">
-  <p><strong>Total Whiskies:</strong> <span id="totalCount">{{ site.data.whiskies | size }}</span></p>
-</div>
+Welcome to the Whiskey Index - your comprehensive reference for bourbon batch information, proof values, and release years. Whether you're a collector tracking down specific batches, a enthusiast researching proof variations, or simply curious about whiskey releases over the years, this searchable database helps you find exactly what you're looking for.
+
+Use the search and filter tools below to find specific whiskies by name, distillery, batch number, proof, age, or release year. Sort any column by clicking the header to organize the data your way.
 
 <div class="filter-container">
   <label for="typeFilter">Filter by Type:</label>
