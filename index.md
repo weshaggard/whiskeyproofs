@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Whiskey Index
+title: Whiskey Proofs Index
 ---
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3605565427529797"
@@ -8,7 +8,7 @@ title: Whiskey Index
 
 <link rel="stylesheet" href="{{ '/assets/css/whiskey-index.css' | relative_url }}">
 
-# Whiskey Proofs
+# Whiskey Proofs Index
 
 Welcome to the Whiskey Index - your comprehensive reference for bourbon batch information, proof values, and release years. Whether you're a collector tracking down specific batches, an enthusiast researching proof variations, or simply curious about whiskey releases over the years, this searchable index helps you find exactly what you're looking for.
 
@@ -22,13 +22,13 @@ Use the search and filter tools below to find specific whiskies by name, distill
 <table class="whiskey-table" id="whiskeyTable">
   <thead>
     <tr>
-      <th onclick="sortTable(0)">Name ▲▼</th>
-      <th onclick="sortTable(1)">Distillery ▲▼</th>
+      <th onclick="sortTable(0)">Distillery ▲▼</th>
+      <th onclick="sortTable(1)">Name ▲▼</th>
       <th onclick="sortTable(2)">Batch ▲▼</th>
       <th onclick="sortTable(3)">Age ▲▼</th>
       <th onclick="sortTable(4)">Proof ▲▼</th>
-      <th onclick="sortTable(5)">Type ▲▼</th>
-      <th onclick="sortTable(6)">Release Year ▲▼</th>
+      <th onclick="sortTable(5)">Release Year ▲▼</th>
+      <th onclick="sortTable(6)">Type ▲▼</th>
     </tr>
   </thead>
   <tbody>
@@ -38,13 +38,13 @@ Use the search and filter tools below to find specific whiskies by name, distill
       {% for name_group in whiskies_by_name %}
         {% for whiskey in name_group.items %}
         <tr>
-          <td>{{ whiskey.Name }}</td>
           <td>{{ whiskey.Distillery }}</td>
+          <td>{{ whiskey.Name }}</td>
           <td>{{ whiskey.Batch }}</td>
           <td>{{ whiskey.Age }}</td>
           <td>{{ whiskey.Proof }}</td>
-          <td>{{ whiskey.Type }}</td>
           <td>{{ whiskey.ReleaseYear }}</td>
+          <td>{{ whiskey.Type }}</td>
         </tr>
         {% endfor %}
       {% endfor %}
