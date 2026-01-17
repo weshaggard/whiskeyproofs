@@ -65,8 +65,3 @@ h1 {
   background-color: #fff8dc;
   border-left: 4px solid #8B4513;
 }
-
-/* Hide the navigation bar */
-.site-nav {
-  display: none !important;
-}
