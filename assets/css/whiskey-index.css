@@ -47,7 +47,6 @@
 
 .whiskey-table tbody tr:hover {
   background-color: #f5ebe0;
-  transform: scale(1.001);
 }
 
 .filter-container {
