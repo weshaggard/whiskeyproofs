@@ -1,4 +1,5 @@
 Name,Distillery,Batch,Age,Proof,Type,ReleaseYear
+George T. Stagg (GTS),Buffalo Trace,BTAC Fall 2024,15,133.9,Bourbon,2024
 George T. Stagg (GTS),Buffalo Trace,BTAC Fall 2023,15,135.4,Bourbon,2023
 George T. Stagg (GTS),Buffalo Trace,BTAC Fall 2022,15,130.4,Bourbon,2022
 George T. Stagg (GTS),Buffalo Trace,BTAC Fall 2021,15,130.0,Bourbon,2021
@@ -13,6 +14,7 @@ George T. Stagg (GTS),Buffalo Trace,BTAC Fall 2013,15,128.7,Bourbon,2013
 George T. Stagg (GTS),Buffalo Trace,BTAC Fall 2012,15,142.8,Bourbon,2012
 George T. Stagg (GTS),Buffalo Trace,BTAC Fall 2011,15,138.2,Bourbon,2011
 George T. Stagg (GTS),Buffalo Trace,BTAC Fall 2010,15,142.8,Bourbon,2010
+William Larue Weller (WLW),Buffalo Trace,BTAC Fall 2024,,126.4,Bourbon,2024
 William Larue Weller (WLW),Buffalo Trace,BTAC Fall 2023,,125.7,Bourbon,2023
 William Larue Weller (WLW),Buffalo Trace,BTAC Fall 2022,,124.2,Bourbon,2022
 William Larue Weller (WLW),Buffalo Trace,BTAC Fall 2021,,127.2,Bourbon,2021
@@ -27,6 +29,7 @@ William Larue Weller (WLW),Buffalo Trace,BTAC Fall 2013,,135.4,Bourbon,2013
 William Larue Weller (WLW),Buffalo Trace,BTAC Fall 2012,,134.7,Bourbon,2012
 William Larue Weller (WLW),Buffalo Trace,BTAC Fall 2011,,134.1,Bourbon,2011
 William Larue Weller (WLW),Buffalo Trace,BTAC Fall 2010,,133.9,Bourbon,2010
+Thomas H. Handy (THH),Buffalo Trace,BTAC Fall 2024,6,129.3,Bourbon,2024
 Thomas H. Handy (THH),Buffalo Trace,BTAC Fall 2023,6,128.8,Bourbon,2023
 Thomas H. Handy (THH),Buffalo Trace,BTAC Fall 2022,6,130.0,Bourbon,2022
 Thomas H. Handy (THH),Buffalo Trace,BTAC Fall 2021,6,129.0,Bourbon,2021
@@ -41,6 +44,10 @@ Thomas H. Handy (THH),Buffalo Trace,BTAC Fall 2013,6,132.3,Bourbon,2013
 Thomas H. Handy (THH),Buffalo Trace,BTAC Fall 2012,6,132.3,Bourbon,2012
 Thomas H. Handy (THH),Buffalo Trace,BTAC Fall 2011,6,128.9,Bourbon,2011
 Thomas H. Handy (THH),Buffalo Trace,BTAC Fall 2010,6,128.6,Bourbon,2010
+Elijah Craig Barrel Proof,Heaven Hill,A125,12,122.6,Bourbon,2025
+Elijah Craig Barrel Proof,Heaven Hill,C924,12,130.2,Bourbon,2024
+Elijah Craig Barrel Proof,Heaven Hill,B524,12,124.0,Bourbon,2024
+Elijah Craig Barrel Proof,Heaven Hill,A124,12,120.8,Bourbon,2024
 Elijah Craig Barrel Proof,Heaven Hill,C923,12,135.8,Bourbon,2023
 Elijah Craig Barrel Proof,Heaven Hill,B523,12,122.2,Bourbon,2023
 Elijah Craig Barrel Proof,Heaven Hill,A123,12,124.2,Bourbon,2023
@@ -67,6 +74,10 @@ Elijah Craig Barrel Proof,Heaven Hill,Batch 8,12,127.8,Bourbon,2015
 Elijah Craig Barrel Proof,Heaven Hill,Batch 7,12,133.8,Bourbon,2015
 Elijah Craig Barrel Proof,Heaven Hill,Batch 6,12,136.0,Bourbon,2014
 Elijah Craig Barrel Proof,Heaven Hill,Batch 5,12,130.8,Bourbon,2014
+Larceny Barrel Proof,Heaven Hill,A125,6-8,125.2,Bourbon,2025
+Larceny Barrel Proof,Heaven Hill,C924,6-8,122.6,Bourbon,2024
+Larceny Barrel Proof,Heaven Hill,B524,6-8,124.0,Bourbon,2024
+Larceny Barrel Proof,Heaven Hill,A124,6-8,123.4,Bourbon,2024
 Larceny Barrel Proof,Heaven Hill,C923,6-8,124.2,Bourbon,2023
 Larceny Barrel Proof,Heaven Hill,B523,6-8,122.8,Bourbon,2023
 Larceny Barrel Proof,Heaven Hill,A123,6-8,124.6,Bourbon,2023
