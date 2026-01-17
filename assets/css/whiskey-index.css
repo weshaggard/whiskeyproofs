@@ -8,13 +8,14 @@
 
 .whiskey-table thead tr {
   background-color: #8B4513;
-  color: #ffffff;
+  color: #000000;
   text-align: left;
 }
 
 .whiskey-table th,
 .whiskey-table td {
   padding: 12px 15px;
+  white-space: nowrap;
 }
 
 .whiskey-table tbody tr {

@@ -1,5 +1,5 @@
 # Theme
-theme: minima
+theme: jekyll-theme-minimal
 
 # Build settings
 markdown: kramdown
