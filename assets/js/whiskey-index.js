@@ -20,7 +20,15 @@ function initializeGroupedTable() {
     if (!groupedData[name]) {
       groupedData[name] = [];
     }
-    groupedData[name].push(row);
+    // Store the raw data from each row
+    var cells = row.getElementsByTagName("td");
+    groupedData[name].push({
+      name: name,
+      batch: cells[1] ? cells[1].textContent : '',
+      age: cells[2] ? cells[2].textContent : '',
+      proof: cells[3] ? cells[3].textContent : '',
+      releaseYear: cells[4] ? cells[4].textContent : ''
+    });
   });
   
   // Clear tbody
@@ -30,38 +38,77 @@ function initializeGroupedTable() {
   Object.keys(groupedData).sort().forEach(function(name) {
     var group = groupedData[name];
     
-    // Create group header row
-    var headerRow = group[0].cloneNode(true);
+    // Create group header row from first item
+    var headerRow = document.createElement('tr');
     headerRow.classList.add('group-header');
     headerRow.setAttribute('data-group-name', name);
     
-    var expandCell = headerRow.querySelector('.expand-icon');
+    var expandCell = document.createElement('td');
+    expandCell.classList.add('expand-icon');
     if (group.length > 1) {
       expandCell.innerHTML = '<span class="expand-arrow">▶</span>';
       expandCell.style.cursor = 'pointer';
       expandCell.onclick = function() {
         toggleGroup(name);
       };
-      // Show count badge
-      var nameCell = headerRow.cells[1];
+    }
+    headerRow.appendChild(expandCell);
+    
+    var nameCell = document.createElement('td');
+    if (group.length > 1) {
       nameCell.innerHTML = name + ' <span class="batch-count">(' + group.length + ')</span>';
     } else {
-      expandCell.innerHTML = '';
+      nameCell.textContent = name;
     }
+    headerRow.appendChild(nameCell);
+    
+    // Add data from first item
+    var batchCell = document.createElement('td');
+    batchCell.textContent = group[0].batch;
+    headerRow.appendChild(batchCell);
+    
+    var ageCell = document.createElement('td');
+    ageCell.textContent = group[0].age;
+    headerRow.appendChild(ageCell);
+    
+    var proofCell = document.createElement('td');
+    proofCell.textContent = group[0].proof;
+    headerRow.appendChild(proofCell);
+    
+    var yearCell = document.createElement('td');
+    yearCell.textContent = group[0].releaseYear;
+    headerRow.appendChild(yearCell);
     
     tbody.appendChild(headerRow);
     
     // Add detail rows (collapsed by default if more than one)
     if (group.length > 1) {
       for (var i = 0; i < group.length; i++) {
-        var detailRow = group[i].cloneNode(true);
+        var detailRow = document.createElement('tr');
         detailRow.classList.add('group-detail');
         detailRow.classList.add('collapsed');
         detailRow.setAttribute('data-group-name', name);
         
-        // Clear the name cell for detail rows
-        detailRow.cells[0].innerHTML = '';
-        detailRow.cells[1].innerHTML = '';
+        // Empty expand icon and name cells
+        detailRow.appendChild(document.createElement('td'));
+        detailRow.appendChild(document.createElement('td'));
+        
+        // Add batch data
+        var detailBatch = document.createElement('td');
+        detailBatch.textContent = group[i].batch;
+        detailRow.appendChild(detailBatch);
+        
+        var detailAge = document.createElement('td');
+        detailAge.textContent = group[i].age;
+        detailRow.appendChild(detailAge);
+        
+        var detailProof = document.createElement('td');
+        detailProof.textContent = group[i].proof;
+        detailRow.appendChild(detailProof);
+        
+        var detailYear = document.createElement('td');
+        detailYear.textContent = group[i].releaseYear;
+        detailRow.appendChild(detailYear);
         
         tbody.appendChild(detailRow);
       }
@@ -122,10 +169,9 @@ function expandAllGroups() {
   });
 }
 
-// Sort table functionality (updated for grouped table)
+// Sort table functionality - disabled for grouped table
+// Sorting is disabled to maintain grouping by name
 function sortTable(n) {
-  // Sorting disabled for grouped table to maintain grouping
-  // Could be enhanced to sort within groups or sort groups
   return;
 }
 

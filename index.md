@@ -20,12 +20,12 @@ Welcome to the Whiskey Proofs Index - your comprehensive reference for bourbon b
 <table class="whiskey-table" id="whiskeyTable">
   <thead>
     <tr>
-      <th onclick="sortTable(0)" style="width: 30px;"></th>
-      <th onclick="sortTable(1)">Name ▲▼</th>
-      <th onclick="sortTable(2)">Batch ▲▼</th>
-      <th onclick="sortTable(3)">Age ▲▼</th>
-      <th onclick="sortTable(4)">Proof ▲▼</th>
-      <th onclick="sortTable(5)">Release Year ▲▼</th>
+      <th style="width: 30px;"></th>
+      <th>Name</th>
+      <th>Batch</th>
+      <th>Age</th>
+      <th>Proof</th>
+      <th>Release Year</th>
     </tr>
   </thead>
   <tbody>
