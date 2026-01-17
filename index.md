@@ -76,7 +76,7 @@ title: Whiskey Index
 <h1>Whiskey Index</h1>
 
 <div class="stats">
-  <p><strong>Total Whiskies:</strong> <span id="totalCount">{{ site.data.whiskies.size }}</span></p>
+  <p><strong>Total Whiskies:</strong> <span id="totalCount">{{ site.data.whiskies | size }}</span></p>
 </div>
 
 <div class="filter-container">
@@ -206,12 +206,12 @@ title: Whiskey Index
         
         var typeMatch = typeFilter === "" || type === typeFilter;
         var searchMatch = searchInput === "" || 
-                         name.indexOf(searchInput) > -1 || 
-                         distillery.indexOf(searchInput) > -1 ||
-                         batch.indexOf(searchInput) > -1 ||
-                         age.indexOf(searchInput) > -1 ||
-                         proof.indexOf(searchInput) > -1 ||
-                         releaseYear.indexOf(searchInput) > -1;
+                         name.includes(searchInput) || 
+                         distillery.includes(searchInput) ||
+                         batch.includes(searchInput) ||
+                         age.includes(searchInput) ||
+                         proof.includes(searchInput) ||
+                         releaseYear.includes(searchInput);
         
         if (typeMatch && searchMatch) {
           row.style.display = "";
