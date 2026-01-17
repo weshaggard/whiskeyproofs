@@ -3,6 +3,9 @@ layout: default
 title: Whiskey Index
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3605565427529797"
+     crossorigin="anonymous"></script>
+
 <link rel="stylesheet" href="{{ '/assets/css/whiskey-index.css' | relative_url }}">
 
 # Whiskey Index
