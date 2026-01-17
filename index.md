@@ -15,14 +15,6 @@ Welcome to the Whiskey Index - your comprehensive reference for bourbon batch in
 Use the search and filter tools below to find specific whiskies by name, distillery, batch number, proof, age, or release year. Sort any column by clicking the header to organize the data your way.
 
 <div class="filter-container">
-  <label for="typeFilter">Filter by Type:</label>
-  <select id="typeFilter" onchange="filterTable()">
-    <option value="">All Types</option>
-    <option value="Bourbon">Bourbon</option>
-    <option value="Scotch">Scotch</option>
-    <option value="Rye">Rye</option>
-  </select>
-  
   <label for="searchInput">Search:</label>
   <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Search by name, distillery, batch, proof, etc...">
 </div>

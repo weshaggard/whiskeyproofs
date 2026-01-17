@@ -63,11 +63,9 @@ function sortTable(n) {
 
 // Filter table functionality
 function filterTable() {
-  var typeFilter = document.getElementById("typeFilter").value.toLowerCase();
   var searchInput = document.getElementById("searchInput").value.toLowerCase();
   var table = document.getElementById("whiskeyTable");
   var rows = table.getElementsByTagName("tr");
-  var visibleCount = 0;
   
   for (var i = 1; i < rows.length; i++) {
     var row = rows[i];
@@ -79,10 +77,8 @@ function filterTable() {
       var batch = cells[2].innerHTML.toLowerCase();
       var age = cells[3].innerHTML.toLowerCase();
       var proof = cells[4].innerHTML.toLowerCase();
-      var type = cells[5].innerHTML.toLowerCase();
       var releaseYear = cells[6].innerHTML.toLowerCase();
       
-      var typeMatch = typeFilter === "" || type === typeFilter;
       var searchMatch = searchInput === "" || 
                        name.includes(searchInput) || 
                        distillery.includes(searchInput) ||
@@ -91,14 +87,11 @@ function filterTable() {
                        proof.includes(searchInput) ||
                        releaseYear.includes(searchInput);
       
-      if (typeMatch && searchMatch) {
+      if (searchMatch) {
         row.style.display = "";
-        visibleCount++;
       } else {
         row.style.display = "none";
       }
     }
   }
-  
-  document.getElementById("totalCount").innerHTML = visibleCount;
 }
