@@ -1,82 +1,156 @@
-// Sort table functionality
-function sortTable(n) {
-  var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
-  table = document.getElementById("whiskeyTable");
-  switching = true;
-  dir = "asc";
+// Global state for grouped data
+var groupedData = {};
+var expandedGroups = {};
+
+// Initialize table grouping on page load
+document.addEventListener('DOMContentLoaded', function() {
+  initializeGroupedTable();
+});
+
+// Initialize the grouped table
+function initializeGroupedTable() {
+  var table = document.getElementById("whiskeyTable");
+  var tbody = table.getElementsByTagName("tbody")[0];
+  var rows = Array.from(tbody.getElementsByTagName("tr"));
   
-  while (switching) {
-    switching = false;
-    rows = table.rows;
+  // Group rows by name
+  groupedData = {};
+  rows.forEach(function(row) {
+    var name = row.getAttribute('data-name');
+    if (!groupedData[name]) {
+      groupedData[name] = [];
+    }
+    groupedData[name].push(row);
+  });
+  
+  // Clear tbody
+  tbody.innerHTML = '';
+  
+  // Recreate table with grouped rows
+  Object.keys(groupedData).sort().forEach(function(name) {
+    var group = groupedData[name];
     
-    for (i = 1; i < (rows.length - 1); i++) {
-      shouldSwitch = false;
-      x = rows[i].getElementsByTagName("TD")[n];
-      y = rows[i + 1].getElementsByTagName("TD")[n];
-      
-      var xContent = x.innerHTML.toLowerCase();
-      var yContent = y.innerHTML.toLowerCase();
-      
-      // Try to parse as numbers for numeric columns
-      var xNum = parseFloat(xContent);
-      var yNum = parseFloat(yContent);
-      
-      if (!isNaN(xNum) && !isNaN(yNum)) {
-        if (dir == "asc") {
-          if (xNum > yNum) {
-            shouldSwitch = true;
-            break;
-          }
-        } else if (dir == "desc") {
-          if (xNum < yNum) {
-            shouldSwitch = true;
-            break;
-          }
-        }
-      } else {
-        if (dir == "asc") {
-          if (xContent > yContent) {
-            shouldSwitch = true;
-            break;
-          }
-        } else if (dir == "desc") {
-          if (xContent < yContent) {
-            shouldSwitch = true;
-            break;
-          }
-        }
-      }
+    // Create group header row
+    var headerRow = group[0].cloneNode(true);
+    headerRow.classList.add('group-header');
+    headerRow.setAttribute('data-group-name', name);
+    
+    var expandCell = headerRow.querySelector('.expand-icon');
+    if (group.length > 1) {
+      expandCell.innerHTML = '<span class="expand-arrow">▶</span>';
+      expandCell.style.cursor = 'pointer';
+      expandCell.onclick = function() {
+        toggleGroup(name);
+      };
+      // Show count badge
+      var nameCell = headerRow.cells[1];
+      nameCell.innerHTML = name + ' <span class="batch-count">(' + group.length + ')</span>';
+    } else {
+      expandCell.innerHTML = '';
     }
     
-    if (shouldSwitch) {
-      rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
-      switching = true;
-      switchcount++;
+    tbody.appendChild(headerRow);
+    
+    // Add detail rows (collapsed by default if more than one)
+    if (group.length > 1) {
+      for (var i = 0; i < group.length; i++) {
+        var detailRow = group[i].cloneNode(true);
+        detailRow.classList.add('group-detail');
+        detailRow.classList.add('collapsed');
+        detailRow.setAttribute('data-group-name', name);
+        
+        // Clear the name cell for detail rows
+        detailRow.cells[0].innerHTML = '';
+        detailRow.cells[1].innerHTML = '';
+        
+        tbody.appendChild(detailRow);
+      }
+      expandedGroups[name] = false;
     } else {
-      if (switchcount == 0 && dir == "asc") {
-        dir = "desc";
-        switching = true;
+      expandedGroups[name] = true;
+    }
+  });
+}
+
+// Toggle group expand/collapse
+function toggleGroup(groupName) {
+  var table = document.getElementById("whiskeyTable");
+  var rows = table.getElementsByTagName("tr");
+  var isExpanded = expandedGroups[groupName];
+  
+  for (var i = 0; i < rows.length; i++) {
+    var row = rows[i];
+    if (row.getAttribute('data-group-name') === groupName) {
+      if (row.classList.contains('group-header')) {
+        var arrow = row.querySelector('.expand-arrow');
+        if (arrow) {
+          arrow.textContent = isExpanded ? '▶' : '▼';
+        }
+      } else if (row.classList.contains('group-detail')) {
+        if (isExpanded) {
+          row.classList.add('collapsed');
+        } else {
+          row.classList.remove('collapsed');
+        }
       }
     }
   }
+  
+  expandedGroups[groupName] = !isExpanded;
 }
 
-// Filter table functionality
+// Expand all groups
+function expandAllGroups() {
+  var table = document.getElementById("whiskeyTable");
+  var rows = table.getElementsByTagName("tr");
+  
+  for (var i = 0; i < rows.length; i++) {
+    var row = rows[i];
+    if (row.classList.contains('group-header')) {
+      var arrow = row.querySelector('.expand-arrow');
+      if (arrow) {
+        arrow.textContent = '▼';
+      }
+    } else if (row.classList.contains('group-detail')) {
+      row.classList.remove('collapsed');
+    }
+  }
+  
+  // Update all expanded states
+  Object.keys(expandedGroups).forEach(function(key) {
+    expandedGroups[key] = true;
+  });
+}
+
+// Sort table functionality (updated for grouped table)
+function sortTable(n) {
+  // Sorting disabled for grouped table to maintain grouping
+  // Could be enhanced to sort within groups or sort groups
+  return;
+}
+
+// Filter table functionality (updated for grouped table)
 function filterTable() {
   var searchInput = document.getElementById("searchInput").value.toLowerCase();
   var table = document.getElementById("whiskeyTable");
   var rows = table.getElementsByTagName("tr");
+  
+  // If searching, expand all groups
+  if (searchInput !== "") {
+    expandAllGroups();
+  }
   
   for (var i = 1; i < rows.length; i++) {
     var row = rows[i];
     var cells = row.getElementsByTagName("td");
     
     if (cells.length > 0) {
-      var name = cells[0].innerHTML.toLowerCase();
-      var batch = cells[1].innerHTML.toLowerCase();
-      var age = cells[2].innerHTML.toLowerCase();
-      var proof = cells[3].innerHTML.toLowerCase();
-      var releaseYear = cells[4].innerHTML.toLowerCase();
+      // Get cell content, accounting for the expand icon column
+      var name = cells[1] ? cells[1].textContent.toLowerCase() : '';
+      var batch = cells[2] ? cells[2].textContent.toLowerCase() : '';
+      var age = cells[3] ? cells[3].textContent.toLowerCase() : '';
+      var proof = cells[4] ? cells[4].textContent.toLowerCase() : '';
+      var releaseYear = cells[5] ? cells[5].textContent.toLowerCase() : '';
       
       var searchMatch = searchInput === "" || 
                        name.includes(searchInput) || 

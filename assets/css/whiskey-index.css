@@ -91,6 +91,43 @@ h1 {
   border-left: 4px solid #8B4513;
 }
 
+/* Grouping and expand/collapse styles */
+.expand-icon {
+  width: 30px;
+  text-align: center;
+  padding: 8px !important;
+}
+
+.expand-arrow {
+  display: inline-block;
+  transition: transform 0.2s ease;
+  font-size: 0.8em;
+  color: #666;
+}
+
+.group-header {
+  font-weight: 600;
+  background-color: #fafafa !important;
+}
+
+.group-header:hover {
+  background-color: #f0f0f0 !important;
+}
+
+.group-detail {
+  background-color: #fdfdfd;
+}
+
+.group-detail.collapsed {
+  display: none;
+}
+
+.batch-count {
+  font-size: 0.85em;
+  color: #888;
+  font-weight: normal;
+}
+
 /* Responsive design for mobile devices */
 @media screen and (max-width: 768px) {
   .whiskey-table {
