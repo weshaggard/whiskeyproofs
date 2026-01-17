@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.3.3"
 
 # Theme
-gem "jekyll-theme-minimal"
+gem "jekyll-theme-minimal", "~> 0.2.0"
 
 # GitHub Pages (optional, for testing locally with the same setup as GitHub Pages)
 # Uncomment the line below if you want to use github-pages gem
