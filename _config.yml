@@ -1,0 +1,24 @@
+# Site settings
+title: Whiskey Data Collection
+description: A curated collection of whiskey information including distillery details, batch numbers, age statements, and more.
+url: ""
+baseurl: ""
+
+# Theme
+theme: minima
+
+# Build settings
+markdown: kramdown
+
+# Collections
+# None needed for now
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
