@@ -1,4 +1,4 @@
-# Whiskey Data Collection
+# Whiskey Proof Index
 
 <div align="center">
   <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="whiskeyproofs" data-color="#FFDD00" data-emoji="🥃" data-font="Cookie" data-text="Buy me a drink" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
@@ -22,9 +22,9 @@ This site helps answer questions like:
 
 ## 📊 Adding/Editing Whiskey Entries
 
-All whiskey data is stored in `_data/whiskies.csv`. To add or edit entries:
+All whiskey data is stored in `_data/whiskeyindex.csv`. To add or edit entries:
 
-1. Open `_data/whiskies.csv` in any text editor or spreadsheet application
+1. Open `_data/whiskeyindex.csv` in any text editor or spreadsheet application
 2. Each row represents one whiskey with the following columns:
    - **Name**: The name of the whiskey
    - **Distillery**: The distillery that produced it
@@ -110,16 +110,16 @@ This site is designed to work seamlessly with GitHub Pages.
 
 Once GitHub Pages is enabled:
 - Any changes pushed to the main branch will automatically trigger a rebuild
-- Updates to `_data/whiskies.csv` will be reflected on the live site within minutes
+- Updates to `_data/whiskeyindex.csv` will be reflected on the live site within minutes
 - No manual deployment needed!
 
 ## 📁 Project Structure
 
 ```
-whiskeydata/
+whiskeyproofs/
 ├── _config.yml          # Jekyll configuration
 ├── _data/
-│   └── whiskies.csv     # Whiskey data (edit this file to add/update entries)
+│   └── whiskeyindex.csv     # Whiskey data (edit this file to add/update entries)
 ├── index.html           # Main page with whiskey table
 ├── Gemfile              # Ruby dependencies
 ├── .gitignore           # Git ignore rules
@@ -141,7 +141,7 @@ CSS styles are embedded in `index.html`. Look for the `<style>` section to custo
 
 ### Adding More Data Fields
 To add additional columns to the whiskey data:
-1. Add the new column to `_data/whiskies.csv`
+1. Add the new column to `_data/whiskeyindex.csv`
 2. Update `index.html` to display the new field in the table
 
 ## 🛠️ Troubleshooting

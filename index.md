@@ -8,9 +8,9 @@ title: Whiskey Index
 
 <link rel="stylesheet" href="{{ '/assets/css/whiskey-index.css' | relative_url }}">
 
-# Whiskey Index
+# Whiskey Proofs
 
-Welcome to the Whiskey Index - your comprehensive reference for bourbon batch information, proof values, and release years. Whether you're a collector tracking down specific batches, a enthusiast researching proof variations, or simply curious about whiskey releases over the years, this searchable database helps you find exactly what you're looking for.
+Welcome to the Whiskey Index - your comprehensive reference for bourbon batch information, proof values, and release years. Whether you're a collector tracking down specific batches, an enthusiast researching proof variations, or simply curious about whiskey releases over the years, this searchable index helps you find exactly what you're looking for.
 
 Use the search and filter tools below to find specific whiskies by name, distillery, batch number, proof, age, or release year. Sort any column by clicking the header to organize the data your way.
 
@@ -32,7 +32,7 @@ Use the search and filter tools below to find specific whiskies by name, distill
     </tr>
   </thead>
   <tbody>
-    {% assign whiskies_by_distillery = site.data.whiskies | group_by: "Distillery" | sort: "name" %}
+    {% assign whiskies_by_distillery = site.data.whiskeyindex | group_by: "Distillery" | sort: "name" %}
     {% for distillery_group in whiskies_by_distillery %}
       {% assign whiskies_by_name = distillery_group.items | group_by: "Name" | sort: "name" %}
       {% for name_group in whiskies_by_name %}
