@@ -89,7 +89,7 @@ title: Whiskey Collection
   </select>
   
   <label for="searchInput">Search:</label>
-  <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Search by name or distillery...">
+  <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Search by name, distillery, batch, proof, etc...">
 </div>
 
 <table class="whiskey-table" id="whiskeyTable">
@@ -198,12 +198,20 @@ title: Whiskey Collection
       if (cells.length > 0) {
         var name = cells[0].innerHTML.toLowerCase();
         var distillery = cells[1].innerHTML.toLowerCase();
+        var batch = cells[2].innerHTML.toLowerCase();
+        var age = cells[3].innerHTML.toLowerCase();
+        var proof = cells[4].innerHTML.toLowerCase();
         var type = cells[5].innerHTML.toLowerCase();
+        var releaseYear = cells[6].innerHTML.toLowerCase();
         
         var typeMatch = typeFilter === "" || type === typeFilter;
         var searchMatch = searchInput === "" || 
                          name.indexOf(searchInput) > -1 || 
-                         distillery.indexOf(searchInput) > -1;
+                         distillery.indexOf(searchInput) > -1 ||
+                         batch.indexOf(searchInput) > -1 ||
+                         age.indexOf(searchInput) > -1 ||
+                         proof.indexOf(searchInput) > -1 ||
+                         releaseYear.indexOf(searchInput) > -1;
         
         if (typeMatch && searchMatch) {
           row.style.display = "";

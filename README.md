@@ -1,8 +1,15 @@
 # Whiskey Data Collection
 
-A Jekyll-based static website for storing and displaying whiskey information. This site showcases a curated collection of whiskey details including distillery information, batch numbers, age statements, proof, and more.
+A Jekyll-based static website for storing and displaying whiskey information. This site serves as a reference guide for finding specific details about whiskey batches, release years, and proof values.
 
-## 🥃 Features
+## 🥃 Use Cases
+
+This site helps answer questions like:
+- "What year was George T. Stagg released that had a proof of 135.4?"
+- "What was the proof of Elijah Craig C923?"
+- "Which batches of Stagg Jr were released in 2023?"
+
+## 🔍 Features
 
 - **Interactive Table**: Browse whiskey data in a clean, sortable table
 - **Search & Filter**: Find whiskies by name, distillery, or type
@@ -17,7 +24,7 @@ All whiskey data is stored in `_data/whiskies.csv`. To add or edit entries:
 2. Each row represents one whiskey with the following columns:
    - **Name**: The name of the whiskey
    - **Distillery**: The distillery that produced it
-   - **Batch**: Batch number or identifier (e.g., "Standard", "Small Batch", "Barrel Proof")
+   - **Batch**: Batch number or identifier (e.g., "Fall 2023", "C923", "Batch 22")
    - **Age**: Age statement in years (use "Unknown" if not specified)
    - **Proof**: Alcohol proof (numeric value)
    - **Type**: Type of whiskey (Bourbon, Scotch, Rye, Irish, etc.)
@@ -25,7 +32,8 @@ All whiskey data is stored in `_data/whiskies.csv`. To add or edit entries:
 
 ### Example Entry
 ```csv
-Buffalo Trace,Buffalo Trace,Standard,Unknown,90,Bourbon,2023
+George T. Stagg,Buffalo Trace Antique Collection,Fall 2023,15,135.4,Bourbon,2023
+Elijah Craig Barrel Proof,Heaven Hill,C923,12,135.8,Bourbon,2023
 ```
 
 ### Tips for Editing
