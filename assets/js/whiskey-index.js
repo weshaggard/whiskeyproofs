@@ -73,15 +73,13 @@ function filterTable() {
     
     if (cells.length > 0) {
       var name = cells[0].innerHTML.toLowerCase();
-      var distillery = cells[1].innerHTML.toLowerCase();
-      var batch = cells[2].innerHTML.toLowerCase();
-      var age = cells[3].innerHTML.toLowerCase();
-      var proof = cells[4].innerHTML.toLowerCase();
-      var releaseYear = cells[6].innerHTML.toLowerCase();
+      var batch = cells[1].innerHTML.toLowerCase();
+      var age = cells[2].innerHTML.toLowerCase();
+      var proof = cells[3].innerHTML.toLowerCase();
+      var releaseYear = cells[4].innerHTML.toLowerCase();
       
       var searchMatch = searchInput === "" || 
                        name.includes(searchInput) || 
-                       distillery.includes(searchInput) ||
                        batch.includes(searchInput) ||
                        age.includes(searchInput) ||
                        proof.includes(searchInput) ||
