@@ -10,45 +10,33 @@ title: Whiskey Proofs Index
 
 # Whiskey Proofs Index
 
-Welcome to the Whiskey Index - your comprehensive reference for bourbon batch information, proof values, and release years. Whether you're a collector tracking down specific batches, an enthusiast researching proof variations, or simply curious about whiskey releases over the years, this searchable index helps you find exactly what you're looking for.
-
-Use the search and filter tools below to find specific whiskies by name, distillery, batch number, proof, age, or release year. Sort any column by clicking the header to organize the data your way.
+Welcome to the Whiskey Proofs Index - your comprehensive reference for bourbon batch information, proofs, and release years. Whether you're a collector tracking down specific batches, an enthusiast researching proof variations, or simply curious about whiskey releases over the years, this searchable index helps you find exactly what you're looking for.
 
 <div class="filter-container">
   <label for="searchInput">Search:</label>
-  <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Search by name, distillery, batch, proof, etc...">
+  <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Search by name, batch, proof, etc...">
 </div>
 
 <table class="whiskey-table" id="whiskeyTable">
   <thead>
     <tr>
-      <th onclick="sortTable(0)">Distillery ▲▼</th>
       <th onclick="sortTable(1)">Name ▲▼</th>
       <th onclick="sortTable(2)">Batch ▲▼</th>
       <th onclick="sortTable(3)">Age ▲▼</th>
       <th onclick="sortTable(4)">Proof ▲▼</th>
       <th onclick="sortTable(5)">Release Year ▲▼</th>
-      <th onclick="sortTable(6)">Type ▲▼</th>
     </tr>
   </thead>
   <tbody>
-    {% assign whiskies_by_distillery = site.data.whiskeyindex | group_by: "Distillery" | sort: "name" %}
-    {% for distillery_group in whiskies_by_distillery %}
-      {% assign whiskies_by_name = distillery_group.items | group_by: "Name" | sort: "name" %}
-      {% for name_group in whiskies_by_name %}
-        {% for whiskey in name_group.items %}
-        <tr>
-          <td>{{ whiskey.Distillery }}</td>
-          <td>{{ whiskey.Name }}</td>
-          <td>{{ whiskey.Batch }}</td>
-          <td>{{ whiskey.Age }}</td>
-          <td>{{ whiskey.Proof }}</td>
-          <td>{{ whiskey.ReleaseYear }}</td>
-          <td>{{ whiskey.Type }}</td>
-        </tr>
-        {% endfor %}
-      {% endfor %}
-    {% endfor %}
+   {% for whiskey in site.data.whiskeyindex %}
+   <tr>
+     <td>{{ whiskey.Name }}</td>
+     <td>{{ whiskey.Batch }}</td>
+     <td>{{ whiskey.Age }}</td>
+     <td>{{ whiskey.Proof }}</td>
+     <td>{{ whiskey.ReleaseYear }}</td>
+   </tr>
+   {% endfor %}
   </tbody>
 </table>
 
