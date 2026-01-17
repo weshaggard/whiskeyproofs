@@ -51,9 +51,10 @@
 .filter-container {
   margin: 20px 0;
   padding: 18px;
-  background: linear-gradient(135deg, #f8f8f8 0%, #f0f0f0 100%);
+  background: transparent;
   border-radius: 12px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  box-shadow: none;
+  border: 1px solid #e8e8e8;
 }
 
 .filter-container label {
@@ -80,7 +81,6 @@
 
 h1 {
   color: #8B4513;
-  border-bottom: 3px solid #8B4513;
   padding-bottom: 10px;
 }
 
