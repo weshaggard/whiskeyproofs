@@ -57,4 +57,8 @@ title: Whiskey Index
   </tbody>
 </table>
 
+<div class="page-counter" style="margin-top: 20px; text-align: center; font-size: 0.9em; color: #666;">
+  <p>Page Views: <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fweshaggard.github.io%2Fwhiskeydata&count_bg=%238B4513&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false" alt="visitor counter"></p>
+</div>
+
 <script src="{{ '/assets/js/whiskey-index.js' | relative_url }}"></script>
