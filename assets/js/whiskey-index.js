@@ -24,10 +24,10 @@ function initializeGroupedTable() {
     var cells = row.getElementsByTagName("td");
     groupedData[name].push({
       name: name,
-      batch: cells[1] ? cells[1].textContent : '',
-      age: cells[2] ? cells[2].textContent : '',
-      proof: cells[3] ? cells[3].textContent : '',
-      releaseYear: cells[4] ? cells[4].textContent : ''
+      batch: cells[2] ? cells[2].textContent : '',
+      age: cells[3] ? cells[3].textContent : '',
+      proof: cells[4] ? cells[4].textContent : '',
+      releaseYear: cells[5] ? cells[5].textContent : ''
     });
   });
   
@@ -89,9 +89,13 @@ function initializeGroupedTable() {
         detailRow.classList.add('collapsed');
         detailRow.setAttribute('data-group-name', name);
         
-        // Empty expand icon and name cells
+        // Empty expand icon cell
         detailRow.appendChild(document.createElement('td'));
-        detailRow.appendChild(document.createElement('td'));
+        
+        // Add name cell for expanded rows
+        var detailNameCell = document.createElement('td');
+        detailNameCell.textContent = name;
+        detailRow.appendChild(detailNameCell);
         
         // Add batch data
         var detailBatch = document.createElement('td');
