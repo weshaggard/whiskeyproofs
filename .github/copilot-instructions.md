@@ -32,6 +32,11 @@ After any edits to the CSV file, always re-sort the data to maintain this order.
 - Proof values must be numeric
 - Release years must be valid years
 - No duplicate entries (same Name, Batch, and ReleaseYear)
+- Batch field rules:
+  - Use the official batch number/identifier when available (e.g., "2025-04", "Batch 15", "Chapter 9")
+  - If there is no clear batch number, use the release year as the batch identifier
+  - For products with laser codes but no batch numbers (e.g., Russell's Reserve 13 Year), use numbered batches with laser codes (e.g., "6 - LA/NE (Spring 2025)")
+  - Ensure each batch is distinguishable within a product line
 - Age field rules:
   - Use a single year value (e.g., "7", "13")
   - If the age is between years, use up to 2 decimal places (e.g., "7.5", "6.25")
