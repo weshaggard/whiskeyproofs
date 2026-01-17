@@ -1,62 +1,86 @@
 .whiskey-table {
   width: 100%;
-  border-collapse: collapse;
+  border-collapse: separate;
+  border-spacing: 0;
   margin: 20px 0;
   font-size: 0.9em;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  overflow: hidden;
 }
 
 .whiskey-table thead tr {
-  background-color: #8B4513;
-  color: #000000;
+  background: linear-gradient(135deg, #d4a574 0%, #b8956a 100%);
+  color: #ffffff;
   text-align: left;
+  font-weight: 600;
 }
 
 .whiskey-table th,
 .whiskey-table td {
-  padding: 12px 15px;
-  white-space: nowrap;
+  padding: 14px 16px;
+}
+
+.whiskey-table th {
+  cursor: pointer;
+  user-select: none;
+  transition: background-color 0.2s ease;
+}
+
+.whiskey-table th:hover {
+  background-color: rgba(255, 255, 255, 0.1);
 }
 
 .whiskey-table tbody tr {
-  border-bottom: 1px solid #dddddd;
+  border-bottom: 1px solid #e8e8e8;
+  transition: background-color 0.2s ease;
 }
 
 .whiskey-table tbody tr:nth-of-type(even) {
-  background-color: #f3f3f3;
+  background-color: #f9f9f9;
 }
 
 .whiskey-table tbody tr:last-of-type {
-  border-bottom: 2px solid #8B4513;
+  border-bottom: none;
 }
 
 .whiskey-table tbody tr:hover {
-  background-color: #f1e8dc;
+  background-color: #f5ebe0;
 }
 
 .filter-container {
   margin: 20px 0;
-  padding: 15px;
-  background-color: #f8f8f8;
-  border-radius: 5px;
+  padding: 18px;
+  background: transparent;
+  border-radius: 12px;
+  box-shadow: none;
+  border: 1px solid #e8e8e8;
 }
 
 .filter-container label {
   margin-right: 10px;
-  font-weight: bold;
+  font-weight: 600;
+  color: #333;
 }
 
 .filter-container input,
 .filter-container select {
-  padding: 5px 10px;
+  padding: 8px 14px;
   margin-right: 15px;
   border: 1px solid #ddd;
-  border-radius: 3px;
+  border-radius: 8px;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.filter-container input:focus,
+.filter-container select:focus {
+  outline: none;
+  border-color: #b8956a;
+  box-shadow: 0 0 0 3px rgba(184, 149, 106, 0.1);
 }
 
 h1 {
   color: #8B4513;
-  border-bottom: 3px solid #8B4513;
   padding-bottom: 10px;
 }
 
@@ -65,4 +89,63 @@ h1 {
   padding: 15px;
   background-color: #fff8dc;
   border-left: 4px solid #8B4513;
+}
+
+/* Grouping and expand/collapse styles */
+.expand-icon {
+  width: 30px;
+  text-align: center;
+  padding: 8px !important;
+}
+
+.expand-arrow {
+  display: inline-block;
+  transition: transform 0.2s ease;
+  font-size: 0.8em;
+  color: #666;
+}
+
+.group-header {
+  font-weight: 600;
+  background-color: #fafafa !important;
+}
+
+.group-header:hover {
+  background-color: #f0f0f0 !important;
+}
+
+.group-detail {
+  background-color: #fdfdfd;
+}
+
+.group-detail.collapsed {
+  display: none;
+}
+
+.batch-count {
+  font-size: 0.85em;
+  color: #888;
+  font-weight: normal;
+}
+
+/* Responsive design for mobile devices */
+@media screen and (max-width: 768px) {
+  .whiskey-table {
+    font-size: 0.8em;
+  }
+  
+  .whiskey-table th,
+  .whiskey-table td {
+    padding: 10px 8px;
+  }
+  
+  .filter-container {
+    padding: 12px;
+  }
+  
+  .filter-container input,
+  .filter-container select {
+    width: 100%;
+    margin-bottom: 10px;
+  }
 }
