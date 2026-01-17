@@ -19,7 +19,6 @@
 .whiskey-table th,
 .whiskey-table td {
   padding: 14px 16px;
-  white-space: nowrap;
 }
 
 .whiskey-table th {
@@ -90,4 +89,25 @@ h1 {
   padding: 15px;
   background-color: #fff8dc;
   border-left: 4px solid #8B4513;
+}
+
+/* Responsive design for mobile devices */
+@media screen and (max-width: 768px) {
+  .whiskey-table {
+    font-size: 0.8em;
+  }
+  
+  .whiskey-table th,
+  .whiskey-table td {
+    padding: 10px 8px;
+  }
+  
+  .filter-container {
+    padding: 12px;
+  }
+  
+  .filter-container input {
+    width: 100%;
+    margin-bottom: 10px;
+  }
 }
