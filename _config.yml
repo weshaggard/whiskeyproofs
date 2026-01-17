@@ -1,9 +1,3 @@
-# Site settings
-title: Whiskey Data Collection
-description: A curated collection of whiskey information including distillery details, batch numbers, age statements, and more.
-url: ""
-baseurl: ""
-
 # Theme
 theme: minima
 
