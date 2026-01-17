@@ -1,0 +1,67 @@
+.whiskey-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 0.9em;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.whiskey-table thead tr {
+  background-color: #8B4513;
+  color: #ffffff;
+  text-align: left;
+}
+
+.whiskey-table th,
+.whiskey-table td {
+  padding: 12px 15px;
+}
+
+.whiskey-table tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+.whiskey-table tbody tr:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
+
+.whiskey-table tbody tr:last-of-type {
+  border-bottom: 2px solid #8B4513;
+}
+
+.whiskey-table tbody tr:hover {
+  background-color: #f1e8dc;
+}
+
+.filter-container {
+  margin: 20px 0;
+  padding: 15px;
+  background-color: #f8f8f8;
+  border-radius: 5px;
+}
+
+.filter-container label {
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.filter-container input,
+.filter-container select {
+  padding: 5px 10px;
+  margin-right: 15px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+}
+
+h1 {
+  color: #8B4513;
+  border-bottom: 3px solid #8B4513;
+  padding-bottom: 10px;
+}
+
+.stats {
+  margin: 20px 0;
+  padding: 15px;
+  background-color: #fff8dc;
+  border-left: 4px solid #8B4513;
+}
