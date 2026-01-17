@@ -61,4 +61,8 @@ title: Whiskey Index
   <p>Page Views: <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fweshaggard.github.io%2Fwhiskeydata&count_bg=%238B4513&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false" alt="visitor counter"></p>
 </div>
 
+<div style="margin-top: 15px; text-align: center;">
+  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="whiskeyproofs" data-color="#FFDD00" data-emoji="🥃" data-font="Cookie" data-text="Buy me a drink" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+</div>
+
 <script src="{{ '/assets/js/whiskey-index.js' | relative_url }}"></script>
