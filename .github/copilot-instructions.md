@@ -32,4 +32,8 @@ After any edits to the CSV file, always re-sort the data to maintain this order.
 - Proof values must be numeric
 - Release years must be valid years
 - No duplicate entries (same Name, Batch, and ReleaseYear)
-- Use age ranges (e.g., "6-8") for products without specific age statements
+- Age field rules:
+  - Use a single year value (e.g., "7", "13")
+  - If the age is between years, use up to 2 decimal places (e.g., "7.5", "6.25")
+  - If there is no clear age statement, leave the field empty
+  - Do not use age ranges (e.g., "6-8")

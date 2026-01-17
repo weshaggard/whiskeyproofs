@@ -47,21 +47,21 @@ Booker's,2015-03 The Center Cut,6,127.2,2015,Jim Beam,Bourbon
 Booker's,2015-02 Dot's Batch,6,127.9,2015,Jim Beam,Bourbon
 Booker's,2015-01 Big Man Small Batch,6,128.7,2015,Jim Beam,Bourbon
 Booker's Rye,2016-LE Big Time Batch,6,136.2,2016,Jim Beam,Rye
-E.H. Taylor Barrel Proof,Batch 15,7-8,127.4,2025,Buffalo Trace,Bourbon
-E.H. Taylor Barrel Proof,Batch 14,7-8,127.2,2025,Buffalo Trace,Bourbon
-E.H. Taylor Barrel Proof,Batch 13,7-8,127.3,2024,Buffalo Trace,Bourbon
-E.H. Taylor Barrel Proof,Batch 12,7-8,131.1,2023,Buffalo Trace,Bourbon
-E.H. Taylor Barrel Proof,Batch 11,7-8,129.0,2022,Buffalo Trace,Bourbon
-E.H. Taylor Barrel Proof,Batch 10,7-8,127.3,2021,Buffalo Trace,Bourbon
-E.H. Taylor Barrel Proof,Batch 9,7-8,130.3,2020,Buffalo Trace,Bourbon
-E.H. Taylor Barrel Proof,Batch 8,7-8,129.3,2019,Buffalo Trace,Bourbon
-E.H. Taylor Barrel Proof,Batch 7,7-8,129.7,2018,Buffalo Trace,Bourbon
-E.H. Taylor Barrel Proof,Batch 6,7-8,128.1,2017,Buffalo Trace,Bourbon
-E.H. Taylor Barrel Proof,Batch 5,7-8,127.5,2016,Buffalo Trace,Bourbon
-E.H. Taylor Barrel Proof,Batch 4,7-8,127.2,2015,Buffalo Trace,Bourbon
-E.H. Taylor Barrel Proof,Batch 3,7-8,129.0,2014,Buffalo Trace,Bourbon
-E.H. Taylor Barrel Proof,Batch 2,7-8,135.4,2013,Buffalo Trace,Bourbon
-E.H. Taylor Barrel Proof,Batch 1,7-8,134.5,2012,Buffalo Trace,Bourbon
+E.H. Taylor Barrel Proof,Batch 15,,127.4,2025,Buffalo Trace,Bourbon
+E.H. Taylor Barrel Proof,Batch 14,,127.2,2025,Buffalo Trace,Bourbon
+E.H. Taylor Barrel Proof,Batch 13,,127.3,2024,Buffalo Trace,Bourbon
+E.H. Taylor Barrel Proof,Batch 12,,131.1,2023,Buffalo Trace,Bourbon
+E.H. Taylor Barrel Proof,Batch 11,,129.0,2022,Buffalo Trace,Bourbon
+E.H. Taylor Barrel Proof,Batch 10,,127.3,2021,Buffalo Trace,Bourbon
+E.H. Taylor Barrel Proof,Batch 9,,130.3,2020,Buffalo Trace,Bourbon
+E.H. Taylor Barrel Proof,Batch 8,,129.3,2019,Buffalo Trace,Bourbon
+E.H. Taylor Barrel Proof,Batch 7,,129.7,2018,Buffalo Trace,Bourbon
+E.H. Taylor Barrel Proof,Batch 6,,128.1,2017,Buffalo Trace,Bourbon
+E.H. Taylor Barrel Proof,Batch 5,,127.5,2016,Buffalo Trace,Bourbon
+E.H. Taylor Barrel Proof,Batch 4,,127.2,2015,Buffalo Trace,Bourbon
+E.H. Taylor Barrel Proof,Batch 3,,129.0,2014,Buffalo Trace,Bourbon
+E.H. Taylor Barrel Proof,Batch 2,,135.4,2013,Buffalo Trace,Bourbon
+E.H. Taylor Barrel Proof,Batch 1,,134.5,2012,Buffalo Trace,Bourbon
 Elijah Craig Barrel Proof,C925,9.1,129.0,2025,Heaven Hill,Bourbon
 Elijah Craig Barrel Proof,C924,11,129.0,2024,Heaven Hill,Bourbon
 Elijah Craig Barrel Proof,C923,13,133.0,2023,Heaven Hill,Bourbon
@@ -112,33 +112,33 @@ George T. Stagg (GTS),BTAC Fall 2013,15,128.2,2013,Buffalo Trace,Bourbon
 George T. Stagg (GTS),BTAC Fall 2012,15,142.8,2012,Buffalo Trace,Bourbon
 George T. Stagg (GTS),BTAC Fall 2011,15,142.6,2011,Buffalo Trace,Bourbon
 George T. Stagg (GTS),BTAC Fall 2010,15,143.0,2010,Buffalo Trace,Bourbon
-Larceny Barrel Proof,C925,6-8,119.6,2025,Heaven Hill,Bourbon
-Larceny Barrel Proof,C924,6-8,125.1,2024,Heaven Hill,Bourbon
-Larceny Barrel Proof,C923,6-8,126.4,2023,Heaven Hill,Bourbon
-Larceny Barrel Proof,C922,6-8,126.6,2022,Heaven Hill,Bourbon
-Larceny Barrel Proof,C921,6-8,122.6,2021,Heaven Hill,Bourbon
-Larceny Barrel Proof,C920,6-8,122.4,2020,Heaven Hill,Bourbon
-Larceny Barrel Proof,B525,6-8,117.4,2025,Heaven Hill,Bourbon
-Larceny Barrel Proof,B524,6-8,125.4,2024,Heaven Hill,Bourbon
-Larceny Barrel Proof,B523,6-8,124.4,2023,Heaven Hill,Bourbon
-Larceny Barrel Proof,B522,6-8,123.8,2022,Heaven Hill,Bourbon
-Larceny Barrel Proof,B521,6-8,121.0,2021,Heaven Hill,Bourbon
-Larceny Barrel Proof,B520,6-8,122.2,2020,Heaven Hill,Bourbon
-Larceny Barrel Proof,A125,6-8,125.0,2025,Heaven Hill,Bourbon
-Larceny Barrel Proof,A124,6-8,124.2,2024,Heaven Hill,Bourbon
-Larceny Barrel Proof,A123,6-8,125.8,2023,Heaven Hill,Bourbon
-Larceny Barrel Proof,A122,6-8,124.4,2022,Heaven Hill,Bourbon
-Larceny Barrel Proof,A121,6-8,114.8,2021,Heaven Hill,Bourbon
-Larceny Barrel Proof,A120,6-8,123.2,2020,Heaven Hill,Bourbon
-Little Book,Chapter 9: None For Granted,Blend,121.8,2025,Jim Beam,Bourbon
-Little Book,Chapter 8: Path Not Taken,Blend,120.0,2024,Jim Beam,Bourbon
-Little Book,Chapter 7: In Retrospect,Blend,118.1,2023,Jim Beam,Bourbon
-Little Book,Chapter 6: To The Finish,Blend,117.45,2022,Jim Beam,Bourbon
-Little Book,Chapter 5: The Invitation,Blend,116.8,2021,Jim Beam,Bourbon
-Little Book,Chapter 4: Lessons Honored,Blend,122.8,2020,Jim Beam,Bourbon
-Little Book,Chapter 3: The Road Home,Blend,122.6,2019,Jim Beam,Bourbon
-Little Book,Chapter 2: Noe Simple Task,Blend,118.8,2018,Jim Beam,Bourbon
-Little Book,Chapter 1: The Easy,Blend,120.48,2017,Jim Beam,Bourbon
+Larceny Barrel Proof,C925,,119.6,2025,Heaven Hill,Bourbon
+Larceny Barrel Proof,C924,,125.1,2024,Heaven Hill,Bourbon
+Larceny Barrel Proof,C923,,126.4,2023,Heaven Hill,Bourbon
+Larceny Barrel Proof,C922,,126.6,2022,Heaven Hill,Bourbon
+Larceny Barrel Proof,C921,,122.6,2021,Heaven Hill,Bourbon
+Larceny Barrel Proof,C920,,122.4,2020,Heaven Hill,Bourbon
+Larceny Barrel Proof,B525,,117.4,2025,Heaven Hill,Bourbon
+Larceny Barrel Proof,B524,,125.4,2024,Heaven Hill,Bourbon
+Larceny Barrel Proof,B523,,124.4,2023,Heaven Hill,Bourbon
+Larceny Barrel Proof,B522,,123.8,2022,Heaven Hill,Bourbon
+Larceny Barrel Proof,B521,,121.0,2021,Heaven Hill,Bourbon
+Larceny Barrel Proof,B520,,122.2,2020,Heaven Hill,Bourbon
+Larceny Barrel Proof,A125,,125.0,2025,Heaven Hill,Bourbon
+Larceny Barrel Proof,A124,,124.2,2024,Heaven Hill,Bourbon
+Larceny Barrel Proof,A123,,125.8,2023,Heaven Hill,Bourbon
+Larceny Barrel Proof,A122,,124.4,2022,Heaven Hill,Bourbon
+Larceny Barrel Proof,A121,,114.8,2021,Heaven Hill,Bourbon
+Larceny Barrel Proof,A120,,123.2,2020,Heaven Hill,Bourbon
+Little Book,Chapter 9: None For Granted,,121.8,2025,Jim Beam,Bourbon
+Little Book,Chapter 8: Path Not Taken,,120.0,2024,Jim Beam,Bourbon
+Little Book,Chapter 7: In Retrospect,,118.1,2023,Jim Beam,Bourbon
+Little Book,Chapter 6: To The Finish,,117.45,2022,Jim Beam,Bourbon
+Little Book,Chapter 5: The Invitation,,116.8,2021,Jim Beam,Bourbon
+Little Book,Chapter 4: Lessons Honored,,122.8,2020,Jim Beam,Bourbon
+Little Book,Chapter 3: The Road Home,,122.6,2019,Jim Beam,Bourbon
+Little Book,Chapter 2: Noe Simple Task,,118.8,2018,Jim Beam,Bourbon
+Little Book,Chapter 1: The Easy,,120.48,2017,Jim Beam,Bourbon
 Russell's Reserve 13 Year,LA/NE (Spring 2025),13,123.8,2025,Wild Turkey,Bourbon
 Russell's Reserve 13 Year,LL/LE (May 2023),13,114.8,2023,Wild Turkey,Bourbon
 Russell's Reserve 13 Year,LL/LC (March 2023),13,114.8,2023,Wild Turkey,Bourbon
