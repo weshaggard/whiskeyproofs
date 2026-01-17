@@ -21,6 +21,7 @@ function initializeGroupedTable() {
       groupedData[name] = [];
     }
     // Store the raw data from each row
+    // Column indices: 0=expand icon, 1=name, 2=batch, 3=age, 4=proof, 5=release year
     var cells = row.getElementsByTagName("td");
     groupedData[name].push({
       name: name,
@@ -195,7 +196,7 @@ function filterTable() {
     var cells = row.getElementsByTagName("td");
     
     if (cells.length > 0) {
-      // Get cell content, accounting for the expand icon column
+      // Column indices: 0=expand icon, 1=name, 2=batch, 3=age, 4=proof, 5=release year
       var name = cells[1] ? cells[1].textContent.toLowerCase() : '';
       var batch = cells[2] ? cells[2].textContent.toLowerCase() : '';
       var age = cells[3] ? cells[3].textContent.toLowerCase() : '';
