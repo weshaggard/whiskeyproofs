@@ -15,6 +15,7 @@
 .whiskey-table th,
 .whiskey-table td {
   padding: 12px 15px;
+  white-space: nowrap;
 }
 
 .whiskey-table tbody tr {
