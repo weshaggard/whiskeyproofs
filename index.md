@@ -37,16 +37,22 @@ title: Whiskey Index
     </tr>
   </thead>
   <tbody>
-    {% for whiskey in site.data.whiskies %}
-    <tr>
-      <td>{{ whiskey.Name }}</td>
-      <td>{{ whiskey.Distillery }}</td>
-      <td>{{ whiskey.Batch }}</td>
-      <td>{{ whiskey.Age }}</td>
-      <td>{{ whiskey.Proof }}</td>
-      <td>{{ whiskey.Type }}</td>
-      <td>{{ whiskey.ReleaseYear }}</td>
-    </tr>
+    {% assign whiskies_by_distillery = site.data.whiskies | group_by: "Distillery" | sort: "name" %}
+    {% for distillery_group in whiskies_by_distillery %}
+      {% assign whiskies_by_name = distillery_group.items | group_by: "Name" | sort: "name" %}
+      {% for name_group in whiskies_by_name %}
+        {% for whiskey in name_group.items %}
+        <tr>
+          <td>{{ whiskey.Name }}</td>
+          <td>{{ whiskey.Distillery }}</td>
+          <td>{{ whiskey.Batch }}</td>
+          <td>{{ whiskey.Age }}</td>
+          <td>{{ whiskey.Proof }}</td>
+          <td>{{ whiskey.Type }}</td>
+          <td>{{ whiskey.ReleaseYear }}</td>
+        </tr>
+        {% endfor %}
+      {% endfor %}
     {% endfor %}
   </tbody>
 </table>
