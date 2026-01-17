@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Whiskey Collection
+title: Whiskey Index
 ---
 
 <style>
@@ -73,7 +73,7 @@ title: Whiskey Collection
   }
 </style>
 
-<h1>Whiskey Collection</h1>
+<h1>Whiskey Index</h1>
 
 <div class="stats">
   <p><strong>Total Whiskies:</strong> <span id="totalCount">{{ site.data.whiskies.size }}</span></p>
