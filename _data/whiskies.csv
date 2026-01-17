@@ -1,46 +1,46 @@
 Name,Distillery,Batch,Age,Proof,Type,ReleaseYear
-George T. Stagg,Buffalo Trace Antique Collection,Fall 2023,15,135.4,Bourbon,2023
-George T. Stagg,Buffalo Trace Antique Collection,Fall 2022,15,130.4,Bourbon,2022
-George T. Stagg,Buffalo Trace Antique Collection,Fall 2021,15,130.0,Bourbon,2021
-George T. Stagg,Buffalo Trace Antique Collection,Fall 2020,15,130.8,Bourbon,2020
-George T. Stagg,Buffalo Trace Antique Collection,Fall 2019,15,132.4,Bourbon,2019
-George T. Stagg,Buffalo Trace Antique Collection,Fall 2018,15,124.9,Bourbon,2018
-George T. Stagg,Buffalo Trace Antique Collection,Fall 2017,15,129.2,Bourbon,2017
-George T. Stagg,Buffalo Trace Antique Collection,Fall 2016,15,130.0,Bourbon,2016
-George T. Stagg,Buffalo Trace Antique Collection,Fall 2015,15,130.4,Bourbon,2015
-George T. Stagg,Buffalo Trace Antique Collection,Fall 2014,15,128.7,Bourbon,2014
-George T. Stagg,Buffalo Trace Antique Collection,Fall 2013,15,128.7,Bourbon,2013
-George T. Stagg,Buffalo Trace Antique Collection,Fall 2012,15,142.8,Bourbon,2012
-George T. Stagg,Buffalo Trace Antique Collection,Fall 2011,15,138.2,Bourbon,2011
-George T. Stagg,Buffalo Trace Antique Collection,Fall 2010,15,142.8,Bourbon,2010
-William Larue Weller,Buffalo Trace Antique Collection,Fall 2023,Unknown,125.7,Bourbon,2023
-William Larue Weller,Buffalo Trace Antique Collection,Fall 2022,Unknown,124.2,Bourbon,2022
-William Larue Weller,Buffalo Trace Antique Collection,Fall 2021,Unknown,127.2,Bourbon,2021
-William Larue Weller,Buffalo Trace Antique Collection,Fall 2020,Unknown,134.5,Bourbon,2020
-William Larue Weller,Buffalo Trace Antique Collection,Fall 2019,Unknown,128.2,Bourbon,2019
-William Larue Weller,Buffalo Trace Antique Collection,Fall 2018,Unknown,128.2,Bourbon,2018
-William Larue Weller,Buffalo Trace Antique Collection,Fall 2017,Unknown,128.2,Bourbon,2017
-William Larue Weller,Buffalo Trace Antique Collection,Fall 2016,Unknown,134.4,Bourbon,2016
-William Larue Weller,Buffalo Trace Antique Collection,Fall 2015,Unknown,134.5,Bourbon,2015
-William Larue Weller,Buffalo Trace Antique Collection,Fall 2014,Unknown,135.0,Bourbon,2014
-William Larue Weller,Buffalo Trace Antique Collection,Fall 2013,Unknown,135.4,Bourbon,2013
-William Larue Weller,Buffalo Trace Antique Collection,Fall 2012,Unknown,134.7,Bourbon,2012
-William Larue Weller,Buffalo Trace Antique Collection,Fall 2011,Unknown,134.1,Bourbon,2011
-William Larue Weller,Buffalo Trace Antique Collection,Fall 2010,Unknown,133.9,Bourbon,2010
-Thomas H. Handy,Buffalo Trace Antique Collection,Fall 2023,6,128.8,Bourbon,2023
-Thomas H. Handy,Buffalo Trace Antique Collection,Fall 2022,6,130.0,Bourbon,2022
-Thomas H. Handy,Buffalo Trace Antique Collection,Fall 2021,6,129.0,Bourbon,2021
-Thomas H. Handy,Buffalo Trace Antique Collection,Fall 2020,6,128.8,Bourbon,2020
-Thomas H. Handy,Buffalo Trace Antique Collection,Fall 2019,6,128.0,Bourbon,2019
-Thomas H. Handy,Buffalo Trace Antique Collection,Fall 2018,6,129.4,Bourbon,2018
-Thomas H. Handy,Buffalo Trace Antique Collection,Fall 2017,6,126.9,Bourbon,2017
-Thomas H. Handy,Buffalo Trace Antique Collection,Fall 2016,6,126.3,Bourbon,2016
-Thomas H. Handy,Buffalo Trace Antique Collection,Fall 2015,6,128.6,Bourbon,2015
-Thomas H. Handy,Buffalo Trace Antique Collection,Fall 2014,6,132.3,Bourbon,2014
-Thomas H. Handy,Buffalo Trace Antique Collection,Fall 2013,6,132.3,Bourbon,2013
-Thomas H. Handy,Buffalo Trace Antique Collection,Fall 2012,6,132.3,Bourbon,2012
-Thomas H. Handy,Buffalo Trace Antique Collection,Fall 2011,6,128.9,Bourbon,2011
-Thomas H. Handy,Buffalo Trace Antique Collection,Fall 2010,6,128.6,Bourbon,2010
+George T. Stagg (GTS),Buffalo Trace Antique Collection,Fall 2023,15,135.4,Bourbon,2023
+George T. Stagg (GTS),Buffalo Trace Antique Collection,Fall 2022,15,130.4,Bourbon,2022
+George T. Stagg (GTS),Buffalo Trace Antique Collection,Fall 2021,15,130.0,Bourbon,2021
+George T. Stagg (GTS),Buffalo Trace Antique Collection,Fall 2020,15,130.8,Bourbon,2020
+George T. Stagg (GTS),Buffalo Trace Antique Collection,Fall 2019,15,132.4,Bourbon,2019
+George T. Stagg (GTS),Buffalo Trace Antique Collection,Fall 2018,15,124.9,Bourbon,2018
+George T. Stagg (GTS),Buffalo Trace Antique Collection,Fall 2017,15,129.2,Bourbon,2017
+George T. Stagg (GTS),Buffalo Trace Antique Collection,Fall 2016,15,130.0,Bourbon,2016
+George T. Stagg (GTS),Buffalo Trace Antique Collection,Fall 2015,15,130.4,Bourbon,2015
+George T. Stagg (GTS),Buffalo Trace Antique Collection,Fall 2014,15,128.7,Bourbon,2014
+George T. Stagg (GTS),Buffalo Trace Antique Collection,Fall 2013,15,128.7,Bourbon,2013
+George T. Stagg (GTS),Buffalo Trace Antique Collection,Fall 2012,15,142.8,Bourbon,2012
+George T. Stagg (GTS),Buffalo Trace Antique Collection,Fall 2011,15,138.2,Bourbon,2011
+George T. Stagg (GTS),Buffalo Trace Antique Collection,Fall 2010,15,142.8,Bourbon,2010
+William Larue Weller (WLW),Buffalo Trace Antique Collection,Fall 2023,,125.7,Bourbon,2023
+William Larue Weller (WLW),Buffalo Trace Antique Collection,Fall 2022,,124.2,Bourbon,2022
+William Larue Weller (WLW),Buffalo Trace Antique Collection,Fall 2021,,127.2,Bourbon,2021
+William Larue Weller (WLW),Buffalo Trace Antique Collection,Fall 2020,,134.5,Bourbon,2020
+William Larue Weller (WLW),Buffalo Trace Antique Collection,Fall 2019,,128.2,Bourbon,2019
+William Larue Weller (WLW),Buffalo Trace Antique Collection,Fall 2018,,128.2,Bourbon,2018
+William Larue Weller (WLW),Buffalo Trace Antique Collection,Fall 2017,,128.2,Bourbon,2017
+William Larue Weller (WLW),Buffalo Trace Antique Collection,Fall 2016,,134.4,Bourbon,2016
+William Larue Weller (WLW),Buffalo Trace Antique Collection,Fall 2015,,134.5,Bourbon,2015
+William Larue Weller (WLW),Buffalo Trace Antique Collection,Fall 2014,,135.0,Bourbon,2014
+William Larue Weller (WLW),Buffalo Trace Antique Collection,Fall 2013,,135.4,Bourbon,2013
+William Larue Weller (WLW),Buffalo Trace Antique Collection,Fall 2012,,134.7,Bourbon,2012
+William Larue Weller (WLW),Buffalo Trace Antique Collection,Fall 2011,,134.1,Bourbon,2011
+William Larue Weller (WLW),Buffalo Trace Antique Collection,Fall 2010,,133.9,Bourbon,2010
+Thomas H. Handy (THH),Buffalo Trace Antique Collection,Fall 2023,6,128.8,Bourbon,2023
+Thomas H. Handy (THH),Buffalo Trace Antique Collection,Fall 2022,6,130.0,Bourbon,2022
+Thomas H. Handy (THH),Buffalo Trace Antique Collection,Fall 2021,6,129.0,Bourbon,2021
+Thomas H. Handy (THH),Buffalo Trace Antique Collection,Fall 2020,6,128.8,Bourbon,2020
+Thomas H. Handy (THH),Buffalo Trace Antique Collection,Fall 2019,6,128.0,Bourbon,2019
+Thomas H. Handy (THH),Buffalo Trace Antique Collection,Fall 2018,6,129.4,Bourbon,2018
+Thomas H. Handy (THH),Buffalo Trace Antique Collection,Fall 2017,6,126.9,Bourbon,2017
+Thomas H. Handy (THH),Buffalo Trace Antique Collection,Fall 2016,6,126.3,Bourbon,2016
+Thomas H. Handy (THH),Buffalo Trace Antique Collection,Fall 2015,6,128.6,Bourbon,2015
+Thomas H. Handy (THH),Buffalo Trace Antique Collection,Fall 2014,6,132.3,Bourbon,2014
+Thomas H. Handy (THH),Buffalo Trace Antique Collection,Fall 2013,6,132.3,Bourbon,2013
+Thomas H. Handy (THH),Buffalo Trace Antique Collection,Fall 2012,6,132.3,Bourbon,2012
+Thomas H. Handy (THH),Buffalo Trace Antique Collection,Fall 2011,6,128.9,Bourbon,2011
+Thomas H. Handy (THH),Buffalo Trace Antique Collection,Fall 2010,6,128.6,Bourbon,2010
 Elijah Craig Barrel Proof,Heaven Hill,C923,12,135.8,Bourbon,2023
 Elijah Craig Barrel Proof,Heaven Hill,B523,12,122.2,Bourbon,2023
 Elijah Craig Barrel Proof,Heaven Hill,A123,12,124.2,Bourbon,2023
@@ -79,26 +79,26 @@ Larceny Barrel Proof,Heaven Hill,A121,6-8,126.6,Bourbon,2021
 Larceny Barrel Proof,Heaven Hill,C920,6-8,121.6,Bourbon,2020
 Larceny Barrel Proof,Heaven Hill,B520,6-8,123.6,Bourbon,2020
 Larceny Barrel Proof,Heaven Hill,A120,6-8,125.0,Bourbon,2020
-Stagg Jr,Buffalo Trace,Batch 23,Unknown,131.1,Bourbon,2023
-Stagg Jr,Buffalo Trace,Batch 22,Unknown,131.9,Bourbon,2023
-Stagg Jr,Buffalo Trace,Batch 21,Unknown,130.8,Bourbon,2022
-Stagg Jr,Buffalo Trace,Batch 20,Unknown,130.6,Bourbon,2022
-Stagg Jr,Buffalo Trace,Batch 19,Unknown,132.3,Bourbon,2022
-Stagg Jr,Buffalo Trace,Batch 18,Unknown,131.2,Bourbon,2021
-Stagg Jr,Buffalo Trace,Batch 17,Unknown,130.0,Bourbon,2021
-Stagg Jr,Buffalo Trace,Batch 16,Unknown,132.5,Bourbon,2021
-Stagg Jr,Buffalo Trace,Batch 15,Unknown,130.2,Bourbon,2020
-Stagg Jr,Buffalo Trace,Batch 14,Unknown,132.3,Bourbon,2020
-Stagg Jr,Buffalo Trace,Batch 13,Unknown,129.7,Bourbon,2019
-Stagg Jr,Buffalo Trace,Batch 12,Unknown,132.2,Bourbon,2019
-Stagg Jr,Buffalo Trace,Batch 11,Unknown,131.1,Bourbon,2018
-Stagg Jr,Buffalo Trace,Batch 10,Unknown,126.4,Bourbon,2018
-Stagg Jr,Buffalo Trace,Batch 9,Unknown,132.5,Bourbon,2017
-Stagg Jr,Buffalo Trace,Batch 8,Unknown,131.0,Bourbon,2017
-Stagg Jr,Buffalo Trace,Batch 7,Unknown,129.2,Bourbon,2016
-Stagg Jr,Buffalo Trace,Batch 6,Unknown,132.2,Bourbon,2016
-Stagg Jr,Buffalo Trace,Batch 5,Unknown,128.7,Bourbon,2015
-Stagg Jr,Buffalo Trace,Batch 4,Unknown,132.3,Bourbon,2015
-Stagg Jr,Buffalo Trace,Batch 3,Unknown,128.7,Bourbon,2014
-Stagg Jr,Buffalo Trace,Batch 2,Unknown,128.7,Bourbon,2014
-Stagg Jr,Buffalo Trace,Batch 1,Unknown,134.4,Bourbon,2013
+Stagg Jr,Buffalo Trace,Batch 23,,131.1,Bourbon,2023
+Stagg Jr,Buffalo Trace,Batch 22,,131.9,Bourbon,2023
+Stagg Jr,Buffalo Trace,Batch 21,,130.8,Bourbon,2022
+Stagg Jr,Buffalo Trace,Batch 20,,130.6,Bourbon,2022
+Stagg Jr,Buffalo Trace,Batch 19,,132.3,Bourbon,2022
+Stagg Jr,Buffalo Trace,Batch 18,,131.2,Bourbon,2021
+Stagg Jr,Buffalo Trace,Batch 17,,130.0,Bourbon,2021
+Stagg Jr,Buffalo Trace,Batch 16,,132.5,Bourbon,2021
+Stagg Jr,Buffalo Trace,Batch 15,,130.2,Bourbon,2020
+Stagg Jr,Buffalo Trace,Batch 14,,132.3,Bourbon,2020
+Stagg Jr,Buffalo Trace,Batch 13,,129.7,Bourbon,2019
+Stagg Jr,Buffalo Trace,Batch 12,,132.2,Bourbon,2019
+Stagg Jr,Buffalo Trace,Batch 11,,131.1,Bourbon,2018
+Stagg Jr,Buffalo Trace,Batch 10,,126.4,Bourbon,2018
+Stagg Jr,Buffalo Trace,Batch 9,,132.5,Bourbon,2017
+Stagg Jr,Buffalo Trace,Batch 8,,131.0,Bourbon,2017
+Stagg Jr,Buffalo Trace,Batch 7,,129.2,Bourbon,2016
+Stagg Jr,Buffalo Trace,Batch 6,,132.2,Bourbon,2016
+Stagg Jr,Buffalo Trace,Batch 5,,128.7,Bourbon,2015
+Stagg Jr,Buffalo Trace,Batch 4,,132.3,Bourbon,2015
+Stagg Jr,Buffalo Trace,Batch 3,,128.7,Bourbon,2014
+Stagg Jr,Buffalo Trace,Batch 2,,128.7,Bourbon,2014
+Stagg Jr,Buffalo Trace,Batch 1,,134.4,Bourbon,2013
