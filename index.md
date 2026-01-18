@@ -13,7 +13,6 @@ title: Whiskey Proofs Index
 Welcome to the Whiskey Proofs Index - your comprehensive reference for bourbon batch information, proofs, and release years. Whether you're a collector tracking down specific batches, an enthusiast researching proof variations, or simply curious about whiskey releases over the years, this searchable index helps you find exactly what you're looking for.
 
 <div class="filter-container">
-  <label for="searchInput">Search:</label>
   <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Search by name, batch, proof, etc...">
 </div>
 
