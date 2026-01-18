@@ -1,3 +1,11 @@
+<link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet">
+
+<div style="margin-top: 15px; text-align: center;">
+  <a href="https://www.buymeacoffee.com/whiskeyproofs" style="display:inline-flex; align-items:center; gap:8px; padding:8px 16px; border:2px solid #b8956a; border-radius:8px; background-color:#b8956a; text-decoration:none; color:#ffffff; font-family:'Cookie',cursive; font-size:1.5rem; font-weight:400; transition:all 0.2s ease;">
+    Buy me a drink <img src="assets/whiskeyglass.png" alt="Whiskey glass" height="28" style="display:inline-block;">
+  </a>
+</div>
+
 # Whiskey Proofs Index
 
 A Jekyll-based static website for storing and displaying whiskey information. This site serves as a reference guide for finding specific details about whiskey batches, release years, and proof values.
@@ -164,13 +172,3 @@ This project is open source and available for use and modification.
 ## 🤝 Contributing
 
 Feel free to submit issues or pull requests to improve the site!
-
----
-
-<link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet">
-
-<div style="margin-top: 15px; text-align: center;">
-  <a href="https://www.buymeacoffee.com/whiskeyproofs" style="display:inline-flex; align-items:center; gap:8px; padding:8px 16px; border:2px solid #b8956a; border-radius:8px; background-color:#b8956a; text-decoration:none; color:#ffffff; font-family:'Cookie',cursive; font-size:1.5rem; font-weight:400; transition:all 0.2s ease;">
-    Buy me a drink <img src="assets/whiskeyglass.png" alt="Whiskey glass" height="28" style="display:inline-block;">
-  </a>
-</div>
