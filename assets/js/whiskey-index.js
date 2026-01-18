@@ -1,6 +1,8 @@
 // Global state for grouped data
 var groupedData = {};
 var expandedGroups = {};
+var currentSortColumn = -1;
+var currentSortDirection = 1; // 1 for ascending, -1 for descending
 
 // Initialize table grouping on page load
 document.addEventListener('DOMContentLoaded', function() {
@@ -83,8 +85,9 @@ function initializeGroupedTable() {
     tbody.appendChild(headerRow);
     
     // Add detail rows (collapsed by default if more than one)
+    // Start from index 1 to skip the first item (already shown in header row)
     if (group.length > 1) {
-      for (var i = 0; i < group.length; i++) {
+      for (var i = 1; i < group.length; i++) {
         var detailRow = document.createElement('tr');
         detailRow.classList.add('group-detail');
         detailRow.classList.add('collapsed');
@@ -174,10 +177,144 @@ function expandAllGroups() {
   });
 }
 
-// Sort table functionality - disabled for grouped table
-// Sorting is disabled to maintain grouping by name
-function sortTable(n) {
-  return;
+// Sort table functionality - sorts groups by selected column
+function sortTable(columnIndex) {
+  // Column mapping: 0=expand icon (no sort), 1=name, 2=batch, 3=age, 4=proof, 5=release year
+  if (columnIndex === 0) return; // Don't sort by expand icon
+  
+  // Toggle sort direction if clicking the same column
+  if (currentSortColumn === columnIndex) {
+    currentSortDirection *= -1;
+  } else {
+    currentSortColumn = columnIndex;
+    currentSortDirection = 1; // Default to ascending
+  }
+  
+  // Save current expanded state
+  var savedExpandedState = Object.assign({}, expandedGroups);
+  
+  // Get column name for sorting
+  var columnMap = {
+    1: 'name',
+    2: 'batch',
+    3: 'age',
+    4: 'proof',
+    5: 'releaseYear'
+  };
+  var sortKey = columnMap[columnIndex];
+  
+  // Sort the groups based on the first item in each group
+  var sortedGroupNames = Object.keys(groupedData).sort(function(a, b) {
+    var valA = groupedData[a][0][sortKey];
+    var valB = groupedData[b][0][sortKey];
+    
+    // Handle numeric columns (age, proof, releaseYear)
+    if (sortKey === 'age' || sortKey === 'proof' || sortKey === 'releaseYear') {
+      valA = parseFloat(valA) || 0;
+      valB = parseFloat(valB) || 0;
+      return (valA - valB) * currentSortDirection;
+    }
+    
+    // String comparison for name and batch
+    if (valA < valB) return -1 * currentSortDirection;
+    if (valA > valB) return 1 * currentSortDirection;
+    return 0;
+  });
+  
+  // Rebuild the table with sorted groups
+  var table = document.getElementById("whiskeyTable");
+  var tbody = table.getElementsByTagName("tbody")[0];
+  tbody.innerHTML = '';
+  
+  sortedGroupNames.forEach(function(name) {
+    var group = groupedData[name];
+    
+    // Create group header row from first item
+    var headerRow = document.createElement('tr');
+    headerRow.classList.add('group-header');
+    headerRow.setAttribute('data-group-name', name);
+    
+    var expandCell = document.createElement('td');
+    expandCell.classList.add('expand-icon');
+    if (group.length > 1) {
+      expandCell.innerHTML = '<span class="expand-arrow">' + 
+        (savedExpandedState[name] ? '▼' : '▶') + '</span>';
+      expandCell.style.cursor = 'pointer';
+      expandCell.onclick = function() {
+        toggleGroup(name);
+      };
+    }
+    headerRow.appendChild(expandCell);
+    
+    var nameCell = document.createElement('td');
+    if (group.length > 1) {
+      nameCell.innerHTML = name + ' <span class="batch-count">(' + group.length + ')</span>';
+    } else {
+      nameCell.textContent = name;
+    }
+    headerRow.appendChild(nameCell);
+    
+    // Add data from first item
+    var batchCell = document.createElement('td');
+    batchCell.textContent = group[0].batch;
+    headerRow.appendChild(batchCell);
+    
+    var ageCell = document.createElement('td');
+    ageCell.textContent = group[0].age;
+    headerRow.appendChild(ageCell);
+    
+    var proofCell = document.createElement('td');
+    proofCell.textContent = group[0].proof;
+    headerRow.appendChild(proofCell);
+    
+    var yearCell = document.createElement('td');
+    yearCell.textContent = group[0].releaseYear;
+    headerRow.appendChild(yearCell);
+    
+    tbody.appendChild(headerRow);
+    
+    // Add detail rows (collapsed or expanded based on saved state)
+    if (group.length > 1) {
+      for (var i = 1; i < group.length; i++) {
+        var detailRow = document.createElement('tr');
+        detailRow.classList.add('group-detail');
+        if (!savedExpandedState[name]) {
+          detailRow.classList.add('collapsed');
+        }
+        detailRow.setAttribute('data-group-name', name);
+        
+        // Empty expand icon cell
+        detailRow.appendChild(document.createElement('td'));
+        
+        // Add name cell for expanded rows
+        var detailNameCell = document.createElement('td');
+        detailNameCell.textContent = name;
+        detailRow.appendChild(detailNameCell);
+        
+        // Add batch data
+        var detailBatch = document.createElement('td');
+        detailBatch.textContent = group[i].batch;
+        detailRow.appendChild(detailBatch);
+        
+        var detailAge = document.createElement('td');
+        detailAge.textContent = group[i].age;
+        detailRow.appendChild(detailAge);
+        
+        var detailProof = document.createElement('td');
+        detailProof.textContent = group[i].proof;
+        detailRow.appendChild(detailProof);
+        
+        var detailYear = document.createElement('td');
+        detailYear.textContent = group[i].releaseYear;
+        detailRow.appendChild(detailYear);
+        
+        tbody.appendChild(detailRow);
+      }
+    }
+  });
+  
+  // Restore expanded state
+  expandedGroups = savedExpandedState;
 }
 
 // Filter table functionality (updated for grouped table)

@@ -13,7 +13,6 @@ title: Whiskey Proofs Index
 Welcome to the Whiskey Proofs Index - your comprehensive reference for bourbon batch information, proofs, and release years. Whether you're a collector tracking down specific batches, an enthusiast researching proof variations, or simply curious about whiskey releases over the years, this searchable index helps you find exactly what you're looking for.
 
 <div class="filter-container">
-  <label for="searchInput">Search:</label>
   <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Search by name, batch, proof, etc...">
 </div>
 
@@ -21,11 +20,11 @@ Welcome to the Whiskey Proofs Index - your comprehensive reference for bourbon b
   <thead>
     <tr>
       <th style="width: 30px;"></th>
-      <th>Name</th>
-      <th>Batch</th>
-      <th>Age</th>
-      <th>Proof</th>
-      <th>Release Year</th>
+      <th onclick="sortTable(1)" style="cursor: pointer;">Name</th>
+      <th onclick="sortTable(2)" style="cursor: pointer;">Batch</th>
+      <th onclick="sortTable(3)" style="cursor: pointer;">Age</th>
+      <th onclick="sortTable(4)" style="cursor: pointer;">Proof</th>
+      <th onclick="sortTable(5)" style="cursor: pointer;">Release Year</th>
     </tr>
   </thead>
   <tbody>
