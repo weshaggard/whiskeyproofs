@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Whiskey Proofs Index
+title: Whiskey proof index
 ---
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3605565427529797"
@@ -8,9 +8,9 @@ title: Whiskey Proofs Index
 
 <link rel="stylesheet" href="{{ '/assets/css/whiskey-index.css' | relative_url }}">
 
-# Whiskey Proofs Index
+# Whiskey proof index
 
-Welcome to the Whiskey Proofs Index - your comprehensive reference for bourbon batch information, proofs, and release years. Whether you're a collector tracking down specific batches, an enthusiast researching proof variations, or simply curious about whiskey releases over the years, this searchable index helps you find exactly what you're looking for.
+Welcome to the Whiskey proof index - your comprehensive reference for bourbon batch information, proofs, and release years. Whether you're a collector tracking down specific batches, an enthusiast researching proof variations, or simply curious about whiskey releases over the years, this searchable index helps you find exactly what you're looking for.
 
 <div class="filter-container">
   <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Search by name, batch, proof, etc...">
