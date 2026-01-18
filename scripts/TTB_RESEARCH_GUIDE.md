@@ -164,12 +164,29 @@ Create a log file `ttb_research_log.md`:
 
 ## Realistic Timeline
 
-Given manual search requirements:
+Given the straightforward nature of TTB registry searches:
 
-- **10-15 minutes per search** (including verification)
-- **310 remaining entries** = ~50-75 hours of work
-- **Focused effort**: Could complete 10-20 per hour = 15-30 hours
-- **Casual research**: 5-10 per session = months of ongoing work
+- **Per entry**: 2-3 minutes (simple searches)
+- **Per entry**: 5-10 minutes (complex searches with multiple batches)
+- **310 remaining entries** = ~10-15 hours of work
+- **Focused session**: Could complete 20-30 per hour = 10-15 hours total
+- **Casual research**: 10-15 entries per session (30-45 minutes) = completed over time
+
+### Time Breakdown
+
+**Simple Search (2-3 minutes per entry)**:
+1. Open TTB registry (10 seconds)
+2. Enter search criteria (20 seconds)
+3. Review results (30-60 seconds)
+4. Verify proof/batch match (30 seconds)
+5. Copy TTB ID (10 seconds)
+6. Update CSV (30 seconds)
+
+**Complex Search (5-10 minutes per entry)**:
+- Multiple search attempts
+- Many results to review
+- Unclear batch naming requiring label image review
+- Verification of multiple details
 
 ## Recommendation
 
@@ -190,3 +207,28 @@ It's **perfectly acceptable** to:
 - Never have 100% coverage
 
 The principle of **Accuracy > Coverage** still applies.
+
+## Efficiency Tips for Fast Searches
+
+**Batch Processing** (saves significant time):
+- Search for one product once (e.g., "Booker's 2024")
+- Get all matching results in one search
+- Update multiple CSV entries from same search
+- Example: One search for Booker's 2024 → find 4 batches → 4 TTB IDs
+
+**Browser Setup**:
+- Keep TTB registry open in one browser tab
+- Keep terminal/command prompt open
+- Have priority file open for quick copy-paste
+
+**Time Savers**:
+- Bookmark TTB registry page
+- Don't review label images unless absolutely needed
+- Use Ctrl+F to find specific proof in results list
+- Copy update commands from priority file (already formatted)
+- Commit every 10-20 entries (not after each one)
+
+**Realistic Session Timing**:
+- 1 hour session = 20-30 entries completed
+- Top 50 priority entries = 2-3 hours
+- All 310 entries = 10-15 hours (spread over days/weeks)

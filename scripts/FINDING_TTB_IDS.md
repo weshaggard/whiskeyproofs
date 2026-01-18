@@ -1,5 +1,17 @@
 # Finding and Verifying TTB COLA IDs - Complete Guide
 
+## Quick Start
+
+**Time required**: 10-15 hours total (2-3 minutes per entry)
+
+**Process**:
+1. Generate priority list: `python3 scripts/ttb_research_helper.py`
+2. Open TTB registry: https://www.ttbonline.gov/colasonline/publicSearchColasBasic.do
+3. For each entry: Search → Find match → Copy ID → Update CSV
+4. Commit regularly
+
+**Reality**: Most searches take 2-3 minutes. Complete 20-30 per hour. Not as daunting as it sounds!
+
 ## Overview
 
 This guide provides a comprehensive system for finding and verifying TTB (Alcohol and Tobacco Tax and Trade Bureau) COLA (Certificate of Label Approval) IDs for whiskey entries.
@@ -23,12 +35,14 @@ They are **ONLY** available in:
 - ✅ TTB COLA Public Registry: https://www.ttbonline.gov/colasonline/
 
 This means each of the 310 entries requires:
-1. Manual search in TTB registry
-2. Verification of proof/batch/year match
-3. Copy of 14-digit TTB ID
-4. Update to CSV file
+1. Manual search in TTB registry (~1 minute)
+2. Verification of proof/batch/year match (~30 seconds)
+3. Copy of 14-digit TTB ID (~10 seconds)
+4. Update to CSV file (~30 seconds)
 
-**Estimated Time**: 10-15 minutes per entry = **50-75 hours total**
+**Estimated Time**: 2-3 minutes per entry = **10-15 hours total**
+- Simple searches (most entries): 2-3 minutes
+- Complex searches (multiple batches, unclear naming): 5-10 minutes
 
 ## Tools Provided
 
@@ -174,26 +188,28 @@ For each COLA found, verify ALL match:
 
 ### Phase 1: High-Value Releases (Recommended Start)
 
-**Target**: Top 50 from priority list (~8-12 hours)
+**Target**: Top 50 from priority list (~2-3 hours)
 - Recent Booker's (2024-2025): 8 entries
 - Recent Elijah Craig BP (2024-2025): 6 entries
 - BTAC 2024-2025: 10 entries
 - Other premium 2024-2025: ~26 entries
 
-**Value**: These are most searched/viewed entries
+**Value**: These are most searched/viewed entries, easy to find (recent approvals)
 
 ### Phase 2: Popular Products (Medium Priority)
 
-**Target**: Next 100 entries (~15-25 hours)
+**Target**: Next 100 entries (~4-6 hours)
 - Same products, 2022-2023 releases
 - Widely available limited editions
+- Straightforward searches
 
 ### Phase 3: Complete Coverage (Low Priority)
 
-**Target**: Remaining 160 entries (~25-40 hours)
+**Target**: Remaining 160 entries (~5-8 hours)
 - Older releases (2010-2021)
 - Limited distribution
 - Regional exclusives
+- May require more search attempts
 
 ## Alternative Approaches
 
@@ -270,6 +286,45 @@ python3 scripts/verify_ttb_accuracy.py
 cat ttb_search_priority.txt | head -50
 ```
 
+## Realistic Time Expectations
+
+**Most searches are quick and straightforward:**
+
+1. **Open TTB registry** (10 seconds)
+   - Bookmark the page for faster access
+   
+2. **Enter search** (20 seconds)
+   - Brand name + year is usually sufficient
+   - Example: "Booker's" + 2024
+   
+3. **Review results** (30-60 seconds)
+   - Results show proof and batch info
+   - Usually 5-20 results to scan
+   - Look for matching proof first
+   
+4. **Verify match** (30 seconds)
+   - Click TTB ID to view details
+   - Confirm proof, batch, year match
+   
+5. **Copy ID and update** (40 seconds)
+   - Copy 14-digit TTB ID
+   - Run update command from priority file
+   - Done!
+
+**Total: 2-3 minutes per entry** (not 10-15!)
+
+**Why some take longer (5-10 minutes)**:
+- Product has many batches (20+ results to review)
+- Batch naming unclear (need to check label images)
+- Proof slightly different (need careful verification)
+- Older releases (wider date range needed)
+
+**Efficiency tips**:
+- Do batches of same product together (one search, multiple IDs)
+- Keep TTB registry open in one tab, terminal in another
+- Copy-paste update commands from priority file
+- Commit every 10-20 entries
+
 ## Files Reference
 
 - **ttb_search_priority.txt**: All 310 entries in priority order with search commands
@@ -288,10 +343,12 @@ Refer to:
 
 ## Summary
 
-Finding all 310 TTB IDs is a **significant manual effort** (50-75 hours). The tools provided:
+Finding all 310 TTB IDs is **manageable** (10-15 hours). The tools provided:
 1. Prioritize which entries to research first
-2. Simplify the search process
+2. Simplify the search process with ready-to-use criteria
 3. Automate CSV updates
 4. Verify accuracy
 
-**Recommended**: Start with top 50 priority entries, adding verified IDs incrementally.
+**Recommended**: Start with top 50 priority entries (2-3 hours), adding verified IDs incrementally.
+
+**Reality check**: Most searches are 2-3 minutes. You could complete all 310 entries in a dedicated afternoon/evening session, or spread over multiple shorter sessions.
