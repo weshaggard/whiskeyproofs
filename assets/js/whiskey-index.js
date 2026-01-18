@@ -225,6 +225,14 @@ function sortTable(columnIndex) {
       return (valA - valB) * currentSortDirection;
     }
     
+    // Handle TTB column (HTML content) - sort by presence of link
+    if (sortKey === 'ttb') {
+      // Empty string means no link, otherwise it has a link
+      var hasLinkA = valA && valA.trim().length > 0 ? 1 : 0;
+      var hasLinkB = valB && valB.trim().length > 0 ? 1 : 0;
+      return (hasLinkA - hasLinkB) * currentSortDirection;
+    }
+    
     // String comparison for name and batch
     if (valA < valB) return -1 * currentSortDirection;
     if (valA > valB) return 1 * currentSortDirection;
