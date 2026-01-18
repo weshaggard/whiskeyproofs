@@ -3,7 +3,7 @@
   <rect x="1" y="1" width="198" height="48" rx="8" ry="8" fill="#b8956a" stroke="#b8956a" stroke-width="2"/>
   
   <!-- Text -->
-  <text x="30" y="33" font-family="'Cookie', cursive, 'Brush Script MT', cursive" font-size="22" fill="#ffffff" font-weight="400">Buy me a drink</text>
+  <text x="26" y="33" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#ffffff" font-weight="400" font-style="italic">Buy me a drink</text>
   
   <!-- Whiskey glass icon (simplified) -->
   <g transform="translate(165, 15)">
