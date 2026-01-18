@@ -1,17 +1,17 @@
 Name,Batch,Age,Proof,ReleaseYear,Distillery,Type,TTB_ID
 Angel's Envy Cask Strength,2025,10,122.6,2025,Angel's Envy,Bourbon,22089001000941
-Angel's Envy Cask Strength,2024,8,118.8,2024,Angel's Envy,Bourbon,
-Angel's Envy Cask Strength,2023,,118.2,2023,Angel's Envy,Bourbon,
-Angel's Envy Cask Strength,2022,,119.8,2022,Angel's Envy,Bourbon,
-Angel's Envy Cask Strength,2021,,120.7,2021,Angel's Envy,Bourbon,
-Angel's Envy Cask Strength,2020,,120.4,2020,Angel's Envy,Bourbon,
-Angel's Envy Cask Strength,2019,,122.4,2019,Angel's Envy,Bourbon,
+Angel's Envy Cask Strength,2024,8,118.8,2024,Angel's Envy,Bourbon,23053001000245
+Angel's Envy Cask Strength,2023,,118.2,2023,Angel's Envy,Bourbon,23061001000337
+Angel's Envy Cask Strength,2022,,119.8,2022,Angel's Envy,Bourbon,22031001000974
+Angel's Envy Cask Strength,2021,,120.7,2021,Angel's Envy,Bourbon,21075001000613
+Angel's Envy Cask Strength,2020,,120.4,2020,Angel's Envy,Bourbon,20132001000514
+Angel's Envy Cask Strength,2019,,122.4,2019,Angel's Envy,Bourbon,19287001000715
 Angel's Envy Cask Strength,2018,,124.0,2018,Angel's Envy,Bourbon,
-Angel's Envy Cask Strength,2017,,124.5,2017,Angel's Envy,Bourbon,
-Angel's Envy Cask Strength,2016,,124.6,2016,Angel's Envy,Bourbon,
-Angel's Envy Cask Strength,2015,,127.9,2015,Angel's Envy,Bourbon,
-Angel's Envy Cask Strength,2014,,119.3,2014,Angel's Envy,Bourbon,
-Angel's Envy Cask Strength,2013,,123.0,2013,Angel's Envy,Bourbon,
+Angel's Envy Cask Strength,2017,,124.5,2017,Angel's Envy,Bourbon,17045001000167
+Angel's Envy Cask Strength,2016,,124.6,2016,Angel's Envy,Bourbon,15321001000499
+Angel's Envy Cask Strength,2015,,127.9,2015,Angel's Envy,Bourbon,15026001000519
+Angel's Envy Cask Strength,2014,,119.3,2014,Angel's Envy,Bourbon,14168001000221
+Angel's Envy Cask Strength,2013,,123.0,2013,Angel's Envy,Bourbon,13086001000139
 Angel's Envy Cask Strength,2012,,121.0,2012,Angel's Envy,Bourbon,
 Booker's,2025-04 Phantom Pipes Batch,7,126.4,2025,Jim Beam,Bourbon,25336001000133
 Booker's,2025-03 Jerry's Batch,7,124.7,2025,Jim Beam,Bourbon,25336001000127
@@ -74,23 +74,23 @@ E.H. Taylor Barrel Proof (EHTBP),Batch 7,,129.7,2018,Buffalo Trace,Bourbon,
 E.H. Taylor Barrel Proof (EHTBP),Batch 6,,128.1,2017,Buffalo Trace,Bourbon,
 E.H. Taylor Barrel Proof (EHTBP),Batch 5,,127.5,2016,Buffalo Trace,Bourbon,
 E.H. Taylor Barrel Proof (EHTBP),Batch 4,,127.2,2015,Buffalo Trace,Bourbon,
-E.H. Taylor Barrel Proof (EHTBP),Batch 3,,129.0,2014,Buffalo Trace,Bourbon,
+E.H. Taylor Barrel Proof (EHTBP),Batch 3,,129.0,2014,Buffalo Trace,Bourbon,14120001000071
 E.H. Taylor Barrel Proof (EHTBP),Batch 2,,135.4,2013,Buffalo Trace,Bourbon,
 E.H. Taylor Barrel Proof (EHTBP),Batch 1,,134.5,2012,Buffalo Trace,Bourbon,
-Eagle Rare 17 Year (ER17),BTAC Fall 2025,17,101.0,2025,Buffalo Trace,Bourbon,
-Eagle Rare 17 Year (ER17),BTAC Fall 2024,17,101.0,2024,Buffalo Trace,Bourbon,
-Eagle Rare 17 Year (ER17),BTAC Fall 2023,17,101.0,2023,Buffalo Trace,Bourbon,
-Eagle Rare 17 Year (ER17),BTAC Fall 2022,17,101.0,2022,Buffalo Trace,Bourbon,
-Eagle Rare 17 Year (ER17),BTAC Fall 2021,17,101.0,2021,Buffalo Trace,Bourbon,
-Eagle Rare 17 Year (ER17),BTAC Fall 2020,17,101.0,2020,Buffalo Trace,Bourbon,
+Eagle Rare 17 Year (ER17),BTAC Fall 2025,17,101.0,2025,Buffalo Trace,Bourbon,25030001000269
+Eagle Rare 17 Year (ER17),BTAC Fall 2024,17,101.0,2024,Buffalo Trace,Bourbon,24009001000196
+Eagle Rare 17 Year (ER17),BTAC Fall 2023,17,101.0,2023,Buffalo Trace,Bourbon,23298001000195
+Eagle Rare 17 Year (ER17),BTAC Fall 2022,17,101.0,2022,Buffalo Trace,Bourbon,22094001000564
+Eagle Rare 17 Year (ER17),BTAC Fall 2021,17,101.0,2021,Buffalo Trace,Bourbon,21098001000422
+Eagle Rare 17 Year (ER17),BTAC Fall 2020,17,101.0,2020,Buffalo Trace,Bourbon,20231001000482
 Eagle Rare 17 Year (ER17),BTAC Fall 2019,17,101.0,2019,Buffalo Trace,Bourbon,
-Eagle Rare 17 Year (ER17),BTAC Fall 2018,17,90.0,2018,Buffalo Trace,Bourbon,
+Eagle Rare 17 Year (ER17),BTAC Fall 2018,17,90.0,2018,Buffalo Trace,Bourbon,18200001000214
 Eagle Rare 17 Year (ER17),BTAC Fall 2017,17,90.0,2017,Buffalo Trace,Bourbon,
 Eagle Rare 17 Year (ER17),BTAC Fall 2016,17,90.0,2016,Buffalo Trace,Bourbon,
 Eagle Rare 17 Year (ER17),BTAC Fall 2015,17,90.0,2015,Buffalo Trace,Bourbon,
 Eagle Rare 17 Year (ER17),BTAC Fall 2014,17,90.0,2014,Buffalo Trace,Bourbon,
 Eagle Rare 17 Year (ER17),BTAC Fall 2013,17,90.0,2013,Buffalo Trace,Bourbon,
-Eagle Rare 17 Year (ER17),BTAC Fall 2012,17,90.0,2012,Buffalo Trace,Bourbon,
+Eagle Rare 17 Year (ER17),BTAC Fall 2012,17,90.0,2012,Buffalo Trace,Bourbon,12282001000268
 Eagle Rare 17 Year (ER17),BTAC Fall 2011,17,90.0,2011,Buffalo Trace,Bourbon,
 Eagle Rare 17 Year (ER17),BTAC Fall 2010,17,90.0,2010,Buffalo Trace,Bourbon,
 Elijah Craig Barrel Proof (ECBP),C925,9.1,129.0,2025,Heaven Hill,Bourbon,25035001000130
@@ -129,24 +129,24 @@ Elijah Craig Barrel Proof (ECBP),A215,12,128.0,2015,Heaven Hill,Bourbon,15260001
 Elijah Craig Barrel Proof (ECBP),C914,12,140.2,2014,Heaven Hill,Bourbon,
 Elijah Craig Barrel Proof (ECBP),B514,12,134.8,2014,Heaven Hill,Bourbon,
 Elijah Craig Barrel Proof (ECBP),A314,12,132.4,2014,Heaven Hill,Bourbon,
-Four Roses Limited Edition Small Batch,2025,13-19,109.0,2025,Four Roses,Bourbon,
-Four Roses Limited Edition Small Batch,2024,12-20,108.2,2024,Four Roses,Bourbon,
-Four Roses Limited Edition Small Batch,2023,12-25,108.0,2023,Four Roses,Bourbon,
-Four Roses Limited Edition Small Batch,2022,14-20,109.0,2022,Four Roses,Bourbon,
-Four Roses Limited Edition Small Batch,2021,12-16,114.2,2021,Four Roses,Bourbon,
-Four Roses Limited Edition Small Batch,2020,12-19,111.4,2020,Four Roses,Bourbon,
-Four Roses Limited Edition Small Batch,2019,11-21,112.6,2019,Four Roses,Bourbon,
-Four Roses Limited Edition Small Batch,2018,10-16,108.3,2018,Four Roses,Bourbon,
-Four Roses Limited Edition Small Batch,2017,12-23,108.9,2017,Four Roses,Bourbon,
-Four Roses Limited Edition Small Batch,2016,12-16,111.2,2016,Four Roses,Bourbon,
-Four Roses Limited Edition Small Batch,2015,11-16,108.6,2015,Four Roses,Bourbon,
-Four Roses Limited Edition Small Batch,2014,9-13,111.8,2014,Four Roses,Bourbon,
-Four Roses Limited Edition Small Batch,2013,13-18,110.0,2013,Four Roses,Bourbon,
-Four Roses Limited Edition Small Batch,2012,11-17,100.4,2012,Four Roses,Bourbon,
-Four Roses Limited Edition Small Batch,2011,11-13,111.6,2011,Four Roses,Bourbon,
-Four Roses Limited Edition Small Batch,2010,10-15,110.0,2010,Four Roses,Bourbon,
-Four Roses Limited Edition Small Batch,2009,10-19,114.4,2009,Four Roses,Bourbon,
-Four Roses Limited Edition Small Batch,2008,10-13,112.4,2008,Four Roses,Bourbon,
+Four Roses Limited Edition Small Batch,2025,13-19,109.0,2025,Four Roses,Bourbon,25076001000196
+Four Roses Limited Edition Small Batch,2024,12-20,108.2,2024,Four Roses,Bourbon,24050001000660
+Four Roses Limited Edition Small Batch,2023,12-25,108.0,2023,Four Roses,Bourbon,23024001000625
+Four Roses Limited Edition Small Batch,2022,14-20,109.0,2022,Four Roses,Bourbon,22033001000638
+Four Roses Limited Edition Small Batch,2021,12-16,114.2,2021,Four Roses,Bourbon,21067001000899
+Four Roses Limited Edition Small Batch,2020,12-19,111.4,2020,Four Roses,Bourbon,20066001000945
+Four Roses Limited Edition Small Batch,2019,11-21,112.6,2019,Four Roses,Bourbon,19016001000616
+Four Roses Limited Edition Small Batch,2018,10-16,108.3,2018,Four Roses,Bourbon,18011001000089
+Four Roses Limited Edition Small Batch,2017,12-23,108.9,2017,Four Roses,Bourbon,17041001000134
+Four Roses Limited Edition Small Batch,2016,12-16,111.2,2016,Four Roses,Bourbon,15350001000435
+Four Roses Limited Edition Small Batch,2015,11-16,108.6,2015,Four Roses,Bourbon,14329001000243
+Four Roses Limited Edition Small Batch,2014,9-13,111.8,2014,Four Roses,Bourbon,14008001000268
+Four Roses Limited Edition Small Batch,2013,13-18,110.0,2013,Four Roses,Bourbon,12352001000295
+Four Roses Limited Edition Small Batch,2012,11-17,100.4,2012,Four Roses,Bourbon,12012001000199
+Four Roses Limited Edition Small Batch,2011,11-13,111.6,2011,Four Roses,Bourbon,11048001000616
+Four Roses Limited Edition Small Batch,2010,10-15,110.0,2010,Four Roses,Bourbon,10012001000269
+Four Roses Limited Edition Small Batch,2009,10-19,114.4,2009,Four Roses,Bourbon,09084000000031
+Four Roses Limited Edition Small Batch,2008,10-13,112.4,2008,Four Roses,Bourbon,08053000000015
 George T. Stagg (GTS),BTAC Fall 2025,15,142.8,2025,Buffalo Trace,Bourbon,
 George T. Stagg (GTS),BTAC Fall 2024,15,136.1,2024,Buffalo Trace,Bourbon,24229001000079
 George T. Stagg (GTS),BTAC Fall 2023,15,135.0,2023,Buffalo Trace,Bourbon,23268001000176
@@ -178,18 +178,18 @@ Jack Daniel's Special Release,2021 - Coy Hill High Proof,9,137.4-148.3,2021,Jack
 Jack Daniel's Special Release,2020 - Barrel Proof Rye,,125-140,2020,Jack Daniel's,Rye,
 Jack Daniel's Special Release,2019 - Heritage Barrel,8,100.0,2019,Jack Daniel's,Tennessee Whiskey,
 Jack Daniel's Special Release,2018 - Heritage Barrel,7,100.0,2018,Jack Daniel's,Tennessee Whiskey,
-Knob Creek 15 Year (KC15),2021,15,100.0,2021,Knob Creek,Bourbon,
-Knob Creek 15 Year (KC15),2020,15,100.0,2020,Knob Creek,Bourbon,
-Knob Creek 18 Year (KC18),2024,18,100.0,2024,Knob Creek,Bourbon,
-Knob Creek 18 Year (KC18),2023,18,100.0,2023,Knob Creek,Bourbon,
-Knob Creek 18 Year (KC18),2022,18,100.0,2022,Knob Creek,Bourbon,
-Knob Creek 2001 Limited Edition,Batch 5,14,100.0,2016,Knob Creek,Bourbon,
-Knob Creek 2001 Limited Edition,Batch 4,14,100.0,2016,Knob Creek,Bourbon,
-Knob Creek 2001 Limited Edition,Batch 3,14,100.0,2016,Knob Creek,Bourbon,
-Knob Creek 2001 Limited Edition,Batch 2,14,100.0,2016,Knob Creek,Bourbon,
-Knob Creek 2001 Limited Edition,Batch 1,14,100.0,2016,Knob Creek,Bourbon,
-Knob Creek 21 Year (KC21),2025,21,100.0,2025,Knob Creek,Bourbon,
-Knob Creek 25th Anniversary,2017,12-13,122.0,2017,Knob Creek,Bourbon,
+Knob Creek 15 Year (KC15),2021,15,100.0,2021,Knob Creek,Bourbon,21111001000727
+Knob Creek 15 Year (KC15),2020,15,100.0,2020,Knob Creek,Bourbon,20009001000749
+Knob Creek 18 Year (KC18),2024,18,100.0,2024,Knob Creek,Bourbon,24008001000177
+Knob Creek 18 Year (KC18),2023,18,100.0,2023,Knob Creek,Bourbon,23249001000470
+Knob Creek 18 Year (KC18),2022,18,100.0,2022,Knob Creek,Bourbon,22062001000364
+Knob Creek 2001 Limited Edition,Batch 5,14,100.0,2016,Knob Creek,Bourbon,16029001000425
+Knob Creek 2001 Limited Edition,Batch 4,14,100.0,2016,Knob Creek,Bourbon,16029001000425
+Knob Creek 2001 Limited Edition,Batch 3,14,100.0,2016,Knob Creek,Bourbon,16029001000425
+Knob Creek 2001 Limited Edition,Batch 2,14,100.0,2016,Knob Creek,Bourbon,16029001000425
+Knob Creek 2001 Limited Edition,Batch 1,14,100.0,2016,Knob Creek,Bourbon,16029001000425
+Knob Creek 21 Year (KC21),2025,21,100.0,2025,Knob Creek,Bourbon,25007001000838
+Knob Creek 25th Anniversary,2017,12-13,122.0,2017,Knob Creek,Bourbon,17031001000063
 Larceny Barrel Proof,C925,,119.6,2025,Heaven Hill,Bourbon,
 Larceny Barrel Proof,B525,,117.4,2025,Heaven Hill,Bourbon,
 Larceny Barrel Proof,A125,,125.0,2025,Heaven Hill,Bourbon,
@@ -208,15 +208,15 @@ Larceny Barrel Proof,A121,,114.8,2021,Heaven Hill,Bourbon,
 Larceny Barrel Proof,C920,,122.4,2020,Heaven Hill,Bourbon,
 Larceny Barrel Proof,B520,,122.2,2020,Heaven Hill,Bourbon,
 Larceny Barrel Proof,A120,,123.2,2020,Heaven Hill,Bourbon,
-Little Book,Chapter 9: None For Granted,,121.8,2025,Jim Beam,Bourbon,
-Little Book,Chapter 8: Path Not Taken,,120.0,2024,Jim Beam,Bourbon,
-Little Book,Chapter 7: In Retrospect,,118.1,2023,Jim Beam,Bourbon,
-Little Book,Chapter 6: To The Finish,,117.45,2022,Jim Beam,Bourbon,
-Little Book,Chapter 5: The Invitation,,116.8,2021,Jim Beam,Bourbon,
+Little Book,Chapter 9: None For Granted,,121.8,2025,Jim Beam,Bourbon,25346001000127
+Little Book,Chapter 8: Path Not Taken,,120.0,2024,Jim Beam,Bourbon,24032001000586
+Little Book,Chapter 7: In Retrospect,,118.1,2023,Jim Beam,Bourbon,23060001000800
+Little Book,Chapter 6: To The Finish,,117.45,2022,Jim Beam,Bourbon,22151001000666
+Little Book,Chapter 5: The Invitation,,116.8,2021,Jim Beam,Bourbon,21021001000086
 Little Book,Chapter 4: Lessons Honored,,122.8,2020,Jim Beam,Bourbon,
-Little Book,Chapter 3: The Road Home,,122.6,2019,Jim Beam,Bourbon,
-Little Book,Chapter 2: Noe Simple Task,,118.8,2018,Jim Beam,Bourbon,
-Little Book,Chapter 1: The Easy,,120.48,2017,Jim Beam,Bourbon,
+Little Book,Chapter 3: The Road Home,,122.6,2019,Jim Beam,Bourbon,19101001000586
+Little Book,Chapter 2: Noe Simple Task,,118.8,2018,Jim Beam,Bourbon,18072001000320
+Little Book,Chapter 1: The Easy,,120.48,2017,Jim Beam,Bourbon,17188001000022
 Michter's 20 Year Bourbon (M20),2025,20,114.2,2025,Michter's,Bourbon,
 Michter's 20 Year Bourbon (M20),2024,20,114.2,2024,Michter's,Bourbon,
 Michter's 20 Year Bourbon (M20),2012,20,114.2,2012,Michter's,Bourbon,
@@ -290,14 +290,14 @@ Parker's Heritage Collection,2010 - 10 Year Wheated Bourbon,10,126.0,2010,Heaven
 Parker's Heritage Collection,2009 - Golden Anniversary,,100.0,2009,Heaven Hill,Bourbon,
 Parker's Heritage Collection,2008 - 27 Year Bourbon,27,96.0,2008,Heaven Hill,Bourbon,
 Parker's Heritage Collection,2007 - Cask Strength Bourbon,11,127.4,2007,Heaven Hill,Bourbon,
-Remus Gatsby Reserve,2025,15,102.8,2025,MGP,Bourbon,
-Remus Gatsby Reserve,2024,15,104.9,2024,MGP,Bourbon,
-Remus Gatsby Reserve,2023,15,98.1,2023,MGP,Bourbon,
-Remus Gatsby Reserve,2022,15,97.8,2022,MGP,Bourbon,
-Russell's Reserve 13 Year,6 - LA/NE (Spring 2025),13,123.8,2025,Wild Turkey,Bourbon,
-Russell's Reserve 13 Year,5 - LL/LE (May 2023),13,114.8,2023,Wild Turkey,Bourbon,
-Russell's Reserve 13 Year,4 - LL/LC (March 2023),13,114.8,2023,Wild Turkey,Bourbon,
-Russell's Reserve 13 Year,3 - LL/KE (May 2022),13,114.8,2022,Wild Turkey,Bourbon,
+Remus Gatsby Reserve,2025,15,102.8,2025,MGP,Bourbon,19148001000118
+Remus Gatsby Reserve,2024,15,104.9,2024,MGP,Bourbon,24029001000531
+Remus Gatsby Reserve,2023,15,98.1,2023,MGP,Bourbon,23018001000447
+Remus Gatsby Reserve,2022,15,97.8,2022,MGP,Bourbon,22074001000848
+Russell's Reserve 13 Year,6 - LA/NE (Spring 2025),13,123.8,2025,Wild Turkey,Bourbon,25008001000469
+Russell's Reserve 13 Year,5 - LL/LE (May 2023),13,114.8,2023,Wild Turkey,Bourbon,23347001000544
+Russell's Reserve 13 Year,4 - LL/LC (March 2023),13,114.8,2023,Wild Turkey,Bourbon,23299001000534
+Russell's Reserve 13 Year,3 - LL/KE (May 2022),13,114.8,2022,Wild Turkey,Bourbon,22014001000233
 Russell's Reserve 13 Year,2 - LL/JL (December 2021),13,114.8,2021,Wild Turkey,Bourbon,
 Russell's Reserve 13 Year,1 - LL/JD (April 2021),13,114.8,2021,Wild Turkey,Bourbon,
 Sazerac 18 Year,BTAC Fall 2025,18,90.0,2025,Buffalo Trace,Rye,
