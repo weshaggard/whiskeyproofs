@@ -20,29 +20,71 @@ def extract_numeric_from_batch(batch):
 
 def batch_sort_key(batch, release_year):
     """
-    Create a sort key for batch ordering (descending).
+    Create a sort key for batch ordering (descending - newest/latest first).
     
-    For numeric batches (e.g., "Batch 15", "15"), sort numerically descending.
-    For season batches (e.g., "Fall 2025", "Spring 2024"), sort by year then season.
-    For other batches, sort alphabetically descending.
+    Handles various batch naming conventions:
+    - Year-batch format (2025-04, 2024-03)
+    - Seasonal batches (Fall 2025, Spring 2024)
+    - Letter-number format (C925, B524, A123)  
+    - Batch N format (Batch 15, Batch 2)
+    - Numeric batches (18, 17, 16)
+    - Chapter format (Chapter 9, Chapter 8)
+    - Year-letter codes (25C, 24D, 23A)
     """
+    
+    # Handle year-batch format like "2025-04", "2024-03"
+    year_batch_match = re.match(r'^(\d{4})-(\d+)', batch)
+    if year_batch_match:
+        year = int(year_batch_match.group(1))
+        batch_num = int(year_batch_match.group(2))
+        return (0, -year, -batch_num, batch)
+    
     # Handle seasonal batches (Fall/Spring)
     if 'Fall' in batch or 'Spring' in batch:
         year_match = re.search(r'(\d{4})', batch)
         year = int(year_match.group(1)) if year_match else int(release_year)
         season = 'Fall' if 'Fall' in batch else 'Spring'
-        # Fall comes before Spring in descending order (Fall is "later" in year)
         season_order = 0 if season == 'Fall' else 1
-        return (0, -year, season_order, batch)
+        return (1, -year, season_order, batch)
     
-    # Handle numeric batches
-    batch_num = extract_numeric_from_batch(batch)
-    if batch_num is not None:
-        # Sort numerically, descending (negate the number)
-        return (1, -batch_num, 0, batch)
+    # Handle ECBP-style letter-number format (C925, B524, A123, A314, A215)
+    ecbp_match = re.match(r'^([A-Z])(\d+)$', batch)
+    if ecbp_match and len(ecbp_match.group(2)) in [3, 2]:
+        letter = ecbp_match.group(1)
+        year = int(release_year)
+        # C > B > A for descending (C is 3rd/latest batch of year)
+        letter_value = ord(letter) - ord('A') + 1
+        return (2, -year, -letter_value, batch)
     
-    # Default: alphabetical descending
-    return (2, 0, 0, batch)
+    # Handle "Batch N" format
+    if batch.startswith('Batch '):
+        batch_num_match = re.search(r'Batch (\d+)', batch)
+        if batch_num_match:
+            batch_num = int(batch_num_match.group(1))
+            return (3, -batch_num, batch)
+    
+    # Handle pure numeric batches
+    if batch.isdigit():
+        return (4, -int(batch), batch)
+    
+    # Handle "Chapter N" format
+    if 'Chapter' in batch:
+        chapter_match = re.search(r'Chapter (\d+)', batch)
+        if chapter_match:
+            chapter_num = int(chapter_match.group(1))
+            return (5, -chapter_num, batch)
+    
+    # Handle Stagg batch codes like "25C", "24D", "23A"
+    batch_code_match = re.match(r'^(\d{2})([A-Z])$', batch)
+    if batch_code_match:
+        year_suffix = int(batch_code_match.group(1))
+        letter = batch_code_match.group(2)
+        year = 2000 + year_suffix
+        letter_value = ord(letter) - ord('A') + 1
+        return (6, -year, -letter_value, batch)
+    
+    # Default: use release year and alphabetical descending
+    return (99, -int(release_year), batch)
 
 
 def validate_csv(filename):
