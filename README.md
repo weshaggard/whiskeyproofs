@@ -6,7 +6,7 @@
   </a>
 </div>
 
-# Whiskey Proofs Index
+# Whiskey proof index
 
 A Jekyll-based static website for storing and displaying whiskey information. This site serves as a reference guide for finding specific details about whiskey batches, release years, and proof values.
 
