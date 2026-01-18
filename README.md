@@ -42,11 +42,34 @@ George T. Stagg,Buffalo Trace Antique Collection,Fall 2023,15,135.4,Bourbon,2023
 Elijah Craig Barrel Proof,Heaven Hill,C923,12,135.8,Bourbon,2023
 ```
 
+### Data Sorting Rules
+
+The CSV file maintains a specific sort order:
+1. **Primary Sort**: Product Name (ascending/alphabetical)
+2. **Secondary Sort**: Batch (descending - newest/latest first within each product)
+
+**Important**: For batches with numbers (like "Batch 15", "Batch 2"), they are sorted **numerically** (15 before 2), not alphabetically.
+
 ### Tips for Editing
 - Keep the header row intact
 - Use commas to separate values
 - If a value contains a comma, wrap it in quotes: `"Distiller's Select, Premium"`
 - Save the file with UTF-8 encoding
+- After editing, run the validation script to ensure data quality and sorting
+
+### Validating Your Changes
+
+A validation script is included to check data quality and sort order:
+
+```bash
+python3 .github/scripts/validate_whiskey_data.py
+```
+
+This script will:
+- Verify all required fields are present
+- Check for valid proof values and release years
+- Detect duplicate entries
+- Ensure proper sort order (Name ascending, Batch descending with numeric sorting)
 
 ## 🚀 Running Locally
 

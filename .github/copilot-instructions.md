@@ -69,3 +69,47 @@ After any edits to the CSV file, always re-sort the data to maintain this order.
   - If the age is between years, use up to 2 decimal places (e.g., "7.5", "6.25")
   - If there is no clear age statement, leave the field empty
   - Do not use age ranges (e.g., "6-8")
+
+## Validation Script
+
+A Python validation script (`.github/scripts/validate_whiskey_data.py`) is available to verify data quality and sort order. **Always run this script after making changes to the CSV file.**
+
+### Running Validation
+
+```bash
+python3 .github/scripts/validate_whiskey_data.py
+```
+
+### What the Script Validates
+
+1. **Required Fields**: Ensures all entries have Name, Batch, Proof, ReleaseYear, Distillery, and Type
+2. **Data Type Validation**:
+   - Proof values are numeric or valid ranges (e.g., "122.6", "120-137.5")
+   - Release years are 4-digit valid years (2000-2030)
+3. **Duplicate Detection**: Identifies duplicate entries (same Name, Batch, ReleaseYear)
+4. **Sort Order Verification**: Checks that data follows sorting rules (Name ascending, Batch descending)
+
+### Batch Pattern Recognition
+
+The validation script intelligently handles various batch naming conventions:
+
+- **Year-batch format**: `2025-04`, `2024-03` (sorted by year desc, then batch number desc)
+- **Seasonal batches**: `Fall 2025`, `Spring 2024` (Fall before Spring within same year)
+- **Letter-number codes**: `C925`, `B524`, `A123` (sorted by year desc, then C > B > A)
+- **Numeric batches**: `Batch 15`, `18`, `17` (sorted numerically descending)
+- **Chapter format**: `Chapter 9`, `Chapter 8` (sorted by chapter number desc)
+- **Year-letter codes**: `25C`, `24D`, `23A` (sorted by year desc, then letter desc)
+- **Hybrid formats**: `6 - LA/NE (Spring 2025)` (sorted by year desc, then number desc)
+- **Pure year batches**: `2025`, `2024`, `2016` (sorted numerically descending)
+- **Parenthetical variants**: `2017 (Other States)`, `2017 (FL/GA/KY)` (alphabetically within same year)
+
+### CI/CD Integration
+
+The validation script runs automatically on all pull requests that modify `_data/whiskeyindex.csv` via GitHub Actions (`.github/workflows/validate-whiskey-index.yml`). PRs with validation failures cannot be merged.
+
+### Best Practices
+
+1. **Before committing**: Run `python3 .github/scripts/validate_whiskey_data.py` locally
+2. **Fix issues immediately**: Address all validation errors before pushing
+3. **Review output carefully**: The script provides specific line numbers and error descriptions
+4. **Test your changes**: Verify that new entries sort correctly within their product group
