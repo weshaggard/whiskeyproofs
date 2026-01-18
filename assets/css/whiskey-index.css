@@ -89,9 +89,9 @@ h1 {
 
 /* Grouping and expand/collapse styles */
 .expand-icon {
-  width: 20px;
+  width: 16px;
   text-align: center;
-  padding: 4px !important;
+  padding: 0 !important;
 }
 
 .expand-arrow {
