@@ -1,5 +1,5 @@
-<a href="https://www.buymeacoffee.com/whiskeyproofs" style="display:flex; align-items:center; text-decoration:none;">
-  <span style="font-size:1rem; color:#0366d6;">By me a drink</span><img src="assets/whiskeyglass.png" alt="By me a dink" width="20">
+<a href="https://www.buymeacoffee.com/whiskeyproofs" style="display:inline-flex; align-items:center; gap:8px; padding:8px 16px; border:2px solid #FFDD00; border-radius:8px; background-color:#FFDD00; text-decoration:none; color:#000000; font-weight:500; transition:all 0.2s ease;">
+  Buy me a drink <img src="assets/whiskeyglass.png" alt="Whiskey glass" width="20" style="display:inline-block;">
 </a>
 
 # Whiskey Proofs Index
