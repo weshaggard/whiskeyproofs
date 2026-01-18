@@ -1,0 +1,56 @@
+# Jack Daniel's TTB ID Collection Template
+
+## Instructions
+
+1. Visit: https://www.ttbonline.gov/colasonline/publicSearchColasBasic.do
+2. Search: Brand Name = "Jack Daniel", Date Range = 01/01/2021 to 12/31/2025
+3. Match entries below by proof and year
+4. Copy 14-digit TTB ID for each
+5. Fill in TTB_ID column below
+6. Save this file
+7. Run: cat THIS_FILE | python3 scripts/import_ttb_ids.py
+
+## TTB ID Data Entry
+
+### Format: Product, Batch, Year: TTB_ID_HERE
+
+# Jack Daniel's 10 Year (97.0 proof)
+Jack Daniel's 10 Year, Batch 4, 2025: 
+Jack Daniel's 10 Year, Batch 3, 2024: 
+Jack Daniel's 10 Year, Batch 2, 2023: 
+Jack Daniel's 10 Year, Batch 1, 2021: 
+
+# Jack Daniel's 12 Year (107.0 proof)
+Jack Daniel's 12 Year, Batch 3, 2025: 
+Jack Daniel's 12 Year, Batch 2, 2024: 
+Jack Daniel's 12 Year, Batch 1, 2023: 
+
+# Jack Daniel's 14 Year (126.3 proof)
+Jack Daniel's 14 Year, Batch 1, 2025: 
+
+# Special Releases
+Jack Daniel's Special Release, 2025 - Tanyard Hill Rye, 2025: 
+Jack Daniel's Special Release, 2024 - Coy Hill, 2024: 
+Jack Daniel's Special Release, 2023 - Coy Hill, 2023: 
+
+## Quick Reference
+
+### Match by Proof in TTB Results:
+- 97.0 proof = 10 Year (4 batches: 2021, 2023, 2024, 2025)
+- 100.0 proof = Coy Hill 2023 (Rye)
+- 107.0 proof = 12 Year (3 batches: 2023, 2024, 2025)
+- 126.3 proof = 14 Year (2025)
+- 128.4 proof = Coy Hill 2024
+- 148.8 proof = Tanyard Hill Rye 2025
+
+### Example (filled):
+```
+Jack Daniel's 10 Year, Batch 4, 2025: 12345678901234
+Jack Daniel's 10 Year, Batch 3, 2024: 23456789012345
+```
+
+### After Filling All IDs:
+1. Save this file as `jack_daniels_ttb_ids.txt`
+2. Run: `cat jack_daniels_ttb_ids.txt | python3 scripts/import_ttb_ids.py`
+3. Confirm the updates
+4. Done!
