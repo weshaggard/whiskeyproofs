@@ -31,6 +31,14 @@
   background-color: rgba(255, 255, 255, 0.1);
 }
 
+/* Toggle all icon in header */
+#toggle-all-icon {
+  display: inline-block;
+  font-size: 0.9em;
+  transition: transform 0.2s ease;
+  color: #ffffff;
+}
+
 .whiskey-table tbody tr {
   border-bottom: 1px solid #e8e8e8;
   transition: background-color 0.2s ease;

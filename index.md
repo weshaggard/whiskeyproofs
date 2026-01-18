@@ -19,7 +19,9 @@ Your comprehensive reference for whiskey batch information, proofs, and release 
 <table class="whiskey-table" id="whiskeyTable">
   <thead>
     <tr>
-      <th style="width: auto;"></th>
+      <th style="width: auto; cursor: pointer;" onclick="toggleAllGroups()">
+        <span id="toggle-all-icon">▶</span>
+      </th>
       <th onclick="sortTable(1)" style="cursor: pointer;">Name</th>
       <th onclick="sortTable(2)" style="cursor: pointer;">Batch</th>
       <th onclick="sortTable(3)" style="cursor: pointer;">Age</th>

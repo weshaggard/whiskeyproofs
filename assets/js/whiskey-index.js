@@ -3,6 +3,7 @@ var groupedData = {};
 var expandedGroups = {};
 var currentSortColumn = -1;
 var currentSortDirection = 1; // 1 for ascending, -1 for descending
+var allExpanded = false; // Track whether all groups are expanded
 
 // Initialize table grouping on page load
 document.addEventListener('DOMContentLoaded', function() {
@@ -175,6 +176,52 @@ function expandAllGroups() {
   Object.keys(expandedGroups).forEach(function(key) {
     expandedGroups[key] = true;
   });
+  allExpanded = true;
+  updateToggleAllIcon();
+}
+
+// Collapse all groups
+function collapseAllGroups() {
+  var table = document.getElementById("whiskeyTable");
+  var rows = table.getElementsByTagName("tr");
+  
+  for (var i = 0; i < rows.length; i++) {
+    var row = rows[i];
+    if (row.classList.contains('group-header')) {
+      var arrow = row.querySelector('.expand-arrow');
+      if (arrow) {
+        arrow.textContent = '▶';
+      }
+    } else if (row.classList.contains('group-detail')) {
+      row.classList.add('collapsed');
+    }
+  }
+  
+  // Update all expanded states
+  Object.keys(expandedGroups).forEach(function(key) {
+    if (groupedData[key] && groupedData[key].length > 1) {
+      expandedGroups[key] = false;
+    }
+  });
+  allExpanded = false;
+  updateToggleAllIcon();
+}
+
+// Toggle all groups between expanded and collapsed
+function toggleAllGroups() {
+  if (allExpanded) {
+    collapseAllGroups();
+  } else {
+    expandAllGroups();
+  }
+}
+
+// Update the toggle all icon in the header
+function updateToggleAllIcon() {
+  var toggleIcon = document.getElementById('toggle-all-icon');
+  if (toggleIcon) {
+    toggleIcon.textContent = allExpanded ? '▼' : '▶';
+  }
 }
 
 // Sort table functionality - sorts groups by selected column
