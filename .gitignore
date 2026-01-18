@@ -6,3 +6,6 @@ vendor
 .bundle
 Gemfile.lock
 wget-log
+__pycache__/
+*.pyc
+scripts/__pycache__/
