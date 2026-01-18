@@ -1,0 +1,193 @@
+#!/usr/bin/env python3
+"""
+Validation script for whiskeyindex.csv
+Checks data quality and sort order according to repository standards.
+"""
+
+import csv
+import re
+import sys
+from collections import defaultdict
+
+
+def extract_numeric_from_batch(batch):
+    """Extract numeric value from batch for numeric sorting"""
+    match = re.search(r'\b(\d+)\b', batch)
+    if match:
+        return int(match.group(1))
+    return None
+
+
+def batch_sort_key(batch, release_year):
+    """
+    Create a sort key for batch ordering (descending).
+    
+    For numeric batches (e.g., "Batch 15", "15"), sort numerically descending.
+    For season batches (e.g., "Fall 2025", "Spring 2024"), sort by year then season.
+    For other batches, sort alphabetically descending.
+    """
+    # Handle seasonal batches (Fall/Spring)
+    if 'Fall' in batch or 'Spring' in batch:
+        year_match = re.search(r'(\d{4})', batch)
+        year = int(year_match.group(1)) if year_match else int(release_year)
+        season = 'Fall' if 'Fall' in batch else 'Spring'
+        # Fall comes before Spring in descending order (Fall is "later" in year)
+        season_order = 0 if season == 'Fall' else 1
+        return (0, -year, season_order, batch)
+    
+    # Handle numeric batches
+    batch_num = extract_numeric_from_batch(batch)
+    if batch_num is not None:
+        # Sort numerically, descending (negate the number)
+        return (1, -batch_num, 0, batch)
+    
+    # Default: alphabetical descending
+    return (2, 0, 0, batch)
+
+
+def validate_csv(filename):
+    """Validate the CSV file for data quality and sort order"""
+    
+    # Read the CSV file
+    try:
+        with open(filename, 'r') as f:
+            reader = csv.DictReader(f)
+            rows = list(reader)
+    except Exception as e:
+        print(f"❌ Error reading CSV file: {e}")
+        return False
+    
+    all_valid = True
+    
+    print("=== Data Quality Checks ===\n")
+    
+    # 1. Check for missing required fields
+    print("1. Checking required fields...")
+    missing_fields = []
+    for i, row in enumerate(rows, start=2):
+        for field in ['Name', 'Batch', 'Proof', 'ReleaseYear', 'Distillery', 'Type']:
+            if not row[field].strip():
+                missing_fields.append(f"Line {i}: Missing {field} for {row['Name']}")
+    
+    if missing_fields:
+        print(f"   ❌ Found {len(missing_fields)} missing fields:")
+        for issue in missing_fields[:10]:
+            print(f"      {issue}")
+        if len(missing_fields) > 10:
+            print(f"      ... and {len(missing_fields) - 10} more")
+        all_valid = False
+    else:
+        print("   ✓ All required fields present")
+    
+    # 2. Check proof values
+    print("\n2. Checking proof values...")
+    invalid_proofs = []
+    for i, row in enumerate(rows, start=2):
+        proof = row['Proof'].strip()
+        # Allow ranges like "122-137.5" or single values
+        if not re.match(r'^[\d\.\-]+$', proof):
+            invalid_proofs.append(f"Line {i}: Invalid proof '{proof}' for {row['Name']}")
+    
+    if invalid_proofs:
+        print(f"   ❌ Found {len(invalid_proofs)} invalid proof values:")
+        for issue in invalid_proofs[:10]:
+            print(f"      {issue}")
+        all_valid = False
+    else:
+        print("   ✓ All proof values valid")
+    
+    # 3. Check release years
+    print("\n3. Checking release years...")
+    invalid_years = []
+    for i, row in enumerate(rows, start=2):
+        year = row['ReleaseYear'].strip()
+        if not re.match(r'^\d{4}$', year):
+            invalid_years.append(f"Line {i}: Invalid year '{year}' for {row['Name']}")
+        elif int(year) < 2000 or int(year) > 2030:
+            invalid_years.append(f"Line {i}: Unusual year '{year}' for {row['Name']}")
+    
+    if invalid_years:
+        print(f"   ⚠ Found {len(invalid_years)} year issues:")
+        for issue in invalid_years[:10]:
+            print(f"      {issue}")
+    else:
+        print("   ✓ All release years valid")
+    
+    # 4. Check for duplicates
+    print("\n4. Checking for duplicates...")
+    seen = set()
+    duplicates = []
+    for i, row in enumerate(rows, start=2):
+        key = (row['Name'], row['Batch'], row['ReleaseYear'])
+        if key in seen:
+            duplicates.append(f"Line {i}: Duplicate {row['Name']} - {row['Batch']} ({row['ReleaseYear']})")
+        seen.add(key)
+    
+    if duplicates:
+        print(f"   ❌ Found {len(duplicates)} duplicates:")
+        for issue in duplicates:
+            print(f"      {issue}")
+        all_valid = False
+    else:
+        print("   ✓ No duplicates found")
+    
+    # 5. Check sort order
+    print("\n5. Checking sort order...")
+    sort_issues = []
+    
+    # Group by product name
+    products = defaultdict(list)
+    for i, row in enumerate(rows, start=2):
+        products[row['Name']].append((i, row))
+    
+    # Check alphabetical order of products
+    product_names = list(products.keys())
+    sorted_names = sorted(product_names)
+    
+    if product_names != sorted_names:
+        print("   ❌ Products not in alphabetical order")
+        all_valid = False
+    else:
+        # Check batch order within each product
+        for product_name, product_rows in products.items():
+            prev_key = None
+            for line_num, row in product_rows:
+                current_key = batch_sort_key(row['Batch'], row['ReleaseYear'])
+                if prev_key is not None and current_key < prev_key:
+                    sort_issues.append(
+                        f"Line {line_num}: {product_name} batch '{row['Batch']}' " 
+                        f"not in descending order"
+                    )
+                prev_key = current_key
+    
+    if sort_issues:
+        print(f"   ❌ Found {len(sort_issues)} sort order issues:")
+        for issue in sort_issues[:10]:
+            print(f"      {issue}")
+        if len(sort_issues) > 10:
+            print(f"      ... and {len(sort_issues) - 10} more")
+        all_valid = False
+    else:
+        print("   ✓ Sort order correct (Name: ascending, Batch: descending)")
+    
+    # Summary
+    print("\n=== Summary ===")
+    print(f"Total entries: {len(rows)}")
+    print(f"Unique products: {len(products)}")
+    print(f"Years covered: {min(r['ReleaseYear'] for r in rows)} - {max(r['ReleaseYear'] for r in rows)}")
+    
+    if all_valid:
+        print("\n✅ All checks passed!")
+        return True
+    else:
+        print("\n❌ Validation failed - please fix the issues above")
+        return False
+
+
+if __name__ == '__main__':
+    filename = '_data/whiskeyindex.csv'
+    if len(sys.argv) > 1:
+        filename = sys.argv[1]
+    
+    success = validate_csv(filename)
+    sys.exit(0 if success else 1)
