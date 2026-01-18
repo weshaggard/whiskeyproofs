@@ -21,11 +21,11 @@ Welcome to the Whiskey Proofs Index - your comprehensive reference for bourbon b
   <thead>
     <tr>
       <th style="width: 30px;"></th>
-      <th>Name</th>
-      <th>Batch</th>
-      <th>Age</th>
-      <th>Proof</th>
-      <th>Release Year</th>
+      <th onclick="sortTable(1)" style="cursor: pointer;">Name</th>
+      <th onclick="sortTable(2)" style="cursor: pointer;">Batch</th>
+      <th onclick="sortTable(3)" style="cursor: pointer;">Age</th>
+      <th onclick="sortTable(4)" style="cursor: pointer;">Proof</th>
+      <th onclick="sortTable(5)" style="cursor: pointer;">Release Year</th>
     </tr>
   </thead>
   <tbody>
