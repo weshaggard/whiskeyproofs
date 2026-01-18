@@ -20,10 +20,37 @@ Booker's,2025-01,...
 Booker's,2024-04,...
 ```
 
+### Batch Sorting Details
+
+**Numeric Batch Sorting**: When batch names contain numbers (like "Batch 15", "Batch 2"), they must be sorted **numerically**, not alphabetically:
+
+✅ **Correct** (numeric sort):
+```
+E.H. Taylor Barrel Proof,Batch 15,...
+E.H. Taylor Barrel Proof,Batch 14,...
+E.H. Taylor Barrel Proof,Batch 3,...
+E.H. Taylor Barrel Proof,Batch 2,...
+E.H. Taylor Barrel Proof,Batch 1,...
+```
+
+❌ **Incorrect** (alphabetical sort):
+```
+E.H. Taylor Barrel Proof,Batch 4,...
+E.H. Taylor Barrel Proof,Batch 3,...
+E.H. Taylor Barrel Proof,Batch 2,...
+E.H. Taylor Barrel Proof,Batch 15,...  # Wrong! 15 should come before 2
+E.H. Taylor Barrel Proof,Batch 14,...
+```
+
+**Implementation Note**: When sorting batches:
+1. Extract numeric values from batch strings (e.g., "Batch 15" → 15)
+2. Sort by the numeric value in descending order (highest first)
+3. For batches without numbers, fall back to alphabetical descending sort
+
 ### Implementation
 After any edits to the CSV file, always re-sort the data to maintain this order. This ensures:
 - Easy navigation by product name
-- Latest batches appear first within each product
+- Latest batches appear first within each product (numerically sorted when applicable)
 - Consistent data organization across all edits
 
 ## Data Quality Standards
