@@ -1,4 +1,8 @@
-<a href="https://www.buymeacoffee.com/whiskeyproofs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Drink" height="41" width="174"></a>
+<link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet">
+
+<a href="https://www.buymeacoffee.com/whiskeyproofs" style="display:inline-flex; align-items:center; gap:8px; padding:8px 16px; border:2px solid #b8956a; border-radius:8px; background-color:#b8956a; text-decoration:none; color:#ffffff; font-family:'Cookie',cursive; font-size:1.5rem; font-weight:400; transition:all 0.2s ease;">
+  By me a drink <img src="assets/whiskeyglass.png" alt="Whiskey glass" height="28" style="display:inline-block;">
+</a>
 
 # Whiskey Proofs Index
 
