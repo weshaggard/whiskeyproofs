@@ -188,7 +188,7 @@ function expandAllGroups() {
 
 // Sort table functionality - sorts groups by selected column
 function sortTable(columnIndex) {
-  // Column mapping: 0=expand icon (no sort), 1=name, 2=batch, 3=age, 4=proof, 5=release year
+  // Column mapping: 0=expand icon (no sort), 1=name, 2=batch, 3=age, 4=proof, 5=release year, 6=ttb
   if (columnIndex === 0) return; // Don't sort by expand icon
   
   // Toggle sort direction if clicking the same column
@@ -208,7 +208,8 @@ function sortTable(columnIndex) {
     2: 'batch',
     3: 'age',
     4: 'proof',
-    5: 'releaseYear'
+    5: 'releaseYear',
+    6: 'ttb'
   };
   var sortKey = columnMap[columnIndex];
   

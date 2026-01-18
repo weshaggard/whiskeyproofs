@@ -25,7 +25,7 @@ Welcome to the Whiskey Proofs Index - your comprehensive reference for bourbon b
       <th onclick="sortTable(3)" style="cursor: pointer;">Age</th>
       <th onclick="sortTable(4)" style="cursor: pointer;">Proof</th>
       <th onclick="sortTable(5)" style="cursor: pointer;">Release Year</th>
-      <th style="cursor: pointer;">TTB</th>
+      <th onclick="sortTable(6)" style="cursor: pointer;">TTB</th>
     </tr>
   </thead>
   <tbody>
