@@ -315,6 +315,9 @@ function sortTable(columnIndex) {
   
   // Restore expanded state
   expandedGroups = savedExpandedState;
+  
+  // Reapply search filter after sorting
+  filterTable();
 }
 
 // Filter table functionality (updated for grouped table)
