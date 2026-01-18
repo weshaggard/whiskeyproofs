@@ -65,7 +65,12 @@ def batch_sort_key(batch, release_year):
             batch_num = int(batch_num_match.group(1))
             return (3, -batch_num, batch)
     
-    # Handle pure numeric batches
+    # Handle pure year batches (e.g., "2018", "2016") - MUST come before generic numeric check
+    if batch.isdigit() and len(batch) == 4:
+        year = int(batch)
+        return (8, -year, batch)
+    
+    # Handle pure numeric batches (e.g., "18", "17", "16" for Stagg Jr)
     if batch.isdigit():
         return (4, -int(batch), batch)
     
@@ -91,20 +96,15 @@ def batch_sort_key(batch, release_year):
         number = int(number_prefix_match.group(1))
         return (7, -int(release_year), -number, batch)
     
-    # Handle pure year batches (e.g., "2018", "2016")
-    if batch.isdigit() and len(batch) == 4:
-        year = int(batch)
-        return (8, -year, 0, batch)
-    
     # Handle year with parenthetical text (e.g., "2017 (Other States)", "2017 (FL/GA/KY)")
     year_paren_match = re.match(r'^(\d{4})\s*\(', batch)
     if year_paren_match:
         year = int(year_paren_match.group(1))
-        # Sort alphabetically by the parenthetical text in descending order
-        return (8, -year, 1, batch)
+        # Sort alphabetically by the batch string
+        return (8, -year, batch)
     
     # Default: use release year and alphabetical descending
-    return (99, -int(release_year), 0, batch)
+    return (99, -int(release_year), batch)
 
 
 def validate_csv(filename):
@@ -216,11 +216,16 @@ def validate_csv(filename):
             for line_num, row in product_rows:
                 current_key = batch_sort_key(row['Batch'], row['ReleaseYear'])
                 # Keys use negated values for descending, so current < prev is an error
-                if prev_key is not None and current_key < prev_key:
-                    sort_issues.append(
-                        f"Line {line_num}: {product_name} batch '{row['Batch']}' " 
-                        f"not in descending order"
-                    )
+                # Compare only the numeric parts (first 2 elements: category and year)
+                # to avoid false positives from alphabetical string differences
+                if prev_key is not None:
+                    prev_numeric = prev_key[:2]
+                    curr_numeric = current_key[:2]
+                    if curr_numeric < prev_numeric:
+                        sort_issues.append(
+                            f"Line {line_num}: {product_name} batch '{row['Batch']}' " 
+                            f"not in descending order"
+                        )
                 prev_key = current_key
     
     if sort_issues:
