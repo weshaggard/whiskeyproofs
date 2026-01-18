@@ -64,7 +64,7 @@ The CSV file maintains a specific sort order:
 A validation script is included to check data quality and sort order:
 
 ```bash
-python3 validate_whiskey_data.py
+python3 .github/scripts/validate_whiskey_data.py
 ```
 
 This script will:

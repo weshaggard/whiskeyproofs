@@ -72,12 +72,12 @@ After any edits to the CSV file, always re-sort the data to maintain this order.
 
 ## Validation Script
 
-A Python validation script (`validate_whiskey_data.py`) is available to verify data quality and sort order. **Always run this script after making changes to the CSV file.**
+A Python validation script (`.github/scripts/validate_whiskey_data.py`) is available to verify data quality and sort order. **Always run this script after making changes to the CSV file.**
 
 ### Running Validation
 
 ```bash
-python3 validate_whiskey_data.py
+python3 .github/scripts/validate_whiskey_data.py
 ```
 
 ### What the Script Validates
@@ -109,7 +109,7 @@ The validation script runs automatically on all pull requests that modify `_data
 
 ### Best Practices
 
-1. **Before committing**: Run `python3 validate_whiskey_data.py` locally
+1. **Before committing**: Run `python3 .github/scripts/validate_whiskey_data.py` locally
 2. **Fix issues immediately**: Address all validation errors before pushing
 3. **Review output carefully**: The script provides specific line numbers and error descriptions
 4. **Test your changes**: Verify that new entries sort correctly within their product group
