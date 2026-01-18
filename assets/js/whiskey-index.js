@@ -83,8 +83,9 @@ function initializeGroupedTable() {
     tbody.appendChild(headerRow);
     
     // Add detail rows (collapsed by default if more than one)
+    // Start from index 1 to skip the first item (already shown in header row)
     if (group.length > 1) {
-      for (var i = 0; i < group.length; i++) {
+      for (var i = 1; i < group.length; i++) {
         var detailRow = document.createElement('tr');
         detailRow.classList.add('group-detail');
         detailRow.classList.add('collapsed');
