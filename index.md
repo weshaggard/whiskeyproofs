@@ -19,7 +19,7 @@ Welcome to the Whiskey Proofs Index - your comprehensive reference for bourbon b
 <table class="whiskey-table" id="whiskeyTable">
   <thead>
     <tr>
-      <th style="width: 30px;"></th>
+      <th style="width: 20px;"></th>
       <th onclick="sortTable(1)" style="cursor: pointer;">Name</th>
       <th onclick="sortTable(2)" style="cursor: pointer;">Batch</th>
       <th onclick="sortTable(3)" style="cursor: pointer;">Age</th>
