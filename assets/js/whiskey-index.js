@@ -21,13 +21,14 @@ function initializeGroupedTable() {
       groupedData[name] = [];
     }
     // Store the raw data from each row
+    // Column indices: 0=expand icon, 1=name, 2=batch, 3=age, 4=proof, 5=release year
     var cells = row.getElementsByTagName("td");
     groupedData[name].push({
       name: name,
-      batch: cells[1] ? cells[1].textContent : '',
-      age: cells[2] ? cells[2].textContent : '',
-      proof: cells[3] ? cells[3].textContent : '',
-      releaseYear: cells[4] ? cells[4].textContent : ''
+      batch: cells[2] ? cells[2].textContent : '',
+      age: cells[3] ? cells[3].textContent : '',
+      proof: cells[4] ? cells[4].textContent : '',
+      releaseYear: cells[5] ? cells[5].textContent : ''
     });
   });
   
@@ -89,9 +90,13 @@ function initializeGroupedTable() {
         detailRow.classList.add('collapsed');
         detailRow.setAttribute('data-group-name', name);
         
-        // Empty expand icon and name cells
+        // Empty expand icon cell
         detailRow.appendChild(document.createElement('td'));
-        detailRow.appendChild(document.createElement('td'));
+        
+        // Add name cell for expanded rows
+        var detailNameCell = document.createElement('td');
+        detailNameCell.textContent = name;
+        detailRow.appendChild(detailNameCell);
         
         // Add batch data
         var detailBatch = document.createElement('td');
@@ -191,7 +196,7 @@ function filterTable() {
     var cells = row.getElementsByTagName("td");
     
     if (cells.length > 0) {
-      // Get cell content, accounting for the expand icon column
+      // Column indices: 0=expand icon, 1=name, 2=batch, 3=age, 4=proof, 5=release year
       var name = cells[1] ? cells[1].textContent.toLowerCase() : '';
       var batch = cells[2] ? cells[2].textContent.toLowerCase() : '';
       var age = cells[3] ? cells[3].textContent.toLowerCase() : '';
