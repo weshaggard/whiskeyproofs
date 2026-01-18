@@ -17,10 +17,10 @@ Booker's,2025-04 Phantom Pipes Batch,7,126.4,2025,Jim Beam,Bourbon
 Booker's,2025-03 Jerry's Batch,7,124.7,2025,Jim Beam,Bourbon
 Booker's,2025-02 By The Pond Batch,7,125.8,2025,Jim Beam,Bourbon
 Booker's,2025-01 Barry's Batch,7,125.7,2025,Jim Beam,Bourbon
-Booker's,2024-01 Springfield Batch,7,124.5,2024,Jim Beam,Bourbon
 Booker's,2024-04 Jimmy's Batch,7,125.8,2024,Jim Beam,Bourbon
 Booker's,2024-03 Master Distillers,7,130.3,2024,Jim Beam,Bourbon
 Booker's,2024-02 The Beam House Batch,7,124.6,2024,Jim Beam,Bourbon
+Booker's,2024-01 Springfield Batch,7,124.5,2024,Jim Beam,Bourbon
 Booker's,2023-04 Storyteller Batch,7,127.8,2023,Jim Beam,Bourbon
 Booker's,2023-03 Mighty Fine Batch,7,126.6,2023,Jim Beam,Bourbon
 Booker's,2023-02 Apprentice Batch,7,125.5,2023,Jim Beam,Bourbon
@@ -62,12 +62,6 @@ Booker's,2015-02 Dot's Batch,6,127.9,2015,Jim Beam,Bourbon
 Booker's,2015-01 Big Man Small Batch,6,128.7,2015,Jim Beam,Bourbon
 Booker's Rye,2016-LE Big Time Batch,6,136.2,2016,Jim Beam,Rye
 Colonel E.H. Taylor Bottled in Bond,BTAC Fall 2025,15,100.0,2025,Buffalo Trace,Bourbon
-E.H. Taylor Barrel Proof,Batch 15,,127.4,2025,Buffalo Trace,Bourbon
-E.H. Taylor Barrel Proof,Batch 14,,127.2,2025,Buffalo Trace,Bourbon
-E.H. Taylor Barrel Proof,Batch 13,,127.3,2024,Buffalo Trace,Bourbon
-E.H. Taylor Barrel Proof,Batch 12,,131.1,2023,Buffalo Trace,Bourbon
-E.H. Taylor Barrel Proof,Batch 11,,129.0,2022,Buffalo Trace,Bourbon
-E.H. Taylor Barrel Proof,Batch 10,,127.3,2021,Buffalo Trace,Bourbon
 E.H. Taylor Barrel Proof,Batch 9,,130.3,2020,Buffalo Trace,Bourbon
 E.H. Taylor Barrel Proof,Batch 8,,129.3,2019,Buffalo Trace,Bourbon
 E.H. Taylor Barrel Proof,Batch 7,,129.7,2018,Buffalo Trace,Bourbon
@@ -76,6 +70,12 @@ E.H. Taylor Barrel Proof,Batch 5,,127.5,2016,Buffalo Trace,Bourbon
 E.H. Taylor Barrel Proof,Batch 4,,127.2,2015,Buffalo Trace,Bourbon
 E.H. Taylor Barrel Proof,Batch 3,,129.0,2014,Buffalo Trace,Bourbon
 E.H. Taylor Barrel Proof,Batch 2,,135.4,2013,Buffalo Trace,Bourbon
+E.H. Taylor Barrel Proof,Batch 15,,127.4,2025,Buffalo Trace,Bourbon
+E.H. Taylor Barrel Proof,Batch 14,,127.2,2025,Buffalo Trace,Bourbon
+E.H. Taylor Barrel Proof,Batch 13,,127.3,2024,Buffalo Trace,Bourbon
+E.H. Taylor Barrel Proof,Batch 12,,131.1,2023,Buffalo Trace,Bourbon
+E.H. Taylor Barrel Proof,Batch 11,,129.0,2022,Buffalo Trace,Bourbon
+E.H. Taylor Barrel Proof,Batch 10,,127.3,2021,Buffalo Trace,Bourbon
 E.H. Taylor Barrel Proof,Batch 1,,134.5,2012,Buffalo Trace,Bourbon
 Eagle Rare 17 Year,BTAC Fall 2025,17,101.0,2025,Buffalo Trace,Bourbon
 Eagle Rare 17 Year,BTAC Fall 2024,17,101.0,2024,Buffalo Trace,Bourbon
@@ -94,41 +94,41 @@ Eagle Rare 17 Year,BTAC Fall 2012,17,90.0,2012,Buffalo Trace,Bourbon
 Eagle Rare 17 Year,BTAC Fall 2011,17,90.0,2011,Buffalo Trace,Bourbon
 Eagle Rare 17 Year,BTAC Fall 2010,17,90.0,2010,Buffalo Trace,Bourbon
 Elijah Craig Barrel Proof,C925,9.1,129.0,2025,Heaven Hill,Bourbon
-Elijah Craig Barrel Proof,B525,11.6,126.2,2025,Heaven Hill,Bourbon
-Elijah Craig Barrel Proof,A125,10.6,118.2,2025,Heaven Hill,Bourbon
 Elijah Craig Barrel Proof,C924,11,129.0,2024,Heaven Hill,Bourbon
-Elijah Craig Barrel Proof,B524,11.2,130.6,2024,Heaven Hill,Bourbon
-Elijah Craig Barrel Proof,A124,10.8,119.0,2024,Heaven Hill,Bourbon
 Elijah Craig Barrel Proof,C923,13,133.0,2023,Heaven Hill,Bourbon
-Elijah Craig Barrel Proof,B523,11,124.2,2023,Heaven Hill,Bourbon
-Elijah Craig Barrel Proof,A123,12,125.6,2023,Heaven Hill,Bourbon
 Elijah Craig Barrel Proof,C922,12,124.8,2022,Heaven Hill,Bourbon
-Elijah Craig Barrel Proof,B522,12,121.0,2022,Heaven Hill,Bourbon
-Elijah Craig Barrel Proof,A122,12,120.8,2022,Heaven Hill,Bourbon
 Elijah Craig Barrel Proof,C921,12,120.2,2021,Heaven Hill,Bourbon
-Elijah Craig Barrel Proof,B521,12,118.2,2021,Heaven Hill,Bourbon
-Elijah Craig Barrel Proof,A121,12,123.6,2021,Heaven Hill,Bourbon
 Elijah Craig Barrel Proof,C920,12,132.8,2020,Heaven Hill,Bourbon
-Elijah Craig Barrel Proof,B520,12,127.2,2020,Heaven Hill,Bourbon
-Elijah Craig Barrel Proof,A120,12,136.6,2020,Heaven Hill,Bourbon
 Elijah Craig Barrel Proof,C919,12,136.8,2019,Heaven Hill,Bourbon
-Elijah Craig Barrel Proof,B519,12,122.2,2019,Heaven Hill,Bourbon
-Elijah Craig Barrel Proof,A119,12,135.2,2019,Heaven Hill,Bourbon
 Elijah Craig Barrel Proof,C918,12,131.4,2018,Heaven Hill,Bourbon
-Elijah Craig Barrel Proof,B518,12,133.4,2018,Heaven Hill,Bourbon
-Elijah Craig Barrel Proof,A118,12,130.6,2018,Heaven Hill,Bourbon
 Elijah Craig Barrel Proof,C917,12,131.0,2017,Heaven Hill,Bourbon
-Elijah Craig Barrel Proof,B517,12,124.2,2017,Heaven Hill,Bourbon
-Elijah Craig Barrel Proof,A117,12,127.0,2017,Heaven Hill,Bourbon
 Elijah Craig Barrel Proof,C916,12,136.0,2016,Heaven Hill,Bourbon
-Elijah Craig Barrel Proof,B516,12,139.4,2016,Heaven Hill,Bourbon
-Elijah Craig Barrel Proof,A116,12,138.8,2016,Heaven Hill,Bourbon
 Elijah Craig Barrel Proof,C915,12,135.6,2015,Heaven Hill,Bourbon
-Elijah Craig Barrel Proof,B515,12,139.8,2015,Heaven Hill,Bourbon
-Elijah Craig Barrel Proof,A215,12,128.0,2015,Heaven Hill,Bourbon
 Elijah Craig Barrel Proof,C914,12,140.2,2014,Heaven Hill,Bourbon
+Elijah Craig Barrel Proof,B525,11.6,126.2,2025,Heaven Hill,Bourbon
+Elijah Craig Barrel Proof,B524,11.2,130.6,2024,Heaven Hill,Bourbon
+Elijah Craig Barrel Proof,B523,11,124.2,2023,Heaven Hill,Bourbon
+Elijah Craig Barrel Proof,B522,12,121.0,2022,Heaven Hill,Bourbon
+Elijah Craig Barrel Proof,B521,12,118.2,2021,Heaven Hill,Bourbon
+Elijah Craig Barrel Proof,B520,12,127.2,2020,Heaven Hill,Bourbon
+Elijah Craig Barrel Proof,B519,12,122.2,2019,Heaven Hill,Bourbon
+Elijah Craig Barrel Proof,B518,12,133.4,2018,Heaven Hill,Bourbon
+Elijah Craig Barrel Proof,B517,12,124.2,2017,Heaven Hill,Bourbon
+Elijah Craig Barrel Proof,B516,12,139.4,2016,Heaven Hill,Bourbon
+Elijah Craig Barrel Proof,B515,12,139.8,2015,Heaven Hill,Bourbon
 Elijah Craig Barrel Proof,B514,12,134.8,2014,Heaven Hill,Bourbon
 Elijah Craig Barrel Proof,A314,12,132.4,2014,Heaven Hill,Bourbon
+Elijah Craig Barrel Proof,A215,12,128.0,2015,Heaven Hill,Bourbon
+Elijah Craig Barrel Proof,A125,10.6,118.2,2025,Heaven Hill,Bourbon
+Elijah Craig Barrel Proof,A124,10.8,119.0,2024,Heaven Hill,Bourbon
+Elijah Craig Barrel Proof,A123,12,125.6,2023,Heaven Hill,Bourbon
+Elijah Craig Barrel Proof,A122,12,120.8,2022,Heaven Hill,Bourbon
+Elijah Craig Barrel Proof,A121,12,123.6,2021,Heaven Hill,Bourbon
+Elijah Craig Barrel Proof,A120,12,136.6,2020,Heaven Hill,Bourbon
+Elijah Craig Barrel Proof,A119,12,135.2,2019,Heaven Hill,Bourbon
+Elijah Craig Barrel Proof,A118,12,130.6,2018,Heaven Hill,Bourbon
+Elijah Craig Barrel Proof,A117,12,127.0,2017,Heaven Hill,Bourbon
+Elijah Craig Barrel Proof,A116,12,138.8,2016,Heaven Hill,Bourbon
 Four Roses Limited Edition Small Batch,2025,13-19,109.0,2025,Four Roses,Bourbon
 Four Roses Limited Edition Small Batch,2024,12-20,108.2,2024,Four Roses,Bourbon
 Four Roses Limited Edition Small Batch,2023,12-25,108.0,2023,Four Roses,Bourbon
@@ -186,22 +186,22 @@ Knob Creek 2001 Limited Edition,Batch 1,14,100.0,2016,Knob Creek,Bourbon
 Knob Creek 21 Year,2025,21,100.0,2025,Knob Creek,Bourbon
 Knob Creek 25th Anniversary,2017,12-13,122.0,2017,Knob Creek,Bourbon
 Larceny Barrel Proof,C925,,119.6,2025,Heaven Hill,Bourbon
-Larceny Barrel Proof,B525,,117.4,2025,Heaven Hill,Bourbon
-Larceny Barrel Proof,A125,,125.0,2025,Heaven Hill,Bourbon
 Larceny Barrel Proof,C924,,125.1,2024,Heaven Hill,Bourbon
-Larceny Barrel Proof,B524,,125.4,2024,Heaven Hill,Bourbon
-Larceny Barrel Proof,A124,,124.2,2024,Heaven Hill,Bourbon
 Larceny Barrel Proof,C923,,126.4,2023,Heaven Hill,Bourbon
-Larceny Barrel Proof,B523,,124.4,2023,Heaven Hill,Bourbon
-Larceny Barrel Proof,A123,,125.8,2023,Heaven Hill,Bourbon
 Larceny Barrel Proof,C922,,126.6,2022,Heaven Hill,Bourbon
-Larceny Barrel Proof,B522,,123.8,2022,Heaven Hill,Bourbon
-Larceny Barrel Proof,A122,,124.4,2022,Heaven Hill,Bourbon
 Larceny Barrel Proof,C921,,122.6,2021,Heaven Hill,Bourbon
-Larceny Barrel Proof,B521,,121.0,2021,Heaven Hill,Bourbon
-Larceny Barrel Proof,A121,,114.8,2021,Heaven Hill,Bourbon
 Larceny Barrel Proof,C920,,122.4,2020,Heaven Hill,Bourbon
+Larceny Barrel Proof,B525,,117.4,2025,Heaven Hill,Bourbon
+Larceny Barrel Proof,B524,,125.4,2024,Heaven Hill,Bourbon
+Larceny Barrel Proof,B523,,124.4,2023,Heaven Hill,Bourbon
+Larceny Barrel Proof,B522,,123.8,2022,Heaven Hill,Bourbon
+Larceny Barrel Proof,B521,,121.0,2021,Heaven Hill,Bourbon
 Larceny Barrel Proof,B520,,122.2,2020,Heaven Hill,Bourbon
+Larceny Barrel Proof,A125,,125.0,2025,Heaven Hill,Bourbon
+Larceny Barrel Proof,A124,,124.2,2024,Heaven Hill,Bourbon
+Larceny Barrel Proof,A123,,125.8,2023,Heaven Hill,Bourbon
+Larceny Barrel Proof,A122,,124.4,2022,Heaven Hill,Bourbon
+Larceny Barrel Proof,A121,,114.8,2021,Heaven Hill,Bourbon
 Larceny Barrel Proof,A120,,123.2,2020,Heaven Hill,Bourbon
 Little Book,Chapter 9: None For Granted,,121.8,2025,Jim Beam,Bourbon
 Little Book,Chapter 8: Path Not Taken,,120.0,2024,Jim Beam,Bourbon
@@ -246,22 +246,22 @@ Michter's 10 Year Rye,2010,10,92.8,2010,Michter's,Rye
 Michter's 20 Year Bourbon,2025,20,114.2,2025,Michter's,Bourbon
 Michter's 20 Year Bourbon,2024,20,114.2,2024,Michter's,Bourbon
 Michter's 20 Year Bourbon,2012,20,114.2,2012,Michter's,Bourbon
-Old Fitzgerald Bottled-in-Bond,Fall 2025,11,100.0,2025,Heaven Hill,Bourbon
 Old Fitzgerald Bottled-in-Bond,Spring 2025,9,100.0,2025,Heaven Hill,Bourbon
-Old Fitzgerald Bottled-in-Bond,Fall 2024,8,100.0,2024,Heaven Hill,Bourbon
 Old Fitzgerald Bottled-in-Bond,Spring 2024,10,100.0,2024,Heaven Hill,Bourbon
-Old Fitzgerald Bottled-in-Bond,Fall 2023,8,100.0,2023,Heaven Hill,Bourbon
 Old Fitzgerald Bottled-in-Bond,Spring 2023,10,100.0,2023,Heaven Hill,Bourbon
-Old Fitzgerald Bottled-in-Bond,Fall 2022,19,100.0,2022,Heaven Hill,Bourbon
 Old Fitzgerald Bottled-in-Bond,Spring 2022,17,100.0,2022,Heaven Hill,Bourbon
-Old Fitzgerald Bottled-in-Bond,Fall 2021,11,100.0,2021,Heaven Hill,Bourbon
 Old Fitzgerald Bottled-in-Bond,Spring 2021,8,100.0,2021,Heaven Hill,Bourbon
-Old Fitzgerald Bottled-in-Bond,Fall 2020,14,100.0,2020,Heaven Hill,Bourbon
 Old Fitzgerald Bottled-in-Bond,Spring 2020,9,100.0,2020,Heaven Hill,Bourbon
-Old Fitzgerald Bottled-in-Bond,Fall 2019,15,100.0,2019,Heaven Hill,Bourbon
 Old Fitzgerald Bottled-in-Bond,Spring 2019,13,100.0,2019,Heaven Hill,Bourbon
-Old Fitzgerald Bottled-in-Bond,Fall 2018,9,100.0,2018,Heaven Hill,Bourbon
 Old Fitzgerald Bottled-in-Bond,Spring 2018,11,100.0,2018,Heaven Hill,Bourbon
+Old Fitzgerald Bottled-in-Bond,Fall 2025,11,100.0,2025,Heaven Hill,Bourbon
+Old Fitzgerald Bottled-in-Bond,Fall 2024,8,100.0,2024,Heaven Hill,Bourbon
+Old Fitzgerald Bottled-in-Bond,Fall 2023,8,100.0,2023,Heaven Hill,Bourbon
+Old Fitzgerald Bottled-in-Bond,Fall 2022,19,100.0,2022,Heaven Hill,Bourbon
+Old Fitzgerald Bottled-in-Bond,Fall 2021,11,100.0,2021,Heaven Hill,Bourbon
+Old Fitzgerald Bottled-in-Bond,Fall 2020,14,100.0,2020,Heaven Hill,Bourbon
+Old Fitzgerald Bottled-in-Bond,Fall 2019,15,100.0,2019,Heaven Hill,Bourbon
+Old Fitzgerald Bottled-in-Bond,Fall 2018,9,100.0,2018,Heaven Hill,Bourbon
 Old Forester Birthday Bourbon,2025,12,92.0,2025,Old Forester,Bourbon
 Old Forester Birthday Bourbon,2024,,96.0,2024,Old Forester,Bourbon
 Old Forester Birthday Bourbon,2023,12,96.0,2023,Old Forester,Bourbon
@@ -285,8 +285,8 @@ Old Forester Birthday Bourbon,2007,12,94.0,2007,Old Forester,Bourbon
 Old Forester Birthday Bourbon,2006,13,96.0,2006,Old Forester,Bourbon
 Old Forester Birthday Bourbon,2005,12,96.0,2005,Old Forester,Bourbon
 Old Forester Birthday Bourbon,2004,8,94.0,2004,Old Forester,Bourbon
-Old Forester Birthday Bourbon,2003 Fall,13,89.0,2003,Old Forester,Bourbon
 Old Forester Birthday Bourbon,2003 Spring,12,93.0,2003,Old Forester,Bourbon
+Old Forester Birthday Bourbon,2003 Fall,13,89.0,2003,Old Forester,Bourbon
 Old Forester Birthday Bourbon,2002,12,95.0,2002,Old Forester,Bourbon
 Parker's Heritage Collection,2025 - 11 Year American Whiskey,11-15,122.5,2025,Heaven Hill,American Whiskey
 Parker's Heritage Collection,2024 - 14 Year Malt Whiskey,14,107.0,2024,Heaven Hill,Malt Whiskey
@@ -343,8 +343,16 @@ Stagg,24A,,127.6,2024,Buffalo Trace,Bourbon
 Stagg,23C,,125.9,2023,Buffalo Trace,Bourbon
 Stagg,23B,,127.8,2023,Buffalo Trace,Bourbon
 Stagg,23A,,130.2,2023,Buffalo Trace,Bourbon
-Stagg,22A,,132.2,2023,Buffalo Trace,Bourbon
 Stagg,22B,,130.0,2022,Buffalo Trace,Bourbon
+Stagg,22A,,132.2,2023,Buffalo Trace,Bourbon
+Stagg Jr,9,,131.9,2017,Buffalo Trace,Bourbon
+Stagg Jr,8,,129.5,2017,Buffalo Trace,Bourbon
+Stagg Jr,7,,130.0,2016,Buffalo Trace,Bourbon
+Stagg Jr,6,,132.5,2016,Buffalo Trace,Bourbon
+Stagg Jr,5,,129.7,2015,Buffalo Trace,Bourbon
+Stagg Jr,4,,132.2,2015,Buffalo Trace,Bourbon
+Stagg Jr,3,,132.1,2014,Buffalo Trace,Bourbon
+Stagg Jr,2,,128.7,2014,Buffalo Trace,Bourbon
 Stagg Jr,18,,131.0,2022,Buffalo Trace,Bourbon
 Stagg Jr,17,,128.7,2021,Buffalo Trace,Bourbon
 Stagg Jr,16,,130.9,2021,Buffalo Trace,Bourbon
@@ -354,14 +362,6 @@ Stagg Jr,13,,128.4,2019,Buffalo Trace,Bourbon
 Stagg Jr,12,,132.3,2019,Buffalo Trace,Bourbon
 Stagg Jr,11,,127.9,2018,Buffalo Trace,Bourbon
 Stagg Jr,10,,126.4,2018,Buffalo Trace,Bourbon
-Stagg Jr,9,,131.9,2017,Buffalo Trace,Bourbon
-Stagg Jr,8,,129.5,2017,Buffalo Trace,Bourbon
-Stagg Jr,7,,130.0,2016,Buffalo Trace,Bourbon
-Stagg Jr,6,,132.5,2016,Buffalo Trace,Bourbon
-Stagg Jr,5,,129.7,2015,Buffalo Trace,Bourbon
-Stagg Jr,4,,132.2,2015,Buffalo Trace,Bourbon
-Stagg Jr,3,,132.1,2014,Buffalo Trace,Bourbon
-Stagg Jr,2,,128.7,2014,Buffalo Trace,Bourbon
 Stagg Jr,1,,134.4,2013,Buffalo Trace,Bourbon
 Thomas H. Handy (THH),BTAC Fall 2024,6,127.2,2024,Buffalo Trace,Rye
 Thomas H. Handy (THH),BTAC Fall 2023,6,124.9,2023,Buffalo Trace,Rye
