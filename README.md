@@ -1,4 +1,6 @@
-<a href="https://www.buymeacoffee.com/whiskeyproofs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Drink" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/whiskeyproofs" style="display:flex; align-items:center; text-decoration:none;">
+  <span style="font-size:1rem; color:#0366d6;">By me a drink</span><img src="assets/whiskeyglass.png" alt="By me a dink" width="20">
+</a>
 
 # Whiskey Proofs Index
 
