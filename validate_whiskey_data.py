@@ -30,6 +30,8 @@ def batch_sort_key(batch, release_year):
     - Numeric batches (18, 17, 16)
     - Chapter format (Chapter 9, Chapter 8)
     - Year-letter codes (25C, 24D, 23A)
+    - Number prefix with text (6 - LA/NE, 5 - LL/LE)
+    - Year with parenthetical (2017 (Other States))
     """
     
     # Handle year-batch format like "2025-04", "2024-03"
@@ -83,8 +85,26 @@ def batch_sort_key(batch, release_year):
         letter_value = ord(letter) - ord('A') + 1
         return (6, -year, -letter_value, batch)
     
+    # Handle number prefix with text (e.g., "6 - LA/NE", "5 - LL/LE")
+    number_prefix_match = re.match(r'^(\d+)\s*-\s*', batch)
+    if number_prefix_match:
+        number = int(number_prefix_match.group(1))
+        return (7, -int(release_year), -number, batch)
+    
+    # Handle pure year batches (e.g., "2018", "2016")
+    if batch.isdigit() and len(batch) == 4:
+        year = int(batch)
+        return (8, -year, 0, batch)
+    
+    # Handle year with parenthetical text (e.g., "2017 (Other States)", "2017 (FL/GA/KY)")
+    year_paren_match = re.match(r'^(\d{4})\s*\(', batch)
+    if year_paren_match:
+        year = int(year_paren_match.group(1))
+        # Sort alphabetically by the parenthetical text in descending order
+        return (8, -year, 1, batch)
+    
     # Default: use release year and alphabetical descending
-    return (99, -int(release_year), batch)
+    return (99, -int(release_year), 0, batch)
 
 
 def validate_csv(filename):
@@ -126,8 +146,8 @@ def validate_csv(filename):
     invalid_proofs = []
     for i, row in enumerate(rows, start=2):
         proof = row['Proof'].strip()
-        # Allow ranges like "122-137.5" or single values
-        if not re.match(r'^[\d\.\-]+$', proof):
+        # Skip empty proofs (they'll be caught by missing fields check)
+        if proof and not re.match(r'^[\d\.\-]+$', proof):
             invalid_proofs.append(f"Line {i}: Invalid proof '{proof}' for {row['Name']}")
     
     if invalid_proofs:
@@ -195,6 +215,7 @@ def validate_csv(filename):
             prev_key = None
             for line_num, row in product_rows:
                 current_key = batch_sort_key(row['Batch'], row['ReleaseYear'])
+                # Keys use negated values for descending, so current < prev is an error
                 if prev_key is not None and current_key < prev_key:
                     sort_issues.append(
                         f"Line {line_num}: {product_name} batch '{row['Batch']}' " 
