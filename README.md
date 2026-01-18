@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.buymeacoffee.com/whiskeyproofs">
-    <img src="assets/buy-me-a-drink-button.png" alt="Buy me a drink" height="60">
+    <img src="assets/buymeadrink.png" alt="Buy me a drink" height="60">
   </a>
 </p>
 
