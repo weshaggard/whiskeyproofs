@@ -23,14 +23,15 @@ function initializeGroupedTable() {
       groupedData[name] = [];
     }
     // Store the raw data from each row
-    // Column indices: 0=expand icon, 1=name, 2=batch, 3=age, 4=proof, 5=release year
+    // Column indices: 0=expand icon, 1=name, 2=batch, 3=age, 4=proof, 5=release year, 6=ttb
     var cells = row.getElementsByTagName("td");
     groupedData[name].push({
       name: name,
       batch: cells[2] ? cells[2].textContent : '',
       age: cells[3] ? cells[3].textContent : '',
       proof: cells[4] ? cells[4].textContent : '',
-      releaseYear: cells[5] ? cells[5].textContent : ''
+      releaseYear: cells[5] ? cells[5].textContent : '',
+      ttb: cells[6] ? cells[6].innerHTML : ''
     });
   });
   
@@ -82,6 +83,10 @@ function initializeGroupedTable() {
     yearCell.textContent = group[0].releaseYear;
     headerRow.appendChild(yearCell);
     
+    var ttbCell = document.createElement('td');
+    ttbCell.innerHTML = group[0].ttb;
+    headerRow.appendChild(ttbCell);
+    
     tbody.appendChild(headerRow);
     
     // Add detail rows (collapsed by default if more than one)
@@ -117,6 +122,10 @@ function initializeGroupedTable() {
         var detailYear = document.createElement('td');
         detailYear.textContent = group[i].releaseYear;
         detailRow.appendChild(detailYear);
+        
+        var detailTtb = document.createElement('td');
+        detailTtb.innerHTML = group[i].ttb;
+        detailRow.appendChild(detailTtb);
         
         tbody.appendChild(detailRow);
       }
@@ -271,6 +280,10 @@ function sortTable(columnIndex) {
     yearCell.textContent = group[0].releaseYear;
     headerRow.appendChild(yearCell);
     
+    var ttbCell = document.createElement('td');
+    ttbCell.innerHTML = group[0].ttb;
+    headerRow.appendChild(ttbCell);
+    
     tbody.appendChild(headerRow);
     
     // Add detail rows (collapsed or expanded based on saved state)
@@ -308,6 +321,10 @@ function sortTable(columnIndex) {
         detailYear.textContent = group[i].releaseYear;
         detailRow.appendChild(detailYear);
         
+        var detailTtb = document.createElement('td');
+        detailTtb.innerHTML = group[i].ttb;
+        detailRow.appendChild(detailTtb);
+        
         tbody.appendChild(detailRow);
       }
     }
@@ -336,7 +353,7 @@ function filterTable() {
     var cells = row.getElementsByTagName("td");
     
     if (cells.length > 0) {
-      // Column indices: 0=expand icon, 1=name, 2=batch, 3=age, 4=proof, 5=release year
+      // Column indices: 0=expand icon, 1=name, 2=batch, 3=age, 4=proof, 5=release year, 6=ttb
       var name = cells[1] ? cells[1].textContent.toLowerCase() : '';
       var batch = cells[2] ? cells[2].textContent.toLowerCase() : '';
       var age = cells[3] ? cells[3].textContent.toLowerCase() : '';

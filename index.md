@@ -25,6 +25,7 @@ Welcome to the Whiskey Proofs Index - your comprehensive reference for bourbon b
       <th onclick="sortTable(3)" style="cursor: pointer;">Age</th>
       <th onclick="sortTable(4)" style="cursor: pointer;">Proof</th>
       <th onclick="sortTable(5)" style="cursor: pointer;">Release Year</th>
+      <th style="cursor: pointer;">TTB</th>
     </tr>
   </thead>
   <tbody>
@@ -36,6 +37,7 @@ Welcome to the Whiskey Proofs Index - your comprehensive reference for bourbon b
      <td>{{ whiskey.Age }}</td>
      <td>{{ whiskey.Proof }}</td>
      <td>{{ whiskey.ReleaseYear }}</td>
+     <td>{% if whiskey.TTB_ID %}<a href="https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid={{ whiskey.TTB_ID }}" target="_blank" rel="noopener noreferrer">🔗</a>{% endif %}</td>
    </tr>
    {% endfor %}
   </tbody>
