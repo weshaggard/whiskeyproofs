@@ -132,6 +132,17 @@ h1 {
   font-weight: normal;
 }
 
+/* Style batch URL links to look like normal text */
+.whiskey-table tbody td a {
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.whiskey-table tbody td a:hover {
+  text-decoration: underline;
+}
+
 /* Responsive design for mobile devices */
 @media screen and (max-width: 768px) {
   .whiskey-table {
