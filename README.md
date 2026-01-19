@@ -107,6 +107,20 @@ To run the site on your local machine for development:
 - **Serve with drafts**: `bundle exec jekyll serve --drafts`
 - **Serve on a different port**: `bundle exec jekyll serve --port 4001`
 
+## 🔎 Search Engine Optimization (SEO)
+
+This site includes comprehensive SEO features to help search engines index and rank your content. See **[SEO_SETUP.md](SEO_SETUP.md)** for:
+
+- Verification setup for Google Search Console and Bing Webmaster Tools
+- How to manually request indexing of your pages
+- Monitoring and maintenance best practices
+- Troubleshooting indexing issues
+
+**Quick Start:**
+1. Set up Google Search Console verification (see [SEO_SETUP.md](SEO_SETUP.md))
+2. Submit your sitemap at `https://whiskeyproofs.com/sitemap.xml`
+3. Request manual indexing for faster discovery
+
 ## 🌐 GitHub Pages Deployment
 
 This site is designed to work seamlessly with GitHub Pages.
