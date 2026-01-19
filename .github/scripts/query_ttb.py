@@ -106,7 +106,7 @@ class TTBQuerier:
             'searchCriteria.dateCompletedFrom': date_from,
             'searchCriteria.dateCompletedTo': date_to,
             'searchCriteria.productOrFancifulName': brand,
-            'searchCriteria.productNameSearchType': 'C',  # C = Contains, E = Exact
+            'searchCriteria.productNameSearchType': 'E',  # F = Fanciful Name, B = Brand Name, E = Either
             'searchCriteria.classTypeFrom': '',
             'searchCriteria.classTypeTo': '',
             'searchCriteria.originCode': ''
