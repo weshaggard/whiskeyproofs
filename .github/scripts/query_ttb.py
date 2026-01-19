@@ -267,13 +267,13 @@ class TTBQuerier:
         try:
             self._init_browser()
             
-            for i, row in entries_to_search:
+            for idx, (i, row) in enumerate(entries_to_search, start=1):
                 name = row['Name']
                 batch = row['Batch']
                 proof = row['Proof']
                 year = row['ReleaseYear']
                 
-                print(f"\n[{i-1}/{len(entries_to_search)}] {name} - {batch} ({year})")
+                print(f"\n[{idx}/{len(entries_to_search)}] {name} - {batch} ({year})")
                 
                 ttb_results = self.search_whiskey(name, batch, proof, year)
                 
@@ -384,11 +384,10 @@ def main():
         querier._close_browser()
         sys.exit(1)
     
-    print()
     print("=" * 60)
     print("Results Summary")
     print("=" * 60)
-    print(f"Total entries searched: {args.limit or 'all'}")
+    print(f"Total entries searched: {len(results) if results else 0}")
     print(f"Entries with matches found: {len(results)}")
     
     if results:

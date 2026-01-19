@@ -15,6 +15,7 @@ Options:
 """
 
 import csv
+import sys
 import argparse
 from urllib.parse import urlencode, quote
 
@@ -120,6 +121,8 @@ def main():
     else:
         print("\n" + "=" * 70)
         print(output)
+    
+    return 0
 
 
 def generate_text(entries):
@@ -243,4 +246,4 @@ def generate_html(entries):
 
 
 if __name__ == '__main__':
-    main()
+    sys.exit(main())

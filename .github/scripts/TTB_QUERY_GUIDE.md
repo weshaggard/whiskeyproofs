@@ -4,7 +4,7 @@ This guide explains how to use the TTB ID query tools to find and add TTB COLA a
 
 ## Overview
 
-The repository includes two tools for finding TTB (Tobacco and Trade Bureau) COLA approval IDs:
+The repository includes two tools for finding TTB (Alcohol and Tobacco Tax and Trade Bureau) COLA approval IDs:
 
 1. **Automated Search** (`query_ttb.py`) - Uses browser automation to search automatically
 2. **Manual Search Helper** (`generate_ttb_urls.py`) - Generates search information for manual lookup

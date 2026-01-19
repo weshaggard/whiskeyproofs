@@ -40,8 +40,8 @@ def update_csv(csv_file, results, verify=False, dry_run=False):
     try:
         with open(csv_file, 'r') as f:
             reader = csv.DictReader(f)
-            rows = list(reader)
             fieldnames = reader.fieldnames
+            rows = list(reader)
     except Exception as e:
         print(f"Error reading CSV: {e}")
         return False
@@ -60,6 +60,14 @@ def update_csv(csv_file, results, verify=False, dry_run=False):
             continue
         
         row = rows[row_index]
+        
+        # Validate row has required columns
+        required_cols = ['Name', 'Batch', 'ReleaseYear', 'TTB_ID']
+        missing_cols = [col for col in required_cols if col not in row]
+        if missing_cols:
+            print(f"Warning: Row at line {line_num} missing columns {missing_cols}, skipping")
+            skipped += 1
+            continue
         
         # Get TTB ID from results (take first match if multiple)
         if isinstance(ttb_results, list) and len(ttb_results) > 0:
