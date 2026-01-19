@@ -10,6 +10,24 @@ import sys
 from collections import defaultdict
 
 
+class ReverseStr:
+    """Wrapper class for reverse string comparison (descending alphabetical order)"""
+    def __init__(self, s):
+        self.s = s
+    def __lt__(self, other):
+        return self.s > other.s
+    def __le__(self, other):
+        return self.s >= other.s
+    def __gt__(self, other):
+        return self.s < other.s
+    def __ge__(self, other):
+        return self.s <= other.s
+    def __eq__(self, other):
+        return self.s == other.s
+    def __repr__(self):
+        return f'ReverseStr({self.s!r})'
+
+
 def extract_numeric_from_batch(batch):
     """Extract numeric value from batch for numeric sorting"""
     match = re.search(r'\b(\d+)\b', batch)
@@ -41,13 +59,20 @@ def batch_sort_key(batch, release_year):
         batch_num = int(year_batch_match.group(2))
         return (0, -year, -batch_num, batch)
     
+    # Handle number prefix with text (e.g., "6 - LA/NE", "5 - LL/LE")
+    # MUST come before seasonal check to handle "6 - LA/NE (Spring 2025)" correctly
+    number_prefix_match = re.match(r'^(\d+)\s*-\s*', batch)
+    if number_prefix_match:
+        number = int(number_prefix_match.group(1))
+        return (7, -int(release_year), -number, batch)
+    
     # Handle seasonal batches (Fall/Spring)
     if 'Fall' in batch or 'Spring' in batch:
         year_match = re.search(r'(\d{4})', batch)
         year = int(year_match.group(1)) if year_match else int(release_year)
         season = 'Fall' if 'Fall' in batch else 'Spring'
         season_order = 0 if season == 'Fall' else 1
-        return (1, -year, season_order, batch)
+        return (8, -year, season_order, batch)
     
     # Handle ECBP-style letter-number format (C925, B524, A123, A314, A215)
     ecbp_match = re.match(r'^([A-Z])(\d+)$', batch)
@@ -90,18 +115,12 @@ def batch_sort_key(batch, release_year):
         letter_value = ord(letter) - ord('A') + 1
         return (6, -year, -letter_value, batch)
     
-    # Handle number prefix with text (e.g., "6 - LA/NE", "5 - LL/LE")
-    number_prefix_match = re.match(r'^(\d+)\s*-\s*', batch)
-    if number_prefix_match:
-        number = int(number_prefix_match.group(1))
-        return (7, -int(release_year), -number, batch)
-    
     # Handle year with parenthetical text (e.g., "2017 (Other States)", "2017 (FL/GA/KY)")
     year_paren_match = re.match(r'^(\d{4})\s*\(', batch)
     if year_paren_match:
         year = int(year_paren_match.group(1))
-        # Sort alphabetically by the batch string
-        return (8, -year, batch)
+        # Sort alphabetically descending by the batch string
+        return (8, -year, ReverseStr(batch))
     
     # Default: use release year and alphabetical descending
     return (99, -int(release_year), batch)
@@ -208,25 +227,38 @@ def validate_csv(filename):
     
     if product_names != sorted_names:
         print("   ❌ Products not in alphabetical order")
+        # Find and show which products are out of order
+        product_order_issues = []
+        for i, (actual, expected) in enumerate(zip(product_names, sorted_names)):
+            if actual != expected:
+                product_order_issues.append(
+                    f"Position {i+1}: Found '{actual}', expected '{expected}'"
+                )
+        
+        if product_order_issues:
+            print("   Product ordering issues:")
+            for issue in product_order_issues[:5]:
+                print(f"      {issue}")
+            if len(product_order_issues) > 5:
+                print(f"      ... and {len(product_order_issues) - 5} more")
         all_valid = False
     else:
         # Check batch order within each product
         for product_name, product_rows in products.items():
             prev_key = None
+            prev_batch = None
             for line_num, row in product_rows:
                 current_key = batch_sort_key(row['Batch'], row['ReleaseYear'])
                 # Keys use negated values for descending, so current < prev is an error
-                # Compare only the numeric parts (first 2 elements: category and year)
-                # to avoid false positives from alphabetical string differences
+                # Compare all elements of the sort key to properly validate ordering
                 if prev_key is not None:
-                    prev_numeric = prev_key[:2]
-                    curr_numeric = current_key[:2]
-                    if curr_numeric < prev_numeric:
+                    if current_key < prev_key:
                         sort_issues.append(
-                            f"Line {line_num}: {product_name} batch '{row['Batch']}' " 
-                            f"not in descending order"
+                            f"Line {line_num}: {product_name} batch '{row['Batch']}' ({row['ReleaseYear']}) " 
+                            f"should come before '{prev_batch}' (sort keys: {current_key} < {prev_key})"
                         )
                 prev_key = current_key
+                prev_batch = row['Batch']
     
     if sort_issues:
         print(f"   ❌ Found {len(sort_issues)} sort order issues:")
