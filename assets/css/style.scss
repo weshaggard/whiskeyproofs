@@ -14,6 +14,7 @@ body {
 }
 
 /* Reduce spacing for section element */
+/* !important is needed to override the Jekyll minimal theme's built-in section padding */
 section {
   padding-top: 0 !important;
 }
