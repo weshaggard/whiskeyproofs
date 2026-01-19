@@ -2,8 +2,13 @@
 
 This directory contains utility scripts for the Whiskey Proofs database.
 
+## 🚀 Quick Start
+
+**New to finding TTB IDs?** Start here: [QUICKSTART.md](QUICKSTART.md)
+
 ## Quick Links
 
+- **[Quick Start Guide](QUICKSTART.md)** - Get started in 2 minutes
 - **[TTB Query Guide](TTB_QUERY_GUIDE.md)** - Complete guide for finding TTB IDs
 - **[TTB Accuracy Notes](TTB_ACCURACY_NOTES.md)** - Important information about TTB IDs
 
