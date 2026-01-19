@@ -59,13 +59,20 @@ def batch_sort_key(batch, release_year):
         batch_num = int(year_batch_match.group(2))
         return (0, -year, -batch_num, batch)
     
+    # Handle number prefix with text (e.g., "6 - LA/NE", "5 - LL/LE")
+    # MUST come before seasonal check to handle "6 - LA/NE (Spring 2025)" correctly
+    number_prefix_match = re.match(r'^(\d+)\s*-\s*', batch)
+    if number_prefix_match:
+        number = int(number_prefix_match.group(1))
+        return (7, -int(release_year), -number, batch)
+    
     # Handle seasonal batches (Fall/Spring)
     if 'Fall' in batch or 'Spring' in batch:
         year_match = re.search(r'(\d{4})', batch)
         year = int(year_match.group(1)) if year_match else int(release_year)
         season = 'Fall' if 'Fall' in batch else 'Spring'
         season_order = 0 if season == 'Fall' else 1
-        return (1, -year, season_order, batch)
+        return (8, -year, season_order, batch)
     
     # Handle ECBP-style letter-number format (C925, B524, A123, A314, A215)
     ecbp_match = re.match(r'^([A-Z])(\d+)$', batch)
@@ -107,12 +114,6 @@ def batch_sort_key(batch, release_year):
         year = 2000 + year_suffix
         letter_value = ord(letter) - ord('A') + 1
         return (6, -year, -letter_value, batch)
-    
-    # Handle number prefix with text (e.g., "6 - LA/NE", "5 - LL/LE")
-    number_prefix_match = re.match(r'^(\d+)\s*-\s*', batch)
-    if number_prefix_match:
-        number = int(number_prefix_match.group(1))
-        return (7, -int(release_year), -number, batch)
     
     # Handle year with parenthetical text (e.g., "2017 (Other States)", "2017 (FL/GA/KY)")
     year_paren_match = re.match(r'^(\d{4})\s*\(', batch)
