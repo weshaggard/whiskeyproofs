@@ -3,15 +3,16 @@ var groupedData = {};
 var expandedGroups = {};
 var currentSortColumn = -1;
 var currentSortDirection = 1; // 1 for ascending, -1 for descending
-var showTTBColumn = false; // Hidden by default
+var allExpanded = false; // Track whether all groups are expanded
+var showTTBColumn = false; // Track whether TTB column should be shown
 
 // Initialize table grouping on page load
 document.addEventListener('DOMContentLoaded', function() {
-  // Check if TTB column should be shown via query parameter
+  // Check for showTTB query parameter
   var urlParams = new URLSearchParams(window.location.search);
   showTTBColumn = urlParams.get('showTTB') === 'true';
   
-  // Hide TTB column if not enabled
+  // Hide TTB column if not requested
   if (!showTTBColumn) {
     var ttbElements = document.querySelectorAll('.ttb-column');
     ttbElements.forEach(function(el) {
@@ -36,7 +37,7 @@ function initializeGroupedTable() {
       groupedData[name] = [];
     }
     // Store the raw data from each row
-    // Column indices: 0=expand icon, 1=name, 2=batch, 3=age, 4=proof, 5=release year, 6=ttb
+    // Column indices: 0=expand icon, 1=name, 2=batch, 3=age, 4=proof, 5=release year, 6=TTB
     var cells = row.getElementsByTagName("td");
     groupedData[name].push({
       name: name,
@@ -97,11 +98,11 @@ function initializeGroupedTable() {
     headerRow.appendChild(yearCell);
     
     var ttbCell = document.createElement('td');
-    ttbCell.className = 'ttb-column';
+    ttbCell.classList.add('ttb-column');
+    ttbCell.innerHTML = group[0].ttb;
     if (!showTTBColumn) {
       ttbCell.style.display = 'none';
     }
-    ttbCell.innerHTML = group[0].ttb;
     headerRow.appendChild(ttbCell);
     
     tbody.appendChild(headerRow);
@@ -140,13 +141,13 @@ function initializeGroupedTable() {
         detailYear.textContent = group[i].releaseYear;
         detailRow.appendChild(detailYear);
         
-        var detailTtb = document.createElement('td');
-        detailTtb.className = 'ttb-column';
+        var detailTTB = document.createElement('td');
+        detailTTB.classList.add('ttb-column');
+        detailTTB.innerHTML = group[i].ttb;
         if (!showTTBColumn) {
-          detailTtb.style.display = 'none';
+          detailTTB.style.display = 'none';
         }
-        detailTtb.innerHTML = group[i].ttb;
-        detailRow.appendChild(detailTtb);
+        detailRow.appendChild(detailTTB);
         
         tbody.appendChild(detailRow);
       }
@@ -205,11 +206,57 @@ function expandAllGroups() {
   Object.keys(expandedGroups).forEach(function(key) {
     expandedGroups[key] = true;
   });
+  allExpanded = true;
+  updateToggleAllIcon();
+}
+
+// Collapse all groups
+function collapseAllGroups() {
+  var table = document.getElementById("whiskeyTable");
+  var rows = table.getElementsByTagName("tr");
+  
+  for (var i = 0; i < rows.length; i++) {
+    var row = rows[i];
+    if (row.classList.contains('group-header')) {
+      var arrow = row.querySelector('.expand-arrow');
+      if (arrow) {
+        arrow.textContent = '▶';
+      }
+    } else if (row.classList.contains('group-detail')) {
+      row.classList.add('collapsed');
+    }
+  }
+  
+  // Update all expanded states
+  Object.keys(expandedGroups).forEach(function(key) {
+    if (groupedData[key] && groupedData[key].length > 1) {
+      expandedGroups[key] = false;
+    }
+  });
+  allExpanded = false;
+  updateToggleAllIcon();
+}
+
+// Toggle all groups between expanded and collapsed
+function toggleAllGroups() {
+  if (allExpanded) {
+    collapseAllGroups();
+  } else {
+    expandAllGroups();
+  }
+}
+
+// Update the toggle all icon in the header
+function updateToggleAllIcon() {
+  var toggleIcon = document.getElementById('toggle-all-icon');
+  if (toggleIcon) {
+    toggleIcon.textContent = allExpanded ? '▼' : '▶';
+  }
 }
 
 // Sort table functionality - sorts groups by selected column
 function sortTable(columnIndex) {
-  // Column mapping: 0=expand icon (no sort), 1=name, 2=batch, 3=age, 4=proof, 5=release year, 6=ttb
+  // Column mapping: 0=expand icon (no sort), 1=name, 2=batch, 3=age, 4=proof, 5=release year, 6=TTB
   if (columnIndex === 0) return; // Don't sort by expand icon
   
   // Toggle sort direction if clicking the same column
@@ -239,19 +286,21 @@ function sortTable(columnIndex) {
     var valA = groupedData[a][0][sortKey];
     var valB = groupedData[b][0][sortKey];
     
+    // Handle TTB column (sort by presence of link)
+    if (sortKey === 'ttb') {
+      // Extract text from HTML (just check if link exists)
+      var hasLinkA = valA && valA.includes('<a');
+      var hasLinkB = valB && valB.includes('<a');
+      if (hasLinkA && !hasLinkB) return -1 * currentSortDirection;
+      if (!hasLinkA && hasLinkB) return 1 * currentSortDirection;
+      return 0;
+    }
+    
     // Handle numeric columns (age, proof, releaseYear)
     if (sortKey === 'age' || sortKey === 'proof' || sortKey === 'releaseYear') {
       valA = parseFloat(valA) || 0;
       valB = parseFloat(valB) || 0;
       return (valA - valB) * currentSortDirection;
-    }
-    
-    // Handle TTB column (HTML content) - sort by presence of link
-    if (sortKey === 'ttb') {
-      // Empty string means no link, otherwise it has a link
-      var hasLinkA = valA && valA.trim().length > 0 ? 1 : 0;
-      var hasLinkB = valB && valB.trim().length > 0 ? 1 : 0;
-      return (hasLinkA - hasLinkB) * currentSortDirection;
     }
     
     // String comparison for name and batch
@@ -311,11 +360,11 @@ function sortTable(columnIndex) {
     headerRow.appendChild(yearCell);
     
     var ttbCell = document.createElement('td');
-    ttbCell.className = 'ttb-column';
+    ttbCell.classList.add('ttb-column');
+    ttbCell.innerHTML = group[0].ttb;
     if (!showTTBColumn) {
       ttbCell.style.display = 'none';
     }
-    ttbCell.innerHTML = group[0].ttb;
     headerRow.appendChild(ttbCell);
     
     tbody.appendChild(headerRow);
@@ -355,13 +404,13 @@ function sortTable(columnIndex) {
         detailYear.textContent = group[i].releaseYear;
         detailRow.appendChild(detailYear);
         
-        var detailTtb = document.createElement('td');
-        detailTtb.className = 'ttb-column';
+        var detailTTB = document.createElement('td');
+        detailTTB.classList.add('ttb-column');
+        detailTTB.innerHTML = group[i].ttb;
         if (!showTTBColumn) {
-          detailTtb.style.display = 'none';
+          detailTTB.style.display = 'none';
         }
-        detailTtb.innerHTML = group[i].ttb;
-        detailRow.appendChild(detailTtb);
+        detailRow.appendChild(detailTTB);
         
         tbody.appendChild(detailRow);
       }
@@ -391,7 +440,7 @@ function filterTable() {
     var cells = row.getElementsByTagName("td");
     
     if (cells.length > 0) {
-      // Column indices: 0=expand icon, 1=name, 2=batch, 3=age, 4=proof, 5=release year, 6=ttb
+      // Column indices: 0=expand icon, 1=name, 2=batch, 3=age, 4=proof, 5=release year
       var name = cells[1] ? cells[1].textContent.toLowerCase() : '';
       var batch = cells[2] ? cells[2].textContent.toLowerCase() : '';
       var age = cells[3] ? cells[3].textContent.toLowerCase() : '';

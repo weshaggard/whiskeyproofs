@@ -2,7 +2,7 @@
   width: 100%;
   border-collapse: separate;
   border-spacing: 0;
-  margin: 20px 0;
+  margin: 0 0 20px 0;
   font-size: 0.9em;
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
   border-radius: 12px;
@@ -29,6 +29,14 @@
 
 .whiskey-table th:hover {
   background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Toggle all icon in header */
+#toggle-all-icon {
+  display: inline-block;
+  font-size: 0.9em;
+  transition: transform 0.2s ease;
+  color: #ffffff;
 }
 
 .whiskey-table tbody tr {
@@ -89,9 +97,9 @@ h1 {
 
 /* Grouping and expand/collapse styles */
 .expand-icon {
-  width: 30px;
+  width: auto;
   text-align: center;
-  padding: 8px !important;
+  padding: 0 !important;
 }
 
 .expand-arrow {

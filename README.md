@@ -1,6 +1,10 @@
-<a href="https://www.buymeacoffee.com/whiskeyproofs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Drink" height="41" width="174"></a>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/whiskeyproofs">
+    <img src="assets/buymeadrink.png" alt="Buy me a drink" height="60">
+  </a>
+</p>
 
-# Whiskey Proofs Index
+# Whiskey proof index
 
 A Jekyll-based static website for storing and displaying whiskey information. This site serves as a reference guide for finding specific details about whiskey batches, release years, and proof values.
 
@@ -15,7 +19,7 @@ This site helps answer questions like:
 
 - **Interactive Table**: Browse whiskey data in a clean, sortable table
 - **Search & Filter**: Find whiskies by name, distillery, or type
-- **TTB COLA Links**: Direct links to official TTB approval documents when available
+- **TTB COLA Links**: Direct links to official TTB approval documents when available (hidden by default, show with `?showTTB=true`)
 - **Responsive Design**: Works great on desktop and mobile devices
 - **Easy Updates**: Add new whiskies by simply editing a CSV file
 
@@ -41,11 +45,19 @@ Booker's,2025-04 Phantom Pipes Batch,7,126.4,2025,Jim Beam,Bourbon,
 ```
 
 ### TTB COLA Links
-When a TTB_ID is provided, a clickable link (🔗) will appear in the table that opens the official TTB COLA approval page. To find TTB IDs:
+When a TTB_ID is provided, a clickable link (🔗) will appear in the table that opens the official TTB COLA approval page. The TTB column is hidden by default - add `?showTTB=true` to the URL to display it. To find TTB IDs:
 1. Visit [TTB COLA Public Registry](https://ttbonline.gov/colasonline/publicSearchColasBasic.do)
 2. Search for the whiskey brand and batch
 3. Copy the TTB ID from the URL (e.g., `22089001000941` from `https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=22089001000941`)
 4. Add it to the TTB_ID column in the CSV
+
+### Data Sorting Rules
+
+The CSV file maintains a specific sort order:
+1. **Primary Sort**: Product Name (ascending/alphabetical)
+2. **Secondary Sort**: Batch (descending - newest/latest first within each product)
+
+**Important**: For batches with numbers (like "Batch 15", "Batch 2"), they are sorted **numerically** (15 before 2), not alphabetically.
 
 ### Tips for Editing
 - Keep the header row intact
@@ -53,6 +65,21 @@ When a TTB_ID is provided, a clickable link (🔗) will appear in the table that
 - If a value contains a comma, wrap it in quotes: `"Distiller's Select, Premium"`
 - Leave the TTB_ID column empty if not available
 - Save the file with UTF-8 encoding
+- After editing, run the validation script to ensure data quality and sorting
+
+### Validating Your Changes
+
+A validation script is included to check data quality and sort order:
+
+```bash
+python3 .github/scripts/validate_whiskey_data.py
+```
+
+This script will:
+- Verify all required fields are present
+- Check for valid proof values and release years
+- Detect duplicate entries
+- Ensure proper sort order (Name ascending, Batch descending with numeric sorting)
 
 ## 🚀 Running Locally
 

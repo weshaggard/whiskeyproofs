@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Whiskey Proofs Index
+title: Whiskey proof index
 ---
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3605565427529797"
@@ -8,9 +8,9 @@ title: Whiskey Proofs Index
 
 <link rel="stylesheet" href="{{ '/assets/css/whiskey-index.css' | relative_url }}">
 
-# Whiskey Proofs Index
+# Whiskey proof index
 
-Welcome to the Whiskey Proofs Index - your comprehensive reference for bourbon batch information, proofs, and release years. Whether you're a collector tracking down specific batches, an enthusiast researching proof variations, or simply curious about whiskey releases over the years, this searchable index helps you find exactly what you're looking for.
+Your comprehensive reference for whiskey batch information, proofs, and release years. Whether you're a collector tracking down specific batches, an enthusiast researching proof variations, or simply curious about whiskey releases over the years, this searchable index helps you find exactly what you're looking for.
 
 <div class="filter-container">
   <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Search by name, batch, proof, etc...">
@@ -19,7 +19,9 @@ Welcome to the Whiskey Proofs Index - your comprehensive reference for bourbon b
 <table class="whiskey-table" id="whiskeyTable">
   <thead>
     <tr>
-      <th style="width: 30px;"></th>
+      <th style="width: auto; cursor: pointer;" onclick="toggleAllGroups()">
+        <span id="toggle-all-icon">▶</span>
+      </th>
       <th onclick="sortTable(1)" style="cursor: pointer;">Name</th>
       <th onclick="sortTable(2)" style="cursor: pointer;">Batch</th>
       <th onclick="sortTable(3)" style="cursor: pointer;">Age</th>
@@ -37,7 +39,7 @@ Welcome to the Whiskey Proofs Index - your comprehensive reference for bourbon b
      <td>{{ whiskey.Age }}</td>
      <td>{{ whiskey.Proof }}</td>
      <td>{{ whiskey.ReleaseYear }}</td>
-     <td class="ttb-column">{% if whiskey.TTB_ID %}<a href="https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid={{ whiskey.TTB_ID }}" target="_blank" rel="noopener noreferrer">🔗</a>{% endif %}</td>
+     <td class="ttb-column">{% if whiskey.TTB_ID and whiskey.TTB_ID != '' %}<a href="https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid={{ whiskey.TTB_ID }}" target="_blank" rel="noopener noreferrer">🔗</a>{% endif %}</td>
    </tr>
    {% endfor %}
   </tbody>
@@ -53,8 +55,10 @@ Welcome to the Whiskey Proofs Index - your comprehensive reference for bourbon b
   gtag('config', 'G-938KTTLKL3');
 </script>
 
-<div style="margin-top: 15px; text-align: center;">
-  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="whiskeyproofs" data-color="#FFDD00" data-emoji="🥃" data-font="Cookie" data-text="Buy me a drink" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
-</div>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/whiskeyproofs">
+    <img src="assets/buymeadrink.png" alt="Buy me a drink" height="60">
+  </a>
+</p>
 
 <script src="{{ '/assets/js/whiskey-index.js' | relative_url }}"></script>
