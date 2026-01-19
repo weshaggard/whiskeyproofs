@@ -226,11 +226,26 @@ def validate_csv(filename):
     
     if product_names != sorted_names:
         print("   ❌ Products not in alphabetical order")
+        # Find and show which products are out of order
+        product_order_issues = []
+        for i, (actual, expected) in enumerate(zip(product_names, sorted_names)):
+            if actual != expected:
+                product_order_issues.append(
+                    f"Position {i+1}: Found '{actual}', expected '{expected}'"
+                )
+        
+        if product_order_issues:
+            print("   Product ordering issues:")
+            for issue in product_order_issues[:5]:
+                print(f"      {issue}")
+            if len(product_order_issues) > 5:
+                print(f"      ... and {len(product_order_issues) - 5} more")
         all_valid = False
     else:
         # Check batch order within each product
         for product_name, product_rows in products.items():
             prev_key = None
+            prev_batch = None
             for line_num, row in product_rows:
                 current_key = batch_sort_key(row['Batch'], row['ReleaseYear'])
                 # Keys use negated values for descending, so current < prev is an error
@@ -238,10 +253,11 @@ def validate_csv(filename):
                 if prev_key is not None:
                     if current_key < prev_key:
                         sort_issues.append(
-                            f"Line {line_num}: {product_name} batch '{row['Batch']}' " 
-                            f"not in descending order"
+                            f"Line {line_num}: {product_name} batch '{row['Batch']}' ({row['ReleaseYear']}) " 
+                            f"should come before '{prev_batch}' (sort keys: {current_key} < {prev_key})"
                         )
                 prev_key = current_key
+                prev_batch = row['Batch']
     
     if sort_issues:
         print(f"   ❌ Found {len(sort_issues)} sort order issues:")
