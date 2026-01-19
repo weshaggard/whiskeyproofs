@@ -23,48 +23,56 @@ Your site already includes comprehensive SEO features:
 - **Google Analytics** - Tracking code installed (G-938KTTLKL3)
 - **Google AdSense** - Revenue tracking enabled
 
+## Verification Status
+
+✅ **Site verification completed via DNS TXT records**
+
+This site has been verified with search engines using DNS TXT record verification. This is the recommended method as it:
+- Verifies the entire domain (all subdomains and protocols)
+- Doesn't require changes to website code
+- Provides a more permanent verification solution
+
+No HTML meta tags are needed in the site code since DNS verification is already active.
+
 ## Required Setup Steps
 
-To complete search engine indexing setup, follow these steps:
+The following steps have been completed for this site:
 
-### 1. Google Search Console (Required)
+### 1. Google Search Console ✅
 
-Google Search Console is essential for:
-- Manually requesting indexing of your pages
-- Monitoring how Google crawls your site
-- Viewing search performance analytics
-- Identifying and fixing indexing issues
+**Verification Method Used:** DNS TXT Record
 
-**Setup Instructions:**
+Google Search Console provides:
+- Manual indexing requests for faster discovery
+- Monitoring of how Google crawls your site
+- Search performance analytics
+- Identification and fixing of indexing issues
 
-1. Go to [Google Search Console](https://search.google.com/search-console)
-2. Add your property: `https://whiskeyproofs.com`
-3. Choose "HTML tag" verification method
-4. Copy the verification meta tag content value (the long string of characters)
-5. Replace `YOUR_GOOGLE_VERIFICATION_CODE_HERE` in `_includes/head-custom.html` with your actual code
-6. Commit and push the change
-7. Wait for GitHub Pages to deploy (usually 1-2 minutes)
-8. Return to Search Console and click "Verify"
+**Verification was completed by:**
+1. Adding a TXT record to the domain's DNS settings
+2. The TXT record remains active for ongoing verification
 
-**After Verification:**
+**Ongoing Tasks:**
 
-- Submit your sitemap: `https://whiskeyproofs.com/sitemap.xml`
-- Request indexing for your main page
+- Submit your sitemap: `https://whiskeyproofs.com/sitemap.xml` (if not already done)
+- Request indexing for new or updated pages
 - Monitor the "Coverage" report to see indexed pages
+- Check for any crawl errors or indexing issues
 
 ### 2. Bing Webmaster Tools (Recommended)
 
 Bing powers search for Bing, Yahoo, DuckDuckGo, and other engines.
 
+**Verification Method:** DNS TXT Record (recommended)
+
 **Setup Instructions:**
 
 1. Go to [Bing Webmaster Tools](https://www.bing.com/webmasters)
 2. Add your site: `https://whiskeyproofs.com`
-3. Choose "HTML Meta Tag" verification method
-4. Copy the verification code
-5. Replace `YOUR_BING_VERIFICATION_CODE_HERE` in `_includes/head-custom.html` with your actual code
-6. Commit and push the change
-7. Wait for deployment and verify in Bing Webmaster Tools
+3. Choose "DNS TXT Record" verification method (recommended over HTML tag)
+4. Add the provided TXT record to your domain's DNS settings
+5. Wait for DNS propagation (can take up to 48 hours, usually faster)
+6. Return to Bing Webmaster Tools and click "Verify"
 
 **After Verification:**
 
@@ -124,6 +132,50 @@ The sitemap is auto-generated at `/sitemap.xml`. If missing:
 
 All pages include canonical URLs pointing to the correct version, preventing duplicate content penalties.
 
+## Understanding Verification Methods
+
+Search engines offer multiple ways to verify site ownership. **You only need ONE active verification method** - having multiple is optional.
+
+### DNS TXT Record Verification (Recommended - Currently Used ✅)
+
+**Advantages:**
+- Verifies the entire domain (all subdomains and protocols: http, https, www, non-www)
+- No changes needed to website code
+- More permanent solution (doesn't get lost during theme updates or code changes)
+- Considered the most reliable method
+
+**How it works:**
+- A TXT record is added to your domain's DNS settings
+- Search engines check the DNS record to confirm ownership
+- As long as the DNS record remains, verification stays active
+
+### HTML Meta Tag Verification (Alternative - Not Used)
+
+**Advantages:**
+- Quick to implement for those with site code access
+- No DNS access required
+
+**Disadvantages:**
+- Only verifies the specific URL (not subdomains)
+- Can be accidentally removed during site updates
+- Requires code changes to the website
+
+**Note:** Since this site uses DNS verification, HTML meta tags are not present in the code and are not needed.
+
+### Other Verification Methods
+
+- **HTML file upload** - Upload a specific file to your site
+- **Google Analytics** - Use existing GA tracking code
+- **Google Tag Manager** - Use existing GTM container
+
+### Important: Keep Your Verification Active
+
+Whichever method you choose must remain in place:
+- If you remove the DNS TXT record, you'll lose Search Console access
+- Google and Bing check verification periodically
+- You can switch methods, but at least one must always be active
+- Having multiple methods is optional backup protection
+
 ## SEO Best Practices Already Implemented
 
 ✅ **Clean URLs** - Jekyll generates SEO-friendly permalinks  
@@ -148,7 +200,7 @@ All pages include canonical URLs pointing to the correct version, preventing dup
 ## Files Reference
 
 - `_config.yml` - Site configuration, SEO settings, plugins
-- `_includes/head-custom.html` - Meta tags, verification codes, structured data
+- `_includes/head-custom.html` - Meta tags and structured data (no verification tags needed - using DNS)
 - `_layouts/default.html` - Main layout with SEO tag include
 - `robots.txt` - Search engine crawling rules
 - `index.md` - Homepage with rich content and keywords
@@ -157,10 +209,12 @@ All pages include canonical URLs pointing to the correct version, preventing dup
 
 - [Google Search Central](https://developers.google.com/search)
 - [Bing Webmaster Guidelines](https://www.bing.com/webmasters/help/webmasters-guidelines-30fba23a)
+- [Google Search Console Verification Methods](https://support.google.com/webmasters/answer/9008080)
 - [Jekyll SEO Tag Documentation](https://github.com/jekyll/jekyll-seo-tag)
 - [Jekyll Sitemap Documentation](https://github.com/jekyll/jekyll-sitemap)
 
 ---
 
 **Last Updated:** January 2026  
-**Status:** All SEO infrastructure ready - verification codes needed
+**Verification Status:** ✅ Complete via DNS TXT records  
+**SEO Infrastructure:** ✅ Fully implemented and active
