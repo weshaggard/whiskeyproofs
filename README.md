@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://www.buymeacoffee.com/whiskeyproofs">
-    <img src="assets/buymeadrink.png" alt="Buy me a drink" height="60">
-  </a>
-</p>
+[![Buy me a drink](assets/buymeadrink.png "Buy me a drink")](https://www.buymeacoffee.com/whiskeyproofs)
 
 # Whiskey proof index
 
