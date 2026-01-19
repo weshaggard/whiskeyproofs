@@ -1,6 +1,6 @@
 ---
 name: Request New Whiskey Data
-about: Request to add a whiskey batch that's missing from the database
+about: Request to add a whiskey batch that's missing from the index
 title: '[DATA REQUEST] [Whiskey Name] - [Batch]'
 labels: 'data-request'
 assignees: ''

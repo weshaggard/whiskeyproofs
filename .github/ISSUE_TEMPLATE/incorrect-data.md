@@ -1,6 +1,6 @@
 ---
 name: Report Incorrect Data
-about: Report errors or inaccuracies in the whiskey database
+about: Report errors or inaccuracies in the whiskey index
 title: '[DATA ERROR] [Whiskey Name] - [Batch]'
 labels: 'data-error'
 assignees: ''
@@ -10,7 +10,7 @@ assignees: ''
 
 **Whiskey Name:**
 **Batch:**
-**Current Data (what's shown in the database):**
+**Current Data (what's shown in the index):**
 
 ## The Issue
 
