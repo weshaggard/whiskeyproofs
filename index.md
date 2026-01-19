@@ -35,13 +35,7 @@ description: "Comprehensive searchable index of bourbon and whiskey batches. Fin
      <td>{{ whiskey.Name }}</td>
      <td>
        {%- if whiskey.url and whiskey.url != '' -%}
-         {%- assign url_start_8 = whiskey.url | slice: 0, 8 | downcase -%}
-         {%- assign url_start_7 = whiskey.url | slice: 0, 7 | downcase -%}
-         {%- if url_start_8 == 'https://' or url_start_7 == 'http://' -%}
-           <a href="{{ whiskey.url | escape }}" target="_blank" rel="noopener noreferrer">{{ whiskey.Batch }}</a>
-         {%- else -%}
-           {{ whiskey.Batch }}
-         {%- endif -%}
+         <a href="{{ whiskey.url | escape }}" target="_blank" rel="noopener">{{ whiskey.Batch }}</a>
        {%- else -%}
          {{ whiskey.Batch }}
        {%- endif -%}
