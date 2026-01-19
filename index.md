@@ -30,10 +30,21 @@ description: "Comprehensive searchable index of bourbon and whiskey batches. Fin
   </thead>
   <tbody>
    {% for whiskey in site.data.whiskeyindex %}
-   <tr data-name="{{ whiskey.Name }}" data-url="{{ whiskey.url | url_encode }}">
+   <tr data-name="{{ whiskey.Name }}">
      <td class="expand-icon"></td>
      <td>{{ whiskey.Name }}</td>
-     <td>{% if whiskey.url and whiskey.url != '' %}{% assign url_lower = whiskey.url | downcase %}{% if url_lower contains 'http://' or url_lower contains 'https://' %}<a href="{{ whiskey.url | url_encode }}" target="_blank" rel="noopener noreferrer">{{ whiskey.Batch }}</a>{% else %}{{ whiskey.Batch }}{% endif %}{% else %}{{ whiskey.Batch }}{% endif %}</td>
+     <td>
+       {%- if whiskey.url and whiskey.url != '' -%}
+         {%- assign url_start = whiskey.url | slice: 0, 8 | downcase -%}
+         {%- if url_start == 'https://' or url_start == 'http://' -%}
+           <a href="{{ whiskey.url | url_encode }}" target="_blank" rel="noopener noreferrer">{{ whiskey.Batch }}</a>
+         {%- else -%}
+           {{ whiskey.Batch }}
+         {%- endif -%}
+       {%- else -%}
+         {{ whiskey.Batch }}
+       {%- endif -%}
+     </td>
      <td>{{ whiskey.Age }}</td>
      <td>{{ whiskey.Proof }}</td>
      <td>{{ whiskey.ReleaseYear }}</td>
