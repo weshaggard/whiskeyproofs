@@ -19,6 +19,111 @@ python3 .github/scripts/validate_whiskey_data.py
 
 This script runs automatically via GitHub Actions on every pull request that modifies the CSV file.
 
+### query_ttb.py
+
+Queries the TTB (Tobacco and Trade Bureau) COLA Public Registry to find TTB approval IDs for whiskey entries that don't have them. This script uses browser automation to automatically search the TTB website.
+
+**Requirements:**
+```bash
+pip install selenium
+```
+
+You also need a WebDriver installed:
+- **Chrome**: Download from [ChromeDriver](https://chromedriver.chromium.org/)
+- **Firefox**: Download from [GeckoDriver Releases](https://github.com/mozilla/geckodriver/releases)
+
+**Usage:**
+```bash
+# Test mode - search only first 10 entries
+python3 .github/scripts/query_ttb.py --test --verbose
+
+# Search with limit
+python3 .github/scripts/query_ttb.py --limit 50 --verbose
+
+# Search all entries without TTB IDs
+python3 .github/scripts/query_ttb.py --verbose
+
+# Use Firefox instead of Chrome
+python3 .github/scripts/query_ttb.py --test --browser firefox
+
+# Run with visible browser (not headless)
+python3 .github/scripts/query_ttb.py --test --no-headless
+
+# Save results to file
+python3 .github/scripts/query_ttb.py --test --output results.json
+```
+
+**Options:**
+- `--test`: Process only first 10 entries (useful for testing)
+- `--limit N`: Process only first N entries
+- `--verbose`, `-v`: Show detailed search information
+- `--browser {chrome,firefox}`: Choose browser (default: chrome)
+- `--no-headless`: Run browser in visible mode
+- `--output FILE`: Save results to JSON file
+- `--csv PATH`: Specify CSV file path (default: _data/whiskeyindex.csv)
+
+**Important Notes:**
+- The script uses browser automation to search the TTB website
+- Searches include a 2-second delay between requests to be respectful to the TTB server
+- Results are potential matches and should be manually verified before adding to the CSV
+- The TTB website structure may change, requiring script updates
+- Not all whiskeys have TTB COLA IDs in the public registry
+
+**Output:**
+The script will display:
+- Progress for each entry searched
+- Number of potential matches found
+- TTB IDs for matches (requires manual verification)
+- Summary of total matches
+
+Results can be saved to a JSON file with the `--output` option for later review.
+
+### generate_ttb_urls.py
+
+Generates TTB COLA Public Registry search information for manual lookup. This is a simpler alternative to the automated search script, useful when Selenium is not available or for manual verification.
+
+**No external dependencies required** - uses only Python standard library.
+
+**Usage:**
+```bash
+# Generate text output for first 10 entries
+python3 .github/scripts/generate_ttb_urls.py --limit 10
+
+# Generate HTML file with clickable links
+python3 .github/scripts/generate_ttb_urls.py --limit 50 --html --output ttb_search.html
+
+# Generate for all entries without TTB IDs
+python3 .github/scripts/generate_ttb_urls.py --html --output all_searches.html
+
+# Save text output to file
+python3 .github/scripts/generate_ttb_urls.py --output search_list.txt
+```
+
+**Options:**
+- `--limit N`: Limit to first N entries without TTB IDs
+- `--output FILE`: Save to file (default: print to console)
+- `--html`: Generate HTML file with clickable links
+- `--csv PATH`: Specify CSV file path (default: _data/whiskeyindex.csv)
+
+**Output Formats:**
+
+*Text format:* Lists each entry with brand name to search and search criteria.
+
+*HTML format:* Creates an interactive HTML page with:
+- Instructions for manual searching
+- Clickable "Search TTB COLA" buttons for each entry
+- Brand name, batch, proof, and year information
+- Opens searches in new browser tabs
+
+**Workflow:**
+1. Run the script to generate search information
+2. If using HTML, open the file in your browser
+3. Click the search button for each entry
+4. Enter the brand name in the TTB search form
+5. Filter by year and proof to find the exact match
+6. Copy the 14-digit TTB ID from matching results
+7. Add verified TTB IDs to the CSV file
+
 ## Documentation
 
 ### TTB_ACCURACY_NOTES.md
