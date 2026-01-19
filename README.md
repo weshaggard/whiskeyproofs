@@ -33,12 +33,16 @@ All whiskey data is stored in `_data/whiskeyindex.csv`. To add or edit entries:
    - **Distillery**: The distillery that produced it
    - **Type**: Type of whiskey (Bourbon, Scotch, Rye, Irish, etc.)
    - **TTB_ID**: (Optional) TTB COLA approval ID for creating a clickable link to the official approval
+   - **url**: (Optional) External URL for the whiskey product page. When provided, the batch text becomes a clickable link
 
 ### Example Entry
 ```csv
-Angel's Envy Cask Strength,2025,10,122.6,2025,Angel's Envy,Bourbon,22089001000941
-Booker's,2025-04 Phantom Pipes Batch,7,126.4,2025,Jim Beam,Bourbon,
+Angel's Envy Cask Strength,2025,10,122.6,2025,Angel's Envy,Bourbon,22089001000941,
+Birthday Bourbon,2023,12,96.0,2023,Old Forester,Bourbon,,https://www.oldforester.com/products/2023-birthday-bourbon/
 ```
+
+### Product Links
+When a URL is provided, the batch text in the table becomes a clickable link to the product's official page. This is particularly useful for limited releases or special editions that have dedicated product pages.
 
 ### TTB COLA Links
 When a TTB_ID is provided, a clickable link (🔗) will appear in the table that opens the official TTB COLA approval page. The TTB column is hidden by default - add `?showTTB=true` to the URL to display it. To find TTB IDs:
