@@ -7,3 +7,31 @@
   margin-right: auto;
   margin-left: auto;
 }
+
+/* Reduce spacing at the top of the page */
+body {
+  padding: 10px;
+}
+
+/* Hide the empty header element to eliminate space above title */
+header {
+  display: none !important;
+}
+
+/* Reduce spacing for section element */
+/* !important is needed to override the Jekyll minimal theme's built-in section styles */
+/* The theme applies various padding values via media queries and base styles */
+section {
+  padding-top: 0 !important;
+}
+
+/* Minimize spacing between title and text */
+section h1:first-of-type {
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+/* Reduce spacing after paragraphs */
+section > p {
+  margin-bottom: 12px;
+}

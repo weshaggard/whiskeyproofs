@@ -1,8 +1,32 @@
+# Site settings
+title: "Whiskey Proof Index - Comprehensive Bourbon & Whiskey Batch Database"
+description: "Searchable index of whiskey batch proofs, release years, and age statements. Find specific bourbon batches, compare proof variations, and track limited releases from Buffalo Trace, Heaven Hill, and more."
+url: "https://whiskeyproofs.com"
+baseurl: ""
+author: "Whiskey Proof Index"
+
+# SEO settings
+keywords: "whiskey proof, bourbon batch, whiskey index, bourbon proof, barrel proof, cask strength, whiskey batches, bourbon releases, whiskey releases, releases, Buffalo Trace, Heaven Hill, George T Stagg, Elijah Craig, bourbon collector, whiskey reference, proof index, limited release bourbon, bourbon batch numbers, whiskey age statement, bourbon barrel proof, cask strength bourbon"
+
+# Social media
+social:
+  name: "Whiskey Proof Index"
+
+# Twitter card
+twitter:
+  card: summary_large_image
+
 # Theme
 theme: jekyll-theme-minimal
 
 # Build settings
 markdown: kramdown
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Collections
 # None needed for now
@@ -16,3 +40,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - .github

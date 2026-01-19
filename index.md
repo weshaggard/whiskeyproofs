@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Whiskey proof index
+description: "Comprehensive searchable index of bourbon and whiskey batches. Find proof values, release years, age statements, and batch numbers for Buffalo Trace, Heaven Hill, and other premium distilleries."
 ---
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3605565427529797"
@@ -16,18 +17,18 @@ Your comprehensive reference for whiskey batch information, proofs, and release 
   <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Search by name, batch, proof, etc...">
 </div>
 
-<table class="whiskey-table" id="whiskeyTable">
+<table class="whiskey-table" id="whiskeyTable" role="table" aria-label="Whiskey and Bourbon Batch Information Index">
   <thead>
     <tr>
       <th style="width: auto; cursor: pointer;" onclick="toggleAllGroups()">
         <span id="toggle-all-icon">▶</span>
       </th>
-      <th onclick="sortTable(1)" style="cursor: pointer;">Name</th>
-      <th onclick="sortTable(2)" style="cursor: pointer;">Batch</th>
-      <th onclick="sortTable(3)" style="cursor: pointer;">Age</th>
-      <th onclick="sortTable(4)" style="cursor: pointer;">Proof</th>
-      <th onclick="sortTable(5)" style="cursor: pointer;">Release Year</th>
-      <th onclick="sortTable(6)" style="cursor: pointer;" class="ttb-column">TTB</th>
+      <th onclick="sortTable(1)" style="cursor: pointer;" scope="col">Name</th>
+      <th onclick="sortTable(2)" style="cursor: pointer;" scope="col">Batch</th>
+      <th onclick="sortTable(3)" style="cursor: pointer;" scope="col">Age</th>
+      <th onclick="sortTable(4)" style="cursor: pointer;" scope="col">Proof</th>
+      <th onclick="sortTable(5)" style="cursor: pointer;" scope="col">Release Year</th>
+      <th onclick="sortTable(6)" style="cursor: pointer;" scope="col" class="ttb-column">TTB</th>
     </tr>
   </thead>
   <tbody>
@@ -44,6 +45,20 @@ Your comprehensive reference for whiskey batch information, proofs, and release 
    {% endfor %}
   </tbody>
 </table>
+
+## About This Index
+
+This whiskey proof index is maintained as a free resource for bourbon and whiskey enthusiasts. Our goal is to provide accurate, up-to-date information about whiskey batch releases, helping collectors and enthusiasts make informed decisions.
+
+**Search our extensive index** of barrel proof bourbon, cask strength whiskey, and limited releases from top distilleries including Buffalo Trace Antique Collection (BTAC), Heaven Hill, Old Forester, Wild Turkey, and many more. Find specific batch numbers, compare proof variations, track age statements, and discover release year information for your favorite bottles.
+
+### How to Use
+
+1. Use the search bar to filter by whiskey name, batch number, proof, or any other field
+2. Click column headers to sort the data
+3. Click the arrow icon to expand/collapse batch groups for easier viewing
+
+*Last updated: {{ site.time | date: "%B %Y" }}*
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-938KTTLKL3"></script>
