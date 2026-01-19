@@ -1,8 +1,8 @@
 # Site settings
 title: "Whiskey Proof Index - Comprehensive Bourbon & Whiskey Batch Database"
 description: "Searchable database of whiskey batch proofs, release years, and age statements. Find specific bourbon batches, compare proof variations, and track limited releases from Buffalo Trace, Heaven Hill, and more."
-url: "https://weshaggard.github.io"
-baseurl: "/whiskeyproofs"
+url: "https://whiskeyproofs.com"
+baseurl: ""
 author: "Whiskey Proof Index"
 
 # SEO settings

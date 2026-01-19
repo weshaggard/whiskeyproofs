@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Whiskey Proof Index - Bourbon Batch Database & Barrel Proof Reference
+title: Whiskey proof index
 description: "Comprehensive searchable database of bourbon and whiskey batches. Find proof values, release years, age statements, and batch numbers for Buffalo Trace, Heaven Hill, and other premium distilleries."
 ---
 
@@ -9,22 +9,9 @@ description: "Comprehensive searchable database of bourbon and whiskey batches. 
 
 <link rel="stylesheet" href="{{ '/assets/css/whiskey-index.css' | relative_url }}">
 
-# Whiskey Proof Index - Bourbon Batch Database
+# Whiskey proof index
 
-Your comprehensive reference for whiskey batch information, proofs, and release years. Whether you're a bourbon collector tracking down specific batches, an enthusiast researching proof variations across different releases, or simply curious about whiskey and bourbon releases over the years, this searchable database helps you find exactly what you're looking for.
-
-**Search our extensive database** of barrel proof bourbon, cask strength whiskey, and limited releases from top distilleries including Buffalo Trace Antique Collection (BTAC), Heaven Hill, Old Forester, Wild Turkey, and many more. Find specific batch numbers, compare proof variations, track age statements, and discover release year information for your favorite bottles.
-
-## Features
-
-- **Comprehensive Database**: Hundreds of whiskey and bourbon entries with detailed batch information
-- **Searchable Interface**: Quickly find specific batches by name, distillery, proof, or release year
-- **Sortable Columns**: Organize data by name, batch number, age, proof, or release year
-- **Regular Updates**: Database is continuously updated with new releases and batch information
-
-## Popular Searches
-
-Find information about popular releases like George T. Stagg, Elijah Craig Barrel Proof, Booker's Bourbon, Stagg Jr., E.H. Taylor Barrel Proof, and other limited release bourbons. Perfect for collectors, enthusiasts, and anyone looking to verify batch details before purchase.
+Your comprehensive reference for whiskey batch information, proofs, and release years. Whether you're a collector tracking down specific batches, an enthusiast researching proof variations, or simply curious about whiskey releases over the years, this searchable index helps you find exactly what you're looking for.
 
 <div class="filter-container">
   <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Search by name, batch, proof, etc...">
@@ -61,6 +48,8 @@ Find information about popular releases like George T. Stagg, Elijah Craig Barre
 
 This whiskey proof database is maintained as a free resource for bourbon and whiskey enthusiasts. Our goal is to provide accurate, up-to-date information about whiskey batch releases, helping collectors and enthusiasts make informed decisions.
 
+**Search our extensive database** of barrel proof bourbon, cask strength whiskey, and limited releases from top distilleries including Buffalo Trace Antique Collection (BTAC), Heaven Hill, Old Forester, Wild Turkey, and many more. Find specific batch numbers, compare proof variations, track age statements, and discover release year information for your favorite bottles.
+
 ### Distilleries Covered
 
 We track batches from major bourbon and whiskey producers including:
@@ -69,6 +58,10 @@ We track batches from major bourbon and whiskey producers including:
 - **Wild Turkey**: Russell's Reserve, Rare Breed
 - **Old Forester**: Birthday Bourbon, Barrel Strength
 - And many more craft and premium distilleries
+
+### Popular Searches
+
+Find information about popular releases like George T. Stagg, Elijah Craig Barrel Proof, Booker's Bourbon, Stagg Jr., E.H. Taylor Barrel Proof, and other limited release bourbons. Perfect for collectors, enthusiasts, and anyone looking to verify batch details before purchase.
 
 ### How to Use
 
