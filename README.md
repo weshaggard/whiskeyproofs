@@ -19,6 +19,7 @@ This site helps answer questions like:
 
 - **Interactive Table**: Browse whiskey data in a clean, sortable table
 - **Search & Filter**: Find whiskies by name, distillery, or type
+- **TTB COLA Links**: Direct links to official TTB approval documents when available (hidden by default, show with `?showTTB=true`)
 - **Responsive Design**: Works great on desktop and mobile devices
 - **Easy Updates**: Add new whiskies by simply editing a CSV file
 
@@ -29,18 +30,26 @@ All whiskey data is stored in `_data/whiskeyindex.csv`. To add or edit entries:
 1. Open `_data/whiskeyindex.csv` in any text editor or spreadsheet application
 2. Each row represents one whiskey with the following columns:
    - **Name**: The name of the whiskey
-   - **Distillery**: The distillery that produced it
    - **Batch**: Batch number or identifier (e.g., "Fall 2023", "C923", "Batch 22")
-   - **Age**: Age statement in years (use "Unknown" if not specified)
+   - **Age**: Age statement in years (leave empty if not specified)
    - **Proof**: Alcohol proof (numeric value)
-   - **Type**: Type of whiskey (Bourbon, Scotch, Rye, Irish, etc.)
    - **ReleaseYear**: Year of release
+   - **Distillery**: The distillery that produced it
+   - **Type**: Type of whiskey (Bourbon, Scotch, Rye, Irish, etc.)
+   - **TTB_ID**: (Optional) TTB COLA approval ID for creating a clickable link to the official approval
 
 ### Example Entry
 ```csv
-George T. Stagg,Buffalo Trace Antique Collection,Fall 2023,15,135.4,Bourbon,2023
-Elijah Craig Barrel Proof,Heaven Hill,C923,12,135.8,Bourbon,2023
+Angel's Envy Cask Strength,2025,10,122.6,2025,Angel's Envy,Bourbon,22089001000941
+Booker's,2025-04 Phantom Pipes Batch,7,126.4,2025,Jim Beam,Bourbon,
 ```
+
+### TTB COLA Links
+When a TTB_ID is provided, a clickable link (🔗) will appear in the table that opens the official TTB COLA approval page. The TTB column is hidden by default - add `?showTTB=true` to the URL to display it. To find TTB IDs:
+1. Visit [TTB COLA Public Registry](https://ttbonline.gov/colasonline/publicSearchColasBasic.do)
+2. Search for the whiskey brand and batch
+3. Copy the TTB ID from the URL (e.g., `22089001000941` from `https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=22089001000941`)
+4. Add it to the TTB_ID column in the CSV
 
 ### Data Sorting Rules
 
@@ -54,6 +63,7 @@ The CSV file maintains a specific sort order:
 - Keep the header row intact
 - Use commas to separate values
 - If a value contains a comma, wrap it in quotes: `"Distiller's Select, Premium"`
+- Leave the TTB_ID column empty if not available
 - Save the file with UTF-8 encoding
 - After editing, run the validation script to ensure data quality and sorting
 

@@ -28,6 +28,7 @@ Your comprehensive reference for whiskey batch information, proofs, and release 
       <th onclick="sortTable(3)" style="cursor: pointer;" scope="col">Age</th>
       <th onclick="sortTable(4)" style="cursor: pointer;" scope="col">Proof</th>
       <th onclick="sortTable(5)" style="cursor: pointer;" scope="col">Release Year</th>
+      <th onclick="sortTable(6)" style="cursor: pointer;" scope="col" class="ttb-column">TTB</th>
     </tr>
   </thead>
   <tbody>
@@ -39,6 +40,7 @@ Your comprehensive reference for whiskey batch information, proofs, and release 
      <td>{{ whiskey.Age }}</td>
      <td>{{ whiskey.Proof }}</td>
      <td>{{ whiskey.ReleaseYear }}</td>
+     <td class="ttb-column">{% if whiskey.TTB_ID and whiskey.TTB_ID != '' %}<a href="https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid={{ whiskey.TTB_ID }}" target="_blank" rel="noopener noreferrer">🔗</a>{% endif %}</td>
    </tr>
    {% endfor %}
   </tbody>

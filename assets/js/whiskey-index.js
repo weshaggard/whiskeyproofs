@@ -4,9 +4,22 @@ var expandedGroups = {};
 var currentSortColumn = -1;
 var currentSortDirection = 1; // 1 for ascending, -1 for descending
 var allExpanded = false; // Track whether all groups are expanded
+var showTTBColumn = false; // Track whether TTB column should be shown
 
 // Initialize table grouping on page load
 document.addEventListener('DOMContentLoaded', function() {
+  // Check for showTTB query parameter
+  var urlParams = new URLSearchParams(window.location.search);
+  showTTBColumn = urlParams.get('showTTB') === 'true';
+  
+  // Hide TTB column if not requested
+  if (!showTTBColumn) {
+    var ttbElements = document.querySelectorAll('.ttb-column');
+    ttbElements.forEach(function(el) {
+      el.style.display = 'none';
+    });
+  }
+  
   initializeGroupedTable();
 });
 
@@ -24,14 +37,15 @@ function initializeGroupedTable() {
       groupedData[name] = [];
     }
     // Store the raw data from each row
-    // Column indices: 0=expand icon, 1=name, 2=batch, 3=age, 4=proof, 5=release year
+    // Column indices: 0=expand icon, 1=name, 2=batch, 3=age, 4=proof, 5=release year, 6=TTB
     var cells = row.getElementsByTagName("td");
     groupedData[name].push({
       name: name,
       batch: cells[2] ? cells[2].textContent : '',
       age: cells[3] ? cells[3].textContent : '',
       proof: cells[4] ? cells[4].textContent : '',
-      releaseYear: cells[5] ? cells[5].textContent : ''
+      releaseYear: cells[5] ? cells[5].textContent : '',
+      ttb: cells[6] ? cells[6].innerHTML : ''
     });
   });
   
@@ -83,6 +97,14 @@ function initializeGroupedTable() {
     yearCell.textContent = group[0].releaseYear;
     headerRow.appendChild(yearCell);
     
+    var ttbCell = document.createElement('td');
+    ttbCell.classList.add('ttb-column');
+    ttbCell.innerHTML = group[0].ttb;
+    if (!showTTBColumn) {
+      ttbCell.style.display = 'none';
+    }
+    headerRow.appendChild(ttbCell);
+    
     tbody.appendChild(headerRow);
     
     // Add detail rows (collapsed by default if more than one)
@@ -118,6 +140,14 @@ function initializeGroupedTable() {
         var detailYear = document.createElement('td');
         detailYear.textContent = group[i].releaseYear;
         detailRow.appendChild(detailYear);
+        
+        var detailTTB = document.createElement('td');
+        detailTTB.classList.add('ttb-column');
+        detailTTB.innerHTML = group[i].ttb;
+        if (!showTTBColumn) {
+          detailTTB.style.display = 'none';
+        }
+        detailRow.appendChild(detailTTB);
         
         tbody.appendChild(detailRow);
       }
@@ -226,7 +256,7 @@ function updateToggleAllIcon() {
 
 // Sort table functionality - sorts groups by selected column
 function sortTable(columnIndex) {
-  // Column mapping: 0=expand icon (no sort), 1=name, 2=batch, 3=age, 4=proof, 5=release year
+  // Column mapping: 0=expand icon (no sort), 1=name, 2=batch, 3=age, 4=proof, 5=release year, 6=TTB
   if (columnIndex === 0) return; // Don't sort by expand icon
   
   // Toggle sort direction if clicking the same column
@@ -246,7 +276,8 @@ function sortTable(columnIndex) {
     2: 'batch',
     3: 'age',
     4: 'proof',
-    5: 'releaseYear'
+    5: 'releaseYear',
+    6: 'ttb'
   };
   var sortKey = columnMap[columnIndex];
   
@@ -254,6 +285,16 @@ function sortTable(columnIndex) {
   var sortedGroupNames = Object.keys(groupedData).sort(function(a, b) {
     var valA = groupedData[a][0][sortKey];
     var valB = groupedData[b][0][sortKey];
+    
+    // Handle TTB column (sort by presence of link)
+    if (sortKey === 'ttb') {
+      // Extract text from HTML (just check if link exists)
+      var hasLinkA = valA && valA.includes('<a');
+      var hasLinkB = valB && valB.includes('<a');
+      if (hasLinkA && !hasLinkB) return -1 * currentSortDirection;
+      if (!hasLinkA && hasLinkB) return 1 * currentSortDirection;
+      return 0;
+    }
     
     // Handle numeric columns (age, proof, releaseYear)
     if (sortKey === 'age' || sortKey === 'proof' || sortKey === 'releaseYear') {
@@ -318,6 +359,14 @@ function sortTable(columnIndex) {
     yearCell.textContent = group[0].releaseYear;
     headerRow.appendChild(yearCell);
     
+    var ttbCell = document.createElement('td');
+    ttbCell.classList.add('ttb-column');
+    ttbCell.innerHTML = group[0].ttb;
+    if (!showTTBColumn) {
+      ttbCell.style.display = 'none';
+    }
+    headerRow.appendChild(ttbCell);
+    
     tbody.appendChild(headerRow);
     
     // Add detail rows (collapsed or expanded based on saved state)
@@ -354,6 +403,14 @@ function sortTable(columnIndex) {
         var detailYear = document.createElement('td');
         detailYear.textContent = group[i].releaseYear;
         detailRow.appendChild(detailYear);
+        
+        var detailTTB = document.createElement('td');
+        detailTTB.classList.add('ttb-column');
+        detailTTB.innerHTML = group[i].ttb;
+        if (!showTTBColumn) {
+          detailTTB.style.display = 'none';
+        }
+        detailRow.appendChild(detailTTB);
         
         tbody.appendChild(detailRow);
       }
