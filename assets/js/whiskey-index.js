@@ -42,10 +42,13 @@ function initializeGroupedTable() {
     groupedData[name].push({
       name: name,
       batch: cells[2] ? cells[2].textContent : '',
+      // batchHTML contains pre-rendered, server-side sanitized HTML from Jekyll
+      // URLs are validated and escaped on the server before being inserted into links
       batchHTML: cells[2] ? cells[2].innerHTML : '',
       age: cells[3] ? cells[3].textContent : '',
       proof: cells[4] ? cells[4].textContent : '',
       releaseYear: cells[5] ? cells[5].textContent : '',
+      // ttb contains pre-rendered TTB link HTML from server
       ttb: cells[6] ? cells[6].innerHTML : ''
     });
   });
