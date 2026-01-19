@@ -10,8 +10,6 @@ description: "Comprehensive searchable index of bourbon and whiskey batches. Fin
 
 # Whiskey proof index
 
-Your comprehensive reference for whiskey batch information, proofs, and release years. Whether you're a collector tracking down specific batches, an enthusiast researching proof variations, or simply curious about whiskey releases over the years, this searchable index helps you find exactly what you're looking for.
-
 <div class="filter-container">
   <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Search by name, batch, proof, etc...">
 </div>
@@ -46,6 +44,8 @@ Your comprehensive reference for whiskey batch information, proofs, and release 
 </table>
 
 ## About this index
+
+Your comprehensive reference for whiskey batch information, proofs, and release years. Whether you're a collector tracking down specific batches, an enthusiast researching proof variations, or simply curious about whiskey releases over the years, this searchable index helps you find exactly what you're looking for.
 
 This whiskey proof index is maintained as a free resource for bourbon and whiskey enthusiasts. Our goal is to provide accurate, up-to-date information about whiskey batch releases, helping collectors and enthusiasts make informed decisions.
 
