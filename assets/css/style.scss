@@ -14,8 +14,8 @@ body {
 }
 
 /* Reduce spacing for section element */
-/* !important is needed to override the Jekyll minimal theme's built-in section padding */
-/* Specifically overrides: section { padding-bottom: 50px; } and media query section styles */
+/* !important is needed to override the Jekyll minimal theme's built-in section styles */
+/* The theme applies various padding values via media queries and base styles */
 section {
   padding-top: 0 !important;
 }
