@@ -4,8 +4,7 @@ title: Whiskey proof index
 description: "Comprehensive searchable index of bourbon and whiskey batches. Find proof values, release years, age statements, and batch numbers for Buffalo Trace, Heaven Hill, and other premium distilleries."
 ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3605565427529797"
-     crossorigin="anonymous"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3605565427529797" crossorigin="anonymous"></script>
 
 <link rel="stylesheet" href="{{ '/assets/css/whiskey-index.css' | relative_url }}">
 
@@ -46,19 +45,29 @@ Your comprehensive reference for whiskey batch information, proofs, and release 
   </tbody>
 </table>
 
-## About This Index
+## About this index
 
 This whiskey proof index is maintained as a free resource for bourbon and whiskey enthusiasts. Our goal is to provide accurate, up-to-date information about whiskey batch releases, helping collectors and enthusiasts make informed decisions.
 
 **Search our extensive index** of barrel proof bourbon, cask strength whiskey, and limited releases from top distilleries including Buffalo Trace Antique Collection (BTAC), Heaven Hill, Old Forester, Wild Turkey, and many more. Find specific batch numbers, compare proof variations, track age statements, and discover release year information for your favorite bottles.
 
-### How to Use
+### How to use
 
 1. Use the search bar to filter by whiskey name, batch number, proof, or any other field
 2. Click column headers to sort the data
 3. Click the arrow icon to expand/collapse batch groups for easier viewing
 
-*Last updated: {{ site.time | date: "%B %Y" }}*
+### How to help
+
+Found incorrect data? Want to add a missing whiskey? Have suggestions? <a href="https://github.com/weshaggard/whiskeyproofs/issues/new/choose" target="_blank" rel="noopener noreferrer" class="feedback-button">Submit Feedback</a>
+
+<p align="left">
+  <a href="https://www.buymeacoffee.com/whiskeyproofs">
+    <img src="assets/buymeadrink.png" alt="Buy me a drink" height="60">
+  </a>
+</p>
+
+*Last updated: {{ site.time | date: "%m/%d/%Y" }}*
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-938KTTLKL3"></script>
@@ -69,11 +78,5 @@ This whiskey proof index is maintained as a free resource for bourbon and whiske
 
   gtag('config', 'G-938KTTLKL3');
 </script>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/whiskeyproofs">
-    <img src="assets/buymeadrink.png" alt="Buy me a drink" height="60">
-  </a>
-</p>
 
 <script src="{{ '/assets/js/whiskey-index.js' | relative_url }}"></script>
