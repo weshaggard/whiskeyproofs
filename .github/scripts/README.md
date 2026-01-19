@@ -31,16 +31,12 @@ This script runs automatically via GitHub Actions on every pull request that mod
 
 ### query_ttb.py
 
-Queries the TTB (Tobacco and Trade Bureau) COLA Public Registry to find TTB approval IDs for whiskey entries that don't have them. This script uses browser automation to automatically search the TTB website.
+Queries the TTB (Tobacco and Trade Bureau) COLA Public Registry to find TTB approval IDs for whiskey entries that don't have them. This script uses HTTP POST requests to search the TTB website.
 
 **Requirements:**
 ```bash
-pip install selenium
+pip install requests beautifulsoup4
 ```
-
-You also need a WebDriver installed:
-- **Chrome**: Download from [ChromeDriver](https://chromedriver.chromium.org/)
-- **Firefox**: Download from [GeckoDriver Releases](https://github.com/mozilla/geckodriver/releases)
 
 **Usage:**
 ```bash
@@ -53,12 +49,6 @@ python3 .github/scripts/query_ttb.py --limit 50 --verbose
 # Search all entries without TTB IDs
 python3 .github/scripts/query_ttb.py --verbose
 
-# Use Firefox instead of Chrome
-python3 .github/scripts/query_ttb.py --test --browser firefox
-
-# Run with visible browser (not headless)
-python3 .github/scripts/query_ttb.py --test --no-headless
-
 # Save results to file
 python3 .github/scripts/query_ttb.py --test --output results.json
 ```
@@ -67,13 +57,11 @@ python3 .github/scripts/query_ttb.py --test --output results.json
 - `--test`: Process only first 10 entries (useful for testing)
 - `--limit N`: Process only first N entries
 - `--verbose`, `-v`: Show detailed search information
-- `--browser {chrome,firefox}`: Choose browser (default: chrome)
-- `--no-headless`: Run browser in visible mode
 - `--output FILE`: Save results to JSON file
 - `--csv PATH`: Specify CSV file path (default: _data/whiskeyindex.csv)
 
 **Important Notes:**
-- The script uses browser automation to search the TTB website
+- The script uses HTTP POST requests to search the TTB website (no browser automation required)
 - Searches include a 2-second delay between requests to be respectful to the TTB server
 - Results are potential matches and should be manually verified before adding to the CSV
 - The TTB website structure may change, requiring script updates
