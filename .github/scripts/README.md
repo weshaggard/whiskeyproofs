@@ -2,6 +2,11 @@
 
 This directory contains utility scripts for the Whiskey Proofs database.
 
+## Quick Links
+
+- **[TTB Query Guide](TTB_QUERY_GUIDE.md)** - Complete guide for finding TTB IDs
+- **[TTB Accuracy Notes](TTB_ACCURACY_NOTES.md)** - Important information about TTB IDs
+
 ## Available Scripts
 
 ### validate_whiskey_data.py
@@ -123,6 +128,47 @@ python3 .github/scripts/generate_ttb_urls.py --output search_list.txt
 5. Filter by year and proof to find the exact match
 6. Copy the 14-digit TTB ID from matching results
 7. Add verified TTB IDs to the CSV file
+
+### update_ttb_ids.py
+
+Updates the CSV file with TTB IDs from search results. This script processes JSON output from `query_ttb.py` and applies the found TTB IDs to the CSV file.
+
+**No external dependencies required** - uses only Python standard library.
+
+**Usage:**
+```bash
+# Dry run - see what would be updated
+python3 .github/scripts/update_ttb_ids.py results.json --dry-run
+
+# Update with verification prompts
+python3 .github/scripts/update_ttb_ids.py results.json --verify
+
+# Batch update (use with caution)
+python3 .github/scripts/update_ttb_ids.py results.json
+
+# Update specific CSV file
+python3 .github/scripts/update_ttb_ids.py results.json --csv path/to/file.csv
+```
+
+**Options:**
+- `--verify`: Prompt for confirmation before each update
+- `--dry-run`: Show what would be updated without making changes
+- `--csv PATH`: Specify CSV file path (default: _data/whiskeyindex.csv)
+
+**Workflow:**
+1. Run `query_ttb.py` with `--output results.json`
+2. Manually verify some results to ensure accuracy
+3. Run `update_ttb_ids.py results.json --dry-run` to preview
+4. Run `update_ttb_ids.py results.json --verify` to apply with confirmation
+5. Run validation script to check data quality
+6. Review changes with `git diff`
+7. Commit if satisfied
+
+**Safety Features:**
+- Dry run mode to preview changes
+- Verification prompts before updates
+- Preserves existing CSV structure and sorting
+- Shows clear summary of updates made
 
 ## Documentation
 
