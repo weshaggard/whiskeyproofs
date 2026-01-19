@@ -132,26 +132,6 @@ h1 {
   font-weight: normal;
 }
 
-/* Feedback button styling */
-.feedback-button {
-  display: inline-block;
-  padding: 12px 24px;
-  background: linear-gradient(135deg, #d4a574 0%, #b8956a 100%);
-  color: #ffffff;
-  text-decoration: none;
-  border-radius: 8px;
-  font-weight: 600;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-  box-shadow: 0 2px 8px rgba(184, 149, 106, 0.3);
-}
-
-.feedback-button:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(184, 149, 106, 0.4);
-  color: #ffffff;
-  text-decoration: none;
-}
-
 /* Responsive design for mobile devices */
 @media screen and (max-width: 768px) {
   .whiskey-table {
@@ -172,10 +152,5 @@ h1 {
   .filter-container select {
     width: 100%;
     margin-bottom: 8px;
-  }
-  
-  .feedback-button {
-    padding: 10px 20px;
-    font-size: 0.95em;
   }
 }
