@@ -33,7 +33,6 @@ function initializeGroupedTable() {
   groupedData = {};
   rows.forEach(function(row) {
     var name = row.getAttribute('data-name');
-    var url = row.getAttribute('data-url') || '';
     if (!groupedData[name]) {
       groupedData[name] = [];
     }
@@ -44,7 +43,6 @@ function initializeGroupedTable() {
       name: name,
       batch: cells[2] ? cells[2].textContent : '',
       batchHTML: cells[2] ? cells[2].innerHTML : '',
-      url: url,
       age: cells[3] ? cells[3].textContent : '',
       proof: cells[4] ? cells[4].textContent : '',
       releaseYear: cells[5] ? cells[5].textContent : '',
