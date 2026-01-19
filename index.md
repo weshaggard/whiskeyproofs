@@ -53,11 +53,12 @@ This whiskey proof database is maintained as a free resource for bourbon and whi
 ### Distilleries Covered
 
 We track batches from major bourbon and whiskey producers including:
-- **Buffalo Trace Distillery**: George T. Stagg, Stagg Jr., E.H. Taylor, Buffalo Trace Antique Collection (BTAC)
-- **Heaven Hill**: Elijah Craig Barrel Proof, Henry McKenna, Larceny Barrel Proof
-- **Wild Turkey**: Russell's Reserve, Rare Breed
-- **Old Forester**: Birthday Bourbon, Barrel Strength
-- And many more craft and premium distilleries
+- **Buffalo Trace Distillery**: George T. Stagg, Stagg Jr., E.H. Taylor, William Larue Weller, Thomas H. Handy, Eagle Rare 17, Sazerac 18
+- **Heaven Hill**: Elijah Craig Barrel Proof, Larceny Barrel Proof, Parker's Heritage Collection, Old Fitzgerald Bottled-in-Bond
+- **Jim Beam**: Booker's, Little Book
+- **Old Forester**: Birthday Bourbon
+- **Wild Turkey**: Russell's Reserve, Wild Turkey Master's Keep
+- And many more including Four Roses, Michter's, Knob Creek, Jack Daniel's
 
 ### Popular Searches
 
