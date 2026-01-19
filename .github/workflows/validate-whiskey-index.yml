@@ -20,12 +20,15 @@ jobs:
         with:
           python-version: '3.x'
       
-      - name: Run validation script
+      - name: Run data validation script
         run: python3 .github/scripts/validate_whiskey_data.py
+      
+      - name: Run URL validation script
+        run: python3 .github/scripts/validate_urls.py
       
       - name: Validation successful
         if: success()
-        run: echo "✅ Whiskey index validation passed! All data is properly formatted and sorted."
+        run: echo "✅ Whiskey index validation passed! All data is properly formatted, sorted, and URLs are valid."
       
       - name: Validation failed
         if: failure()
