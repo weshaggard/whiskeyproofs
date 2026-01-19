@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Whiskey proof index
-description: "Comprehensive searchable database of bourbon and whiskey batches. Find proof values, release years, age statements, and batch numbers for Buffalo Trace, Heaven Hill, and other premium distilleries."
+description: "Comprehensive searchable index of bourbon and whiskey batches. Find proof values, release years, age statements, and batch numbers for Buffalo Trace, Heaven Hill, and other premium distilleries."
 ---
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3605565427529797"
@@ -46,9 +46,9 @@ Your comprehensive reference for whiskey batch information, proofs, and release 
 
 ## About This Database
 
-This whiskey proof database is maintained as a free resource for bourbon and whiskey enthusiasts. Our goal is to provide accurate, up-to-date information about whiskey batch releases, helping collectors and enthusiasts make informed decisions.
+This whiskey proof index is maintained as a free resource for bourbon and whiskey enthusiasts. Our goal is to provide accurate, up-to-date information about whiskey batch releases, helping collectors and enthusiasts make informed decisions.
 
-**Search our extensive database** of barrel proof bourbon, cask strength whiskey, and limited releases from top distilleries including Buffalo Trace Antique Collection (BTAC), Heaven Hill, Old Forester, Wild Turkey, and many more. Find specific batch numbers, compare proof variations, track age statements, and discover release year information for your favorite bottles.
+**Search our extensive index** of barrel proof bourbon, cask strength whiskey, and limited releases from top distilleries including Buffalo Trace Antique Collection (BTAC), Heaven Hill, Old Forester, Wild Turkey, and many more. Find specific batch numbers, compare proof variations, track age statements, and discover release year information for your favorite bottles.
 
 ### Distilleries Covered
 
