@@ -1,5 +1,87 @@
 <!-- Favicon -->
 <link rel="icon" href="{{ '/assets/whiskeyglass.png' | relative_url }}" type="image/png">
 
+<!-- Additional meta tags for SEO -->
+<meta name="keywords" content="whiskey proof, bourbon batch, whiskey database, bourbon proof, barrel proof, cask strength, whiskey batches, bourbon releases, Buffalo Trace, Heaven Hill, George T Stagg, Elijah Craig, bourbon collector, whiskey reference, proof database, limited release bourbon, bourbon batch numbers, whiskey age statement, bourbon barrel proof, cask strength bourbon">
+<meta name="author" content="Whiskey Proof Index">
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}Whiskey Proof Index">
+<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}Comprehensive searchable database of whiskey and bourbon batch information including proofs, release years, age statements, and distillery details.{% endif %}">
+<meta property="og:site_name" content="Whiskey Proof Index">
+{% if page.image %}
+<meta property="og:image" content="{{ page.image | absolute_url }}">
+{% else %}
+<meta property="og:image" content="{{ '/assets/whiskeyglass.png' | absolute_url }}">
+{% endif %}
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="{{ page.url | absolute_url }}">
+<meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {% endif %}Whiskey Proof Index">
+<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}Comprehensive searchable database of whiskey and bourbon batch information including proofs, release years, age statements, and distillery details.{% endif %}">
+{% if page.image %}
+<meta name="twitter:image" content="{{ page.image | absolute_url }}">
+{% else %}
+<meta name="twitter:image" content="{{ '/assets/whiskeyglass.png' | absolute_url }}">
+{% endif %}
+
+<!-- JSON-LD Structured Data for search engines -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Whiskey Proof Index",
+  "url": "{{ site.url }}{{ site.baseurl }}",
+  "description": "Comprehensive searchable database of whiskey and bourbon batch information including proofs, release years, age statements, and distillery details.",
+  "author": {
+    "@type": "Organization",
+    "name": "Whiskey Proof Index"
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "{{ site.url }}{{ site.baseurl }}/?search={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+<!-- Additional structured data for Database/Dataset -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Whiskey Proof Index Database",
+  "description": "A comprehensive database of whiskey and bourbon batches including proof values, release years, age statements, batch numbers, and distillery information. Covers major brands including Buffalo Trace Antique Collection, Heaven Hill, Old Forester, and many more.",
+  "url": "{{ site.url }}{{ site.baseurl }}",
+  "keywords": [
+    "whiskey proof",
+    "bourbon batch numbers",
+    "barrel proof bourbon",
+    "cask strength whiskey",
+    "whiskey age statement",
+    "bourbon releases",
+    "limited release bourbon",
+    "whiskey database"
+  ],
+  "creator": {
+    "@type": "Organization",
+    "name": "Whiskey Proof Index"
+  },
+  "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "text/html"
+  }
+}
+</script>
+
 <!-- Google Fonts for buymeacoffee button -->
 <link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet">
