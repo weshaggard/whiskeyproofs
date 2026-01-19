@@ -33,6 +33,7 @@ function initializeGroupedTable() {
   groupedData = {};
   rows.forEach(function(row) {
     var name = row.getAttribute('data-name');
+    var url = row.getAttribute('data-url') || '';
     if (!groupedData[name]) {
       groupedData[name] = [];
     }
@@ -42,6 +43,8 @@ function initializeGroupedTable() {
     groupedData[name].push({
       name: name,
       batch: cells[2] ? cells[2].textContent : '',
+      batchHTML: cells[2] ? cells[2].innerHTML : '',
+      url: url,
       age: cells[3] ? cells[3].textContent : '',
       proof: cells[4] ? cells[4].textContent : '',
       releaseYear: cells[5] ? cells[5].textContent : '',
@@ -82,7 +85,7 @@ function initializeGroupedTable() {
     
     // Add data from first item
     var batchCell = document.createElement('td');
-    batchCell.textContent = group[0].batch;
+    batchCell.innerHTML = group[0].batchHTML;
     headerRow.appendChild(batchCell);
     
     var ageCell = document.createElement('td');
@@ -126,7 +129,7 @@ function initializeGroupedTable() {
         
         // Add batch data
         var detailBatch = document.createElement('td');
-        detailBatch.textContent = group[i].batch;
+        detailBatch.innerHTML = group[i].batchHTML;
         detailRow.appendChild(detailBatch);
         
         var detailAge = document.createElement('td');
@@ -344,7 +347,7 @@ function sortTable(columnIndex) {
     
     // Add data from first item
     var batchCell = document.createElement('td');
-    batchCell.textContent = group[0].batch;
+    batchCell.innerHTML = group[0].batchHTML;
     headerRow.appendChild(batchCell);
     
     var ageCell = document.createElement('td');
@@ -389,7 +392,7 @@ function sortTable(columnIndex) {
         
         // Add batch data
         var detailBatch = document.createElement('td');
-        detailBatch.textContent = group[i].batch;
+        detailBatch.innerHTML = group[i].batchHTML;
         detailRow.appendChild(detailBatch);
         
         var detailAge = document.createElement('td');

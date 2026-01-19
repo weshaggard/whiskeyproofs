@@ -30,10 +30,10 @@ description: "Comprehensive searchable index of bourbon and whiskey batches. Fin
   </thead>
   <tbody>
    {% for whiskey in site.data.whiskeyindex %}
-   <tr data-name="{{ whiskey.Name }}">
+   <tr data-name="{{ whiskey.Name }}" data-url="{{ whiskey.url }}">
      <td class="expand-icon"></td>
      <td>{{ whiskey.Name }}</td>
-     <td>{{ whiskey.Batch }}</td>
+     <td>{% if whiskey.url and whiskey.url != '' %}<a href="{{ whiskey.url }}" target="_blank" rel="noopener noreferrer">{{ whiskey.Batch }}</a>{% else %}{{ whiskey.Batch }}{% endif %}</td>
      <td>{{ whiskey.Age }}</td>
      <td>{{ whiskey.Proof }}</td>
      <td>{{ whiskey.ReleaseYear }}</td>
