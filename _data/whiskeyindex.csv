@@ -1,4 +1,5 @@
 Name,Batch,Age,Proof,ReleaseYear,Distillery,Type,TTB_ID
+<<<<<<< HEAD
 Angel's Envy Cask Strength,2025,10,122.6,2025,Angel's Envy,Bourbon,23132001000515
 Angel's Envy Cask Strength,2024,8,118.8,2024,Angel's Envy,Bourbon,23132001000515
 Angel's Envy Cask Strength,2023,,118.2,2023,Angel's Envy,Bourbon,23132001000515
@@ -13,6 +14,22 @@ Angel's Envy Cask Strength,2015,,127.9,2015,Angel's Envy,Bourbon,17152001000375
 Angel's Envy Cask Strength,2014,,119.3,2014,Angel's Envy,Bourbon,17152001000375
 Angel's Envy Cask Strength,2013,,123.0,2013,Angel's Envy,Bourbon,17152001000375
 Angel's Envy Cask Strength,2012,,121.0,2012,Angel's Envy,Bourbon,17152001000375
+=======
+Angel's Envy Cask Strength,2025,10,122.6,2025,Angel's Envy,Bourbon,
+Angel's Envy Cask Strength,2024,8,118.8,2024,Angel's Envy,Bourbon,
+Angel's Envy Cask Strength,2023,,118.2,2023,Angel's Envy,Bourbon,
+Angel's Envy Cask Strength,2022,,119.8,2022,Angel's Envy,Bourbon,
+Angel's Envy Cask Strength,2021,,120.7,2021,Angel's Envy,Bourbon,
+Angel's Envy Cask Strength,2020,,120.4,2020,Angel's Envy,Bourbon,
+Angel's Envy Cask Strength,2019,,122.4,2019,Angel's Envy,Bourbon,
+Angel's Envy Cask Strength,2018,,124.0,2018,Angel's Envy,Bourbon,
+Angel's Envy Cask Strength,2017,,124.5,2017,Angel's Envy,Bourbon,
+Angel's Envy Cask Strength,2016,,124.6,2016,Angel's Envy,Bourbon,
+Angel's Envy Cask Strength,2015,,127.9,2015,Angel's Envy,Bourbon,
+Angel's Envy Cask Strength,2014,,119.3,2014,Angel's Envy,Bourbon,
+Angel's Envy Cask Strength,2013,,123.0,2013,Angel's Envy,Bourbon,
+Angel's Envy Cask Strength,2012,,121.0,2012,Angel's Envy,Bourbon,
+>>>>>>> 05d8bdd (Remove incorrect TTB IDs and rewrite query script with proper HTTP POST)
 Birthday Bourbon,2025,12,92.0,2025,Old Forester,Bourbon,
 Birthday Bourbon,2024,,96.0,2024,Old Forester,Bourbon,
 Birthday Bourbon,2023,12,96.0,2023,Old Forester,Bourbon,
@@ -307,7 +324,7 @@ Russell's Reserve 13 Year,3 - LL/KE (May 2022),13,114.8,2022,Wild Turkey,Bourbon
 Russell's Reserve 13 Year,2 - LL/JL (December 2021),13,114.8,2021,Wild Turkey,Bourbon,
 Russell's Reserve 13 Year,1 - LL/JD (April 2021),13,114.8,2021,Wild Turkey,Bourbon,
 Sazerac 18 Year,BTAC Fall 2025,18,90.0,2025,Buffalo Trace,Rye,
-Sazerac 18 Year,BTAC Fall 2024,18,90.0,2024,Buffalo Trace,Rye,24036001000038
+Sazerac 18 Year,BTAC Fall 2024,18,90.0,2024,Buffalo Trace,Rye,
 Sazerac 18 Year,BTAC Fall 2023,18,90.0,2023,Buffalo Trace,Rye,
 Sazerac 18 Year,BTAC Fall 2022,18,90.0,2022,Buffalo Trace,Rye,
 Sazerac 18 Year,BTAC Fall 2021,18,90.0,2021,Buffalo Trace,Rye,
@@ -380,7 +397,7 @@ Wild Turkey Master's Keep,2017 - 1894,6-13,90.0,2017,Wild Turkey,Bourbon,
 Wild Turkey Master's Keep,2016 - Decades,10-20,104.0,2016,Wild Turkey,Bourbon,
 Wild Turkey Master's Keep,2015 - 17 Year,17,86.8,2015,Wild Turkey,Bourbon,
 William Larue Weller (WLW),BTAC Fall 2025,12.5,129.0,2025,Buffalo Trace,Bourbon,
-William Larue Weller (WLW),BTAC Fall 2024,12.5,125.8,2024,Buffalo Trace,Bourbon,24115001000068
+William Larue Weller (WLW),BTAC Fall 2024,12.5,125.8,2024,Buffalo Trace,Bourbon,
 William Larue Weller (WLW),BTAC Fall 2023,12,133.6,2023,Buffalo Trace,Bourbon,
 William Larue Weller (WLW),BTAC Fall 2022,12,124.7,2022,Buffalo Trace,Bourbon,
 William Larue Weller (WLW),BTAC Fall 2021,12,125.3,2021,Buffalo Trace,Bourbon,

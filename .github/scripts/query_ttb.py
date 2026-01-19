@@ -5,23 +5,19 @@ Query TTB COLA Public Registry for whiskey approval IDs.
 This script searches the TTB (Alcohol and Tobacco Tax and Trade Bureau) 
 COLA Public Registry to find TTB approval IDs for whiskey entries in the database.
 
-The script uses Selenium WebDriver to automate browser interactions with the TTB website.
+The script uses HTTP POST requests to query the TTB website.
 
 Requirements:
-    pip install selenium
+    pip install requests beautifulsoup4
     
-    You also need ChromeDriver or GeckoDriver installed:
-    - Chrome: https://chromedriver.chromium.org/
-    - Firefox: https://github.com/mozilla/geckodriver/releases
-
 Usage:
-    python3 .github/scripts/query_ttb.py [--test] [--browser chrome|firefox]
+    python3 .github/scripts/query_ttb.py [--test] [--verbose]
     
 Options:
     --test       Run in test mode with a small sample of entries
-    --browser    Browser to use (chrome or firefox, default: chrome)
-    --headless   Run browser in headless mode
+    --verbose    Enable verbose output
     --limit N    Limit to N entries (default: all without TTB_ID)
+    --output FILE Save results to JSON file
 """
 
 import csv
@@ -29,67 +25,62 @@ import re
 import sys
 import time
 import argparse
-from urllib.parse import urlencode, quote
+import json
+from datetime import datetime, timedelta
+from urllib.parse import urlencode
 
-# Try to import selenium, provide helpful error if not available
 try:
-    from selenium import webdriver
-    from selenium.webdriver.common.by import By
-    from selenium.webdriver.support.ui import WebDriverWait
-    from selenium.webdriver.support import expected_conditions as EC
-    from selenium.common.exceptions import TimeoutException, NoSuchElementException
-    SELENIUM_AVAILABLE = True
+    import requests
+    from bs4 import BeautifulSoup
+    DEPENDENCIES_AVAILABLE = True
 except ImportError:
-    SELENIUM_AVAILABLE = False
+    DEPENDENCIES_AVAILABLE = False
 
 
 class TTBQuerier:
     """Query the TTB COLA Public Registry for whiskey approval IDs"""
     
-    SEARCH_URL = "https://www.ttbonline.gov/colasonline/publicSearchColasBasic.do"
+    SEARCH_URL = "https://ttbonline.gov/colasonline/publicSearchColasBasicProcess.do?action=search"
     DETAIL_URL = "https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid="
     
-    def __init__(self, verbose=False, browser_type='chrome', headless=True):
+    def __init__(self, verbose=False):
         self.verbose = verbose
-        self.browser_type = browser_type
-        self.headless = headless
-        self.driver = None
+        self.session = requests.Session()
+        self.session.headers.update({
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        })
+        # Disable SSL verification warnings
+        import urllib3
+        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
         
-    def _init_browser(self):
-        """Initialize the Selenium WebDriver"""
-        if not SELENIUM_AVAILABLE:
-            raise RuntimeError(
-                "Selenium is not installed. Please install it with: pip install selenium\n"
-                "You also need to install ChromeDriver or GeckoDriver."
-            )
+    def _extract_brand_name(self, name):
+        """Extract brand name from product name"""
+        # Split on common product type terms
+        split_terms = [
+            'Cask Strength',
+            'Barrel Proof',
+            'Single Barrel',
+            'Small Batch',
+            'Limited Edition',
+            'Special Release',
+            'Straight',
+            'BTAC',
+        ]
         
-        if self.browser_type == 'chrome':
-            options = webdriver.ChromeOptions()
-            if self.headless:
-                options.add_argument('--headless')
-            options.add_argument('--no-sandbox')
-            options.add_argument('--disable-dev-shm-usage')
-            self.driver = webdriver.Chrome(options=options)
-        elif self.browser_type == 'firefox':
-            options = webdriver.FirefoxOptions()
-            if self.headless:
-                options.add_argument('--headless')
-            self.driver = webdriver.Firefox(options=options)
-        else:
-            raise ValueError(f"Unsupported browser: {self.browser_type}")
+        brand = name
+        for term in split_terms:
+            if term in name:
+                brand = name.split(term)[0].strip()
+                break
+                
+        # Remove common suffixes
+        brand = brand.replace('(WLW)', '').replace('(GTS)', '').replace('(THH)', '').strip()
         
-        if self.verbose:
-            print(f"Initialized {self.browser_type} browser (headless={self.headless})")
+        return brand
     
-    def _close_browser(self):
-        """Close the browser"""
-        if self.driver:
-            self.driver.quit()
-            self.driver = None
-        
     def search_whiskey(self, name, batch, proof, release_year):
         """
-        Search TTB COLA registry for a whiskey entry using browser automation.
+        Search TTB COLA registry for a whiskey entry using HTTP POST.
         
         Args:
             name: Product name (e.g., "Booker's", "Angel's Envy Cask Strength")
@@ -100,58 +91,34 @@ class TTBQuerier:
         Returns:
             List of matching TTB IDs with their details, or empty list if none found
         """
-        if not self.driver:
-            self._init_browser()
-        
         # Extract brand name for search
         brand = self._extract_brand_name(name)
         
         if self.verbose:
             print(f"  Searching: {name} (brand: {brand}), batch: {batch}, proof: {proof}, year: {release_year}")
         
+        # Set date range around the release year
+        date_from = f"01/01/{release_year}"
+        date_to = f"12/31/{release_year}"
+        
+        # Prepare form data for POST request
+        form_data = {
+            'searchCriteria.dateCompletedFrom': date_from,
+            'searchCriteria.dateCompletedTo': date_to,
+            'searchCriteria.productOrFancifulName': brand,
+            'searchCriteria.productNameSearchType': 'C',  # C = Contains, E = Exact
+            'searchCriteria.classTypeFrom': '',
+            'searchCriteria.classTypeTo': '',
+            'searchCriteria.originCode': ''
+        }
+        
         try:
-            # Navigate to search page
-            self.driver.get(self.SEARCH_URL)
+            # Make POST request
+            response = self.session.post(self.SEARCH_URL, data=form_data, timeout=30, verify=False)
+            response.raise_for_status()
             
-            # Wait for page to load
-            wait = WebDriverWait(self.driver, 10)
-            
-            # Fill in the search form
-            # Brand Name field
-            try:
-                brand_field = wait.until(
-                    EC.presence_of_element_located((By.NAME, "brandName"))
-                )
-                brand_field.clear()
-                brand_field.send_keys(brand)
-            except (TimeoutException, NoSuchElementException):
-                if self.verbose:
-                    print("    Warning: Could not find brand name field")
-            
-            # Filter by year if possible
-            try:
-                # Look for year field - the exact field name may vary
-                year_field = self.driver.find_element(By.NAME, "effectiveYear")
-                year_field.clear()
-                year_field.send_keys(str(release_year))
-            except NoSuchElementException:
-                if self.verbose:
-                    print(f"    Note: Year field not found, searching without year filter")
-            
-            # Submit the search
-            try:
-                search_button = self.driver.find_element(By.NAME, "search")
-                search_button.click()
-            except NoSuchElementException:
-                # Try finding by button text
-                search_button = self.driver.find_element(By.XPATH, "//input[@type='submit' and @value='Search']")
-                search_button.click()
-            
-            # Wait for results to load
-            time.sleep(2)
-            
-            # Parse search results
-            results = self._parse_search_results(proof, release_year)
+            # Parse results
+            results = self._parse_search_results(response.text, proof, release_year, name)
             
             if self.verbose:
                 print(f"    Found {len(results)} potential match(es)")
@@ -163,68 +130,68 @@ class TTBQuerier:
                 print(f"    Error during search: {e}")
             return []
     
-    def _parse_search_results(self, target_proof, target_year):
+    def _parse_search_results(self, html_content, target_proof, target_year, product_name):
         """
-        Parse the search results page to extract TTB IDs.
+        Parse the search results HTML to extract TTB IDs.
         
         Filters results by proof and year to find the best matches.
         """
         results = []
         
         try:
-            # Look for result rows - the exact structure may vary
-            # This is a template that may need adjustment based on actual HTML
-            result_rows = self.driver.find_elements(By.XPATH, "//table[@class='resultTable']//tr[position()>1]")
+            soup = BeautifulSoup(html_content, 'html.parser')
             
-            for row in result_rows:
-                try:
-                    # Extract TTB ID from the row (typically a link)
-                    ttb_link = row.find_element(By.XPATH, ".//a[contains(@href, 'ttbid=')]")
-                    href = ttb_link.get_attribute('href')
+            # Look for result table rows
+            # The TTB results are typically in a table with class 'resultTable' or similar
+            tables = soup.find_all('table')
+            
+            for table in tables:
+                rows = table.find_all('tr')
+                
+                for row in rows:
+                    # Look for links containing ttbid
+                    links = row.find_all('a', href=True)
                     
-                    # Extract TTB ID from URL
-                    match = re.search(r'ttbid=(\d+)', href)
-                    if match:
-                        ttb_id = match.group(1)
+                    for link in links:
+                        href = link.get('href', '')
                         
-                        # Try to extract proof and year from result
-                        result_text = row.text
-                        
-                        # Store result with metadata
-                        results.append({
-                            'ttb_id': ttb_id,
-                            'text': result_text,
-                            'url': href
-                        })
-                except NoSuchElementException:
-                    continue
-            
+                        if 'ttbid=' in href:
+                            # Extract TTB ID from URL
+                            match = re.search(r'ttbid=(\d+)', href)
+                            if match:
+                                ttb_id = match.group(1)
+                                
+                                # Get row text for context
+                                row_text = row.get_text(strip=True, separator=' ')
+                                
+                                # Try to extract proof from text
+                                proof_match = re.search(r'(\d+\.?\d*)\s*(?:proof|%)', row_text, re.IGNORECASE)
+                                found_proof = float(proof_match.group(1)) if proof_match else None
+                                
+                                # Check if proof matches (within reasonable range)
+                                proof_matches = False
+                                if found_proof:
+                                    # Allow ±1 proof variation
+                                    try:
+                                        target_proof_val = float(target_proof)
+                                        proof_matches = abs(found_proof - target_proof_val) <= 1.0
+                                    except (ValueError, TypeError):
+                                        proof_matches = False
+                                
+                                # Store result with metadata
+                                results.append({
+                                    'ttb_id': ttb_id,
+                                    'text': row_text[:200],  # First 200 chars
+                                    'url': href if href.startswith('http') else f"https://ttbonline.gov{href}",
+                                    'proof': found_proof,
+                                    'proof_matches': proof_matches
+                                })
+        
         except Exception as e:
             if self.verbose:
                 print(f"    Error parsing results: {e}")
         
         return results
-    
-    def _extract_brand_name(self, name):
-        """Extract brand name from product name"""
-        # Common whiskey product terms to split on
-        split_terms = [
-            'Cask Strength',
-            'Barrel Proof',
-            'Single Barrel',
-            'Small Batch',
-            'Limited Edition',
-            'Special Release',
-            'Straight',
-        ]
-        
-        brand = name
-        for term in split_terms:
-            if term in name:
-                brand = name.split(term)[0].strip()
-                break
-                
-        return brand
     
     def query_csv_entries(self, csv_file, test_mode=False, limit=None):
         """
@@ -263,33 +230,27 @@ class TTBQuerier:
             entries_to_search = entries_to_search[:limit]
             print(f"Limit set: Processing only first {len(entries_to_search)} entries")
         
-        # Initialize browser once for all searches
-        try:
-            self._init_browser()
+        for idx, (i, row) in enumerate(entries_to_search, start=1):
+            name = row['Name']
+            batch = row['Batch']
+            proof = row['Proof']
+            year = row['ReleaseYear']
             
-            for idx, (i, row) in enumerate(entries_to_search, start=1):
-                name = row['Name']
-                batch = row['Batch']
-                proof = row['Proof']
-                year = row['ReleaseYear']
-                
-                print(f"\n[{idx}/{len(entries_to_search)}] {name} - {batch} ({year})")
-                
-                ttb_results = self.search_whiskey(name, batch, proof, year)
-                
-                if ttb_results:
-                    results[i] = ttb_results
-                    print(f"  ✓ Found {len(ttb_results)} potential match(es)")
-                    for result in ttb_results:
-                        print(f"    - TTB ID: {result['ttb_id']}")
-                else:
-                    print(f"  ✗ No matches found")
-                
-                # Rate limiting - be respectful to the TTB server
-                time.sleep(2)
-        
-        finally:
-            self._close_browser()
+            print(f"\n[{idx}/{len(entries_to_search)}] {name} - {batch} ({year})")
+            
+            ttb_results = self.search_whiskey(name, batch, proof, year)
+            
+            if ttb_results:
+                results[i] = ttb_results
+                print(f"  ✓ Found {len(ttb_results)} potential match(es)")
+                for result in ttb_results:
+                    proof_indicator = " ✓" if result.get('proof_matches') else ""
+                    print(f"    - TTB ID: {result['ttb_id']} (proof: {result.get('proof', 'N/A')}){proof_indicator}")
+            else:
+                print(f"  ✗ No matches found")
+            
+            # Rate limiting - be respectful to the TTB server
+            time.sleep(2)
         
         return results
 
@@ -315,17 +276,6 @@ def main():
         help='Path to CSV file (default: _data/whiskeyindex.csv)'
     )
     parser.add_argument(
-        '--browser',
-        choices=['chrome', 'firefox'],
-        default='chrome',
-        help='Browser to use (default: chrome)'
-    )
-    parser.add_argument(
-        '--no-headless',
-        action='store_true',
-        help='Run browser in visible mode (not headless)'
-    )
-    parser.add_argument(
         '--limit',
         type=int,
         help='Limit number of entries to process'
@@ -337,21 +287,16 @@ def main():
     
     args = parser.parse_args()
     
-    # Check if Selenium is available
-    if not SELENIUM_AVAILABLE:
+    # Check if dependencies are available
+    if not DEPENDENCIES_AVAILABLE:
         print("=" * 60)
-        print("ERROR: Selenium is not installed")
+        print("ERROR: Required dependencies not installed")
         print("=" * 60)
         print()
-        print("This script requires Selenium to automate browser interactions")
-        print("with the TTB COLA Public Registry.")
+        print("This script requires requests and beautifulsoup4.")
         print()
-        print("To install Selenium:")
-        print("  pip install selenium")
-        print()
-        print("You also need a WebDriver:")
-        print("  - Chrome: https://chromedriver.chromium.org/")
-        print("  - Firefox: https://github.com/mozilla/geckodriver/releases")
+        print("To install:")
+        print("  pip install requests beautifulsoup4")
         print()
         sys.exit(1)
     
@@ -359,15 +304,10 @@ def main():
     print("TTB COLA Registry Query Tool")
     print("=" * 60)
     print()
-    print("NOTE: This tool automates searches on the TTB COLA Public Registry.")
-    print("Please use responsibly and respect the TTB server.")
+    print("Querying TTB website using HTTP POST...")
     print()
     
-    querier = TTBQuerier(
-        verbose=args.verbose,
-        browser_type=args.browser,
-        headless=not args.no_headless
-    )
+    querier = TTBQuerier(verbose=args.verbose)
     
     try:
         results = querier.query_csv_entries(
@@ -377,13 +317,14 @@ def main():
         )
     except KeyboardInterrupt:
         print("\n\nSearch interrupted by user.")
-        querier._close_browser()
         sys.exit(1)
     except Exception as e:
         print(f"\n\nError: {e}")
-        querier._close_browser()
+        import traceback
+        traceback.print_exc()
         sys.exit(1)
     
+    print()
     print("=" * 60)
     print("Results Summary")
     print("=" * 60)
@@ -395,21 +336,16 @@ def main():
         for line_num, ttb_results in results.items():
             print(f"  Line {line_num}: {len(ttb_results)} potential match(es)")
             for result in ttb_results:
-                print(f"    - {result['ttb_id']}")
+                proof_indicator = " (proof match)" if result.get('proof_matches') else ""
+                print(f"    - {result['ttb_id']}{proof_indicator}")
         
         # Save results to file if requested
         if args.output:
-            import json
             with open(args.output, 'w') as f:
                 json.dump(results, f, indent=2)
             print(f"\nResults saved to: {args.output}")
     else:
         print("\nNo matches found.")
-        print("\nThis could mean:")
-        print("  1. The entries don't have TTB COLA approvals in the public registry")
-        print("  2. The search parameters need adjustment")
-        print("  3. The TTB website structure has changed")
-        print("\nConsider running with --verbose flag for more details.")
 
 
 if __name__ == '__main__':
