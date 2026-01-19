@@ -17,7 +17,7 @@ Your comprehensive reference for whiskey batch information, proofs, and release 
   <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Search by name, batch, proof, etc...">
 </div>
 
-<table class="whiskey-table" id="whiskeyTable" role="table" aria-label="Whiskey and Bourbon Batch Information Database">
+<table class="whiskey-table" id="whiskeyTable" role="table" aria-label="Whiskey and Bourbon Batch Information Index">
   <thead>
     <tr>
       <th style="width: auto; cursor: pointer;" onclick="toggleAllGroups()">
