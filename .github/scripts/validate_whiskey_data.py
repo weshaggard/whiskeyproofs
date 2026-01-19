@@ -10,6 +10,24 @@ import sys
 from collections import defaultdict
 
 
+class ReverseStr:
+    """Wrapper class for reverse string comparison (descending alphabetical order)"""
+    def __init__(self, s):
+        self.s = s
+    def __lt__(self, other):
+        return self.s > other.s
+    def __le__(self, other):
+        return self.s >= other.s
+    def __gt__(self, other):
+        return self.s < other.s
+    def __ge__(self, other):
+        return self.s <= other.s
+    def __eq__(self, other):
+        return self.s == other.s
+    def __repr__(self):
+        return f'ReverseStr({self.s!r})'
+
+
 def extract_numeric_from_batch(batch):
     """Extract numeric value from batch for numeric sorting"""
     match = re.search(r'\b(\d+)\b', batch)
@@ -100,8 +118,8 @@ def batch_sort_key(batch, release_year):
     year_paren_match = re.match(r'^(\d{4})\s*\(', batch)
     if year_paren_match:
         year = int(year_paren_match.group(1))
-        # Sort alphabetically by the batch string
-        return (8, -year, batch)
+        # Sort alphabetically descending by the batch string
+        return (8, -year, ReverseStr(batch))
     
     # Default: use release year and alphabetical descending
     return (99, -int(release_year), batch)
@@ -208,25 +226,38 @@ def validate_csv(filename):
     
     if product_names != sorted_names:
         print("   ❌ Products not in alphabetical order")
+        # Find and show which products are out of order
+        product_order_issues = []
+        for i, (actual, expected) in enumerate(zip(product_names, sorted_names)):
+            if actual != expected:
+                product_order_issues.append(
+                    f"Position {i+1}: Found '{actual}', expected '{expected}'"
+                )
+        
+        if product_order_issues:
+            print("   Product ordering issues:")
+            for issue in product_order_issues[:5]:
+                print(f"      {issue}")
+            if len(product_order_issues) > 5:
+                print(f"      ... and {len(product_order_issues) - 5} more")
         all_valid = False
     else:
         # Check batch order within each product
         for product_name, product_rows in products.items():
             prev_key = None
+            prev_batch = None
             for line_num, row in product_rows:
                 current_key = batch_sort_key(row['Batch'], row['ReleaseYear'])
                 # Keys use negated values for descending, so current < prev is an error
-                # Compare only the numeric parts (first 2 elements: category and year)
-                # to avoid false positives from alphabetical string differences
+                # Compare all elements of the sort key to properly validate ordering
                 if prev_key is not None:
-                    prev_numeric = prev_key[:2]
-                    curr_numeric = current_key[:2]
-                    if curr_numeric < prev_numeric:
+                    if current_key < prev_key:
                         sort_issues.append(
-                            f"Line {line_num}: {product_name} batch '{row['Batch']}' " 
-                            f"not in descending order"
+                            f"Line {line_num}: {product_name} batch '{row['Batch']}' ({row['ReleaseYear']}) " 
+                            f"should come before '{prev_batch}' (sort keys: {current_key} < {prev_key})"
                         )
                 prev_key = current_key
+                prev_batch = row['Batch']
     
     if sort_issues:
         print(f"   ❌ Found {len(sort_issues)} sort order issues:")
