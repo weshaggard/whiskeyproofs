@@ -63,7 +63,7 @@ This whiskey proof index is maintained as a free resource for bourbon and whiske
 Found incorrect data? Want to add a missing whiskey? Have suggestions?
 
 <p align="center">
-  <a href="https://github.com/weshaggard/whiskeyproofs/issues/new/choose" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 6px; font-weight: 500;">
+  <a href="https://github.com/weshaggard/whiskeyproofs/issues/new/choose" target="_blank" rel="noopener noreferrer" class="feedback-button">
     📝 Submit Feedback
   </a>
 </p>
