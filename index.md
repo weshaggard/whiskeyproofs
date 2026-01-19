@@ -59,7 +59,7 @@ This whiskey proof index is maintained as a free resource for bourbon and whiske
 
 ### How to help
 
-Found incorrect data? Want to add a missing whiskey? Have suggestions? <a href="https://github.com/weshaggard/whiskeyproofs/issues/new/choose" target="_blank" rel="noopener noreferrer" class="feedback-button">Submit Feedback</a>
+Found incorrect data? Want to add a missing whiskey? Have suggestions? <a href="https://github.com/weshaggard/whiskeyproofs/issues/new/choose" target="_blank" rel="noopener noreferrer">Submit Feedback</a>
 
 <p align="left">
   <a href="https://www.buymeacoffee.com/whiskeyproofs">
