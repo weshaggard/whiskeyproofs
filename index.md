@@ -10,8 +10,6 @@ description: "Comprehensive searchable index of bourbon and whiskey batches. Fin
 
 # Whiskey proof index
 
-Your comprehensive reference for whiskey batch information, proofs, and release years. Whether you're a collector tracking down specific batches, an enthusiast researching proof variations, or simply curious about whiskey releases over the years, this searchable index helps you find exactly what you're looking for.
-
 <div class="filter-container">
   <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Search by name, batch, proof, etc...">
 </div>
@@ -47,7 +45,7 @@ Your comprehensive reference for whiskey batch information, proofs, and release 
 
 ## About this index
 
-This whiskey proof index is maintained as a free resource for bourbon and whiskey enthusiasts. Our goal is to provide accurate, up-to-date information about whiskey batch releases, helping collectors and enthusiasts make informed decisions.
+This whiskey proof index is maintained as a free resource for bourbon and whiskey enthusiasts. Whether you're a collector tracking down specific batches, an enthusiast researching proof variations, or simply curious about whiskey releases over the years, this searchable index provides accurate, up-to-date information about whiskey batch releases to help you find exactly what you're looking for.
 
 **Search our extensive index** of barrel proof bourbon, cask strength whiskey, and limited releases from top distilleries including Buffalo Trace Antique Collection (BTAC), Heaven Hill, Old Forester, Wild Turkey, and many more. Find specific batch numbers, compare proof variations, track age statements, and discover release year information for your favorite bottles.
 
