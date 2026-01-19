@@ -3,9 +3,22 @@ var groupedData = {};
 var expandedGroups = {};
 var currentSortColumn = -1;
 var currentSortDirection = 1; // 1 for ascending, -1 for descending
+var showTTBColumn = false; // Hidden by default
 
 // Initialize table grouping on page load
 document.addEventListener('DOMContentLoaded', function() {
+  // Check if TTB column should be shown via query parameter
+  var urlParams = new URLSearchParams(window.location.search);
+  showTTBColumn = urlParams.get('showTTB') === 'true';
+  
+  // Hide TTB column if not enabled
+  if (!showTTBColumn) {
+    var ttbElements = document.querySelectorAll('.ttb-column');
+    ttbElements.forEach(function(el) {
+      el.style.display = 'none';
+    });
+  }
+  
   initializeGroupedTable();
 });
 
@@ -84,6 +97,10 @@ function initializeGroupedTable() {
     headerRow.appendChild(yearCell);
     
     var ttbCell = document.createElement('td');
+    ttbCell.className = 'ttb-column';
+    if (!showTTBColumn) {
+      ttbCell.style.display = 'none';
+    }
     ttbCell.innerHTML = group[0].ttb;
     headerRow.appendChild(ttbCell);
     
@@ -124,6 +141,10 @@ function initializeGroupedTable() {
         detailRow.appendChild(detailYear);
         
         var detailTtb = document.createElement('td');
+        detailTtb.className = 'ttb-column';
+        if (!showTTBColumn) {
+          detailTtb.style.display = 'none';
+        }
         detailTtb.innerHTML = group[i].ttb;
         detailRow.appendChild(detailTtb);
         
@@ -290,6 +311,10 @@ function sortTable(columnIndex) {
     headerRow.appendChild(yearCell);
     
     var ttbCell = document.createElement('td');
+    ttbCell.className = 'ttb-column';
+    if (!showTTBColumn) {
+      ttbCell.style.display = 'none';
+    }
     ttbCell.innerHTML = group[0].ttb;
     headerRow.appendChild(ttbCell);
     
@@ -331,6 +356,10 @@ function sortTable(columnIndex) {
         detailRow.appendChild(detailYear);
         
         var detailTtb = document.createElement('td');
+        detailTtb.className = 'ttb-column';
+        if (!showTTBColumn) {
+          detailTtb.style.display = 'none';
+        }
         detailTtb.innerHTML = group[i].ttb;
         detailRow.appendChild(detailTtb);
         
