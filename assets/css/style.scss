@@ -7,3 +7,24 @@
   margin-right: auto;
   margin-left: auto;
 }
+
+/* Reduce spacing at the top of the page */
+body {
+  padding: 20px 50px;
+}
+
+/* Reduce spacing for section element */
+section {
+  padding-top: 0 !important;
+}
+
+/* Minimize spacing between title and text */
+section h1:first-of-type {
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+/* Reduce spacing after paragraphs */
+section > p {
+  margin-bottom: 12px;
+}
