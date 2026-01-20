@@ -140,10 +140,19 @@ python3 .github/scripts/validate_urls.py
 - **Prevents broken links**: Catches issues before they reach production
 - **Saves time**: Caching makes validation fast even with 400+ entries
 
+### URL Priority Guidelines
+
+When selecting URLs for whiskey entries, follow this priority order (highest to lowest):
+
+1. **Batch-specific link from official distillery site** - The most specific and authoritative source
+2. **Batch-specific link from breakingbourbon.com** - Detailed reviews when distillery doesn't have batch pages
+3. **Product-specific link from official distillery site** - General product information from the source
+4. **Distillery-specific link from official distillery** - Homepage or brand page when no product-specific link exists
+5. **Leave URL blank** - If nothing appropriate can be found
+
 ### Best Practices for URLs
 
 1. **Run validation before committing**: Always validate URLs after changes
-2. **Use official sources**: Prefer distillery websites over third-party sites
-3. **Fallback to generic URLs**: If batch-specific pages don't exist, use product pages
-4. **Verify manually**: Spot-check a few URLs in your browser to confirm they work
-5. **Fix errors immediately**: Address all validation failures before pushing changes
+2. **Follow priority guidelines**: Use the URL priority order above when selecting links
+3. **Verify manually**: Spot-check a few URLs in your browser to confirm they work
+4. **Fix errors immediately**: Address all validation failures before pushing changes
