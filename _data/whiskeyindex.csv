@@ -1,18 +1,18 @@
 Name,Batch,Age,Proof,ReleaseYear,Distillery,Type,TTB_ID,url
-Angel's Envy Cask Strength,2025,10,122.6,2025,Angel's Envy,Bourbon,23132001000515,https://www.angelsenvy.com/
-Angel's Envy Cask Strength,2024,8,118.8,2024,Angel's Envy,Bourbon,23132001000515,https://www.angelsenvy.com/
-Angel's Envy Cask Strength,2023,,118.2,2023,Angel's Envy,Bourbon,23132001000515,https://www.angelsenvy.com/
-Angel's Envy Cask Strength,2022,,119.8,2022,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/
-Angel's Envy Cask Strength,2021,,120.7,2021,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/
-Angel's Envy Cask Strength,2020,,120.4,2020,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/
-Angel's Envy Cask Strength,2019,,122.4,2019,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/
-Angel's Envy Cask Strength,2018,,124.0,2018,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/
-Angel's Envy Cask Strength,2017,,124.5,2017,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/
-Angel's Envy Cask Strength,2016,,124.6,2016,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/
-Angel's Envy Cask Strength,2015,,127.9,2015,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/
-Angel's Envy Cask Strength,2014,,119.3,2014,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/
-Angel's Envy Cask Strength,2013,,123.0,2013,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/
-Angel's Envy Cask Strength,2012,,121.0,2012,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/
+Angel's Envy Cask Strength,2025,10,122.6,2025,Angel's Envy,Bourbon,23132001000515,https://www.angelsenvy.com/us/en/product/angels-envy-10-cask-strength/
+Angel's Envy Cask Strength,2024,8,118.8,2024,Angel's Envy,Bourbon,23132001000515,https://www.angelsenvy.com/us/en/product/2024-cask-strength-bourbon/
+Angel's Envy Cask Strength,2023,,118.2,2023,Angel's Envy,Bourbon,23132001000515,https://www.angelsenvy.com/us/en/product/cask-strength/
+Angel's Envy Cask Strength,2022,,119.8,2022,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
+Angel's Envy Cask Strength,2021,,120.7,2021,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
+Angel's Envy Cask Strength,2020,,120.4,2020,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
+Angel's Envy Cask Strength,2019,,122.4,2019,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
+Angel's Envy Cask Strength,2018,,124.0,2018,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
+Angel's Envy Cask Strength,2017,,124.5,2017,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
+Angel's Envy Cask Strength,2016,,124.6,2016,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
+Angel's Envy Cask Strength,2015,,127.9,2015,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
+Angel's Envy Cask Strength,2014,,119.3,2014,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
+Angel's Envy Cask Strength,2013,,123.0,2013,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
+Angel's Envy Cask Strength,2012,,121.0,2012,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
 Birthday Bourbon,2025,12,92.0,2025,Old Forester,Bourbon,25013001000088,https://www.breakingbourbon.com/review/old-forester-2025-birthday-bourbon
 Birthday Bourbon,2024,,96.0,2024,Old Forester,Bourbon,24031001000098,https://www.breakingbourbon.com/review/old-forester-2024-birthday-bourbon
 Birthday Bourbon,2023,12,96.0,2023,Old Forester,Bourbon,22321001000309,https://www.oldforester.com/products/2023-birthday-bourbon/
@@ -205,16 +205,16 @@ Jack Daniel's Special Release,2020 - Barrel Proof Rye,,125-140,2020,Jack Daniel'
 Jack Daniel's Special Release,2019 - Heritage Barrel,8,100.0,2019,Jack Daniel's,Tennessee Whiskey,,https://www.jackdaniels.com/en-us/whiskey/single-barrel-heritage-barrel-special-release
 Jack Daniel's Special Release,2018 - Heritage Barrel,7,100.0,2018,Jack Daniel's,Tennessee Whiskey,,https://www.jackdaniels.com/en-us/whiskey/single-barrel-heritage-barrel-special-release
 Knob Creek 15 Year (KC15),2021,15,100.0,2021,Knob Creek,Bourbon,,https://www.knobcreek.com/
-Knob Creek 15 Year (KC15),2020,15,100.0,2020,Knob Creek,Bourbon,,https://www.knobcreek.com/
-Knob Creek 18 Year (KC18),2024,18,100.0,2024,Knob Creek,Bourbon,,https://www.knobcreek.com/
-Knob Creek 18 Year (KC18),2023,18,100.0,2023,Knob Creek,Bourbon,,https://www.knobcreek.com/
-Knob Creek 18 Year (KC18),2022,18,100.0,2022,Knob Creek,Bourbon,,https://www.knobcreek.com/
-Knob Creek 2001 Limited Edition,Batch 5,14,100.0,2016,Knob Creek,Bourbon,,https://www.knobcreek.com/
-Knob Creek 2001 Limited Edition,Batch 4,14,100.0,2016,Knob Creek,Bourbon,,https://www.knobcreek.com/
-Knob Creek 2001 Limited Edition,Batch 3,14,100.0,2016,Knob Creek,Bourbon,,https://www.knobcreek.com/
-Knob Creek 2001 Limited Edition,Batch 2,14,100.0,2016,Knob Creek,Bourbon,,https://www.knobcreek.com/
-Knob Creek 2001 Limited Edition,Batch 1,14,100.0,2016,Knob Creek,Bourbon,,https://www.knobcreek.com/
-Knob Creek 21 Year (KC21),2025,21,100.0,2025,Knob Creek,Bourbon,,https://www.knobcreek.com/
+Knob Creek 15 Year (KC15),2020,15,100.0,2020,Knob Creek,Bourbon,,https://www.breakingbourbon.com/review/knob-creek-15-year-2020-limited-edition
+Knob Creek 18 Year (KC18),2024,18,100.0,2024,Knob Creek,Bourbon,,https://www.knobcreek.com/whiskies/18-year-old-bourbon-whiskey
+Knob Creek 18 Year (KC18),2023,18,100.0,2023,Knob Creek,Bourbon,,https://www.knobcreek.com/whiskies/18-year-old-bourbon-whiskey
+Knob Creek 18 Year (KC18),2022,18,100.0,2022,Knob Creek,Bourbon,,https://www.knobcreek.com/whiskies/18-year-old-bourbon-whiskey
+Knob Creek 2001 Limited Edition,Batch 5,14,100.0,2016,Knob Creek,Bourbon,,https://www.breakingbourbon.com/article/knob-creek-2001-face-off
+Knob Creek 2001 Limited Edition,Batch 4,14,100.0,2016,Knob Creek,Bourbon,,https://www.breakingbourbon.com/article/knob-creek-2001-face-off
+Knob Creek 2001 Limited Edition,Batch 3,14,100.0,2016,Knob Creek,Bourbon,,https://www.breakingbourbon.com/article/knob-creek-2001-face-off
+Knob Creek 2001 Limited Edition,Batch 2,14,100.0,2016,Knob Creek,Bourbon,,https://www.breakingbourbon.com/article/knob-creek-2001-face-off
+Knob Creek 2001 Limited Edition,Batch 1,14,100.0,2016,Knob Creek,Bourbon,,https://www.breakingbourbon.com/article/knob-creek-2001-face-off
+Knob Creek 21 Year (KC21),2025,21,100.0,2025,Knob Creek,Bourbon,,https://www.knobcreek.com/whiskies/21-year-old-bourbon-whiskey
 Knob Creek 25th Anniversary,2017,12-13,122.0,2017,Knob Creek,Bourbon,,https://www.knobcreek.com/
 Larceny Barrel Proof,C925,,119.6,2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/larceny-barrel-proof.php
 Larceny Barrel Proof,B525,,117.4,2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/larceny-barrel-proof.php
