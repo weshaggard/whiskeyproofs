@@ -48,6 +48,11 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+      - name: Copy CSV to public data directory
+        # Copy the data file to make it publicly accessible
+        run: |
+          mkdir -p ./_site/data
+          cp ./_data/whiskeyindex.csv ./_site/data/whiskeyindex.csv
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3

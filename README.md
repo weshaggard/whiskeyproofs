@@ -154,7 +154,10 @@ Once GitHub Pages is enabled:
 whiskeyproofs/
 ├── _config.yml          # Jekyll configuration
 ├── _data/
-│   └── whiskeyindex.csv     # Whiskey data (edit this file to add/update entries)
+│   └── whiskeyindex.csv # Whiskey data (edit this file to add/update entries)
+├── .github/
+│   └── workflows/
+│       └── jekyll.yml   # Copies CSV to /data/ during deployment
 ├── index.html           # Main page with whiskey table
 ├── Gemfile              # Ruby dependencies
 ├── .gitignore           # Git ignore rules
