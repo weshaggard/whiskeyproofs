@@ -155,7 +155,9 @@ whiskeyproofs/
 ├── _config.yml          # Jekyll configuration
 ├── _data/
 │   └── whiskeyindex.csv # Whiskey data (edit this file to add/update entries)
-├── data-whiskeyindex.csv # Jekyll page that generates public CSV from _data
+├── .github/
+│   └── workflows/
+│       └── jekyll.yml   # Copies CSV to /data/ during deployment
 ├── index.html           # Main page with whiskey table
 ├── Gemfile              # Ruby dependencies
 ├── .gitignore           # Git ignore rules
@@ -179,7 +181,6 @@ CSS styles are embedded in `index.html`. Look for the `<style>` section to custo
 To add additional columns to the whiskey data:
 1. Add the new column to `_data/whiskeyindex.csv`
 2. Update `index.html` to display the new field in the table
-3. Update `data-whiskeyindex.csv` template to include the new field in the public CSV
 
 ## 🛠️ Troubleshooting
 
