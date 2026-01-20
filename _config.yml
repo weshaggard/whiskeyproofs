@@ -22,6 +22,9 @@ theme: jekyll-theme-minimal
 # Build settings
 markdown: kramdown
 
+# Data source - read data files from /data/ instead of /_data/
+data_source: data
+
 # Plugins
 plugins:
   - jekyll-feed
