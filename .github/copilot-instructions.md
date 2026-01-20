@@ -113,3 +113,46 @@ The validation script runs automatically on all pull requests that modify `_data
 2. **Fix issues immediately**: Address all validation errors before pushing
 3. **Review output carefully**: The script provides specific line numbers and error descriptions
 4. **Test your changes**: Verify that new entries sort correctly within their product group
+
+## URL Validation
+
+When adding or updating URLs in the `_data/whiskeyindex.csv` file, it's critical to ensure all links are valid and working. A URL validation script is available to check all URLs in the database.
+
+### Running URL Validation
+
+**Always run this script after making any URL changes:**
+
+```bash
+python3 .github/scripts/validate_urls.py
+```
+
+### What the URL Validation Script Does
+
+1. **Checks all URLs**: Makes HTTP HEAD requests to verify each URL is accessible
+2. **Caches results**: Avoids redundant checks for duplicate URLs (performance optimization)
+3. **Reports errors**: Identifies broken links with specific error codes (404, 403, etc.)
+4. **Provides statistics**: Shows total URLs checked vs unique URLs validated
+
+### Why URL Validation Matters
+
+- **User experience**: Ensures readers can access product information
+- **Data quality**: Maintains the integrity of the whiskey database
+- **Prevents broken links**: Catches issues before they reach production
+- **Saves time**: Caching makes validation fast even with 400+ entries
+
+### URL Priority Guidelines
+
+When selecting URLs for whiskey entries, follow this priority order (highest to lowest):
+
+1. **Batch-specific link from official distillery site** - The most specific and authoritative source
+2. **Batch-specific link from breakingbourbon.com** - Detailed reviews when distillery doesn't have batch pages
+3. **Product-specific link from official distillery site** - General product information from the source
+4. **Distillery-specific link from official distillery** - Homepage or brand page when no product-specific link exists
+5. **Leave URL blank** - If nothing appropriate can be found
+
+### Best Practices for URLs
+
+1. **Run validation before committing**: Always validate URLs after changes
+2. **Follow priority guidelines**: Use the URL priority order above when selecting links
+3. **Verify manually**: Spot-check a few URLs in your browser to confirm they work
+4. **Fix errors immediately**: Address all validation failures before pushing changes
