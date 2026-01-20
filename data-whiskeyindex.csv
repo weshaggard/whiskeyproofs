@@ -1,0 +1,8 @@
+---
+layout: null
+permalink: /data/whiskeyindex.csv
+---
+Name,Batch,Age,Proof,ReleaseYear,Distillery,Type,TTB_ID,url
+{% for whiskey in site.data.whiskeyindex -%}
+{{ whiskey.Name }},{{ whiskey.Batch }},{{ whiskey.Age }},{{ whiskey.Proof }},{{ whiskey.ReleaseYear }},{{ whiskey.Distillery }},{{ whiskey.Type }},{{ whiskey.TTB_ID }},{{ whiskey.url }}
+{% endfor -%}
