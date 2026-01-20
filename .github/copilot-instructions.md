@@ -113,3 +113,37 @@ The validation script runs automatically on all pull requests that modify `_data
 2. **Fix issues immediately**: Address all validation errors before pushing
 3. **Review output carefully**: The script provides specific line numbers and error descriptions
 4. **Test your changes**: Verify that new entries sort correctly within their product group
+
+## URL Validation
+
+When adding or updating URLs in the `_data/whiskeyindex.csv` file, it's critical to ensure all links are valid and working. A URL validation script is available to check all URLs in the database.
+
+### Running URL Validation
+
+**Always run this script after making any URL changes:**
+
+```bash
+python3 .github/scripts/validate_urls.py
+```
+
+### What the URL Validation Script Does
+
+1. **Checks all URLs**: Makes HTTP HEAD requests to verify each URL is accessible
+2. **Caches results**: Avoids redundant checks for duplicate URLs (performance optimization)
+3. **Reports errors**: Identifies broken links with specific error codes (404, 403, etc.)
+4. **Provides statistics**: Shows total URLs checked vs unique URLs validated
+
+### Why URL Validation Matters
+
+- **User experience**: Ensures readers can access product information
+- **Data quality**: Maintains the integrity of the whiskey database
+- **Prevents broken links**: Catches issues before they reach production
+- **Saves time**: Caching makes validation fast even with 400+ entries
+
+### Best Practices for URLs
+
+1. **Run validation before committing**: Always validate URLs after changes
+2. **Use official sources**: Prefer distillery websites over third-party sites
+3. **Fallback to generic URLs**: If batch-specific pages don't exist, use product pages
+4. **Verify manually**: Spot-check a few URLs in your browser to confirm they work
+5. **Fix errors immediately**: Address all validation failures before pushing changes

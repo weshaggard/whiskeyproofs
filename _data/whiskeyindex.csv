@@ -1,18 +1,18 @@
 Name,Batch,Age,Proof,ReleaseYear,Distillery,Type,TTB_ID,url
-Angel's Envy Cask Strength,2025,10,122.6,2025,Angel's Envy,Bourbon,23132001000515,https://www.angelsenvy.com/us/en/product/cask-strength/
-Angel's Envy Cask Strength,2024,8,118.8,2024,Angel's Envy,Bourbon,23132001000515,https://www.angelsenvy.com/us/en/product/cask-strength/
-Angel's Envy Cask Strength,2023,,118.2,2023,Angel's Envy,Bourbon,23132001000515,https://www.angelsenvy.com/us/en/product/cask-strength/
-Angel's Envy Cask Strength,2022,,119.8,2022,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
-Angel's Envy Cask Strength,2021,,120.7,2021,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
-Angel's Envy Cask Strength,2020,,120.4,2020,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
-Angel's Envy Cask Strength,2019,,122.4,2019,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
-Angel's Envy Cask Strength,2018,,124.0,2018,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
-Angel's Envy Cask Strength,2017,,124.5,2017,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
-Angel's Envy Cask Strength,2016,,124.6,2016,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
-Angel's Envy Cask Strength,2015,,127.9,2015,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
-Angel's Envy Cask Strength,2014,,119.3,2014,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
-Angel's Envy Cask Strength,2013,,123.0,2013,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
-Angel's Envy Cask Strength,2012,,121.0,2012,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
+Angel's Envy Cask Strength,2025,10,122.6,2025,Angel's Envy,Bourbon,23132001000515,https://www.angelsenvy.com/
+Angel's Envy Cask Strength,2024,8,118.8,2024,Angel's Envy,Bourbon,23132001000515,https://www.angelsenvy.com/
+Angel's Envy Cask Strength,2023,,118.2,2023,Angel's Envy,Bourbon,23132001000515,https://www.angelsenvy.com/
+Angel's Envy Cask Strength,2022,,119.8,2022,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/
+Angel's Envy Cask Strength,2021,,120.7,2021,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/
+Angel's Envy Cask Strength,2020,,120.4,2020,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/
+Angel's Envy Cask Strength,2019,,122.4,2019,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/
+Angel's Envy Cask Strength,2018,,124.0,2018,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/
+Angel's Envy Cask Strength,2017,,124.5,2017,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/
+Angel's Envy Cask Strength,2016,,124.6,2016,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/
+Angel's Envy Cask Strength,2015,,127.9,2015,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/
+Angel's Envy Cask Strength,2014,,119.3,2014,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/
+Angel's Envy Cask Strength,2013,,123.0,2013,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/
+Angel's Envy Cask Strength,2012,,121.0,2012,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/
 Birthday Bourbon,2025,12,92.0,2025,Old Forester,Bourbon,25013001000088,https://www.breakingbourbon.com/review/old-forester-2025-birthday-bourbon
 Birthday Bourbon,2024,,96.0,2024,Old Forester,Bourbon,24031001000098,https://www.breakingbourbon.com/review/old-forester-2024-birthday-bourbon
 Birthday Bourbon,2023,12,96.0,2023,Old Forester,Bourbon,22321001000309,https://www.oldforester.com/products/2023-birthday-bourbon/
@@ -124,19 +124,19 @@ Elijah Craig Barrel Proof (ECBP),B525,11.6,126.2,2025,Heaven Hill,Bourbon,,https
 Elijah Craig Barrel Proof (ECBP),A125,10.6,118.2,2025,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-a125
 Elijah Craig Barrel Proof (ECBP),C924,11,129.0,2024,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-c924
 Elijah Craig Barrel Proof (ECBP),B524,11.2,130.6,2024,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-b524
-Elijah Craig Barrel Proof (ECBP),A124,10.8,119.0,2024,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-a124
-Elijah Craig Barrel Proof (ECBP),C923,13,133.0,2023,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-c923
-Elijah Craig Barrel Proof (ECBP),B523,11,124.2,2023,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-b523
+Elijah Craig Barrel Proof (ECBP),A124,10.8,119.0,2024,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),C923,13,133.0,2023,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),B523,11,124.2,2023,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),A123,12,125.6,2023,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-a123
-Elijah Craig Barrel Proof (ECBP),C922,12,124.8,2022,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-c922
-Elijah Craig Barrel Proof (ECBP),B522,12,121.0,2022,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-b522
-Elijah Craig Barrel Proof (ECBP),A122,12,120.8,2022,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-a122
-Elijah Craig Barrel Proof (ECBP),C921,12,120.2,2021,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-c921
-Elijah Craig Barrel Proof (ECBP),B521,12,118.2,2021,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-b521
-Elijah Craig Barrel Proof (ECBP),A121,12,123.6,2021,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-a121
-Elijah Craig Barrel Proof (ECBP),C920,12,132.8,2020,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-c920
-Elijah Craig Barrel Proof (ECBP),B520,12,127.2,2020,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-b520
-Elijah Craig Barrel Proof (ECBP),A120,12,136.6,2020,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-a120
+Elijah Craig Barrel Proof (ECBP),C922,12,124.8,2022,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),B522,12,121.0,2022,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),A122,12,120.8,2022,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),C921,12,120.2,2021,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),B521,12,118.2,2021,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),A121,12,123.6,2021,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),C920,12,132.8,2020,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),B520,12,127.2,2020,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),A120,12,136.6,2020,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),C919,12,136.8,2019,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),B519,12,122.2,2019,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),A119,12,135.2,2019,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
@@ -178,8 +178,8 @@ George T. Stagg (GTS),BTAC Fall 2024,15,136.1,2024,Buffalo Trace,Bourbon,,https:
 George T. Stagg (GTS),BTAC Fall 2023,15,135.0,2023,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/george-t-stagg-2023
 George T. Stagg (GTS),BTAC Fall 2022,15,138.7,2022,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/george-t-stagg-2022
 George T. Stagg (GTS),BTAC Fall 2020,15,130.4,2020,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/george-t-stagg-2020
-George T. Stagg (GTS),BTAC Fall 2019,15,116.9,2019,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/george-t-stagg-2019
-George T. Stagg (GTS),BTAC Fall 2018,15,124.9,2018,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/george-t-stagg-2018
+George T. Stagg (GTS),BTAC Fall 2019,15,116.9,2019,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/george-t-stagg-bourbon/
+George T. Stagg (GTS),BTAC Fall 2018,15,124.9,2018,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/george-t-stagg-bourbon/
 George T. Stagg (GTS),BTAC Fall 2017,15,129.2,2017,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/george-t-stagg-bourbon/
 George T. Stagg (GTS),BTAC Fall 2016,15,144.1,2016,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/george-t-stagg-bourbon/
 George T. Stagg (GTS),BTAC Fall 2015,15,138.2,2015,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/george-t-stagg-bourbon/
@@ -216,12 +216,12 @@ Knob Creek 2001 Limited Edition,Batch 2,14,100.0,2016,Knob Creek,Bourbon,,https:
 Knob Creek 2001 Limited Edition,Batch 1,14,100.0,2016,Knob Creek,Bourbon,,https://www.knobcreek.com/
 Knob Creek 21 Year (KC21),2025,21,100.0,2025,Knob Creek,Bourbon,,https://www.knobcreek.com/
 Knob Creek 25th Anniversary,2017,12-13,122.0,2017,Knob Creek,Bourbon,,https://www.knobcreek.com/
-Larceny Barrel Proof,C925,,119.6,2025,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/larceny-barrel-proof-batch-c925
-Larceny Barrel Proof,B525,,117.4,2025,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/larceny-barrel-proof-batch-b525
-Larceny Barrel Proof,A125,,125.0,2025,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/larceny-barrel-proof-batch-a125
-Larceny Barrel Proof,C924,,125.1,2024,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/larceny-barrel-proof-batch-c924
-Larceny Barrel Proof,B524,,125.4,2024,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/larceny-barrel-proof-batch-b524
-Larceny Barrel Proof,A124,,124.2,2024,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/larceny-barrel-proof-batch-a124
+Larceny Barrel Proof,C925,,119.6,2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/larceny-barrel-proof.php
+Larceny Barrel Proof,B525,,117.4,2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/larceny-barrel-proof.php
+Larceny Barrel Proof,A125,,125.0,2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/larceny-barrel-proof.php
+Larceny Barrel Proof,C924,,125.1,2024,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/larceny-barrel-proof.php
+Larceny Barrel Proof,B524,,125.4,2024,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/larceny-barrel-proof.php
+Larceny Barrel Proof,A124,,124.2,2024,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/larceny-barrel-proof.php
 Larceny Barrel Proof,C923,,126.4,2023,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/larceny-barrel-proof-batch-c923
 Larceny Barrel Proof,B523,,124.4,2023,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/larceny-barrel-proof-batch-b523
 Larceny Barrel Proof,A123,,125.8,2023,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/larceny-barrel-proof-batch-a123
@@ -238,11 +238,11 @@ Little Book,Chapter 9: None For Granted,,121.8,2025,Jim Beam,Bourbon,,https://ww
 Little Book,Chapter 8: Path Not Taken,,120.0,2024,Jim Beam,Bourbon,,https://www.beamdistilling.com/littlebook/whiskies/little-book-chapter-8-path-not-taken
 Little Book,Chapter 7: In Retrospect,,118.1,2023,Jim Beam,Bourbon,,https://www.beamdistilling.com/littlebook/whiskies/little-book-chapter-7-in-retrospect
 Little Book,Chapter 6: To The Finish,,117.45,2022,Jim Beam,Bourbon,,https://www.beamdistilling.com/littlebook/whiskies/little-book-chapter-6-to-the-finish
-Little Book,Chapter 5: The Invitation,,116.8,2021,Jim Beam,Bourbon,,https://www.beamdistilling.com/littlebook/whiskies/little-book-chapter-5-the-invitation
+Little Book,Chapter 5: The Invitation,,116.8,2021,Jim Beam,Bourbon,,https://www.beamdistilling.com/littlebook/whiskies/previous-releases
 Little Book,Chapter 4: Lessons Honored,,122.8,2020,Jim Beam,Bourbon,,https://www.beamdistilling.com/littlebook/whiskies/little-book-chapter-4-lessons-honored
-Little Book,Chapter 3: The Road Home,,122.6,2019,Jim Beam,Bourbon,,https://www.beamdistilling.com/littlebook/whiskies/little-book-chapter-3-the-road-home
+Little Book,Chapter 3: The Road Home,,122.6,2019,Jim Beam,Bourbon,,https://www.beamdistilling.com/littlebook/whiskies/previous-releases
 Little Book,Chapter 2: Noe Simple Task,,118.8,2018,Jim Beam,Bourbon,,https://www.beamdistilling.com/littlebook/whiskies/little-book-chapter-2-noe-simple-task
-Little Book,Chapter 1: The Easy,,120.48,2017,Jim Beam,Bourbon,,https://www.beamdistilling.com/littlebook/whiskies/little-book-chapter-1-the-easy
+Little Book,Chapter 1: The Easy,,120.48,2017,Jim Beam,Bourbon,,https://www.beamdistilling.com/littlebook/whiskies/previous-releases
 Michter's 20 Year Bourbon (M20),2025,20,114.2,2025,Michter's,Bourbon,,https://michters.com/20-year-kentucky-straight-bourbon/
 Michter's 20 Year Bourbon (M20),2024,20,114.2,2024,Michter's,Bourbon,,https://michters.com/20-year-kentucky-straight-bourbon/
 Michter's 20 Year Bourbon (M20),2022,20,114.2,2022,Michter's,Bourbon,,https://michters.com/20-year-kentucky-straight-bourbon/
@@ -326,22 +326,22 @@ Sazerac 18 Year,BTAC Fall 2013,18,90.0,2013,Buffalo Trace,Rye,,https://www.buffa
 Sazerac 18 Year,BTAC Fall 2012,18,90.0,2012,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
 Sazerac 18 Year,BTAC Fall 2011,18,90.0,2011,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
 Sazerac 18 Year,BTAC Fall 2010,18,90.0,2010,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
-Stagg,25C,,125.6,2025,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/stagg-bourbon-batch-25c
-Stagg,25B,,126.9,2025,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/stagg-bourbon-batch-25b
-Stagg,25A,,126.5,2025,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/stagg-bourbon-batch-25a
-Stagg,24D,,127.4,2024,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/stagg-bourbon-batch-24d
-Stagg,24C,,128.9,2024,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/stagg-bourbon-batch-24c
-Stagg,24B,,127.8,2024,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/stagg-bourbon-batch-24b
+Stagg,25C,,125.6,2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
+Stagg,25B,,126.9,2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
+Stagg,25A,,126.5,2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
+Stagg,24D,,127.4,2024,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
+Stagg,24C,,128.9,2024,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
+Stagg,24B,,127.8,2024,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg,24A,,127.6,2024,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/stagg-bourbon-batch-24a
-Stagg,23C,,125.9,2023,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/stagg-bourbon-batch-23c
-Stagg,23B,,127.8,2023,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/stagg-bourbon-batch-23b
-Stagg,23A,,130.2,2023,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/stagg-bourbon-batch-23a
+Stagg,23C,,125.9,2023,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
+Stagg,23B,,127.8,2023,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
+Stagg,23A,,130.2,2023,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg,22B,,130.0,2022,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg,22A,,132.2,2022,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
-Stagg Jr,18,,131.0,2022,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/stagg-jr-bourbon-batch-18
+Stagg Jr,18,,131.0,2022,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg Jr,17,,128.7,2021,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/stagg-jr-bourbon-batch-17
-Stagg Jr,16,,130.9,2021,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/stagg-jr-bourbon-batch-16
-Stagg Jr,15,,131.1,2020,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/stagg-jr-bourbon-batch-15
+Stagg Jr,16,,130.9,2021,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
+Stagg Jr,15,,131.1,2020,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg Jr,14,,130.2,2020,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg Jr,13,,128.4,2019,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg Jr,12,,132.3,2019,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
@@ -389,8 +389,8 @@ William Larue Weller (WLW),BTAC Fall 2023,12,133.6,2023,Buffalo Trace,Bourbon,,h
 William Larue Weller (WLW),BTAC Fall 2022,12,124.7,2022,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/william-larue-weller-2022
 William Larue Weller (WLW),BTAC Fall 2021,12,125.3,2021,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/william-larue-weller-2021
 William Larue Weller (WLW),BTAC Fall 2020,12,134.5,2020,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/william-larue-weller-2020
-William Larue Weller (WLW),BTAC Fall 2019,12,128.0,2019,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/william-larue-weller-2019
-William Larue Weller (WLW),BTAC Fall 2018,12,125.7,2018,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/william-larue-weller-2018
+William Larue Weller (WLW),BTAC Fall 2019,12,128.0,2019,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
+William Larue Weller (WLW),BTAC Fall 2018,12,125.7,2018,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
 William Larue Weller (WLW),BTAC Fall 2017,12,128.2,2017,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
 William Larue Weller (WLW),BTAC Fall 2016,12,135.4,2016,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
 William Larue Weller (WLW),BTAC Fall 2015,12,134.6,2015,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
