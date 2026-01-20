@@ -285,11 +285,8 @@ function sortTable(columnIndex) {
   };
   var sortKey = columnMap[columnIndex];
   
-  // Sort the groups based on the first item in each group
-  var sortedGroupNames = Object.keys(groupedData).sort(function(a, b) {
-    var valA = groupedData[a][0][sortKey];
-    var valB = groupedData[b][0][sortKey];
-    
+  // Helper function to compare values based on sort key
+  var compareValues = function(valA, valB) {
     // Handle TTB column (sort by presence of link)
     if (sortKey === 'ttb') {
       // Extract text from HTML (just check if link exists)
@@ -311,6 +308,20 @@ function sortTable(columnIndex) {
     if (valA < valB) return -1 * currentSortDirection;
     if (valA > valB) return 1 * currentSortDirection;
     return 0;
+  };
+  
+  // Sort items within each group
+  Object.keys(groupedData).forEach(function(groupName) {
+    groupedData[groupName].sort(function(a, b) {
+      return compareValues(a[sortKey], b[sortKey]);
+    });
+  });
+  
+  // Sort the groups based on the first item in each group
+  var sortedGroupNames = Object.keys(groupedData).sort(function(a, b) {
+    var valA = groupedData[a][0][sortKey];
+    var valB = groupedData[b][0][sortKey];
+    return compareValues(valA, valB);
   });
   
   // Rebuild the table with sorted groups
