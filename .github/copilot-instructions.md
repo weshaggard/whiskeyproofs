@@ -173,3 +173,15 @@ When selecting URLs for whiskey entries, follow this priority order (highest to 
 2. **Follow priority guidelines**: Use the URL priority order above when selecting links
 3. **Verify manually**: Spot-check a few URLs in your browser to confirm they work
 4. **Fix errors immediately**: Address all validation failures before pushing changes
+
+## TTB Label Approval Research
+
+When researching TTB (Alcohol and Tobacco Tax and Trade Bureau) IDs for whiskey products:
+
+- **Timing**: Labels will often be approved the year before the release or the year of the release
+- **Search Strategy**: When looking for TTB IDs for a specific batch:
+  - Check the release year first
+  - If not found, check the previous year (labels are often approved before public release)
+  - Example: For a 2023 batch release, search both 2023 and 2022 label approvals
+
+**TTB COLA Registry**: The public TTB COLA (Certificate of Label Approval) registry at ttbonline.gov is the authoritative source for label approvals
