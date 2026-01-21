@@ -39,7 +39,12 @@ description: "Comprehensive searchable index of bourbon and whiskey batches. Fin
          {{ whiskey.Batch }}
        {%- endif -%}
        {%- if whiskey.TTB_ID and whiskey.TTB_ID != '' -%}
-         &nbsp;<a href="https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid={{ whiskey.TTB_ID }}" target="_blank" rel="noopener noreferrer" title="View TTB Label">🏷️</a>
+         {%- assign ttb_year_prefix = whiskey.TTB_ID | slice: 0, 2 | plus: 0 -%}
+         {%- if ttb_year_prefix < 13 -%}
+           &nbsp;<a href="https://ttbonline.gov/colasonline/publicViewImage.do?id={{ whiskey.TTB_ID }}" target="_blank" rel="noopener noreferrer" title="View TTB Label">🏷️</a>
+         {%- else -%}
+           &nbsp;<a href="https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid={{ whiskey.TTB_ID }}" target="_blank" rel="noopener noreferrer" title="View TTB Label">🏷️</a>
+         {%- endif -%}
        {%- endif -%}
      </td>
      <td>{{ whiskey.Age }}</td>
