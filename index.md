@@ -25,7 +25,6 @@ description: "Comprehensive searchable index of bourbon and whiskey batches. Fin
       <th onclick="sortTable(3)" style="cursor: pointer;" scope="col">Age</th>
       <th onclick="sortTable(4)" style="cursor: pointer;" scope="col">Proof</th>
       <th onclick="sortTable(5)" style="cursor: pointer;" scope="col">Release Year</th>
-      <th onclick="sortTable(6)" style="cursor: pointer;" scope="col" class="ttb-column">TTB</th>
     </tr>
   </thead>
   <tbody>
@@ -39,15 +38,19 @@ description: "Comprehensive searchable index of bourbon and whiskey batches. Fin
        {%- else -%}
          {{ whiskey.Batch }}
        {%- endif -%}
+       {%- if whiskey.TTB_ID and whiskey.TTB_ID != '' -%}
+         &nbsp;<a href="https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid={{ whiskey.TTB_ID }}" target="_blank" rel="noopener noreferrer" title="View TTB Label">🏷️</a>
+       {%- endif -%}
      </td>
      <td>{{ whiskey.Age }}</td>
      <td>{{ whiskey.Proof }}</td>
      <td>{{ whiskey.ReleaseYear }}</td>
-     <td class="ttb-column">{% if whiskey.TTB_ID and whiskey.TTB_ID != '' %}<a href="https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid={{ whiskey.TTB_ID }}" target="_blank" rel="noopener noreferrer">🔗</a>{% endif %}</td>
    </tr>
    {% endfor %}
   </tbody>
 </table>
+
+**Note:** The 🏷️ label emoji indicates that a TTB (Alcohol and Tobacco Tax and Trade Bureau) label is available for that batch. Click the emoji to view the official label registration. Please be aware that not all TTB IDs have been verified and may be incorrect. If you notice an incorrect label, please <a href="https://github.com/weshaggard/whiskeyproofs/issues/new/choose" target="_blank" rel="noopener noreferrer">submit feedback</a>.
 
 ## About this index
 
