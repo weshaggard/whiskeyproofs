@@ -1,5 +1,5 @@
 Name,Batch,Age,Proof,ReleaseYear,Distillery,Type,TTB_ID,url
-Ancient Age,standard,,80,1946-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/ancient-age/
+Ancient Age,standard,,80,1946-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/
 Angel's Envy Cask Strength,2025,10,122.6,2025,Angel's Envy,Bourbon,23132001000515,https://www.angelsenvy.com/us/en/product/angels-envy-10-cask-strength/
 Angel's Envy Cask Strength,2024,8,118.8,2024,Angel's Envy,Bourbon,23132001000515,https://www.angelsenvy.com/us/en/product/2024-cask-strength-bourbon/
 Angel's Envy Cask Strength,2023,,118.2,2023,Angel's Envy,Bourbon,23132001000515,https://www.angelsenvy.com/us/en/product/cask-strength/
@@ -42,7 +42,7 @@ Birthday Bourbon,2004,8,94,2004,Old Forester,Bourbon,04085000000240,https://www.
 Birthday Bourbon,2003 Fall,13,89,2003,Old Forester,Bourbon,03147000000032,https://www.oldforester.com/products/old-forester-2003-fall-birthday-bourbon/
 Birthday Bourbon,2003 Spring,12,93,2003,Old Forester,Bourbon,03147000000031,https://www.oldforester.com/products/old-forester-2003-spring-birthday-bourbon/
 Birthday Bourbon,2002,12,95,2002,Old Forester,Bourbon,02156000000070,https://www.oldforester.com/products/old-forester-2002-birthday-bourbon/
-Blanton's Original,standard,,93,1984-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/blantons/
+Blanton's Original,standard,,93,1984-2025,Buffalo Trace,Bourbon,,https://www.blantonsbourbon.com/
 Blood Oath,Pact 11,7-14,98.6,2025,Lux Row,Bourbon,,https://luxrowdistillers.com/blood-oath/
 Blood Oath,Pact 10,,98.6,2024,Lux Row,Bourbon,,https://luxrowdistillers.com/blood-oath/
 Blood Oath,Pact 9,7-16,98.6,2023,Lux Row,Bourbon,,https://luxrowdistillers.com/blood-oath/
@@ -185,7 +185,7 @@ Elijah Craig Barrel Proof (ECBP),A314,12,132.4,2014,Heaven Hill,Bourbon,,https:/
 Elijah Craig Rye,standard,,94,2018-2025,Heaven Hill,Rye,,https://heavenhilldistillery.com/elijah-craig-rye.php
 Elijah Craig Small Batch,standard,,94,1986-2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/elijah-craig-small-batch.php
 Elijah Craig Toasted Barrel,standard,,94,2020-2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/elijah-craig-toasted-barrel.php
-Elmer T. Lee,standard,,90,1986-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/elmer-t-lee/
+Elmer T. Lee,standard,,90,1986-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/
 Evan Williams 1783 Small Batch,standard,,86,2015-2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/evan-williams-1783-small-batch.php
 Evan Williams Black Label,standard,,86,1957-2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/evan-williams-single-barrel.php
 Evan Williams Bottled-in-Bond,standard,,100,2012-2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/ew-bottled-in-bond.php
@@ -386,7 +386,7 @@ Remus Repeal Reserve,Series III,11.12,100,2019,MGP,Bourbon,,https://remusbourbon
 Remus Repeal Reserve,Series II,10.25,100,2018,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-ii/
 Remus Repeal Reserve,Series I,11.5,94,2017,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-i/
 Rittenhouse Rye,standard,4,100,1934-2025,Heaven Hill,Rye,,https://heavenhilldistillery.com/rittenhouse-rye.php
-Rock Hill Farms,standard,,100,1992-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/rock-hill-farms/
+Rock Hill Farms,standard,,100,1992-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/
 Russell's Reserve 10 Year,standard,10,90,2001-2025,Wild Turkey,Bourbon,,https://www.russellsreserve.com/en-us/our-products/10-year-old-bourbon/
 Russell's Reserve 13 Year,6 - LA/NE (Spring 2025),13,123.8,2025,Wild Turkey,Bourbon,,https://www.russellsreserve.com/our-products/13-year-old-bourbon/
 Russell's Reserve 13 Year,5 - LL/LE (May 2023),13,114.8,2023,Wild Turkey,Bourbon,,https://www.russellsreserve.com/our-products/13-year-old-bourbon/
