@@ -50,8 +50,6 @@ description: "Comprehensive searchable index of bourbon and whiskey batches. Fin
   </tbody>
 </table>
 
-**Note:** The 🏷️ label emoji indicates that a TTB (Alcohol and Tobacco Tax and Trade Bureau) label is available for that batch. Click the emoji to view the official label registration. Please be aware that not all TTB IDs have been verified and may be incorrect. If you notice an incorrect label, please <a href="https://github.com/weshaggard/whiskeyproofs/issues/new/choose" target="_blank" rel="noopener noreferrer">submit feedback</a>.
-
 ## About this index
 
 This whiskey proof index is maintained as a free resource for bourbon and whiskey enthusiasts. Whether you're a collector tracking down specific batches, an enthusiast researching proof variations, or simply curious about whiskey releases over the years, this searchable index provides accurate, up-to-date information about whiskey batch releases to help you find exactly what you're looking for.
@@ -67,6 +65,8 @@ This whiskey proof index is maintained as a free resource for bourbon and whiske
 ### How to help
 
 Found incorrect data? Want to add a missing whiskey? Have suggestions? <a href="https://github.com/weshaggard/whiskeyproofs/issues/new/choose" target="_blank" rel="noopener noreferrer">Submit Feedback</a>
+
+**Note:** The 🏷️ label emoji indicates that a TTB (Alcohol and Tobacco Tax and Trade Bureau) label is available for that batch. Click the emoji to view the official label registration. Please be aware that not all TTB IDs have been verified and may be incorrect. If you notice an incorrect label, please submit feedback using the link above.
 
 <p align="left">
   <a href="https://www.buymeacoffee.com/whiskeyproofs">
