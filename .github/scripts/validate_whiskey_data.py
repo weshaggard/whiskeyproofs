@@ -64,12 +64,14 @@ def batch_sort_key(batch, release_year):
     number_prefix_match = re.match(r'^(\d+)\s*-\s*', batch)
     if number_prefix_match:
         number = int(number_prefix_match.group(1))
-        return (7, -int(release_year), -number, batch)
+        year_to_use = release_year.split('-')[0] if '-' in release_year else release_year
+        return (7, -int(year_to_use), -number, batch)
     
     # Handle seasonal batches (Fall/Spring)
     if 'Fall' in batch or 'Spring' in batch:
         year_match = re.search(r'(\d{4})', batch)
-        year = int(year_match.group(1)) if year_match else int(release_year)
+        year_to_use = release_year.split('-')[0] if '-' in release_year else release_year
+        year = int(year_match.group(1)) if year_match else int(year_to_use)
         season = 'Fall' if 'Fall' in batch else 'Spring'
         season_order = 0 if season == 'Fall' else 1
         return (8, -year, season_order, batch)
@@ -78,7 +80,8 @@ def batch_sort_key(batch, release_year):
     ecbp_match = re.match(r'^([A-Z])(\d+)$', batch)
     if ecbp_match and len(ecbp_match.group(2)) in [3, 2]:
         letter = ecbp_match.group(1)
-        year = int(release_year)
+        year_to_use = release_year.split('-')[0] if '-' in release_year else release_year
+        year = int(year_to_use)
         # C > B > A for descending (C is 3rd/latest batch of year)
         letter_value = ord(letter) - ord('A') + 1
         return (2, -year, -letter_value, batch)
@@ -123,7 +126,9 @@ def batch_sort_key(batch, release_year):
         return (8, -year, ReverseStr(batch))
     
     # Default: use release year and alphabetical descending
-    return (99, -int(release_year), batch)
+    # Handle year ranges (e.g., "1999-2025") by using the first year
+    year_to_use = release_year.split('-')[0] if '-' in release_year else release_year
+    return (99, -int(year_to_use), batch)
 
 
 def validate_csv(filename):
@@ -182,7 +187,13 @@ def validate_csv(filename):
     invalid_years = []
     for i, row in enumerate(rows, start=2):
         year = row['ReleaseYear'].strip()
-        if not re.match(r'^\d{4}$', year):
+        # Check for year ranges (e.g., "1999-2025") or single years
+        if re.match(r'^\d{4}-\d{4}$', year):
+            # Year range format
+            start_year, end_year = map(int, year.split('-'))
+            if start_year < 1900 or start_year > end_year or end_year > 2030:
+                invalid_years.append(f"Line {i}: Invalid year range '{year}' for {row['Name']}")
+        elif not re.match(r'^\d{4}$', year):
             invalid_years.append(f"Line {i}: Invalid year '{year}' for {row['Name']}")
         elif int(year) < 2000 or int(year) > 2030:
             invalid_years.append(f"Line {i}: Unusual year '{year}' for {row['Name']}")

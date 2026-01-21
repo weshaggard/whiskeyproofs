@@ -57,12 +57,16 @@ After any edits to the CSV file, always re-sort the data to maintain this order.
 
 - All required fields must be populated: Name, Batch, Age, Proof, ReleaseYear, Distillery, Type
 - Proof values must be numeric
-- Release years must be valid years
+  - **Formatting**: Use whole numbers without decimal points for integer proofs (e.g., "90", "100", "107")
+  - Only include decimal portions when necessary (e.g., "94.4", "92.8", "122.6")
+  - For proof ranges, apply the same rule to each value (e.g., "110-125", not "110.0-125.0")
+- Release years must be valid years (or year ranges for standard releases, e.g., "1999-2025")
 - No duplicate entries (same Name, Batch, and ReleaseYear)
 - Batch field rules:
   - Use the official batch number/identifier when available (e.g., "2025-04", "Batch 15", "Chapter 9")
   - If there is no clear batch number, use the release year as the batch identifier
   - For products with laser codes but no batch numbers (e.g., Russell's Reserve 13 Year), use numbered batches with laser codes (e.g., "6 - LA/NE (Spring 2025)")
+  - **For standard releases** (core products that don't have batch variations): use "standard" as the batch identifier
   - Ensure each batch is distinguishable within a product line
 - Age field rules:
   - Use a single year value (e.g., "7", "13")
@@ -88,6 +92,19 @@ python3 .github/scripts/validate_whiskey_data.py
    - Release years are 4-digit valid years (2000-2030)
 3. **Duplicate Detection**: Identifies duplicate entries (same Name, Batch, ReleaseYear)
 4. **Sort Order Verification**: Checks that data follows sorting rules (Name ascending, Batch descending)
+
+## Standard Releases
+
+For whiskey products that are **standard releases** (core, non-limited products available year-round without batch variations):
+
+- **Batch field**: Use "standard" as the batch identifier
+- **ReleaseYear field**: Use a year range indicating when the product started being made to the present (e.g., "1999-2025", "1984-2025")
+- **Examples**:
+  - Buffalo Trace Bourbon: `Batch: "standard"`, `ReleaseYear: "1999-2025"`
+  - Eagle Rare 10 Year: `Batch: "standard"`, `ReleaseYear: "1975-2025"`
+  - Blanton's Original: `Batch: "standard"`, `ReleaseYear: "1984-2025"`
+
+This convention allows the index to track when standard products were first released while distinguishing them from limited or batch-specific releases.
 
 ### Batch Pattern Recognition
 
