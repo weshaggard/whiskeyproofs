@@ -25,7 +25,6 @@ description: "Comprehensive searchable index of bourbon and whiskey batches. Fin
       <th onclick="sortTable(3)" style="cursor: pointer;" scope="col">Age</th>
       <th onclick="sortTable(4)" style="cursor: pointer;" scope="col">Proof</th>
       <th onclick="sortTable(5)" style="cursor: pointer;" scope="col">Release Year</th>
-      <th onclick="sortTable(6)" style="cursor: pointer;" scope="col" class="ttb-column">TTB</th>
     </tr>
   </thead>
   <tbody>
@@ -39,11 +38,24 @@ description: "Comprehensive searchable index of bourbon and whiskey batches. Fin
        {%- else -%}
          {{ whiskey.Batch }}
        {%- endif -%}
+       {%- if whiskey.TTB_ID and whiskey.TTB_ID != '' -%}
+         {%- comment -%}
+         TTB IDs start with a 2-digit year prefix (e.g., 02=2002, 13=2013, 23=2023).
+         TTB changed their online system around 2013. IDs with prefix 02-12 (years 2002-2012)
+         use the older publicViewImage.do format, while IDs 13+ (2013 onward) use the newer
+         viewColaDetails.do format. The cutoff at 13 reflects this system change.
+         {%- endcomment -%}
+         {%- assign ttb_year_prefix = whiskey.TTB_ID | slice: 0, 2 | plus: 0 -%}
+         {%- if ttb_year_prefix < 13 -%}
+           &nbsp;<a href="https://ttbonline.gov/colasonline/publicViewImage.do?id={{ whiskey.TTB_ID }}" target="_blank" rel="noopener noreferrer" title="View TTB Label">🏷️</a>
+         {%- else -%}
+           &nbsp;<a href="https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid={{ whiskey.TTB_ID }}" target="_blank" rel="noopener noreferrer" title="View TTB Label">🏷️</a>
+         {%- endif -%}
+       {%- endif -%}
      </td>
      <td>{{ whiskey.Age }}</td>
      <td>{{ whiskey.Proof }}</td>
      <td>{{ whiskey.ReleaseYear }}</td>
-     <td class="ttb-column">{% if whiskey.TTB_ID and whiskey.TTB_ID != '' %}<a href="https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid={{ whiskey.TTB_ID }}" target="_blank" rel="noopener noreferrer">🔗</a>{% endif %}</td>
    </tr>
    {% endfor %}
   </tbody>
@@ -64,6 +76,8 @@ This whiskey proof index is maintained as a free resource for bourbon and whiske
 ### How to help
 
 Found incorrect data? Want to add a missing whiskey? Have suggestions? <a href="https://github.com/weshaggard/whiskeyproofs/issues/new/choose" target="_blank" rel="noopener noreferrer">Submit Feedback</a>
+
+**Note:** The 🏷️ label emoji indicates that a TTB (Alcohol and Tobacco Tax and Trade Bureau) label is available for that batch. Click the emoji to view the official label registration. Please be aware that not all TTB IDs have been verified and may be incorrect. If you notice an incorrect label, please submit feedback using the link above.
 
 <p align="left">
   <a href="https://www.buymeacoffee.com/whiskeyproofs">

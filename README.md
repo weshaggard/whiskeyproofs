@@ -15,7 +15,7 @@ This site helps answer questions like:
 
 - **Interactive Table**: Browse whiskey data in a clean, sortable table
 - **Search & Filter**: Find whiskies by name, distillery, or type
-- **TTB COLA Links**: Direct links to official TTB approval documents when available (hidden by default, show with `?showTTB=true`)
+- **TTB COLA Links**: Direct links to official TTB approval documents when available, shown as a 🏷️ label emoji next to the batch field
 - **Responsive Design**: Works great on desktop and mobile devices
 - **Easy Updates**: Add new whiskies by simply editing a CSV file
 
@@ -45,11 +45,17 @@ Birthday Bourbon,2023,12,96.0,2023,Old Forester,Bourbon,,https://www.oldforester
 When a URL is provided, the batch text in the table becomes a clickable link to the product's official page. This is particularly useful for limited releases or special editions that have dedicated product pages.
 
 ### TTB COLA Links
-When a TTB_ID is provided, a clickable link (🔗) will appear in the table that opens the official TTB COLA approval page. The TTB column is hidden by default - add `?showTTB=true` to the URL to display it. To find TTB IDs:
+When a TTB_ID is provided, a clickable label emoji (🏷️) will appear next to the batch text in the table that opens the official TTB COLA approval page. The system automatically uses the appropriate URL format based on the TTB ID:
+- **Newer IDs (2013+)**: Use the form display format (e.g., `viewColaDetails.do?action=publicFormDisplay&ttbid=...`)
+- **Older IDs (2002-2012)**: Use the image view format (e.g., `publicViewImage.do?id=...`)
+
+To find TTB IDs:
 1. Visit [TTB COLA Public Registry](https://ttbonline.gov/colasonline/publicSearchColasBasic.do)
 2. Search for the whiskey brand and batch
-3. Copy the TTB ID from the URL (e.g., `22089001000941` from `https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=22089001000941`)
+3. Copy the TTB ID from the URL (e.g., `22089001000941` from `https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=22089001000941` or `02156000000070` from `https://ttbonline.gov/colasonline/publicViewImage.do?id=02156000000070`)
 4. Add it to the TTB_ID column in the CSV
+
+**Note**: Not all TTB IDs have been verified and may be incorrect. If you notice an incorrect label, please submit feedback via the GitHub issues page.
 
 ### Data Sorting Rules
 
