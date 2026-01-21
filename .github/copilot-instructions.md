@@ -57,6 +57,9 @@ After any edits to the CSV file, always re-sort the data to maintain this order.
 
 - All required fields must be populated: Name, Batch, Age, Proof, ReleaseYear, Distillery, Type
 - Proof values must be numeric
+  - **Formatting**: Use whole numbers without decimal points for integer proofs (e.g., "90", "100", "107")
+  - Only include decimal portions when necessary (e.g., "94.4", "92.8", "122.6")
+  - For proof ranges, apply the same rule to each value (e.g., "110-125", not "110.0-125.0")
 - Release years must be valid years (or year ranges for standard releases, e.g., "1999-2025")
 - No duplicate entries (same Name, Batch, and ReleaseYear)
 - Batch field rules:

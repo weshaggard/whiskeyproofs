@@ -1,5 +1,5 @@
 Name,Batch,Age,Proof,ReleaseYear,Distillery,Type,TTB_ID,url
-Ancient Age,standard,,80.0,1946-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/ancient-age/
+Ancient Age,standard,,80,1946-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/ancient-age/
 Angel's Envy Cask Strength,2025,10,122.6,2025,Angel's Envy,Bourbon,23132001000515,https://www.angelsenvy.com/us/en/product/angels-envy-10-cask-strength/
 Angel's Envy Cask Strength,2024,8,118.8,2024,Angel's Envy,Bourbon,23132001000515,https://www.angelsenvy.com/us/en/product/2024-cask-strength-bourbon/
 Angel's Envy Cask Strength,2023,,118.2,2023,Angel's Envy,Bourbon,23132001000515,https://www.angelsenvy.com/us/en/product/cask-strength/
@@ -7,41 +7,41 @@ Angel's Envy Cask Strength,2022,,119.8,2022,Angel's Envy,Bourbon,17152001000375,
 Angel's Envy Cask Strength,2021,,120.7,2021,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
 Angel's Envy Cask Strength,2020,,120.4,2020,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
 Angel's Envy Cask Strength,2019,,122.4,2019,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
-Angel's Envy Cask Strength,2018,,124.0,2018,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
+Angel's Envy Cask Strength,2018,,124,2018,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
 Angel's Envy Cask Strength,2017,,124.5,2017,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
 Angel's Envy Cask Strength,2016,,124.6,2016,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
 Angel's Envy Cask Strength,2015,,127.9,2015,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
 Angel's Envy Cask Strength,2014,,119.3,2014,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
-Angel's Envy Cask Strength,2013,,123.0,2013,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
-Angel's Envy Cask Strength,2012,,121.0,2012,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
-Benchmark,standard,,80.0,1969-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/benchmark/
-Birthday Bourbon,2025,12,92.0,2025,Old Forester,Bourbon,25013001000088,https://www.breakingbourbon.com/review/old-forester-2025-birthday-bourbon
-Birthday Bourbon,2024,,96.0,2024,Old Forester,Bourbon,24031001000098,https://www.breakingbourbon.com/review/old-forester-2024-birthday-bourbon
-Birthday Bourbon,2023,12,96.0,2023,Old Forester,Bourbon,22321001000309,https://www.oldforester.com/products/2023-birthday-bourbon/
-Birthday Bourbon,2022,11,96.0,2022,Old Forester,Bourbon,21341001000628,https://www.oldforester.com/products/old-forester-2022-birthday-bourbon/
-Birthday Bourbon,2021,12,104.0,2021,Old Forester,Bourbon,21048001000076,https://www.oldforester.com/products/old-forester-2021-birthday-bourbon/
-Birthday Bourbon,2020,10,98.0,2020,Old Forester,Bourbon,20070001000451,https://www.oldforester.com/products/old-forester-2020-birthday-bourbon/
-Birthday Bourbon,2019,11,105.0,2019,Old Forester,Bourbon,19056001001102,https://www.oldforester.com/products/old-forester-2019-birthday-bourbon/
-Birthday Bourbon,2018,12,101.0,2018,Old Forester,Bourbon,18057001000228,https://www.oldforester.com/products/old-forester-2018-birthday-bourbon/
-Birthday Bourbon,2017 (Other States),12,96.0,2017,Old Forester,Bourbon,17209001000438,https://www.breakingbourbon.com/review/old-forester-2017-birthday-bourbon
+Angel's Envy Cask Strength,2013,,123,2013,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
+Angel's Envy Cask Strength,2012,,121,2012,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
+Benchmark,standard,,80,1969-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/benchmark/
+Birthday Bourbon,2025,12,92,2025,Old Forester,Bourbon,25013001000088,https://www.breakingbourbon.com/review/old-forester-2025-birthday-bourbon
+Birthday Bourbon,2024,,96,2024,Old Forester,Bourbon,24031001000098,https://www.breakingbourbon.com/review/old-forester-2024-birthday-bourbon
+Birthday Bourbon,2023,12,96,2023,Old Forester,Bourbon,22321001000309,https://www.oldforester.com/products/2023-birthday-bourbon/
+Birthday Bourbon,2022,11,96,2022,Old Forester,Bourbon,21341001000628,https://www.oldforester.com/products/old-forester-2022-birthday-bourbon/
+Birthday Bourbon,2021,12,104,2021,Old Forester,Bourbon,21048001000076,https://www.oldforester.com/products/old-forester-2021-birthday-bourbon/
+Birthday Bourbon,2020,10,98,2020,Old Forester,Bourbon,20070001000451,https://www.oldforester.com/products/old-forester-2020-birthday-bourbon/
+Birthday Bourbon,2019,11,105,2019,Old Forester,Bourbon,19056001001102,https://www.oldforester.com/products/old-forester-2019-birthday-bourbon/
+Birthday Bourbon,2018,12,101,2018,Old Forester,Bourbon,18057001000228,https://www.oldforester.com/products/old-forester-2018-birthday-bourbon/
+Birthday Bourbon,2017 (Other States),12,96,2017,Old Forester,Bourbon,17209001000438,https://www.breakingbourbon.com/review/old-forester-2017-birthday-bourbon
 Birthday Bourbon,2017 (FL/GA/KY),12,95.4,2017,Old Forester,Bourbon,17209001000430,https://www.breakingbourbon.com/review/old-forester-2017-birthday-bourbon
-Birthday Bourbon,2016,12,97.0,2016,Old Forester,Bourbon,16061001000300,https://www.oldforester.com/products/old-forester-2016-birthday-bourbon/
-Birthday Bourbon,2015,12,100.0,2015,Old Forester,Bourbon,15047001000249,https://www.oldforester.com/products/old-forester-2015-birthday-bourbon/
-Birthday Bourbon,2014,12,97.0,2014,Old Forester,Bourbon,14057001000312,https://www.oldforester.com/products/old-forester-2014-birthday-bourbon/
-Birthday Bourbon,2013,12,98.0,2013,Old Forester,Bourbon,13049001000282,https://www.oldforester.com/products/old-forester-2013-birthday-bourbon/
-Birthday Bourbon,2012,12,97.0,2012,Old Forester,Bourbon,12065001000197,https://www.oldforester.com/products/old-forester-2012-birthday-bourbon/
-Birthday Bourbon,2011,12,98.0,2011,Old Forester,Bourbon,11066001000386,https://www.oldforester.com/products/old-forester-2011-birthday-bourbon/
-Birthday Bourbon,2010,12,95.0,2010,Old Forester,Bourbon,10091001000066,https://www.oldforester.com/products/old-forester-2010-birthday-bourbon/
-Birthday Bourbon,2009,12,97.0,2009,Old Forester,Bourbon,09124001000215,https://www.oldforester.com/products/old-forester-2009-birthday-bourbon/
-Birthday Bourbon,2008,12,94.0,2008,Old Forester,Bourbon,,https://www.oldforester.com/products/old-forester-2008-birthday-bourbon/
-Birthday Bourbon,2007,12,94.0,2007,Old Forester,Bourbon,07053000000113,https://www.oldforester.com/products/old-forester-2007-birthday-bourbon/
-Birthday Bourbon,2006,13,96.0,2006,Old Forester,Bourbon,06083000000010,https://www.oldforester.com/products/old-forester-2006-birthday-bourbon/
-Birthday Bourbon,2005,12,96.0,2005,Old Forester,Bourbon,05108000000030,https://www.oldforester.com/products/old-forester-2005-birthday-bourbon/
-Birthday Bourbon,2004,8,94.0,2004,Old Forester,Bourbon,04085000000240,https://www.oldforester.com/products/old-forester-2004-birthday-bourbon/
-Birthday Bourbon,2003 Fall,13,89.0,2003,Old Forester,Bourbon,03147000000032,https://www.oldforester.com/products/old-forester-2003-fall-birthday-bourbon/
-Birthday Bourbon,2003 Spring,12,93.0,2003,Old Forester,Bourbon,03147000000031,https://www.oldforester.com/products/old-forester-2003-spring-birthday-bourbon/
-Birthday Bourbon,2002,12,95.0,2002,Old Forester,Bourbon,02156000000070,https://www.oldforester.com/products/old-forester-2002-birthday-bourbon/
-Blanton's Original,standard,,93.0,1984-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/blantons/
+Birthday Bourbon,2016,12,97,2016,Old Forester,Bourbon,16061001000300,https://www.oldforester.com/products/old-forester-2016-birthday-bourbon/
+Birthday Bourbon,2015,12,100,2015,Old Forester,Bourbon,15047001000249,https://www.oldforester.com/products/old-forester-2015-birthday-bourbon/
+Birthday Bourbon,2014,12,97,2014,Old Forester,Bourbon,14057001000312,https://www.oldforester.com/products/old-forester-2014-birthday-bourbon/
+Birthday Bourbon,2013,12,98,2013,Old Forester,Bourbon,13049001000282,https://www.oldforester.com/products/old-forester-2013-birthday-bourbon/
+Birthday Bourbon,2012,12,97,2012,Old Forester,Bourbon,12065001000197,https://www.oldforester.com/products/old-forester-2012-birthday-bourbon/
+Birthday Bourbon,2011,12,98,2011,Old Forester,Bourbon,11066001000386,https://www.oldforester.com/products/old-forester-2011-birthday-bourbon/
+Birthday Bourbon,2010,12,95,2010,Old Forester,Bourbon,10091001000066,https://www.oldforester.com/products/old-forester-2010-birthday-bourbon/
+Birthday Bourbon,2009,12,97,2009,Old Forester,Bourbon,09124001000215,https://www.oldforester.com/products/old-forester-2009-birthday-bourbon/
+Birthday Bourbon,2008,12,94,2008,Old Forester,Bourbon,,https://www.oldforester.com/products/old-forester-2008-birthday-bourbon/
+Birthday Bourbon,2007,12,94,2007,Old Forester,Bourbon,07053000000113,https://www.oldforester.com/products/old-forester-2007-birthday-bourbon/
+Birthday Bourbon,2006,13,96,2006,Old Forester,Bourbon,06083000000010,https://www.oldforester.com/products/old-forester-2006-birthday-bourbon/
+Birthday Bourbon,2005,12,96,2005,Old Forester,Bourbon,05108000000030,https://www.oldforester.com/products/old-forester-2005-birthday-bourbon/
+Birthday Bourbon,2004,8,94,2004,Old Forester,Bourbon,04085000000240,https://www.oldforester.com/products/old-forester-2004-birthday-bourbon/
+Birthday Bourbon,2003 Fall,13,89,2003,Old Forester,Bourbon,03147000000032,https://www.oldforester.com/products/old-forester-2003-fall-birthday-bourbon/
+Birthday Bourbon,2003 Spring,12,93,2003,Old Forester,Bourbon,03147000000031,https://www.oldforester.com/products/old-forester-2003-spring-birthday-bourbon/
+Birthday Bourbon,2002,12,95,2002,Old Forester,Bourbon,02156000000070,https://www.oldforester.com/products/old-forester-2002-birthday-bourbon/
+Blanton's Original,standard,,93,1984-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/blantons/
 Blood Oath,Pact 11,7-14,98.6,2025,Lux Row,Bourbon,,https://luxrowdistillers.com/blood-oath/
 Blood Oath,Pact 10,,98.6,2024,Lux Row,Bourbon,,https://luxrowdistillers.com/blood-oath/
 Blood Oath,Pact 9,7-16,98.6,2023,Lux Row,Bourbon,,https://luxrowdistillers.com/blood-oath/
@@ -53,16 +53,16 @@ Blood Oath,Pact 4,9-12,98.6,2018,Lux Row,Bourbon,,https://luxrowdistillers.com/b
 Blood Oath,Pact 3,7-12,98.6,2017,Lux Row,Bourbon,,https://luxrowdistillers.com/blood-oath/
 Blood Oath,Pact 2,7-11,98.6,2016,Lux Row,Bourbon,,https://luxrowdistillers.com/blood-oath/
 Blood Oath,Pact 1,6-12,98.6,2015,Lux Row,Bourbon,,https://luxrowdistillers.com/blood-oath/
-Bomberger's Declaration,2025,,108.0,2025,Michter's,Bourbon,,https://michters.com/bombergers-declaration/
-Bomberger's Declaration,2024,,108.0,2024,Michter's,Bourbon,,https://michters.com/bombergers-declaration/
-Bomberger's Declaration,2023,,108.0,2023,Michter's,Bourbon,,https://michters.com/bombergers-declaration/
-Bomberger's Declaration,2022,,108.0,2022,Michter's,Bourbon,,https://michters.com/bombergers-declaration/
-Bomberger's Declaration,2021,,108.0,2021,Michter's,Bourbon,,https://michters.com/bombergers-declaration/
-Bomberger's Declaration,2020,,108.0,2020,Michter's,Bourbon,,https://michters.com/bombergers-declaration/
-Bomberger's Declaration,2019,,108.0,2019,Michter's,Bourbon,,https://michters.com/bombergers-declaration/
-Bomberger's Declaration,2018,,108.0,2018,Michter's,Bourbon,,https://michters.com/bombergers-declaration/
-Bomberger's Declaration,2017,,108.0,2017,Michter's,Bourbon,,https://michters.com/bombergers-declaration/
-Bomberger's Declaration,2016,,108.0,2016,Michter's,Bourbon,,https://michters.com/bombergers-declaration/
+Bomberger's Declaration,2025,,108,2025,Michter's,Bourbon,,https://michters.com/bombergers-declaration/
+Bomberger's Declaration,2024,,108,2024,Michter's,Bourbon,,https://michters.com/bombergers-declaration/
+Bomberger's Declaration,2023,,108,2023,Michter's,Bourbon,,https://michters.com/bombergers-declaration/
+Bomberger's Declaration,2022,,108,2022,Michter's,Bourbon,,https://michters.com/bombergers-declaration/
+Bomberger's Declaration,2021,,108,2021,Michter's,Bourbon,,https://michters.com/bombergers-declaration/
+Bomberger's Declaration,2020,,108,2020,Michter's,Bourbon,,https://michters.com/bombergers-declaration/
+Bomberger's Declaration,2019,,108,2019,Michter's,Bourbon,,https://michters.com/bombergers-declaration/
+Bomberger's Declaration,2018,,108,2018,Michter's,Bourbon,,https://michters.com/bombergers-declaration/
+Bomberger's Declaration,2017,,108,2017,Michter's,Bourbon,,https://michters.com/bombergers-declaration/
+Bomberger's Declaration,2016,,108,2016,Michter's,Bourbon,,https://michters.com/bombergers-declaration/
 Booker's,2025-04 Phantom Pipes Batch,7,126.4,2025,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/phantom-pipes-batch
 Booker's,2025-03 Jerry's Batch,7,124.7,2025,Jim Beam,Bourbon,,https://www.beamdistilling.com/2025-03-jerry-batch-bourbon
 Booker's,2025-02 By The Pond Batch,7,125.8,2025,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2025-02-by-the-pond-bourbon
@@ -88,9 +88,9 @@ Booker's,2020-02 Boston Batch,6,126.5,2020,Jim Beam,Bourbon,,https://www.beamdis
 Booker's,2020-01 Granny's Batch,6,126.4,2020,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2020-01-grannys-batch-bourbon
 Booker's,2019-04 Beaten Biscuits,6,126.1,2019,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2019-04-beaten-biscuits-bourbon
 Booker's,2019-03 Country Ham,6,124.7,2019,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2019-03-country-ham-bourbon
-Booker's,2019-02 Shiny Barrel Batch,6,124.0,2019,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2019-02-shiny-barrel-batch-bourbon
+Booker's,2019-02 Shiny Barrel Batch,6,124,2019,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2019-02-shiny-barrel-batch-bourbon
 Booker's,2019-01 Teresa's Batch,6,125.9,2019,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2019-01-teresas-batch-bourbon
-Booker's,2018-04 Kitchen Table,6,128.0,2018,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2018-04-kitchen-table-bourbon
+Booker's,2018-04 Kitchen Table,6,128,2018,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2018-04-kitchen-table-bourbon
 Booker's,2018-03 Kentucky Chew,6,126.7,2018,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2018-03-kentucky-chew-bourbon
 Booker's,2018-02 Backyard BBQ,6,128.8,2018,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2018-02-backyard-bbq-bourbon
 Booker's,2018-01 Kathleen's Batch,6,127.4,2018,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2018-01-kathleens-batch-bourbon
@@ -100,24 +100,24 @@ Booker's,2017-02 Blue Knights Batch,6,127.4,2017,Jim Beam,Bourbon,,https://www.b
 Booker's,2017-01 Tommy's Batch,6,128.5,2017,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2017-01-tommys-batch-bourbon
 Booker's,2016-06 Noe Hard Times,6,127.8,2016,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2016-06-noe-hard-times-bourbon
 Booker's,2016-05 Off Your Rocker,6,129.7,2016,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2016-05-off-your-rocker-bourbon
-Booker's,2016-04 Bluegill Creek,6,128.0,2016,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2016-04-bluegill-creek-bourbon
-Booker's,2016-03 Toogie's Invitation,6,129.0,2016,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2016-03-toogies-invitation-bourbon
+Booker's,2016-04 Bluegill Creek,6,128,2016,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2016-04-bluegill-creek-bourbon
+Booker's,2016-03 Toogie's Invitation,6,129,2016,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2016-03-toogies-invitation-bourbon
 Booker's,2016-02 Annis' Answer,6,126.7,2016,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2016-02-annis-answer-bourbon
 Booker's,2016-01 Booker's Bluegrass,6,127.9,2016,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2016-01-bluegrass-batch-bourbon
 Booker's,2015-06 Noe Secret,6,128.1,2015,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2015-06-noe-secret-bourbon
-Booker's,2015-05 Maw Maw's Batch,6,128.0,2015,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2015-05-maw-maws-batch-bourbon
-Booker's,2015-04 Oven Buster Batch,6,127.0,2015,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2015-04-oven-buster-batch-bourbon
+Booker's,2015-05 Maw Maw's Batch,6,128,2015,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2015-05-maw-maws-batch-bourbon
+Booker's,2015-04 Oven Buster Batch,6,127,2015,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2015-04-oven-buster-batch-bourbon
 Booker's,2015-03 The Center Cut,6,127.2,2015,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2015-03-center-cut-batch-bourbon
 Booker's,2015-02 Dot's Batch,6,127.9,2015,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2015-02-dot-s-batch-bourbon
 Booker's,2015-01 Big Man Small Batch,6,128.7,2015,Jim Beam,Bourbon,,https://www.beamdistilling.com/bookersbourbon/whiskies/2015-01-big-man-small-batch-bourbon
 Booker's Rye,2016-LE Big Time Batch,6,136.2,2016,Jim Beam,Rye,,https://www.beamdistilling.com/bookersbourbon
-Buffalo Trace,standard,,90.0,1999-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace/
-Colonel E.H. Taylor Bottled in Bond,BTAC Fall 2025,15,100.0,2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/e-h-taylor-jr-bottled-in-bond/
+Buffalo Trace,standard,,90,1999-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace/
+Colonel E.H. Taylor Bottled in Bond,BTAC Fall 2025,15,100,2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/e-h-taylor-jr-bottled-in-bond/
 E.H. Taylor Barrel Proof (EHTBP),Batch 15,,127.4,2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
 E.H. Taylor Barrel Proof (EHTBP),Batch 14,,127.2,2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
 E.H. Taylor Barrel Proof (EHTBP),Batch 13,,127.3,2024,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
 E.H. Taylor Barrel Proof (EHTBP),Batch 12,,131.1,2023,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
-E.H. Taylor Barrel Proof (EHTBP),Batch 11,,129.0,2022,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
+E.H. Taylor Barrel Proof (EHTBP),Batch 11,,129,2022,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
 E.H. Taylor Barrel Proof (EHTBP),Batch 10,,127.3,2021,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
 E.H. Taylor Barrel Proof (EHTBP),Batch 9,,130.3,2020,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
 E.H. Taylor Barrel Proof (EHTBP),Batch 8,,129.3,2019,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
@@ -125,37 +125,37 @@ E.H. Taylor Barrel Proof (EHTBP),Batch 7,,129.7,2018,Buffalo Trace,Bourbon,,http
 E.H. Taylor Barrel Proof (EHTBP),Batch 6,,128.1,2017,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
 E.H. Taylor Barrel Proof (EHTBP),Batch 5,,127.5,2016,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
 E.H. Taylor Barrel Proof (EHTBP),Batch 4,,127.2,2015,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
-E.H. Taylor Barrel Proof (EHTBP),Batch 3,,129.0,2014,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
+E.H. Taylor Barrel Proof (EHTBP),Batch 3,,129,2014,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
 E.H. Taylor Barrel Proof (EHTBP),Batch 2,,135.4,2013,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
 E.H. Taylor Barrel Proof (EHTBP),Batch 1,,134.5,2012,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
-Eagle Rare 10 Year,standard,10,90.0,1975-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/
-Eagle Rare 17 Year (ER17),BTAC Fall 2025,17,101.0,2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
-Eagle Rare 17 Year (ER17),BTAC Fall 2024,17,101.0,2024,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
-Eagle Rare 17 Year (ER17),BTAC Fall 2023,17,101.0,2023,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
-Eagle Rare 17 Year (ER17),BTAC Fall 2022,17,101.0,2022,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
-Eagle Rare 17 Year (ER17),BTAC Fall 2021,17,101.0,2021,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
-Eagle Rare 17 Year (ER17),BTAC Fall 2020,17,101.0,2020,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
-Eagle Rare 17 Year (ER17),BTAC Fall 2019,17,101.0,2019,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
-Eagle Rare 17 Year (ER17),BTAC Fall 2018,17,90.0,2018,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
-Eagle Rare 17 Year (ER17),BTAC Fall 2017,17,90.0,2017,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
-Eagle Rare 17 Year (ER17),BTAC Fall 2016,17,90.0,2016,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
-Eagle Rare 17 Year (ER17),BTAC Fall 2015,17,90.0,2015,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
-Eagle Rare 17 Year (ER17),BTAC Fall 2014,17,90.0,2014,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
-Eagle Rare 17 Year (ER17),BTAC Fall 2013,17,90.0,2013,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
-Eagle Rare 17 Year (ER17),BTAC Fall 2012,17,90.0,2012,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
-Eagle Rare 17 Year (ER17),BTAC Fall 2011,17,90.0,2011,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
-Eagle Rare 17 Year (ER17),BTAC Fall 2010,17,90.0,2010,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
-Elijah Craig Barrel Proof (ECBP),C925,9.1,129.0,2025,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-c925
+Eagle Rare 10 Year,standard,10,90,1975-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/
+Eagle Rare 17 Year (ER17),BTAC Fall 2025,17,101,2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
+Eagle Rare 17 Year (ER17),BTAC Fall 2024,17,101,2024,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
+Eagle Rare 17 Year (ER17),BTAC Fall 2023,17,101,2023,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
+Eagle Rare 17 Year (ER17),BTAC Fall 2022,17,101,2022,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
+Eagle Rare 17 Year (ER17),BTAC Fall 2021,17,101,2021,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
+Eagle Rare 17 Year (ER17),BTAC Fall 2020,17,101,2020,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
+Eagle Rare 17 Year (ER17),BTAC Fall 2019,17,101,2019,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
+Eagle Rare 17 Year (ER17),BTAC Fall 2018,17,90,2018,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
+Eagle Rare 17 Year (ER17),BTAC Fall 2017,17,90,2017,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
+Eagle Rare 17 Year (ER17),BTAC Fall 2016,17,90,2016,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
+Eagle Rare 17 Year (ER17),BTAC Fall 2015,17,90,2015,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
+Eagle Rare 17 Year (ER17),BTAC Fall 2014,17,90,2014,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
+Eagle Rare 17 Year (ER17),BTAC Fall 2013,17,90,2013,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
+Eagle Rare 17 Year (ER17),BTAC Fall 2012,17,90,2012,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
+Eagle Rare 17 Year (ER17),BTAC Fall 2011,17,90,2011,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
+Eagle Rare 17 Year (ER17),BTAC Fall 2010,17,90,2010,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
+Elijah Craig Barrel Proof (ECBP),C925,9.1,129,2025,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-c925
 Elijah Craig Barrel Proof (ECBP),B525,11.6,126.2,2025,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-b525
 Elijah Craig Barrel Proof (ECBP),A125,10.6,118.2,2025,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-a125
-Elijah Craig Barrel Proof (ECBP),C924,11,129.0,2024,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-c924
+Elijah Craig Barrel Proof (ECBP),C924,11,129,2024,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-c924
 Elijah Craig Barrel Proof (ECBP),B524,11.2,130.6,2024,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-b524
-Elijah Craig Barrel Proof (ECBP),A124,10.8,119.0,2024,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
-Elijah Craig Barrel Proof (ECBP),C923,13,133.0,2023,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),A124,10.8,119,2024,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),C923,13,133,2023,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),B523,11,124.2,2023,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),A123,12,125.6,2023,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-a123
 Elijah Craig Barrel Proof (ECBP),C922,12,124.8,2022,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
-Elijah Craig Barrel Proof (ECBP),B522,12,121.0,2022,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),B522,12,121,2022,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),A122,12,120.8,2022,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),C921,12,120.2,2021,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),B521,12,118.2,2021,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
@@ -169,23 +169,23 @@ Elijah Craig Barrel Proof (ECBP),A119,12,135.2,2019,Heaven Hill,Bourbon,,https:/
 Elijah Craig Barrel Proof (ECBP),C918,12,131.4,2018,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),B518,12,133.4,2018,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),A118,12,130.6,2018,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
-Elijah Craig Barrel Proof (ECBP),C917,12,131.0,2017,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),C917,12,131,2017,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),B517,12,124.2,2017,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
-Elijah Craig Barrel Proof (ECBP),A117,12,127.0,2017,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
-Elijah Craig Barrel Proof (ECBP),C916,12,136.0,2016,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),A117,12,127,2017,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),C916,12,136,2016,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),B516,12,139.4,2016,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),A116,12,138.8,2016,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),C915,12,135.6,2015,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),B515,12,139.8,2015,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
-Elijah Craig Barrel Proof (ECBP),A215,12,128.0,2015,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),A215,12,128,2015,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),C914,12,140.2,2014,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),B514,12,134.8,2014,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),A314,12,132.4,2014,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
-Elmer T. Lee,standard,,90.0,1986-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/elmer-t-lee/
-Four Roses Limited Edition Small Batch,2025,13-19,109.0,2025,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/limited-edition
+Elmer T. Lee,standard,,90,1986-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/elmer-t-lee/
+Four Roses Limited Edition Small Batch,2025,13-19,109,2025,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/limited-edition
 Four Roses Limited Edition Small Batch,2024,12-20,108.2,2024,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/limited-edition
-Four Roses Limited Edition Small Batch,2023,12-25,108.0,2023,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/limited-edition
-Four Roses Limited Edition Small Batch,2022,14-20,109.0,2022,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/limited-edition
+Four Roses Limited Edition Small Batch,2023,12-25,108,2023,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/limited-edition
+Four Roses Limited Edition Small Batch,2022,14-20,109,2022,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/limited-edition
 Four Roses Limited Edition Small Batch,2021,12-16,114.2,2021,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/limited-edition
 Four Roses Limited Edition Small Batch,2020,12-19,111.4,2020,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/limited-edition
 Four Roses Limited Edition Small Batch,2019,11-21,112.6,2019,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/limited-edition
@@ -194,15 +194,15 @@ Four Roses Limited Edition Small Batch,2017,12-23,108.9,2017,Four Roses,Bourbon,
 Four Roses Limited Edition Small Batch,2016,12-16,111.2,2016,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/limited-edition
 Four Roses Limited Edition Small Batch,2015,11-16,108.6,2015,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/limited-edition
 Four Roses Limited Edition Small Batch,2014,9-13,111.8,2014,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/limited-edition
-Four Roses Limited Edition Small Batch,2013,13-18,110.0,2013,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/limited-edition
+Four Roses Limited Edition Small Batch,2013,13-18,110,2013,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/limited-edition
 Four Roses Limited Edition Small Batch,2012,11-17,100.4,2012,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/limited-edition
 Four Roses Limited Edition Small Batch,2011,11-13,111.6,2011,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/limited-edition
-Four Roses Limited Edition Small Batch,2010,10-15,110.0,2010,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/limited-edition
+Four Roses Limited Edition Small Batch,2010,10-15,110,2010,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/limited-edition
 Four Roses Limited Edition Small Batch,2009,10-19,114.4,2009,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/limited-edition
 Four Roses Limited Edition Small Batch,2008,10-13,112.4,2008,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/limited-edition
 George T. Stagg (GTS),BTAC Fall 2025,15,142.8,2025,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/george-t-stagg-2025
 George T. Stagg (GTS),BTAC Fall 2024,15,136.1,2024,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/george-t-stagg-2024
-George T. Stagg (GTS),BTAC Fall 2023,15,135.0,2023,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/george-t-stagg-2023
+George T. Stagg (GTS),BTAC Fall 2023,15,135,2023,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/george-t-stagg-2023
 George T. Stagg (GTS),BTAC Fall 2022,15,138.7,2022,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/george-t-stagg-2022
 George T. Stagg (GTS),BTAC Fall 2020,15,130.4,2020,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/george-t-stagg-2020
 George T. Stagg (GTS),BTAC Fall 2019,15,116.9,2019,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/george-t-stagg-bourbon/
@@ -214,38 +214,38 @@ George T. Stagg (GTS),BTAC Fall 2014,15,138.1,2014,Buffalo Trace,Bourbon,,https:
 George T. Stagg (GTS),BTAC Fall 2013,15,128.2,2013,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/george-t-stagg-bourbon/
 George T. Stagg (GTS),BTAC Fall 2012,15,142.8,2012,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/george-t-stagg-bourbon/
 George T. Stagg (GTS),BTAC Fall 2011,15,142.6,2011,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/george-t-stagg-bourbon/
-George T. Stagg (GTS),BTAC Fall 2010,15,143.0,2010,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/george-t-stagg-bourbon/
-Jack Daniel's 10 Year,Batch 4,10,97.0,2025,Jack Daniel's,Tennessee Whiskey,25176001000385,https://www.jackdaniels.com/en-us/whiskey/10-year-old-tennessee-whiskey
-Jack Daniel's 10 Year,Batch 3,10,97.0,2024,Jack Daniel's,Tennessee Whiskey,24002001000457,https://www.jackdaniels.com/en-us/whiskey/10-year-old-tennessee-whiskey
-Jack Daniel's 10 Year,Batch 2,10,97.0,2023,Jack Daniel's,Tennessee Whiskey,23010001000241,https://www.jackdaniels.com/en-us/whiskey/10-year-old-tennessee-whiskey
-Jack Daniel's 10 Year,Batch 1,10,97.0,2021,Jack Daniel's,Tennessee Whiskey,21091001000930,https://www.jackdaniels.com/en-us/whiskey/10-year-old-tennessee-whiskey
-Jack Daniel's 12 Year,Batch 3,12,107.0,2025,Jack Daniel's,Tennessee Whiskey,25176001000390,https://www.jackdaniels.com/en-us/whiskey/12-year-old-tennessee-whiskey
-Jack Daniel's 12 Year,Batch 2,12,107.0,2024,Jack Daniel's,Tennessee Whiskey,24002001000458,https://www.jackdaniels.com/en-us/whiskey/12-year-old-tennessee-whiskey
-Jack Daniel's 12 Year,Batch 1,12,107.0,2023,Jack Daniel's,Tennessee Whiskey,23010001000270,https://www.jackdaniels.com/en-us/whiskey/12-year-old-tennessee-whiskey
+George T. Stagg (GTS),BTAC Fall 2010,15,143,2010,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/george-t-stagg-bourbon/
+Jack Daniel's 10 Year,Batch 4,10,97,2025,Jack Daniel's,Tennessee Whiskey,25176001000385,https://www.jackdaniels.com/en-us/whiskey/10-year-old-tennessee-whiskey
+Jack Daniel's 10 Year,Batch 3,10,97,2024,Jack Daniel's,Tennessee Whiskey,24002001000457,https://www.jackdaniels.com/en-us/whiskey/10-year-old-tennessee-whiskey
+Jack Daniel's 10 Year,Batch 2,10,97,2023,Jack Daniel's,Tennessee Whiskey,23010001000241,https://www.jackdaniels.com/en-us/whiskey/10-year-old-tennessee-whiskey
+Jack Daniel's 10 Year,Batch 1,10,97,2021,Jack Daniel's,Tennessee Whiskey,21091001000930,https://www.jackdaniels.com/en-us/whiskey/10-year-old-tennessee-whiskey
+Jack Daniel's 12 Year,Batch 3,12,107,2025,Jack Daniel's,Tennessee Whiskey,25176001000390,https://www.jackdaniels.com/en-us/whiskey/12-year-old-tennessee-whiskey
+Jack Daniel's 12 Year,Batch 2,12,107,2024,Jack Daniel's,Tennessee Whiskey,24002001000458,https://www.jackdaniels.com/en-us/whiskey/12-year-old-tennessee-whiskey
+Jack Daniel's 12 Year,Batch 1,12,107,2023,Jack Daniel's,Tennessee Whiskey,23010001000270,https://www.jackdaniels.com/en-us/whiskey/12-year-old-tennessee-whiskey
 Jack Daniel's 14 Year,Batch 1,14,126.3,2025,Jack Daniel's,Tennessee Whiskey,25182001000563,https://www.jackdaniels.com/en-us/whiskey/14-year-old-tennessee-whiskey
 Jack Daniel's Special Release,2025 - Tanyard Hill Rye,9-10,130.2-148.8,2025,Jack Daniel's,Rye,25028001000211,https://www.jackdaniels.com/en-us/whiskey/single-barrel-heritage-barrel-special-release
 Jack Daniel's Special Release,2024 - Coy Hill,11,122-137.5,2024,Jack Daniel's,Tennessee Whiskey,24050001000497,https://www.jackdaniels.com/en-us/whiskey/single-barrel-heritage-barrel-special-release
-Jack Daniel's Special Release,2023 - Twice Barreled Heritage Barrel Rye,7.5,100.0,2023,Jack Daniel's,Rye,,https://www.jackdaniels.com/en-us/whiskey/single-barrel-heritage-barrel-special-release
+Jack Daniel's Special Release,2023 - Twice Barreled Heritage Barrel Rye,7.5,100,2023,Jack Daniel's,Rye,,https://www.jackdaniels.com/en-us/whiskey/single-barrel-heritage-barrel-special-release
 Jack Daniel's Special Release,2022 - Twice Barreled American Single Malt,,105.7-107.8,2022,Jack Daniel's,American Whiskey,,https://www.jackdaniels.com/en-us/whiskey/single-barrel-heritage-barrel-special-release
 Jack Daniel's Special Release,2021 - Coy Hill High Proof,9,137.4-148.3,2021,Jack Daniel's,Tennessee Whiskey,,https://www.jackdaniels.com/en-us/whiskey/single-barrel-heritage-barrel-special-release
 Jack Daniel's Special Release,2020 - Barrel Proof Rye,,125-140,2020,Jack Daniel's,Rye,,https://www.jackdaniels.com/en-us/whiskey/single-barrel-heritage-barrel-special-release
-Jack Daniel's Special Release,2019 - Heritage Barrel,8,100.0,2019,Jack Daniel's,Tennessee Whiskey,,https://www.jackdaniels.com/en-us/whiskey/single-barrel-heritage-barrel-special-release
-Jack Daniel's Special Release,2018 - Heritage Barrel,7,100.0,2018,Jack Daniel's,Tennessee Whiskey,,https://www.jackdaniels.com/en-us/whiskey/single-barrel-heritage-barrel-special-release
-Knob Creek 15 Year (KC15),2021,15,100.0,2021,Knob Creek,Bourbon,,https://www.knobcreek.com/
-Knob Creek 15 Year (KC15),2020,15,100.0,2020,Knob Creek,Bourbon,,https://www.breakingbourbon.com/review/knob-creek-15-year-2020-limited-edition
-Knob Creek 18 Year (KC18),2024,18,100.0,2024,Knob Creek,Bourbon,,https://www.knobcreek.com/whiskies/18-year-old-bourbon-whiskey
-Knob Creek 18 Year (KC18),2023,18,100.0,2023,Knob Creek,Bourbon,,https://www.knobcreek.com/whiskies/18-year-old-bourbon-whiskey
-Knob Creek 18 Year (KC18),2022,18,100.0,2022,Knob Creek,Bourbon,,https://www.knobcreek.com/whiskies/18-year-old-bourbon-whiskey
-Knob Creek 2001 Limited Edition,Batch 5,14,100.0,2016,Knob Creek,Bourbon,,https://www.breakingbourbon.com/article/knob-creek-2001-face-off
-Knob Creek 2001 Limited Edition,Batch 4,14,100.0,2016,Knob Creek,Bourbon,,https://www.breakingbourbon.com/article/knob-creek-2001-face-off
-Knob Creek 2001 Limited Edition,Batch 3,14,100.0,2016,Knob Creek,Bourbon,,https://www.breakingbourbon.com/article/knob-creek-2001-face-off
-Knob Creek 2001 Limited Edition,Batch 2,14,100.0,2016,Knob Creek,Bourbon,,https://www.breakingbourbon.com/article/knob-creek-2001-face-off
-Knob Creek 2001 Limited Edition,Batch 1,14,100.0,2016,Knob Creek,Bourbon,,https://www.breakingbourbon.com/article/knob-creek-2001-face-off
-Knob Creek 21 Year (KC21),2025,21,100.0,2025,Knob Creek,Bourbon,,https://www.knobcreek.com/whiskies/21-year-old-bourbon-whiskey
-Knob Creek 25th Anniversary,2017,12-13,122.0,2017,Knob Creek,Bourbon,,https://www.knobcreek.com/
+Jack Daniel's Special Release,2019 - Heritage Barrel,8,100,2019,Jack Daniel's,Tennessee Whiskey,,https://www.jackdaniels.com/en-us/whiskey/single-barrel-heritage-barrel-special-release
+Jack Daniel's Special Release,2018 - Heritage Barrel,7,100,2018,Jack Daniel's,Tennessee Whiskey,,https://www.jackdaniels.com/en-us/whiskey/single-barrel-heritage-barrel-special-release
+Knob Creek 15 Year (KC15),2021,15,100,2021,Knob Creek,Bourbon,,https://www.knobcreek.com/
+Knob Creek 15 Year (KC15),2020,15,100,2020,Knob Creek,Bourbon,,https://www.breakingbourbon.com/review/knob-creek-15-year-2020-limited-edition
+Knob Creek 18 Year (KC18),2024,18,100,2024,Knob Creek,Bourbon,,https://www.knobcreek.com/whiskies/18-year-old-bourbon-whiskey
+Knob Creek 18 Year (KC18),2023,18,100,2023,Knob Creek,Bourbon,,https://www.knobcreek.com/whiskies/18-year-old-bourbon-whiskey
+Knob Creek 18 Year (KC18),2022,18,100,2022,Knob Creek,Bourbon,,https://www.knobcreek.com/whiskies/18-year-old-bourbon-whiskey
+Knob Creek 2001 Limited Edition,Batch 5,14,100,2016,Knob Creek,Bourbon,,https://www.breakingbourbon.com/article/knob-creek-2001-face-off
+Knob Creek 2001 Limited Edition,Batch 4,14,100,2016,Knob Creek,Bourbon,,https://www.breakingbourbon.com/article/knob-creek-2001-face-off
+Knob Creek 2001 Limited Edition,Batch 3,14,100,2016,Knob Creek,Bourbon,,https://www.breakingbourbon.com/article/knob-creek-2001-face-off
+Knob Creek 2001 Limited Edition,Batch 2,14,100,2016,Knob Creek,Bourbon,,https://www.breakingbourbon.com/article/knob-creek-2001-face-off
+Knob Creek 2001 Limited Edition,Batch 1,14,100,2016,Knob Creek,Bourbon,,https://www.breakingbourbon.com/article/knob-creek-2001-face-off
+Knob Creek 21 Year (KC21),2025,21,100,2025,Knob Creek,Bourbon,,https://www.knobcreek.com/whiskies/21-year-old-bourbon-whiskey
+Knob Creek 25th Anniversary,2017,12-13,122,2017,Knob Creek,Bourbon,,https://www.knobcreek.com/
 Larceny Barrel Proof,C925,,119.6,2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/larceny-barrel-proof.php
 Larceny Barrel Proof,B525,,117.4,2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/larceny-barrel-proof.php
-Larceny Barrel Proof,A125,,125.0,2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/larceny-barrel-proof.php
+Larceny Barrel Proof,A125,,125,2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/larceny-barrel-proof.php
 Larceny Barrel Proof,C924,,125.1,2024,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/larceny-barrel-proof.php
 Larceny Barrel Proof,B524,,125.4,2024,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/larceny-barrel-proof.php
 Larceny Barrel Proof,A124,,124.2,2024,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/larceny-barrel-proof.php
@@ -256,13 +256,13 @@ Larceny Barrel Proof,C922,,126.6,2022,Heaven Hill,Bourbon,,https://heavenhilldis
 Larceny Barrel Proof,B522,,123.8,2022,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/larceny-barrel-proof.php
 Larceny Barrel Proof,A122,,124.4,2022,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/larceny-barrel-proof.php
 Larceny Barrel Proof,C921,,122.6,2021,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/larceny-barrel-proof.php
-Larceny Barrel Proof,B521,,121.0,2021,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/larceny-barrel-proof.php
+Larceny Barrel Proof,B521,,121,2021,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/larceny-barrel-proof.php
 Larceny Barrel Proof,A121,,114.8,2021,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/larceny-barrel-proof.php
 Larceny Barrel Proof,C920,,122.4,2020,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/larceny-barrel-proof.php
 Larceny Barrel Proof,B520,,122.2,2020,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/larceny-barrel-proof.php
 Larceny Barrel Proof,A120,,123.2,2020,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/larceny-barrel-proof.php
 Little Book,Chapter 9: None For Granted,,121.8,2025,Jim Beam,Bourbon,,https://www.beamdistilling.com/littlebook/whiskies/little-book-chapter-9-none-for-granted
-Little Book,Chapter 8: Path Not Taken,,120.0,2024,Jim Beam,Bourbon,,https://www.beamdistilling.com/littlebook/whiskies/little-book-chapter-8-path-not-taken
+Little Book,Chapter 8: Path Not Taken,,120,2024,Jim Beam,Bourbon,,https://www.beamdistilling.com/littlebook/whiskies/little-book-chapter-8-path-not-taken
 Little Book,Chapter 7: In Retrospect,,118.1,2023,Jim Beam,Bourbon,,https://www.beamdistilling.com/littlebook/whiskies/little-book-chapter-7-in-retrospect
 Little Book,Chapter 6: To The Finish,,117.45,2022,Jim Beam,Bourbon,,https://www.beamdistilling.com/littlebook/whiskies/little-book-chapter-6-to-the-finish
 Little Book,Chapter 5: The Invitation,,116.8,2021,Jim Beam,Bourbon,,https://www.beamdistilling.com/littlebook/whiskies/previous-releases
@@ -305,91 +305,91 @@ Michter's 25 Year Bourbon (M25),2017,25,116.2,2017,Michter's,Bourbon,,https://mi
 Michter's 25 Year Bourbon (M25),2014,25,116.2,2014,Michter's,Bourbon,,https://michters.com/25-year-kentucky-straight-bourbon/
 Michter's 25 Year Bourbon (M25),2008,25,116.2,2008,Michter's,Bourbon,,https://michters.com/25-year-kentucky-straight-bourbon/
 Michter's Celebration Sour Mash,2022,,112.8,2022,Michter's,Sour Mash,,https://michters.com/celebration-sour-mash-2022/
-Michter's Celebration Sour Mash,2019,,113.0,2019,Michter's,Sour Mash,,https://michters.com/celebration-sour-mash-2019/
+Michter's Celebration Sour Mash,2019,,113,2019,Michter's,Sour Mash,,https://michters.com/celebration-sour-mash-2019/
 Michter's Celebration Sour Mash,2016,,112.8,2016,Michter's,Sour Mash,,https://michters.com/celebration-sour-mash-2016/
 Michter's Celebration Sour Mash,2013,,112.8,2013,Michter's,Sour Mash,,https://michters.com/celebration-sour-mash-2013/
-Old Fitzgerald Bottled-in-Bond,Fall 2025,11,100.0,2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
-Old Fitzgerald Bottled-in-Bond,Spring 2025,9,100.0,2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
-Old Fitzgerald Bottled-in-Bond,Fall 2024,8,100.0,2024,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
-Old Fitzgerald Bottled-in-Bond,Spring 2024,10,100.0,2024,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
-Old Fitzgerald Bottled-in-Bond,Fall 2023,8,100.0,2023,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
-Old Fitzgerald Bottled-in-Bond,Spring 2023,10,100.0,2023,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
-Old Fitzgerald Bottled-in-Bond,Fall 2022,19,100.0,2022,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
-Old Fitzgerald Bottled-in-Bond,Spring 2022,17,100.0,2022,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
-Old Fitzgerald Bottled-in-Bond,Fall 2021,11,100.0,2021,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
-Old Fitzgerald Bottled-in-Bond,Spring 2021,8,100.0,2021,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
-Old Fitzgerald Bottled-in-Bond,Fall 2020,14,100.0,2020,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
-Old Fitzgerald Bottled-in-Bond,Spring 2020,9,100.0,2020,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
-Old Fitzgerald Bottled-in-Bond,Fall 2019,15,100.0,2019,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
-Old Fitzgerald Bottled-in-Bond,Spring 2019,13,100.0,2019,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
-Old Fitzgerald Bottled-in-Bond,Fall 2018,9,100.0,2018,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
-Old Fitzgerald Bottled-in-Bond,Spring 2018,11,100.0,2018,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
-Old Forester 1870,2025,,90.0,2025,Old Forester,Bourbon,,https://www.oldforester.com/products/old-forester-1870-original-batch-whisky/
-Old Forester 1897,2025,4,100.0,2025,Old Forester,Bourbon,,https://www.oldforester.com/products/old-forester-1897-bottled-in-bond/
-Old Forester 1910,2025,,93.0,2025,Old Forester,Bourbon,,https://www.oldforester.com/products/old-forester-1910-old-fine-whisky/
-Old Forester 1920,2025,,115.0,2025,Old Forester,Bourbon,,https://www.oldforester.com/products/old-forester-1920-style-prohibition-whisky/
-Old Forester 1924,2025,10,100.0,2025,Old Forester,Bourbon,,https://www.oldforester.com/products/old-forester-1924-10-year-old-whisky/
-Old Forester 1924,2024,10,100.0,2024,Old Forester,Bourbon,,https://www.oldforester.com/products/old-forester-1924-10-year-old-whisky/
+Old Fitzgerald Bottled-in-Bond,Fall 2025,11,100,2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
+Old Fitzgerald Bottled-in-Bond,Spring 2025,9,100,2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
+Old Fitzgerald Bottled-in-Bond,Fall 2024,8,100,2024,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
+Old Fitzgerald Bottled-in-Bond,Spring 2024,10,100,2024,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
+Old Fitzgerald Bottled-in-Bond,Fall 2023,8,100,2023,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
+Old Fitzgerald Bottled-in-Bond,Spring 2023,10,100,2023,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
+Old Fitzgerald Bottled-in-Bond,Fall 2022,19,100,2022,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
+Old Fitzgerald Bottled-in-Bond,Spring 2022,17,100,2022,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
+Old Fitzgerald Bottled-in-Bond,Fall 2021,11,100,2021,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
+Old Fitzgerald Bottled-in-Bond,Spring 2021,8,100,2021,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
+Old Fitzgerald Bottled-in-Bond,Fall 2020,14,100,2020,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
+Old Fitzgerald Bottled-in-Bond,Spring 2020,9,100,2020,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
+Old Fitzgerald Bottled-in-Bond,Fall 2019,15,100,2019,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
+Old Fitzgerald Bottled-in-Bond,Spring 2019,13,100,2019,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
+Old Fitzgerald Bottled-in-Bond,Fall 2018,9,100,2018,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
+Old Fitzgerald Bottled-in-Bond,Spring 2018,11,100,2018,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
+Old Forester 1870,2025,,90,2025,Old Forester,Bourbon,,https://www.oldforester.com/products/old-forester-1870-original-batch-whisky/
+Old Forester 1897,2025,4,100,2025,Old Forester,Bourbon,,https://www.oldforester.com/products/old-forester-1897-bottled-in-bond/
+Old Forester 1910,2025,,93,2025,Old Forester,Bourbon,,https://www.oldforester.com/products/old-forester-1910-old-fine-whisky/
+Old Forester 1920,2025,,115,2025,Old Forester,Bourbon,,https://www.oldforester.com/products/old-forester-1920-style-prohibition-whisky/
+Old Forester 1924,2025,10,100,2025,Old Forester,Bourbon,,https://www.oldforester.com/products/old-forester-1924-10-year-old-whisky/
+Old Forester 1924,2024,10,100,2024,Old Forester,Bourbon,,https://www.oldforester.com/products/old-forester-1924-10-year-old-whisky/
 Old Forester President's Choice,2025,7-9,110-125,2025,Old Forester,Bourbon,,https://www.oldforester.com/presidents-choice/
 Parker's Heritage Collection,2025 - 11 Year American Whiskey,11-15,122.5,2025,Heaven Hill,American Whiskey,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2024 - 14 Year Malt Whiskey,14,107.0,2024,Heaven Hill,Malt Whiskey,,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Parker's Heritage Collection,2024 - 14 Year Malt Whiskey,14,107,2024,Heaven Hill,Malt Whiskey,,https://heavenhilldistillery.com/parkers-heritage-collection.php
 Parker's Heritage Collection,2023 - Kentucky Straight Rye,,128.8,2023,Heaven Hill,Rye,,https://heavenhilldistillery.com/parkers-heritage-collection.php
 Parker's Heritage Collection,2022 - Double Barreled Blend,13-15,132.2,2022,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2021 - 11 Year Heavy Char Wheat,11,122.0,2021,Heaven Hill,Wheat Whiskey,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2020 - 10 Year Heavy Char Bourbon,10,120.0,2020,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2019 - 8 Year Heavy Char Rye,8,105.0,2019,Heaven Hill,Rye,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2018 - Orange Curaçao Finish,7-8,110.0,2018,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2017 - 11 Year Single Barrel,11,122.0,2017,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2016 - 24 Year Bottled-in-Bond,24,100.0,2016,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2015 - 8 Year Malt Whiskey,8,108.0,2015,Heaven Hill,Malt Whiskey,,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Parker's Heritage Collection,2021 - 11 Year Heavy Char Wheat,11,122,2021,Heaven Hill,Wheat Whiskey,,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Parker's Heritage Collection,2020 - 10 Year Heavy Char Bourbon,10,120,2020,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Parker's Heritage Collection,2019 - 8 Year Heavy Char Rye,8,105,2019,Heaven Hill,Rye,,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Parker's Heritage Collection,2018 - Orange Curaçao Finish,7-8,110,2018,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Parker's Heritage Collection,2017 - 11 Year Single Barrel,11,122,2017,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Parker's Heritage Collection,2016 - 24 Year Bottled-in-Bond,24,100,2016,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Parker's Heritage Collection,2015 - 8 Year Malt Whiskey,8,108,2015,Heaven Hill,Malt Whiskey,,https://heavenhilldistillery.com/parkers-heritage-collection.php
 Parker's Heritage Collection,2014 - 13 Year Wheat Whiskey,13,127.4,2014,Heaven Hill,Wheat Whiskey,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2013 - Promise of Hope,10,96.0,2013,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Parker's Heritage Collection,2013 - Promise of Hope,10,96,2013,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
 Parker's Heritage Collection,2012 - Blend of Mashbills,,133.2,2012,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2011 - Cognac Finish,,100.0,2011,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2010 - 10 Year Wheated Bourbon,10,126.0,2010,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2009 - Golden Anniversary,,100.0,2009,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2008 - 27 Year Bourbon,27,96.0,2008,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Parker's Heritage Collection,2011 - Cognac Finish,,100,2011,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Parker's Heritage Collection,2010 - 10 Year Wheated Bourbon,10,126,2010,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Parker's Heritage Collection,2009 - Golden Anniversary,,100,2009,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Parker's Heritage Collection,2008 - 27 Year Bourbon,27,96,2008,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
 Parker's Heritage Collection,2007 - Cask Strength Bourbon,11,127.4,2007,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
 Remus Gatsby Reserve,2025,15,102.8,2025,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-gatsby-reserve/
 Remus Gatsby Reserve,2024,15,104.9,2024,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-gatsby-reserve/
 Remus Gatsby Reserve,2023,15,98.1,2023,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-gatsby-reserve/
 Remus Gatsby Reserve,2022,15,97.8,2022,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-gatsby-reserve/
-Remus Repeal Reserve,Series IX,11,104.0,2025,MGP,Bourbon,,https://www.breakingbourbon.com/review/remus-repeal-reserve-series-ix
-Remus Repeal Reserve,Series VIII,10.63,101.0,2024,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-viii/
-Remus Repeal Reserve,Series VII,9.94,100.0,2023,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-vii/
-Remus Repeal Reserve,Series VI,9,100.0,2022,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-vi/
-Remus Repeal Reserve,Series V,13.75,100.0,2021,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-v/
-Remus Repeal Reserve,Series IV,12,100.0,2020,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-iv/
-Remus Repeal Reserve,Series III,11.12,100.0,2019,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-iii/
-Remus Repeal Reserve,Series II,10.25,100.0,2018,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-ii/
-Remus Repeal Reserve,Series I,11.5,94.0,2017,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-i/
-Rock Hill Farms,standard,,100.0,1992-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/rock-hill-farms/
+Remus Repeal Reserve,Series IX,11,104,2025,MGP,Bourbon,,https://www.breakingbourbon.com/review/remus-repeal-reserve-series-ix
+Remus Repeal Reserve,Series VIII,10.63,101,2024,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-viii/
+Remus Repeal Reserve,Series VII,9.94,100,2023,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-vii/
+Remus Repeal Reserve,Series VI,9,100,2022,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-vi/
+Remus Repeal Reserve,Series V,13.75,100,2021,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-v/
+Remus Repeal Reserve,Series IV,12,100,2020,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-iv/
+Remus Repeal Reserve,Series III,11.12,100,2019,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-iii/
+Remus Repeal Reserve,Series II,10.25,100,2018,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-ii/
+Remus Repeal Reserve,Series I,11.5,94,2017,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-i/
+Rock Hill Farms,standard,,100,1992-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/rock-hill-farms/
 Russell's Reserve 13 Year,6 - LA/NE (Spring 2025),13,123.8,2025,Wild Turkey,Bourbon,,https://www.russellsreserve.com/our-products/13-year-old-bourbon/
 Russell's Reserve 13 Year,5 - LL/LE (May 2023),13,114.8,2023,Wild Turkey,Bourbon,,https://www.russellsreserve.com/our-products/13-year-old-bourbon/
 Russell's Reserve 13 Year,4 - LL/LC (March 2023),13,114.8,2023,Wild Turkey,Bourbon,,https://www.russellsreserve.com/our-products/13-year-old-bourbon/
 Russell's Reserve 13 Year,3 - LL/KE (May 2022),13,114.8,2022,Wild Turkey,Bourbon,,https://www.russellsreserve.com/our-products/13-year-old-bourbon/
 Russell's Reserve 13 Year,2 - LL/JL (December 2021),13,114.8,2021,Wild Turkey,Bourbon,,https://www.russellsreserve.com/our-products/13-year-old-bourbon/
 Russell's Reserve 13 Year,1 - LL/JD (April 2021),13,114.8,2021,Wild Turkey,Bourbon,,https://www.russellsreserve.com/our-products/13-year-old-bourbon/
-Russell's Reserve Single Rickhouse,2025 - Camp Nelson E,,128.0,2025,Wild Turkey,Bourbon,25077001000050,https://www.russellsreserve.com/en-us/our-products/single-rickhouse/
+Russell's Reserve Single Rickhouse,2025 - Camp Nelson E,,128,2025,Wild Turkey,Bourbon,25077001000050,https://www.russellsreserve.com/en-us/our-products/single-rickhouse/
 Russell's Reserve Single Rickhouse,2024 - Camp Nelson B,,120.2,2024,Wild Turkey,Bourbon,23347001000544,https://www.russellsreserve.com/en-us/our-products/single-rickhouse/
 Russell's Reserve Single Rickhouse,2023 - Camp Nelson F,,117.6,2023,Wild Turkey,Bourbon,22326001000282,https://www.russellsreserve.com/en-us/our-products/single-rickhouse/
 Russell's Reserve Single Rickhouse,2022 - Camp Nelson C,,112.4,2022,Wild Turkey,Bourbon,22080001000847,https://www.russellsreserve.com/en-us/our-products/single-rickhouse/
-Sazerac 18 Year,BTAC Fall 2025,18,90.0,2025,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
-Sazerac 18 Year,BTAC Fall 2024,18,90.0,2024,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
-Sazerac 18 Year,BTAC Fall 2023,18,90.0,2023,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
-Sazerac 18 Year,BTAC Fall 2022,18,90.0,2022,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
-Sazerac 18 Year,BTAC Fall 2021,18,90.0,2021,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
-Sazerac 18 Year,BTAC Fall 2020,18,90.0,2020,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
-Sazerac 18 Year,BTAC Fall 2019,18,90.0,2019,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
-Sazerac 18 Year,BTAC Fall 2018,18,90.0,2018,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
-Sazerac 18 Year,BTAC Fall 2017,18,90.0,2017,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
-Sazerac 18 Year,BTAC Fall 2016,18,90.0,2016,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
-Sazerac 18 Year,BTAC Fall 2015,18,90.0,2015,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
-Sazerac 18 Year,BTAC Fall 2014,18,90.0,2014,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
-Sazerac 18 Year,BTAC Fall 2013,18,90.0,2013,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
-Sazerac 18 Year,BTAC Fall 2012,18,90.0,2012,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
-Sazerac 18 Year,BTAC Fall 2011,18,90.0,2011,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
-Sazerac 18 Year,BTAC Fall 2010,18,90.0,2010,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
+Sazerac 18 Year,BTAC Fall 2025,18,90,2025,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
+Sazerac 18 Year,BTAC Fall 2024,18,90,2024,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
+Sazerac 18 Year,BTAC Fall 2023,18,90,2023,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
+Sazerac 18 Year,BTAC Fall 2022,18,90,2022,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
+Sazerac 18 Year,BTAC Fall 2021,18,90,2021,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
+Sazerac 18 Year,BTAC Fall 2020,18,90,2020,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
+Sazerac 18 Year,BTAC Fall 2019,18,90,2019,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
+Sazerac 18 Year,BTAC Fall 2018,18,90,2018,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
+Sazerac 18 Year,BTAC Fall 2017,18,90,2017,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
+Sazerac 18 Year,BTAC Fall 2016,18,90,2016,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
+Sazerac 18 Year,BTAC Fall 2015,18,90,2015,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
+Sazerac 18 Year,BTAC Fall 2014,18,90,2014,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
+Sazerac 18 Year,BTAC Fall 2013,18,90,2013,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
+Sazerac 18 Year,BTAC Fall 2012,18,90,2012,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
+Sazerac 18 Year,BTAC Fall 2011,18,90,2011,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
+Sazerac 18 Year,BTAC Fall 2010,18,90,2010,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/sazerac-rye-18-year-old-buffalo-trace-antique-collection/
 Shenk's Homestead,2025,,91.2,2025,Michter's,Bourbon,,https://michters.com/shenks-homestead/
 Shenk's Homestead,2024,,91.2,2024,Michter's,Bourbon,,https://michters.com/shenks-homestead/
 Shenk's Homestead,2023,,91.2,2023,Michter's,Bourbon,,https://michters.com/shenks-homestead/
@@ -410,9 +410,9 @@ Stagg,24A,,127.6,2024,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/rev
 Stagg,23C,,125.9,2023,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg,23B,,127.8,2023,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg,23A,,130.2,2023,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
-Stagg,22B,,130.0,2022,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
+Stagg,22B,,130,2022,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg,22A,,132.2,2022,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
-Stagg Jr,18,,131.0,2022,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
+Stagg Jr,18,,131,2022,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg Jr,17,,128.7,2021,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/stagg-jr-bourbon-batch-17
 Stagg Jr,16,,130.9,2021,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg Jr,15,,131.1,2020,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
@@ -423,7 +423,7 @@ Stagg Jr,11,,127.9,2018,Buffalo Trace,Bourbon,,https://www.buffalotracedistiller
 Stagg Jr,10,,126.4,2018,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg Jr,9,,131.9,2017,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg Jr,8,,129.5,2017,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
-Stagg Jr,7,,130.0,2016,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
+Stagg Jr,7,,130,2016,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg Jr,6,,132.5,2016,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg Jr,5,,129.7,2015,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg Jr,4,,132.2,2015,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
@@ -435,7 +435,7 @@ Thomas H. Handy (THH),BTAC Fall 2024,6,127.2,2024,Buffalo Trace,Rye,,https://www
 Thomas H. Handy (THH),BTAC Fall 2023,6,124.9,2023,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
 Thomas H. Handy (THH),BTAC Fall 2022,6,130.9,2022,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
 Thomas H. Handy (THH),BTAC Fall 2021,6,129.5,2021,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2020,6,129.0,2020,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2020,6,129,2020,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
 Thomas H. Handy (THH),BTAC Fall 2019,6,125.7,2019,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
 Thomas H. Handy (THH),BTAC Fall 2018,6,128.8,2018,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
 Thomas H. Handy (THH),BTAC Fall 2017,6,127.2,2017,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
@@ -446,27 +446,27 @@ Thomas H. Handy (THH),BTAC Fall 2013,6,128.4,2013,Buffalo Trace,Rye,,https://www
 Thomas H. Handy (THH),BTAC Fall 2012,6,132.4,2012,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
 Thomas H. Handy (THH),BTAC Fall 2011,6,128.6,2011,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
 Thomas H. Handy (THH),BTAC Fall 2010,6,126.9,2010,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-W.L. Weller 12 Year,standard,12,90.0,1999-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/
-W.L. Weller Antique 107,standard,,107.0,1999-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/
-W.L. Weller Special Reserve,standard,,90.0,1999-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/
-Wild Turkey Master's Keep,2025 - Beacon,10-16,118.0,2025,Wild Turkey,Bourbon,24163001000770,https://www.wildturkeybourbon.com/products/masters-keep-beacon/
-Wild Turkey Master's Keep,2024 - Triumph,10,104.0,2024,Wild Turkey,Rye,23174001000306,https://www.wildturkeybourbon.com/products/masters-keep-triumph/
-Wild Turkey Master's Keep,2023 - Voyage,10,106.0,2023,Wild Turkey,Bourbon,22283001000281,https://www.wildturkeybourbon.com/products/masters-keep-voyage/
-Wild Turkey Master's Keep,2022 - Unforgotten,8-13,105.0,2022,Wild Turkey,Bourbon,22075001000974,https://www.wildturkeybourbon.com/products/masters-keep-unforgotten/
-Wild Turkey Master's Keep,2021 - One,14,101.0,2021,Wild Turkey,Bourbon,24003001000096,https://www.wildturkeybourbon.com/products/masters-keep-one/
-Wild Turkey Master's Keep,2020 - Bottled in Bond,17,100.0,2020,Wild Turkey,Bourbon,24003001000076,https://www.wildturkeybourbon.com/products/masters-keep-bottled-in-bond/
-Wild Turkey Master's Keep,2019 - Cornerstone Rye,9-11,109.0,2019,Wild Turkey,Rye,24003001000117,https://www.wildturkeybourbon.com/products/masters-keep-cornerstone-rye/
-Wild Turkey Master's Keep,2018 - Revival,12-15,101.0,2018,Wild Turkey,Bourbon,17215001000904,https://www.wildturkeybourbon.com/products/masters-keep-revival/
-Wild Turkey Master's Keep,2017 - 1894,6-13,90.0,2017,Wild Turkey,Bourbon,,https://www.wildturkeybourbon.com/
-Wild Turkey Master's Keep,2016 - Decades,10-20,104.0,2016,Wild Turkey,Bourbon,15260001000475,https://www.wildturkeybourbon.com/products/masters-keep-decades/
+W.L. Weller 12 Year,standard,12,90,1999-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/
+W.L. Weller Antique 107,standard,,107,1999-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/
+W.L. Weller Special Reserve,standard,,90,1999-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/
+Wild Turkey Master's Keep,2025 - Beacon,10-16,118,2025,Wild Turkey,Bourbon,24163001000770,https://www.wildturkeybourbon.com/products/masters-keep-beacon/
+Wild Turkey Master's Keep,2024 - Triumph,10,104,2024,Wild Turkey,Rye,23174001000306,https://www.wildturkeybourbon.com/products/masters-keep-triumph/
+Wild Turkey Master's Keep,2023 - Voyage,10,106,2023,Wild Turkey,Bourbon,22283001000281,https://www.wildturkeybourbon.com/products/masters-keep-voyage/
+Wild Turkey Master's Keep,2022 - Unforgotten,8-13,105,2022,Wild Turkey,Bourbon,22075001000974,https://www.wildturkeybourbon.com/products/masters-keep-unforgotten/
+Wild Turkey Master's Keep,2021 - One,14,101,2021,Wild Turkey,Bourbon,24003001000096,https://www.wildturkeybourbon.com/products/masters-keep-one/
+Wild Turkey Master's Keep,2020 - Bottled in Bond,17,100,2020,Wild Turkey,Bourbon,24003001000076,https://www.wildturkeybourbon.com/products/masters-keep-bottled-in-bond/
+Wild Turkey Master's Keep,2019 - Cornerstone Rye,9-11,109,2019,Wild Turkey,Rye,24003001000117,https://www.wildturkeybourbon.com/products/masters-keep-cornerstone-rye/
+Wild Turkey Master's Keep,2018 - Revival,12-15,101,2018,Wild Turkey,Bourbon,17215001000904,https://www.wildturkeybourbon.com/products/masters-keep-revival/
+Wild Turkey Master's Keep,2017 - 1894,6-13,90,2017,Wild Turkey,Bourbon,,https://www.wildturkeybourbon.com/
+Wild Turkey Master's Keep,2016 - Decades,10-20,104,2016,Wild Turkey,Bourbon,15260001000475,https://www.wildturkeybourbon.com/products/masters-keep-decades/
 Wild Turkey Master's Keep,2015 - 17 Year,17,86.8,2015,Wild Turkey,Bourbon,14352001000297,https://www.wildturkeybourbon.com/products/masters-keep-17-year/
-William Larue Weller (WLW),BTAC Fall 2025,12.5,129.0,2025,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/william-larue-weller-2025
+William Larue Weller (WLW),BTAC Fall 2025,12.5,129,2025,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/william-larue-weller-2025
 William Larue Weller (WLW),BTAC Fall 2024,12.5,125.8,2024,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/william-larue-weller-2024
 William Larue Weller (WLW),BTAC Fall 2023,12,133.6,2023,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/william-larue-weller-2023
 William Larue Weller (WLW),BTAC Fall 2022,12,124.7,2022,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/william-larue-weller-2022
 William Larue Weller (WLW),BTAC Fall 2021,12,125.3,2021,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/william-larue-weller-2021
 William Larue Weller (WLW),BTAC Fall 2020,12,134.5,2020,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/william-larue-weller-2020
-William Larue Weller (WLW),BTAC Fall 2019,12,128.0,2019,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
+William Larue Weller (WLW),BTAC Fall 2019,12,128,2019,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
 William Larue Weller (WLW),BTAC Fall 2018,12,125.7,2018,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
 William Larue Weller (WLW),BTAC Fall 2017,12,128.2,2017,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
 William Larue Weller (WLW),BTAC Fall 2016,12,135.4,2016,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
