@@ -39,6 +39,12 @@ description: "Comprehensive searchable index of bourbon and whiskey batches. Fin
          {{ whiskey.Batch }}
        {%- endif -%}
        {%- if whiskey.TTB_ID and whiskey.TTB_ID != '' -%}
+         {%- comment -%}
+         TTB IDs start with a 2-digit year prefix (e.g., 02=2002, 13=2013, 23=2023).
+         TTB changed their online system around 2013. IDs with prefix 02-12 (years 2002-2012)
+         use the older publicViewImage.do format, while IDs 13+ (2013 onward) use the newer
+         viewColaDetails.do format. The cutoff at 13 reflects this system change.
+         {%- endcomment -%}
          {%- assign ttb_year_prefix = whiskey.TTB_ID | slice: 0, 2 | plus: 0 -%}
          {%- if ttb_year_prefix < 13 -%}
            &nbsp;<a href="https://ttbonline.gov/colasonline/publicViewImage.do?id={{ whiskey.TTB_ID }}" target="_blank" rel="noopener noreferrer" title="View TTB Label">🏷️</a>
