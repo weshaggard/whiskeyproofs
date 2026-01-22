@@ -173,3 +173,17 @@ When selecting URLs for whiskey entries, follow this priority order (highest to 
 2. **Follow priority guidelines**: Use the URL priority order above when selecting links
 3. **Verify manually**: Spot-check a few URLs in your browser to confirm they work
 4. **Fix errors immediately**: Address all validation failures before pushing changes
+
+## TTB Label Approval Research
+
+When researching TTB (Alcohol and Tobacco Tax and Trade Bureau) IDs for whiskey products:
+
+- **Timing**: Labels are typically approved the year before the release, though sometimes in the release year itself
+- **Search Strategy**: When looking for TTB IDs for a specific batch:
+  - **First**: Search by distillery (brand name) and date range to get all approvals for that distillery
+  - **Then**: Look through the results for the specific product name (fanciful name) you're searching for
+  - Check the year before the release year first (labels are most often approved before public release)
+  - If not found, check the release year itself
+  - Example: For a 2023 batch release, search "Jack Daniel's" in 2022 approvals first, then look for "10 YEARS OLD" in the results
+
+**TTB COLA Registry**: The public TTB COLA (Certificate of Label Approval) registry at ttbonline.gov is the authoritative source for label approvals
