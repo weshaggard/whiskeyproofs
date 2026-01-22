@@ -47,8 +47,8 @@ Birthday Bourbon,2003 Fall,13,89,2003,Old Forester,Bourbon,03147000000032,https:
 Birthday Bourbon,2003 Spring,12,93,2003,Old Forester,Bourbon,03147000000031,https://www.oldforester.com/products/old-forester-2003-spring-birthday-bourbon/
 Birthday Bourbon,2002,12,95,2002,Old Forester,Bourbon,02156000000070,https://www.oldforester.com/products/old-forester-2002-birthday-bourbon/
 Blanton's,Straight From The Barrel,,120-135,1999-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-straight-from-the-barrel/
-Blanton's,Special Reserve,,80,1999-2025,Buffalo Trace,Bourbon,,https://www.blantonsbourbon.com/pages/our-bourbon
-Blanton's,Original,,93,1984-2025,Buffalo Trace,Bourbon,,https://www.blantonsbourbon.com/
+Blanton's,Special Reserve,,80,1999-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-special-reserve/
+Blanton's,Original,,93,1984-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-original-single-barrel/
 Blanton's,Gold Edition,,103,1999-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-gold-edition/
 Blood Oath,Pact 11,7-14,98.6,2025,Lux Row,Bourbon,,https://luxrowdistillers.com/blood-oath/
 Blood Oath,Pact 10,,98.6,2024,Lux Row,Bourbon,,https://luxrowdistillers.com/blood-oath/
@@ -136,9 +136,18 @@ E.H. Taylor Barrel Proof (EHTBP),Batch 4,,127.2,2015,Buffalo Trace,Bourbon,,http
 E.H. Taylor Barrel Proof (EHTBP),Batch 3,,129,2014,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
 E.H. Taylor Barrel Proof (EHTBP),Batch 2,,135.4,2013,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
 E.H. Taylor Barrel Proof (EHTBP),Batch 1,,134.5,2012,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
+E.H. Taylor Jr,Warehouse C Tornado Surviving,,100,2016,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-warehouse-c-tornado-surviving/
+E.H. Taylor Jr,Warehouse C Bourbon,,100,2012,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-warehouse-c-bourbon/
 E.H. Taylor Jr,Straight Rye,,100,2016-2025,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-straight-rye/
 E.H. Taylor Jr,Small Batch,,100,2011-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-small-batch/
 E.H. Taylor Jr,Single Barrel,,100,2011-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-single-barrel/
+E.H. Taylor Jr,Seasoned Wood,,100,2016,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-seasoned-wood/
+E.H. Taylor Jr,Old Fashioned Sour Mash,,100,2011,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-old-fashioned-sour-mash/
+E.H. Taylor Jr,Four Grain,12,100,2017,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-four-grain/
+E.H. Taylor Jr,Cured Oak,,100,2014,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-cured-oak/
+E.H. Taylor Jr,Barrel Proof Rye,,125-135,2025,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof-rye/
+E.H. Taylor Jr,Amaranth,,100,2020,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-amaranth/
+E.H. Taylor Jr,18 Year Marriage,18,100,2018,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-18-year-marriage/
 Eagle Rare 10 Year,standard,10,90,1975-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/
 Eagle Rare 17 Year (ER17),BTAC Fall 2025,17,101,2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
 Eagle Rare 17 Year (ER17),BTAC Fall 2024,17,101,2024,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
