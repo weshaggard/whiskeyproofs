@@ -13,12 +13,12 @@ Angel's Envy Cask Strength,2015,,127.9,2015,Angel's Envy,Bourbon,17152001000375,
 Angel's Envy Cask Strength,2014,,119.3,2014,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
 Angel's Envy Cask Strength,2013,,123,2013,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
 Angel's Envy Cask Strength,2012,,121,2012,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
-Benchmark Bonded,standard,4,100,2019-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-bonded/
-Benchmark Full Proof,standard,,125,2019-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-full-proof/
-Benchmark Old No. 8,standard,,80,1969-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-old-no-8-brand/
-Benchmark Single Barrel,standard,,95,2019-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-single-barrel/
-Benchmark Small Batch,standard,,90,2019-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-small-batch/
-Benchmark Top Floor,standard,,86,2019-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-top-floor/
+Benchmark,Bonded,4,100,2019-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-bonded/
+Benchmark,Full Proof,,125,2019-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-full-proof/
+Benchmark,Single Barrel,,95,2019-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-single-barrel/
+Benchmark,Small Batch,,90,2019-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-small-batch/
+Benchmark,Top Floor,,86,2019-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-top-floor/
+Benchmark,Old No. 8,,80,1969-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-old-no-8-brand/
 Bernheim Original Wheat,standard,7,90,2005-2025,Heaven Hill,Wheat Whiskey,,https://heavenhilldistillery.com/bernheim-straight-wheat-whiskey.php
 Birthday Bourbon,2025,12,92,2025,Old Forester,Bourbon,25013001000088,https://www.breakingbourbon.com/review/old-forester-2025-birthday-bourbon
 Birthday Bourbon,2024,,96,2024,Old Forester,Bourbon,24031001000098,https://www.breakingbourbon.com/review/old-forester-2024-birthday-bourbon
@@ -150,6 +150,9 @@ Eagle Rare 17 Year (ER17),BTAC Fall 2013,17,90,2013,Buffalo Trace,Bourbon,,https
 Eagle Rare 17 Year (ER17),BTAC Fall 2012,17,90,2012,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
 Eagle Rare 17 Year (ER17),BTAC Fall 2011,17,90,2011,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
 Eagle Rare 17 Year (ER17),BTAC Fall 2010,17,90,2010,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
+Elijah Craig,Toasted Barrel,,94,2020-2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/elijah-craig-toasted-barrel.php
+Elijah Craig,Rye,,94,2018-2025,Heaven Hill,Rye,,https://heavenhilldistillery.com/elijah-craig-rye.php
+Elijah Craig,Small Batch,,94,1986-2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/elijah-craig-small-batch.php
 Elijah Craig Barrel Proof (ECBP),C925,9.1,129,2025,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-c925
 Elijah Craig Barrel Proof (ECBP),B525,11.6,126.2,2025,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-b525
 Elijah Craig Barrel Proof (ECBP),A125,10.6,118.2,2025,Heaven Hill,Bourbon,,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-a125
@@ -186,13 +189,10 @@ Elijah Craig Barrel Proof (ECBP),A215,12,128,2015,Heaven Hill,Bourbon,,https://e
 Elijah Craig Barrel Proof (ECBP),C914,12,140.2,2014,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),B514,12,134.8,2014,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),A314,12,132.4,2014,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
-Elijah Craig Rye,standard,,94,2018-2025,Heaven Hill,Rye,,https://heavenhilldistillery.com/elijah-craig-rye.php
-Elijah Craig Small Batch,standard,,94,1986-2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/elijah-craig-small-batch.php
-Elijah Craig Toasted Barrel,standard,,94,2020-2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/elijah-craig-toasted-barrel.php
 Elmer T. Lee,standard,,90,1986-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/elmer-t-lee-single-barrel/
-Evan Williams 1783 Small Batch,standard,,86,2015-2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/evan-williams-1783-small-batch.php
-Evan Williams Black Label,standard,,86,1957-2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/evan-williams-single-barrel.php
-Evan Williams Bottled-in-Bond,standard,,100,2012-2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/ew-bottled-in-bond.php
+Evan Williams,1783 Small Batch,,86,2015-2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/evan-williams-1783-small-batch.php
+Evan Williams,Bottled-in-Bond,,100,2012-2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/ew-bottled-in-bond.php
+Evan Williams,Black Label,,86,1957-2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/evan-williams-single-barrel.php
 Four Roses Limited Edition Small Batch,2025,13-19,109,2025,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/limited-edition
 Four Roses Limited Edition Small Batch,2024,12-20,108.2,2024,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/limited-edition
 Four Roses Limited Edition Small Batch,2023,12-25,108,2023,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/limited-edition
@@ -330,10 +330,10 @@ Michter's Toasted Barrel Rye,2023,,108.8,2023,Michter's,Rye,,https://michters.co
 Michter's Toasted Barrel Sour Mash,2025,,86,2025,Michter's,Whiskey,,https://michters.com/us1-toasted-barrel-finish-sour-mash/
 Michter's Toasted Barrel Sour Mash,2022,,86,2022,Michter's,Whiskey,,https://michters.com/us1-toasted-barrel-finish-sour-mash/
 Michter's Toasted Barrel Sour Mash,2019,,86,2019,Michter's,Whiskey,,https://michters.com/us1-toasted-barrel-finish-sour-mash/
-Michter's US1 American Whiskey,standard,,83.4,2000-2025,Michter's,Whiskey,,https://michters.com/us1-american-whiskey/
-Michter's US1 Bourbon,standard,,91.4,2000-2025,Michter's,Bourbon,,https://michters.com/whiskey/kentucky-straight-bourbon/
-Michter's US1 Rye,standard,,84.8,2000-2025,Michter's,Rye,,https://michters.com/whiskey/us1-kentucky-straight-rye/
-Michter's US1 Sour Mash,standard,,86,2000-2025,Michter's,Whiskey,,https://michters.com/sour-mash/
+Michter's US 1,American Whiskey,,83.4,2000-2025,Michter's,Whiskey,,https://michters.com/us1-american-whiskey/
+Michter's US 1,Bourbon,,91.4,2000-2025,Michter's,Bourbon,,https://michters.com/whiskey/kentucky-straight-bourbon/
+Michter's US 1,Rye,,84.8,2000-2025,Michter's,Rye,,https://michters.com/whiskey/us1-kentucky-straight-rye/
+Michter's US 1,Sour Mash,,86,2000-2025,Michter's,Whiskey,,https://michters.com/sour-mash/
 Old Fitzgerald Bottled-in-Bond,Fall 2025,11,100,2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
 Old Fitzgerald Bottled-in-Bond,Spring 2025,9,100,2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
 Old Fitzgerald Bottled-in-Bond,Fall 2024,8,100,2024,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
@@ -350,12 +350,12 @@ Old Fitzgerald Bottled-in-Bond,Fall 2019,15,100,2019,Heaven Hill,Bourbon,,https:
 Old Fitzgerald Bottled-in-Bond,Spring 2019,13,100,2019,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
 Old Fitzgerald Bottled-in-Bond,Fall 2018,9,100,2018,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
 Old Fitzgerald Bottled-in-Bond,Spring 2018,11,100,2018,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/old-fitzgerald.php
-Old Forester 1870,2025,,90,2025,Old Forester,Bourbon,,https://www.oldforester.com/products/old-forester-1870-original-batch-whisky/
-Old Forester 1897,2025,4,100,2025,Old Forester,Bourbon,,https://www.oldforester.com/products/old-forester-1897-bottled-in-bond/
-Old Forester 1910,2025,,93,2025,Old Forester,Bourbon,,https://www.oldforester.com/products/old-forester-1910-old-fine-whisky/
-Old Forester 1920,2025,,115,2025,Old Forester,Bourbon,,https://www.oldforester.com/products/old-forester-1920-style-prohibition-whisky/
-Old Forester 1924,standard,10,100,2024-2025,Old Forester,Bourbon,,https://www.oldforester.com/products/old-forester-1924-10-year-old-whisky/
-Old Forester President's Choice,2025,7-9,110-125,2025,Old Forester,Bourbon,,https://www.oldforester.com/presidents-choice/
+Old Forester,1924,10,100,2024-2025,Old Forester,Bourbon,,https://www.oldforester.com/products/old-forester-1924-10-year-old-whisky/
+Old Forester,1920,,115,2025,Old Forester,Bourbon,,https://www.oldforester.com/products/old-forester-1920-style-prohibition-whisky/
+Old Forester,1910,,93,2025,Old Forester,Bourbon,,https://www.oldforester.com/products/old-forester-1910-old-fine-whisky/
+Old Forester,1897,4,100,2025,Old Forester,Bourbon,,https://www.oldforester.com/products/old-forester-1897-bottled-in-bond/
+Old Forester,1870,,90,2025,Old Forester,Bourbon,,https://www.oldforester.com/products/old-forester-1870-original-batch-whisky/
+Old Forester,President's Choice,7-9,110-125,2025,Old Forester,Bourbon,,https://www.oldforester.com/presidents-choice/
 Parker's Heritage Collection,2025 - 11 Year American Whiskey,11-15,122.5,2025,Heaven Hill,American Whiskey,,https://heavenhilldistillery.com/parkers-heritage-collection.php
 Parker's Heritage Collection,2024 - 14 Year Malt Whiskey,14,107,2024,Heaven Hill,Malt Whiskey,,https://heavenhilldistillery.com/parkers-heritage-collection.php
 Parker's Heritage Collection,2023 - Kentucky Straight Rye,,128.8,2023,Heaven Hill,Rye,,https://heavenhilldistillery.com/parkers-heritage-collection.php
@@ -391,16 +391,16 @@ Remus Repeal Reserve,Series II,10.25,100,2018,MGP,Bourbon,,https://remusbourbon.
 Remus Repeal Reserve,Series I,11.5,94,2017,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-i/
 Rittenhouse Rye,standard,4,100,1934-2025,Heaven Hill,Rye,,https://heavenhilldistillery.com/rittenhouse-rye.php
 Rock Hill Farms,standard,,100,1992-2025,Buffalo Trace,Bourbon,,https://www.sazerac.com/our-brands/sazerac-brands/rockhill-farms.html
-Russell's Reserve 10 Year,standard,10,90,2001-2025,Wild Turkey,Bourbon,,https://www.russellsreserve.com/en-us/our-products/10-year-old-bourbon/
+Russell's Reserve,Single Barrel Rye,,104,2015-2025,Wild Turkey,Rye,,https://www.russellsreserve.com/en-us/our-products/single-barrel-rye/
+Russell's Reserve,6 Year Rye,6,90,2012-2025,Wild Turkey,Rye,,https://www.russellsreserve.com/en-us/our-products/6-year-old-rye/
+Russell's Reserve,Single Barrel Bourbon,,110,2006-2025,Wild Turkey,Bourbon,,https://www.russellsreserve.com/en-us/our-products/single-barrel-bourbon/
+Russell's Reserve,10 Year,10,90,2001-2025,Wild Turkey,Bourbon,,https://www.russellsreserve.com/en-us/our-products/10-year-old-bourbon/
 Russell's Reserve 13 Year,6 - LA/NE (Spring 2025),13,123.8,2025,Wild Turkey,Bourbon,,https://www.russellsreserve.com/our-products/13-year-old-bourbon/
 Russell's Reserve 13 Year,5 - LL/LE (May 2023),13,114.8,2023,Wild Turkey,Bourbon,,https://www.russellsreserve.com/our-products/13-year-old-bourbon/
 Russell's Reserve 13 Year,4 - LL/LC (March 2023),13,114.8,2023,Wild Turkey,Bourbon,,https://www.russellsreserve.com/our-products/13-year-old-bourbon/
 Russell's Reserve 13 Year,3 - LL/KE (May 2022),13,114.8,2022,Wild Turkey,Bourbon,,https://www.russellsreserve.com/our-products/13-year-old-bourbon/
 Russell's Reserve 13 Year,2 - LL/JL (December 2021),13,114.8,2021,Wild Turkey,Bourbon,,https://www.russellsreserve.com/our-products/13-year-old-bourbon/
 Russell's Reserve 13 Year,1 - LL/JD (April 2021),13,114.8,2021,Wild Turkey,Bourbon,,https://www.russellsreserve.com/our-products/13-year-old-bourbon/
-Russell's Reserve 6 Year Rye,standard,6,90,2012-2025,Wild Turkey,Rye,,https://www.russellsreserve.com/en-us/our-products/6-year-old-rye/
-Russell's Reserve Single Barrel Bourbon,standard,,110,2006-2025,Wild Turkey,Bourbon,,https://www.russellsreserve.com/en-us/our-products/single-barrel-bourbon/
-Russell's Reserve Single Barrel Rye,standard,,104,2015-2025,Wild Turkey,Rye,,https://www.russellsreserve.com/en-us/our-products/single-barrel-rye/
 Russell's Reserve Single Rickhouse,2025 - Camp Nelson E,,128,2025,Wild Turkey,Bourbon,25077001000050,https://www.russellsreserve.com/en-us/our-products/single-rickhouse/
 Russell's Reserve Single Rickhouse,2024 - Camp Nelson B,,120.2,2024,Wild Turkey,Bourbon,23347001000544,https://www.russellsreserve.com/en-us/our-products/single-rickhouse/
 Russell's Reserve Single Rickhouse,2023 - Camp Nelson F,,117.6,2023,Wild Turkey,Bourbon,22326001000282,https://www.russellsreserve.com/en-us/our-products/single-rickhouse/
@@ -477,12 +477,12 @@ Thomas H. Handy (THH),BTAC Fall 2013,6,128.4,2013,Buffalo Trace,Rye,,https://www
 Thomas H. Handy (THH),BTAC Fall 2012,6,132.4,2012,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
 Thomas H. Handy (THH),BTAC Fall 2011,6,128.6,2011,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
 Thomas H. Handy (THH),BTAC Fall 2010,6,126.9,2010,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-W.L. Weller 12 Year,standard,12,90,1999-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-12/
-W.L. Weller Antique 107,standard,,107,1999-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-antique-107/
-W.L. Weller C.Y.P.B.,standard,,95,2020-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-c-y-p-b/
-W.L. Weller Full Proof,standard,,114,2017-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-full-proof/
-W.L. Weller Single Barrel,standard,,97,2020-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-single-barrel/
-W.L. Weller Special Reserve,standard,,90,1999-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-special-reserve/
+W.L. Weller,C.Y.P.B.,,95,2020-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-c-y-p-b/
+W.L. Weller,Single Barrel,,97,2020-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-single-barrel/
+W.L. Weller,Full Proof,,114,2017-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-full-proof/
+W.L. Weller,12 Year,12,90,1999-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-12/
+W.L. Weller,Antique 107,,107,1999-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-antique-107/
+W.L. Weller,Special Reserve,,90,1999-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-special-reserve/
 Wild Turkey 101,standard,,101,1940-2025,Wild Turkey,Bourbon,,https://www.wildturkeybourbon.com/products/wild-turkey-bourbon/
 Wild Turkey Kentucky Spirit,standard,,101,1994-2025,Wild Turkey,Bourbon,,https://www.wildturkeybourbon.com/products/kentucky-spirit/
 Wild Turkey Master's Keep,2025 - Beacon,10-16,118,2025,Wild Turkey,Bourbon,24163001000770,https://www.wildturkeybourbon.com/products/masters-keep-beacon/
