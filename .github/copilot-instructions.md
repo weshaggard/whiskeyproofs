@@ -22,6 +22,20 @@ Booker's,2024-04,...
 
 ### Batch Sorting Details
 
+**Batch-First Sorting**: Batches are sorted primarily by batch name (alphabetically descending), then by release year (descending) within the same batch name:
+
+✅ **Correct** (batch name first, then year):
+```
+Michter's US 1,Toasted Barrel Sour Mash,,86,2025,...
+Michter's US 1,Toasted Barrel Sour Mash,,86,2022,...
+Michter's US 1,Toasted Barrel Rye,,107.8-109.4,2023,...
+Michter's US 1,Toasted Barrel Bourbon,,91.4,2024,...
+Michter's US 1,Barrel Strength Rye,,107.4-115.2,2025,...
+Michter's US 1,Barrel Strength Bourbon,,108-112,2017-2025,...
+```
+
+This groups similar batch types together (all "Toasted Barrel" entries, all "Barrel Strength" entries), making it easier to see product variants at a glance.
+
 **Numeric Batch Sorting**: When batch names contain numbers (like "Batch 15", "Batch 2"), they must be sorted **numerically**, not alphabetically:
 
 ✅ **Correct** (numeric sort):
@@ -43,9 +57,10 @@ E.H. Taylor Barrel Proof,Batch 14,...
 ```
 
 **Implementation Note**: When sorting batches:
-1. Extract numeric values from batch strings (e.g., "Batch 15" → 15)
-2. Sort by the numeric value in descending order (highest first)
-3. For batches without numbers, fall back to alphabetical descending sort
+1. For batches with specific formats (year-batch like "2025-04", numbered batches like "Batch 15", etc.), special sorting logic applies to handle those formats correctly
+2. For general batches, sort by batch name alphabetically descending (Z to A) first
+3. Within the same batch name, sort by release year descending (newest first)
+4. This ensures similar product types are grouped together while maintaining chronological order within each type
 
 ### Implementation
 After any edits to the CSV file, always re-sort the data to maintain this order. This ensures:

@@ -109,6 +109,23 @@ def batch_sort_key(batch, release_year):
             chapter_num = int(chapter_match.group(1))
             return (5, -chapter_num, batch)
     
+    # Handle "Pact N" format (Blood Oath)
+    if batch.startswith('Pact '):
+        pact_match = re.search(r'Pact (\d+)', batch)
+        if pact_match:
+            pact_num = int(pact_match.group(1))
+            return (10, -pact_num, batch)
+    
+    # Handle "Series" format with Roman numerals or numbers (e.g., "Series IX", "Series VIII")
+    if batch.startswith('Series '):
+        # Convert Roman numerals to integers for proper sorting
+        roman_map = {'I': 1, 'II': 2, 'III': 3, 'IV': 4, 'V': 5, 'VI': 6, 'VII': 7, 'VIII': 8, 'IX': 9, 'X': 10}
+        series_match = re.search(r'Series ([IVX]+)', batch)
+        if series_match:
+            roman = series_match.group(1)
+            if roman in roman_map:
+                return (11, -roman_map[roman], batch)
+    
     # Handle Stagg batch codes like "25C", "24D", "23A"
     batch_code_match = re.match(r'^(\d{2})([A-Z])$', batch)
     if batch_code_match:
@@ -125,10 +142,10 @@ def batch_sort_key(batch, release_year):
         # Sort alphabetically descending by the batch string
         return (8, -year, ReverseStr(batch))
     
-    # Default: use release year and alphabetical descending
+    # Default: use alphabetical descending (batch name first), then year descending
     # Handle year ranges (e.g., "1999-2025") by using the first year
     year_to_use = release_year.split('-')[0] if '-' in release_year else release_year
-    return (99, -int(year_to_use), batch)
+    return (99, ReverseStr(batch), -int(year_to_use))
 
 
 def validate_csv(filename):
