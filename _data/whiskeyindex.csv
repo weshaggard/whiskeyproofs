@@ -48,8 +48,8 @@ Birthday Bourbon,2003 Spring,12,93,2003,Old Forester,Bourbon,03147000000031,http
 Birthday Bourbon,2002,12,95,2002,Old Forester,Bourbon,02156000000070,https://www.oldforester.com/products/old-forester-2002-birthday-bourbon/
 Blanton's Original,standard,,93,1984-2025,Buffalo Trace,Bourbon,,https://www.blantonsbourbon.com/
 Blood Oath,Pact 11,7-14,98.6,2025,Lux Row,Bourbon,24303001000381,https://luxrowdistillers.com/blood-oath/
-Blood Oath,Pact 10,,98.6,2024,Lux Row,Bourbon,,https://luxrowdistillers.com/blood-oath/
-Blood Oath,Pact 9,7-16,98.6,2023,Lux Row,Bourbon,,https://luxrowdistillers.com/blood-oath/
+Blood Oath,Pact 10,,98.6,2024,Lux Row,Bourbon,23135001001117,https://luxrowdistillers.com/blood-oath/
+Blood Oath,Pact 9,7-16,98.6,2023,Lux Row,Bourbon,22280001000179,https://luxrowdistillers.com/blood-oath/
 Blood Oath,Pact 8,8-14,98.6,2022,Lux Row,Bourbon,21288001000078,https://luxrowdistillers.com/blood-oath/
 Blood Oath,Pact 7,8-14,98.6,2021,Lux Row,Bourbon,20164001000238,https://luxrowdistillers.com/blood-oath/
 Blood Oath,Pact 6,7-14,98.6,2020,Lux Row,Bourbon,19225001000103,https://luxrowdistillers.com/blood-oath/
@@ -239,12 +239,12 @@ Jack Daniel's 14 Year (JD14),Batch 1,14,126.3,2025,Jack Daniel's,Tennessee Whisk
 Jack Daniel's Special Release,2025 - Tanyard Hill Rye,9-10,130.2-148.8,2025,Jack Daniel's,Rye,25028001000211,https://www.jackdaniels.com/en-us/whiskey/single-barrel-heritage-barrel-special-release
 Jack Daniel's Special Release,2024 - Coy Hill,11,122-137.5,2024,Jack Daniel's,Tennessee Whiskey,24050001000497,https://www.jackdaniels.com/en-us/whiskey/single-barrel-heritage-barrel-special-release
 Jack Daniel's Special Release,2023 - Twice Barreled Heritage Barrel Rye,7.5,100,2023,Jack Daniel's,Rye,,https://www.jackdaniels.com/en-us/whiskey/single-barrel-heritage-barrel-special-release
-Jack Daniel's Special Release,2022 - Twice Barreled American Single Malt,,105.7-107.8,2022,Jack Daniel's,American Whiskey,,https://www.jackdaniels.com/en-us/whiskey/single-barrel-heritage-barrel-special-release
-Jack Daniel's Special Release,2021 - Coy Hill High Proof,9,137.4-148.3,2021,Jack Daniel's,Tennessee Whiskey,,https://www.jackdaniels.com/en-us/whiskey/single-barrel-heritage-barrel-special-release
-Jack Daniel's Special Release,2020 - Barrel Proof Rye,,125-140,2020,Jack Daniel's,Rye,,https://www.jackdaniels.com/en-us/whiskey/single-barrel-heritage-barrel-special-release
+Jack Daniel's Special Release,2022 - Twice Barreled American Single Malt,,105.7-107.8,2022,Jack Daniel's,American Whiskey,22244001000651,https://www.jackdaniels.com/en-us/whiskey/single-barrel-heritage-barrel-special-release
+Jack Daniel's Special Release,2021 - Coy Hill High Proof,9,137.4-148.3,2021,Jack Daniel's,Tennessee Whiskey,21302001000374,https://www.jackdaniels.com/en-us/whiskey/single-barrel-heritage-barrel-special-release
+Jack Daniel's Special Release,2020 - Barrel Proof Rye,,125-140,2020,Jack Daniel's,Rye,20275001000427,https://www.jackdaniels.com/en-us/whiskey/single-barrel-heritage-barrel-special-release
 Jack Daniel's Special Release,2019 - Heritage Barrel,8,100,2019,Jack Daniel's,Tennessee Whiskey,18017001000600,https://www.jackdaniels.com/en-us/whiskey/single-barrel-heritage-barrel-special-release
 Jack Daniel's Special Release,2018 - Heritage Barrel,7,100,2018,Jack Daniel's,Tennessee Whiskey,,https://www.jackdaniels.com/en-us/whiskey/single-barrel-heritage-barrel-special-release
-Knob Creek 15 Year (KC15),2021,15,100,2021,Knob Creek,Bourbon,,https://www.knobcreek.com/
+Knob Creek 15 Year (KC15),2021,15,100,2021,Knob Creek,Bourbon,17296001000531,https://www.knobcreek.com/
 Knob Creek 15 Year (KC15),2020,15,100,2020,Knob Creek,Bourbon,,https://www.breakingbourbon.com/review/knob-creek-15-year-2020-limited-edition
 Knob Creek 18 Year (KC18),2024,18,100,2024,Knob Creek,Bourbon,,https://www.knobcreek.com/whiskies/18-year-old-bourbon-whiskey
 Knob Creek 18 Year (KC18),2023,18,100,2023,Knob Creek,Bourbon,,https://www.knobcreek.com/whiskies/18-year-old-bourbon-whiskey
@@ -278,7 +278,7 @@ Larceny Small Batch,standard,,92,2012-2025,Heaven Hill,Bourbon,,https://heavenhi
 Little Book,Chapter 9: None For Granted,,121.8,2025,Jim Beam,Bourbon,24032001000586,https://www.beamdistilling.com/littlebook/whiskies/little-book-chapter-9-none-for-granted
 Little Book,Chapter 8: Path Not Taken,,120,2024,Jim Beam,Bourbon,23060001000800,https://www.beamdistilling.com/littlebook/whiskies/little-book-chapter-8-path-not-taken
 Little Book,Chapter 7: In Retrospect,,118.1,2023,Jim Beam,Bourbon,22151001000666,https://www.beamdistilling.com/littlebook/whiskies/little-book-chapter-7-in-retrospect
-Little Book,Chapter 6: To The Finish,,117.45,2022,Jim Beam,Bourbon,,https://www.beamdistilling.com/littlebook/whiskies/little-book-chapter-6-to-the-finish
+Little Book,Chapter 6: To The Finish,,117.45,2022,Jim Beam,Bourbon,21302001000239,https://www.beamdistilling.com/littlebook/whiskies/little-book-chapter-6-to-the-finish
 Little Book,Chapter 5: The Invitation,,116.8,2021,Jim Beam,Bourbon,21021001000086,https://www.beamdistilling.com/littlebook/whiskies/previous-releases
 Little Book,Chapter 4: Lessons Honored,,122.8,2020,Jim Beam,Bourbon,19101001000586,https://www.beamdistilling.com/littlebook/whiskies/little-book-chapter-4-lessons-honored
 Little Book,Chapter 3: The Road Home,,122.6,2019,Jim Beam,Bourbon,18072001000320,https://www.beamdistilling.com/littlebook/whiskies/previous-releases
@@ -361,35 +361,35 @@ Parker's Heritage Collection,2024 - 14 Year Malt Whiskey,14,107,2024,Heaven Hill
 Parker's Heritage Collection,2023 - Kentucky Straight Rye,,128.8,2023,Heaven Hill,Rye,22241001000540,https://heavenhilldistillery.com/parkers-heritage-collection.php
 Parker's Heritage Collection,2022 - Double Barreled Blend,13-15,132.2,2022,Heaven Hill,Bourbon,22241001000540,https://heavenhilldistillery.com/parkers-heritage-collection.php
 Parker's Heritage Collection,2021 - 11 Year Heavy Char Wheat,11,122,2021,Heaven Hill,Wheat Whiskey,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2020 - 10 Year Heavy Char Bourbon,10,120,2020,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2019 - 8 Year Heavy Char Rye,8,105,2019,Heaven Hill,Rye,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2018 - Orange Curaçao Finish,7-8,110,2018,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2017 - 11 Year Single Barrel,11,122,2017,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2016 - 24 Year Bottled-in-Bond,24,100,2016,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2015 - 8 Year Malt Whiskey,8,108,2015,Heaven Hill,Malt Whiskey,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2014 - 13 Year Wheat Whiskey,13,127.4,2014,Heaven Hill,Wheat Whiskey,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2013 - Promise of Hope,10,96,2013,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2012 - Blend of Mashbills,,133.2,2012,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2011 - Cognac Finish,,100,2011,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2010 - 10 Year Wheated Bourbon,10,126,2010,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2009 - Golden Anniversary,,100,2009,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2008 - 27 Year Bourbon,27,96,2008,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Parker's Heritage Collection,2007 - Cask Strength Bourbon,11,127.4,2007,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/parkers-heritage-collection.php
-Pikesville Rye,standard,6,110,2015-2025,Heaven Hill,Rye,,https://heavenhilldistillery.com/pikesville-straight-rye.php
+Parker's Heritage Collection,2020 - 10 Year Heavy Char Bourbon,10,120,2020,Heaven Hill,Bourbon,20291001000234,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Parker's Heritage Collection,2019 - 8 Year Heavy Char Rye,8,105,2019,Heaven Hill,Rye,19208001000277,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Parker's Heritage Collection,2018 - Orange Curaçao Finish,7-8,110,2018,Heaven Hill,Bourbon,18234001000357,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Parker's Heritage Collection,2017 - 11 Year Single Barrel,11,122,2017,Heaven Hill,Bourbon,17327001000226,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Parker's Heritage Collection,2016 - 24 Year Bottled-in-Bond,24,100,2016,Heaven Hill,Bourbon,16260001000134,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Parker's Heritage Collection,2015 - 8 Year Malt Whiskey,8,108,2015,Heaven Hill,Malt Whiskey,15266001000419,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Parker's Heritage Collection,2014 - 13 Year Wheat Whiskey,13,127.4,2014,Heaven Hill,Wheat Whiskey,14299001000273,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Parker's Heritage Collection,2013 - Promise of Hope,10,96,2013,Heaven Hill,Bourbon,13292001000269,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Parker's Heritage Collection,2012 - Blend of Mashbills,,133.2,2012,Heaven Hill,Bourbon,12254001000317,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Parker's Heritage Collection,2011 - Cognac Finish,,100,2011,Heaven Hill,Bourbon,11296001000343,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Parker's Heritage Collection,2010 - 10 Year Wheated Bourbon,10,126,2010,Heaven Hill,Bourbon,10286001000376,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Parker's Heritage Collection,2009 - Golden Anniversary,,100,2009,Heaven Hill,Bourbon,09226001000361,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Parker's Heritage Collection,2008 - 27 Year Bourbon,27,96,2008,Heaven Hill,Bourbon,08214001000247,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Parker's Heritage Collection,2007 - Cask Strength Bourbon,11,127.4,2007,Heaven Hill,Bourbon,07264001000247,https://heavenhilldistillery.com/parkers-heritage-collection.php
+Pikesville Rye,standard,6,110,2015-2025,Heaven Hill,Rye,06259001000356,https://heavenhilldistillery.com/pikesville-straight-rye.php
 Remus Gatsby Reserve,2025,15,102.8,2025,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-gatsby-reserve/
 Remus Gatsby Reserve,2024,15,104.9,2024,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-gatsby-reserve/
 Remus Gatsby Reserve,2023,15,98.1,2023,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-gatsby-reserve/
 Remus Gatsby Reserve,2022,15,97.8,2022,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-gatsby-reserve/
 Remus Repeal Reserve,Series IX,11,104,2025,MGP,Bourbon,17091001000011,https://www.breakingbourbon.com/review/remus-repeal-reserve-series-ix
-Remus Repeal Reserve,Series VIII,10.63,101,2024,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-viii/
-Remus Repeal Reserve,Series VII,9.94,100,2023,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-vii/
+Remus Repeal Reserve,Series VIII,10.63,101,2024,MGP,Bourbon,23238001000411,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-viii/
+Remus Repeal Reserve,Series VII,9.94,100,2023,MGP,Bourbon,22208001000357,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-vii/
 Remus Repeal Reserve,Series VI,9,100,2022,MGP,Bourbon,21111001000763,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-vi/
 Remus Repeal Reserve,Series V,13.75,100,2021,MGP,Bourbon,21111001000763,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-v/
 Remus Repeal Reserve,Series IV,12,100,2020,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-iv/
-Remus Repeal Reserve,Series III,11.12,100,2019,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-iii/
-Remus Repeal Reserve,Series II,10.25,100,2018,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-ii/
-Remus Repeal Reserve,Series I,11.5,94,2017,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-i/
-Rittenhouse Rye,standard,4,100,1934-2025,Heaven Hill,Rye,,https://heavenhilldistillery.com/rittenhouse-rye.php
+Remus Repeal Reserve,Series III,11.12,100,2019,MGP,Bourbon,19175001000289,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-iii/
+Remus Repeal Reserve,Series II,10.25,100,2018,MGP,Bourbon,18214001000356,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-ii/
+Remus Repeal Reserve,Series I,11.5,94,2017,MGP,Bourbon,17205001000288,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-i/
+Rittenhouse Rye,standard,4,100,1934-2025,Heaven Hill,Rye,16214001000334,https://heavenhilldistillery.com/rittenhouse-rye.php
 Rock Hill Farms,standard,,100,1992-2025,Buffalo Trace,Bourbon,,https://www.sazerac.com/our-brands/sazerac-brands/rockhill-farms.html
 Russell's Reserve,Single Barrel Rye,,104,2015-2025,Wild Turkey,Rye,,https://www.russellsreserve.com/en-us/our-products/single-barrel-rye/
 Russell's Reserve,Single Barrel Bourbon,,110,2006-2025,Wild Turkey,Bourbon,,https://www.russellsreserve.com/en-us/our-products/single-barrel-bourbon/
