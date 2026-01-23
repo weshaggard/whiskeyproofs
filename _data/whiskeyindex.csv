@@ -46,10 +46,10 @@ Birthday Bourbon,2004,8,94,2004,Old Forester,Bourbon,04085000000240,https://www.
 Birthday Bourbon,2003 Fall,13,89,2003,Old Forester,Bourbon,03147000000032,https://www.oldforester.com/products/old-forester-2003-fall-birthday-bourbon/
 Birthday Bourbon,2003 Spring,12,93,2003,Old Forester,Bourbon,03147000000031,https://www.oldforester.com/products/old-forester-2003-spring-birthday-bourbon/
 Birthday Bourbon,2002,12,95,2002,Old Forester,Bourbon,02156000000070,https://www.oldforester.com/products/old-forester-2002-birthday-bourbon/
-Blanton's,Straight From The Barrel,,120-135,1999-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-straight-from-the-barrel/
-Blanton's,Special Reserve,,80,1999-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-special-reserve/
-Blanton's,Original,,93,1984-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-original-single-barrel/
-Blanton's,Gold Edition,,103,1999-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-gold-edition/
+Blanton's,Straight From The Barrel,,120-135,1999-2025,Buffalo Trace,Bourbon,98155001000254,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-straight-from-the-barrel/
+Blanton's,Special Reserve,,80,1999-2025,Buffalo Trace,Bourbon,98165001000310,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-special-reserve/
+Blanton's,Original,,93,1984-2025,Buffalo Trace,Bourbon,83205001000197,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-original-single-barrel/
+Blanton's,Gold Edition,,103,1999-2025,Buffalo Trace,Bourbon,98175001000366,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-gold-edition/
 Blood Oath,Pact 11,7-14,98.6,2025,Lux Row,Bourbon,24303001000381,https://luxrowdistillers.com/blood-oath/
 Blood Oath,Pact 10,,98.6,2024,Lux Row,Bourbon,23135001001117,https://luxrowdistillers.com/blood-oath/
 Blood Oath,Pact 9,7-16,98.6,2023,Lux Row,Bourbon,22280001000179,https://luxrowdistillers.com/blood-oath/
@@ -136,18 +136,18 @@ E.H. Taylor Barrel Proof (EHTBP),Batch 4,,127.2,2015,Buffalo Trace,Bourbon,14120
 E.H. Taylor Barrel Proof (EHTBP),Batch 3,,129,2014,Buffalo Trace,Bourbon,14120001000071,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
 E.H. Taylor Barrel Proof (EHTBP),Batch 2,,135.4,2013,Buffalo Trace,Bourbon,12321001000334,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
 E.H. Taylor Barrel Proof (EHTBP),Batch 1,,134.5,2012,Buffalo Trace,Bourbon,12321001000334,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
-E.H. Taylor Jr,Warehouse C Tornado Surviving,,100,2016,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-warehouse-c-tornado-surviving/
-E.H. Taylor Jr,Warehouse C Bourbon,,100,2012,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-warehouse-c-bourbon/
-E.H. Taylor Jr,Straight Rye,,100,2016-2025,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-straight-rye/
-E.H. Taylor Jr,Small Batch,,100,2011-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-small-batch/
-E.H. Taylor Jr,Single Barrel,,100,2011-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-single-barrel/
-E.H. Taylor Jr,Seasoned Wood,,100,2016,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-seasoned-wood/
-E.H. Taylor Jr,Old Fashioned Sour Mash,,100,2011,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-old-fashioned-sour-mash/
-E.H. Taylor Jr,Four Grain,12,100,2017,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-four-grain/
-E.H. Taylor Jr,Cured Oak,,100,2014,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-cured-oak/
-E.H. Taylor Jr,Barrel Proof Rye,,125-135,2025,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof-rye/
-E.H. Taylor Jr,Amaranth,,100,2020,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-amaranth/
-E.H. Taylor Jr,18 Year Marriage,18,100,2018,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-18-year-marriage/
+E.H. Taylor Jr,Warehouse C Tornado Surviving,,100,2016,Buffalo Trace,Bourbon,15310001000621,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-warehouse-c-tornado-surviving/
+E.H. Taylor Jr,Warehouse C Bourbon,,100,2012,Buffalo Trace,Bourbon,11332001000443,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-warehouse-c-bourbon/
+E.H. Taylor Jr,Straight Rye,,100,2016-2025,Buffalo Trace,Rye,15322001000677,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-straight-rye/
+E.H. Taylor Jr,Small Batch,,100,2011-2025,Buffalo Trace,Bourbon,10327001000409,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-small-batch/
+E.H. Taylor Jr,Single Barrel,,100,2011-2025,Buffalo Trace,Bourbon,10339001000465,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-single-barrel/
+E.H. Taylor Jr,Seasoned Wood,,100,2016,Buffalo Trace,Bourbon,15334001000733,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-seasoned-wood/
+E.H. Taylor Jr,Old Fashioned Sour Mash,,100,2011,Buffalo Trace,Bourbon,10351001000521,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-old-fashioned-sour-mash/
+E.H. Taylor Jr,Four Grain,12,100,2017,Buffalo Trace,Bourbon,16345001000769,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-four-grain/
+E.H. Taylor Jr,Cured Oak,,100,2014,Buffalo Trace,Bourbon,13364001000635,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-cured-oak/
+E.H. Taylor Jr,Barrel Proof Rye,,125-135,2025,Buffalo Trace,Rye,24205001000513,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof-rye/
+E.H. Taylor Jr,Amaranth,,100,2020,Buffalo Trace,Bourbon,19330001000599,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-amaranth/
+E.H. Taylor Jr,18 Year Marriage,18,100,2018,Buffalo Trace,Bourbon,17342001000711,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-18-year-marriage/
 Eagle Rare 10 Year,standard,10,90,1975-2025,Buffalo Trace,Bourbon,11289001000197,https://www.buffalotracedistillery.com/our-brands/eagle-rare/
 Eagle Rare 17 Year (ER17),BTAC Fall 2025,17,101,2025,Buffalo Trace,Bourbon,24217001000327,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
 Eagle Rare 17 Year (ER17),BTAC Fall 2024,17,101,2024,Buffalo Trace,Bourbon,24229001000383,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
@@ -476,22 +476,22 @@ Stagg Jr,4,,132.2,2015,Buffalo Trace,Bourbon,22094001000560,https://www.buffalot
 Stagg Jr,3,,132.1,2014,Buffalo Trace,Bourbon,22094001000560,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg Jr,2,,128.7,2014,Buffalo Trace,Bourbon,22094001000560,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg Jr,1,,134.4,2013,Buffalo Trace,Bourbon,12355001000167,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
-Thomas H. Handy (THH),BTAC Fall 2025,6,129.8,2025,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2024,6,127.2,2024,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2023,6,124.9,2023,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2022,6,130.9,2022,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2021,6,129.5,2021,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2020,6,129,2020,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2019,6,125.7,2019,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2018,6,128.8,2018,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2017,6,127.2,2017,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2016,6,126.2,2016,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2015,6,126.9,2015,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2014,6,129.2,2014,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2013,6,128.4,2013,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2012,6,132.4,2012,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2011,6,128.6,2011,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2010,6,126.9,2010,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2025,6,129.8,2025,Buffalo Trace,Rye,24265001000551,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2024,6,127.2,2024,Buffalo Trace,Rye,23327001000622,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2023,6,124.9,2023,Buffalo Trace,Rye,22332001000675,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2022,6,130.9,2022,Buffalo Trace,Rye,21363001000591,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2021,6,129.5,2021,Buffalo Trace,Rye,20349001000651,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2020,6,129,2020,Buffalo Trace,Rye,19354001000711,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2019,6,125.7,2019,Buffalo Trace,Rye,18356001000765,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2018,6,128.8,2018,Buffalo Trace,Rye,17366001000823,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2017,6,127.2,2017,Buffalo Trace,Rye,16369001000881,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2016,6,126.2,2016,Buffalo Trace,Rye,15358001000845,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2015,6,126.9,2015,Buffalo Trace,Rye,14384001000793,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2014,6,129.2,2014,Buffalo Trace,Rye,13388001000747,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2013,6,128.4,2013,Buffalo Trace,Rye,12396001000701,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2012,6,132.4,2012,Buffalo Trace,Rye,11380001000667,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2011,6,128.6,2011,Buffalo Trace,Rye,10375001000633,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2010,6,126.9,2010,Buffalo Trace,Rye,09366001000599,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
 W.L. Weller,Special Reserve,,90,1999-2025,Buffalo Trace,Bourbon,09354001000543,https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-special-reserve/
 W.L. Weller,Single Barrel,,97,2020-2025,Buffalo Trace,Bourbon,98135001000142,https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-single-barrel/
 W.L. Weller,Full Proof,,114,2017-2025,Buffalo Trace,Bourbon,19065001000923,https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-full-proof/
