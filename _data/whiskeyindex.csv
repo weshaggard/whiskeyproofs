@@ -46,7 +46,10 @@ Birthday Bourbon,2004,8,94,2004,Old Forester,Bourbon,04085000000240,https://www.
 Birthday Bourbon,2003 Fall,13,89,2003,Old Forester,Bourbon,03147000000032,https://www.oldforester.com/products/old-forester-2003-fall-birthday-bourbon/
 Birthday Bourbon,2003 Spring,12,93,2003,Old Forester,Bourbon,03147000000031,https://www.oldforester.com/products/old-forester-2003-spring-birthday-bourbon/
 Birthday Bourbon,2002,12,95,2002,Old Forester,Bourbon,02156000000070,https://www.oldforester.com/products/old-forester-2002-birthday-bourbon/
-Blanton's Original,standard,,93,1984-2025,Buffalo Trace,Bourbon,,https://www.blantonsbourbon.com/
+Blanton's,Straight From The Barrel,,120-135,1999-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-straight-from-the-barrel/
+Blanton's,Special Reserve,,80,1999-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-special-reserve/
+Blanton's,Original,,93,1984-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-original-single-barrel/
+Blanton's,Gold Edition,,103,1999-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-gold-edition/
 Blood Oath,Pact 11,7-14,98.6,2025,Lux Row,Bourbon,,https://luxrowdistillers.com/blood-oath/
 Blood Oath,Pact 10,,98.6,2024,Lux Row,Bourbon,,https://luxrowdistillers.com/blood-oath/
 Blood Oath,Pact 9,7-16,98.6,2023,Lux Row,Bourbon,,https://luxrowdistillers.com/blood-oath/
@@ -133,6 +136,18 @@ E.H. Taylor Barrel Proof (EHTBP),Batch 4,,127.2,2015,Buffalo Trace,Bourbon,,http
 E.H. Taylor Barrel Proof (EHTBP),Batch 3,,129,2014,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
 E.H. Taylor Barrel Proof (EHTBP),Batch 2,,135.4,2013,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
 E.H. Taylor Barrel Proof (EHTBP),Batch 1,,134.5,2012,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
+E.H. Taylor Jr,Warehouse C Tornado Surviving,,100,2016,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-warehouse-c-tornado-surviving/
+E.H. Taylor Jr,Warehouse C Bourbon,,100,2012,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-warehouse-c-bourbon/
+E.H. Taylor Jr,Straight Rye,,100,2016-2025,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-straight-rye/
+E.H. Taylor Jr,Small Batch,,100,2011-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-small-batch/
+E.H. Taylor Jr,Single Barrel,,100,2011-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-single-barrel/
+E.H. Taylor Jr,Seasoned Wood,,100,2016,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-seasoned-wood/
+E.H. Taylor Jr,Old Fashioned Sour Mash,,100,2011,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-old-fashioned-sour-mash/
+E.H. Taylor Jr,Four Grain,12,100,2017,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-four-grain/
+E.H. Taylor Jr,Cured Oak,,100,2014,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-cured-oak/
+E.H. Taylor Jr,Barrel Proof Rye,,125-135,2025,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof-rye/
+E.H. Taylor Jr,Amaranth,,100,2020,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-amaranth/
+E.H. Taylor Jr,18 Year Marriage,18,100,2018,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-18-year-marriage/
 Eagle Rare 10 Year,standard,10,90,1975-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/
 Eagle Rare 17 Year (ER17),BTAC Fall 2025,17,101,2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
 Eagle Rare 17 Year (ER17),BTAC Fall 2024,17,101,2024,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-17/
@@ -483,8 +498,10 @@ W.L. Weller,Full Proof,,114,2017-2025,Buffalo Trace,Bourbon,,https://www.buffalo
 W.L. Weller,C.Y.P.B.,,95,2020-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-c-y-p-b/
 W.L. Weller,Antique 107,,107,1999-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-antique-107/
 W.L. Weller,12 Year,12,90,1999-2025,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-12/
-Wild Turkey 101,standard,,101,1940-2025,Wild Turkey,Bourbon,,https://www.wildturkeybourbon.com/products/wild-turkey-bourbon/
-Wild Turkey Kentucky Spirit,standard,,101,1994-2025,Wild Turkey,Bourbon,,https://www.wildturkeybourbon.com/products/kentucky-spirit/
+Wild Turkey,101,,101,1940-2025,Wild Turkey,Bourbon,,https://www.wildturkeybourbon.com/products/wild-turkey-bourbon/
+Wild Turkey,Rye,,81,1998-2025,Wild Turkey,Rye,,https://www.wildturkeybourbon.com/products/wild-turkey-rye/
+Wild Turkey,Rare Breed,,116.8,1991-2025,Wild Turkey,Bourbon,,https://www.wildturkeybourbon.com/products/rare-breed/
+Wild Turkey,Kentucky Spirit,,101,1994-2025,Wild Turkey,Bourbon,,https://www.wildturkeybourbon.com/products/kentucky-spirit/
 Wild Turkey Master's Keep,2025 - Beacon,10-16,118,2025,Wild Turkey,Bourbon,24163001000770,https://www.wildturkeybourbon.com/products/masters-keep-beacon/
 Wild Turkey Master's Keep,2024 - Triumph,10,104,2024,Wild Turkey,Rye,23174001000306,https://www.wildturkeybourbon.com/products/masters-keep-triumph/
 Wild Turkey Master's Keep,2023 - Voyage,10,106,2023,Wild Turkey,Bourbon,22283001000281,https://www.wildturkeybourbon.com/products/masters-keep-voyage/
@@ -496,8 +513,6 @@ Wild Turkey Master's Keep,2018 - Revival,12-15,101,2018,Wild Turkey,Bourbon,1721
 Wild Turkey Master's Keep,2017 - 1894,6-13,90,2017,Wild Turkey,Bourbon,,https://www.wildturkeybourbon.com/
 Wild Turkey Master's Keep,2016 - Decades,10-20,104,2016,Wild Turkey,Bourbon,15260001000475,https://www.wildturkeybourbon.com/products/masters-keep-decades/
 Wild Turkey Master's Keep,2015 - 17 Year,17,86.8,2015,Wild Turkey,Bourbon,14352001000297,https://www.wildturkeybourbon.com/products/masters-keep-17-year/
-Wild Turkey Rare Breed,standard,,116.8,1991-2025,Wild Turkey,Bourbon,,https://www.wildturkeybourbon.com/products/rare-breed/
-Wild Turkey Rye,standard,,81,1998-2025,Wild Turkey,Rye,,https://www.wildturkeybourbon.com/products/wild-turkey-rye/
 William Larue Weller (WLW),BTAC Fall 2025,12.5,129,2025,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/william-larue-weller-2025
 William Larue Weller (WLW),BTAC Fall 2024,12.5,125.8,2024,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/william-larue-weller-2024
 William Larue Weller (WLW),BTAC Fall 2023,12,133.6,2023,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/review/william-larue-weller-2023
@@ -530,4 +545,3 @@ Woodford Reserve Master's Collection,2018 Batch Proof,,125.8,2018,Woodford Reser
 Woodford Reserve Master's Collection,2017 Cherry Wood,,90.4,2017,Woodford Reserve,Bourbon,,https://www.woodfordreserve.com/whiskey/masters-collection/
 Woodford Reserve Master's Collection,2016 Brandy Cask,,90.4,2016,Woodford Reserve,Bourbon,,https://www.woodfordreserve.com/whiskey/masters-collection/
 Woodford Reserve Master's Collection,2015 White Corn,,90.4,2015,Woodford Reserve,Bourbon,,https://www.woodfordreserve.com/whiskey/masters-collection/
-
