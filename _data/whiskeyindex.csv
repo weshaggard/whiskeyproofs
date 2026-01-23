@@ -334,6 +334,7 @@ Michter's 25 Year Bourbon (M25),2020,25,116.2,2020,Michter's,Bourbon,22145001000
 Michter's 25 Year Bourbon (M25),2017,25,116.2,2017,Michter's,Bourbon,19175001000427,https://michters.com/25-year-kentucky-straight-bourbon/
 Michter's 25 Year Bourbon (M25),2014,25,116.2,2014,Michter's,Bourbon,16205001000539,https://michters.com/25-year-kentucky-straight-bourbon/
 Michter's 25 Year Bourbon (M25),2008,25,116.2,2008,Michter's,Bourbon,15215001000595,https://michters.com/25-year-kentucky-straight-bourbon/
+Michter's 25 Year Rye (M25R),2008,25,116.2,2008,Michter's,Rye,08182001000002,https://michters.com/
 Michter's Celebration Sour Mash,2022,,112.8,2022,Michter's,Sour Mash,14225001000651,https://michters.com/celebration-sour-mash-2022/
 Michter's Celebration Sour Mash,2019,,113,2019,Michter's,Sour Mash,21155001000371,https://michters.com/celebration-sour-mash-2019/
 Michter's Celebration Sour Mash,2016,,112.8,2016,Michter's,Sour Mash,18185001000483,https://michters.com/celebration-sour-mash-2016/
@@ -476,22 +477,22 @@ Stagg Jr,4,,132.2,2015,Buffalo Trace,Bourbon,22094001000560,https://www.buffalot
 Stagg Jr,3,,132.1,2014,Buffalo Trace,Bourbon,22094001000560,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg Jr,2,,128.7,2014,Buffalo Trace,Bourbon,22094001000560,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg Jr,1,,134.4,2013,Buffalo Trace,Bourbon,12355001000167,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
-Thomas H. Handy (THH),BTAC Fall 2025,6,129.8,2025,Buffalo Trace,Rye,24265001000551,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2024,6,127.2,2024,Buffalo Trace,Rye,23327001000622,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2023,6,124.9,2023,Buffalo Trace,Rye,22332001000675,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2022,6,130.9,2022,Buffalo Trace,Rye,21363001000591,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2021,6,129.5,2021,Buffalo Trace,Rye,20349001000651,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2020,6,129,2020,Buffalo Trace,Rye,19354001000711,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2019,6,125.7,2019,Buffalo Trace,Rye,18356001000765,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2018,6,128.8,2018,Buffalo Trace,Rye,17366001000823,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2017,6,127.2,2017,Buffalo Trace,Rye,16369001000881,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2016,6,126.2,2016,Buffalo Trace,Rye,15358001000845,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2015,6,126.9,2015,Buffalo Trace,Rye,14384001000793,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2014,6,129.2,2014,Buffalo Trace,Rye,13388001000747,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2013,6,128.4,2013,Buffalo Trace,Rye,12396001000701,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2012,6,132.4,2012,Buffalo Trace,Rye,11380001000667,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2011,6,128.6,2011,Buffalo Trace,Rye,10375001000633,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
-Thomas H. Handy (THH),BTAC Fall 2010,6,126.9,2010,Buffalo Trace,Rye,09366001000599,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2025,6,129.8,2025,Buffalo Trace,Rye,06194000000025,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2024,6,127.2,2024,Buffalo Trace,Rye,06194000000025,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2023,6,124.9,2023,Buffalo Trace,Rye,06194000000025,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2022,6,130.9,2022,Buffalo Trace,Rye,06194000000025,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2021,6,129.5,2021,Buffalo Trace,Rye,06194000000025,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2020,6,129,2020,Buffalo Trace,Rye,06194000000025,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2019,6,125.7,2019,Buffalo Trace,Rye,06194000000025,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2018,6,128.8,2018,Buffalo Trace,Rye,06194000000025,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2017,6,127.2,2017,Buffalo Trace,Rye,06194000000025,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2016,6,126.2,2016,Buffalo Trace,Rye,06194000000025,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2015,6,126.9,2015,Buffalo Trace,Rye,06194000000025,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2014,6,129.2,2014,Buffalo Trace,Rye,06194000000025,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2013,6,128.4,2013,Buffalo Trace,Rye,06194000000025,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2012,6,132.4,2012,Buffalo Trace,Rye,06194000000025,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2011,6,128.6,2011,Buffalo Trace,Rye,06194000000025,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Thomas H. Handy (THH),BTAC Fall 2010,6,126.9,2010,Buffalo Trace,Rye,06194000000025,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
 W.L. Weller,Special Reserve,,90,1999-2025,Buffalo Trace,Bourbon,09354001000543,https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-special-reserve/
 W.L. Weller,Single Barrel,,97,2020-2025,Buffalo Trace,Bourbon,98135001000142,https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-single-barrel/
 W.L. Weller,Full Proof,,114,2017-2025,Buffalo Trace,Bourbon,19065001000923,https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-full-proof/
@@ -513,22 +514,22 @@ Wild Turkey Master's Keep,2016 - Decades,10-20,104,2016,Wild Turkey,Bourbon,1526
 Wild Turkey Master's Keep,2015 - 17 Year,17,86.8,2015,Wild Turkey,Bourbon,14352001000297,https://www.wildturkeybourbon.com/products/masters-keep-17-year/
 Wild Turkey Rare Breed,standard,,116.8,1991-2025,Wild Turkey,Bourbon,90075001000253,https://www.wildturkeybourbon.com/products/rare-breed/
 Wild Turkey Rye,standard,,81,1998-2025,Wild Turkey,Rye,97085001000365,https://www.wildturkeybourbon.com/products/wild-turkey-rye/
-William Larue Weller (WLW),BTAC Fall 2025,12.5,129,2025,Buffalo Trace,Bourbon,24253001000495,https://www.breakingbourbon.com/review/william-larue-weller-2025
-William Larue Weller (WLW),BTAC Fall 2024,12.5,125.8,2024,Buffalo Trace,Bourbon,24253001000495,https://www.breakingbourbon.com/review/william-larue-weller-2024
-William Larue Weller (WLW),BTAC Fall 2023,12,133.6,2023,Buffalo Trace,Bourbon,23303001000510,https://www.breakingbourbon.com/review/william-larue-weller-2023
-William Larue Weller (WLW),BTAC Fall 2022,12,124.7,2022,Buffalo Trace,Bourbon,22308001000563,https://www.breakingbourbon.com/review/william-larue-weller-2022
-William Larue Weller (WLW),BTAC Fall 2021,12,125.3,2021,Buffalo Trace,Bourbon,21339001000479,https://www.breakingbourbon.com/review/william-larue-weller-2021
-William Larue Weller (WLW),BTAC Fall 2020,12,134.5,2020,Buffalo Trace,Bourbon,20325001000539,https://www.breakingbourbon.com/review/william-larue-weller-2020
-William Larue Weller (WLW),BTAC Fall 2019,12,128,2019,Buffalo Trace,Bourbon,19330001000599,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
-William Larue Weller (WLW),BTAC Fall 2018,12,125.7,2018,Buffalo Trace,Bourbon,18332001000653,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
-William Larue Weller (WLW),BTAC Fall 2017,12,128.2,2017,Buffalo Trace,Bourbon,17342001000711,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
-William Larue Weller (WLW),BTAC Fall 2016,12,135.4,2016,Buffalo Trace,Bourbon,16345001000769,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
-William Larue Weller (WLW),BTAC Fall 2015,12,134.6,2015,Buffalo Trace,Bourbon,15334001000733,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
-William Larue Weller (WLW),BTAC Fall 2014,12,140.2,2014,Buffalo Trace,Bourbon,14360001000681,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
-William Larue Weller (WLW),BTAC Fall 2013,12,136.2,2013,Buffalo Trace,Bourbon,13364001000635,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
-William Larue Weller (WLW),BTAC Fall 2012,12,123.4,2012,Buffalo Trace,Bourbon,12372001000589,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
-William Larue Weller (WLW),BTAC Fall 2011,11,133.5,2011,Buffalo Trace,Bourbon,11356001000555,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
-William Larue Weller (WLW),BTAC Fall 2010,12,126.6,2010,Buffalo Trace,Bourbon,10351001000521,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
+William Larue Weller (WLW),BTAC Fall 2025,12.5,129,2025,Buffalo Trace,Bourbon,05209000000014,https://www.breakingbourbon.com/review/william-larue-weller-2025
+William Larue Weller (WLW),BTAC Fall 2024,12.5,125.8,2024,Buffalo Trace,Bourbon,05209000000014,https://www.breakingbourbon.com/review/william-larue-weller-2024
+William Larue Weller (WLW),BTAC Fall 2023,12,133.6,2023,Buffalo Trace,Bourbon,05209000000014,https://www.breakingbourbon.com/review/william-larue-weller-2023
+William Larue Weller (WLW),BTAC Fall 2022,12,124.7,2022,Buffalo Trace,Bourbon,05209000000014,https://www.breakingbourbon.com/review/william-larue-weller-2022
+William Larue Weller (WLW),BTAC Fall 2021,12,125.3,2021,Buffalo Trace,Bourbon,05209000000014,https://www.breakingbourbon.com/review/william-larue-weller-2021
+William Larue Weller (WLW),BTAC Fall 2020,12,134.5,2020,Buffalo Trace,Bourbon,05209000000014,https://www.breakingbourbon.com/review/william-larue-weller-2020
+William Larue Weller (WLW),BTAC Fall 2019,12,128,2019,Buffalo Trace,Bourbon,05209000000014,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
+William Larue Weller (WLW),BTAC Fall 2018,12,125.7,2018,Buffalo Trace,Bourbon,05209000000014,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
+William Larue Weller (WLW),BTAC Fall 2017,12,128.2,2017,Buffalo Trace,Bourbon,05209000000014,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
+William Larue Weller (WLW),BTAC Fall 2016,12,135.4,2016,Buffalo Trace,Bourbon,05209000000014,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
+William Larue Weller (WLW),BTAC Fall 2015,12,134.6,2015,Buffalo Trace,Bourbon,05209000000014,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
+William Larue Weller (WLW),BTAC Fall 2014,12,140.2,2014,Buffalo Trace,Bourbon,05209000000014,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
+William Larue Weller (WLW),BTAC Fall 2013,12,136.2,2013,Buffalo Trace,Bourbon,05209000000014,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
+William Larue Weller (WLW),BTAC Fall 2012,12,123.4,2012,Buffalo Trace,Bourbon,05209000000014,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
+William Larue Weller (WLW),BTAC Fall 2011,11,133.5,2011,Buffalo Trace,Bourbon,05209000000014,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
+William Larue Weller (WLW),BTAC Fall 2010,12,126.6,2010,Buffalo Trace,Bourbon,05209000000014,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
 Woodford Reserve Master's Collection,2025 Sweet Oak,,110.4,2025,Woodford Reserve,Bourbon,09342001000487,https://www.woodfordreserve.com/whiskey/masters-collection/
 Woodford Reserve Master's Collection,2025 Batch Proof,,119.5,2025,Woodford Reserve,Bourbon,24135001000259,https://www.woodfordreserve.com/whiskey/masters-collection/
 Woodford Reserve Master's Collection,2024 Madeira Cask,,90.4,2024,Woodford Reserve,Bourbon,24135001000259,https://www.woodfordreserve.com/whiskey/masters-collection/
