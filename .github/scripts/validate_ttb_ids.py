@@ -184,9 +184,8 @@ def validate_csv_ttb_ids(filename: str, delay: float = 1.0, verbose: bool = True
             is_valid, error, details = validate_ttb_id(ttb_id)
             ttb_cache[ttb_id] = (is_valid, error, details)
             
-            # Be polite to TTB servers (only for new IDs)
-            if i < len(entries_to_check):
-                time.sleep(delay)
+            # Be polite to TTB servers (only delay after new requests, not cache hits)
+            time.sleep(delay)
         
         if verbose:
             if is_valid:
