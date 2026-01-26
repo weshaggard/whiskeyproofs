@@ -44,6 +44,10 @@ def validate_ttb_id(ttb_id: str, timeout: int = 15) -> Tuple[bool, str, Optional
         req.add_header('User-Agent', 'Mozilla/5.0 (compatible; TTB-Validator/1.0)')
         
         # Create SSL context that doesn't verify certificates (TTB has cert issues)
+        # NOTE: This is a known security trade-off. The TTB website has SSL certificate
+        # verification issues that prevent normal validation. Since we're only reading
+        # public COLA data (not submitting sensitive information), this is acceptable.
+        # TODO: Monitor TTB website for SSL cert fixes and remove this workaround when possible.
         ssl_context = ssl.create_default_context()
         ssl_context.check_hostname = False
         ssl_context.verify_mode = ssl.CERT_NONE
@@ -86,6 +90,11 @@ def extract_cola_details(html_content: str) -> Dict[str, str]:
     """
     Extract product details from TTB COLA HTML page.
     
+    NOTE: This is basic extraction using regex patterns. The TTB pages use
+    complex table layouts that may require more sophisticated parsing.
+    This function provides basic information extraction but may not capture
+    all details or may capture incorrect data from malformed HTML.
+    
     Returns:
         Dictionary with extracted details (brand_name, fanciful_name, alcohol_content, etc.)
     """
@@ -93,6 +102,7 @@ def extract_cola_details(html_content: str) -> Dict[str, str]:
     
     # These are basic regex patterns - TTB pages use tables with specific labels
     # This is a simple extraction and may need refinement
+    # TODO: Consider using BeautifulSoup for more robust HTML parsing
     
     patterns = {
         'brand_name': r'Brand Name.*?<td[^>]*>(.*?)</td>',
@@ -106,7 +116,8 @@ def extract_cola_details(html_content: str) -> Dict[str, str]:
         match = re.search(pattern, html_content, re.IGNORECASE | re.DOTALL)
         if match:
             value = match.group(1).strip()
-            # Clean HTML tags
+            # Clean HTML tags (basic approach, may fail with complex HTML)
+            # TODO: Use html.parser or BeautifulSoup for robust HTML stripping
             value = re.sub(r'<[^>]+>', '', value)
             value = re.sub(r'\s+', ' ', value).strip()
             details[key] = value
@@ -209,7 +220,8 @@ def validate_csv_ttb_ids(filename: str, delay: float = 1.0, verbose: bool = True
             proofs = []
             for usage in usages:
                 try:
-                    # Handle proof ranges
+                    # Handle proof ranges (supports '-' delimiter)
+                    # TODO: Support other delimiters like '~', '±' if they appear in data
                     proof_str = usage['proof']
                     if '-' in proof_str:
                         # Take the first value in a range

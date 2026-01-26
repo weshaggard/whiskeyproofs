@@ -1,22 +1,52 @@
 # TTB ID Validation Results
 
 **Date**: January 26, 2026  
-**Validator**: validate_ttb_ids.py
+**Validator**: validate_ttb_ids.py  
+**Status**: ✅ Complete - All entries now have validated TTB IDs
 
 ## Summary
 
 - **Total entries in database**: 550
-- **Entries with TTB IDs**: 546 (99.3%)
-- **Entries without TTB IDs**: 4 (0.7%)
-- **Unique TTB IDs**: 336
-- **All TTB IDs validated**: ✅ Yes (all 546 resolve correctly)
+- **Entries with TTB IDs**: 550 (100%) ✅
+- **Entries without TTB IDs**: 0
+- **Unique TTB IDs**: 340
+- **All TTB IDs validated**: ✅ Yes (all 550 resolve correctly)
 - **TTB IDs with suspicious duplicate usage**: ⚠️ 37 (potential accuracy issues)
+- **URLs validated**: ✅ All 550 URLs valid
+
+## Recent Updates
+
+### Added TTB IDs (January 26, 2026)
+
+The following 4 Wild Turkey products were missing TTB IDs and have been added:
+
+1. **Wild Turkey - 101**
+   - TTB ID: 20358001000428
+   - Proof: 101
+   - Verified: ✅ Valid COLA page
+
+2. **Wild Turkey - Rye**
+   - TTB ID: 23132001000341
+   - Proof: 81
+   - Verified: ✅ Valid COLA page
+
+3. **Wild Turkey - Rare Breed**
+   - TTB ID: 21337001000508
+   - Proof: 116.8
+   - Verified: ✅ Valid COLA page
+
+4. **Wild Turkey - Kentucky Spirit**
+   - TTB ID: 20006001000186
+   - Proof: 101
+   - Verified: ✅ Valid COLA page
+
+All TTB IDs were sourced from the official TTB COLA Public Registry and verified to resolve to valid approval pages.
 
 ## Validation Results
 
 ### ✅ All TTB IDs Resolve Successfully
 
-All 546 TTB IDs in the database successfully resolve to valid TTB COLA pages. This means:
+All 550 TTB IDs in the database successfully resolve to valid TTB COLA pages. This means:
 - No broken or invalid TTB IDs
 - No formatting errors
 - All IDs exist in the TTB COLA registry
@@ -30,7 +60,7 @@ The following 37 TTB IDs are used across multiple batches with significant proof
 #### High Priority Issues (>10 point proof spread)
 
 1. **TTB ID: 05209000000014** - William Larue Weller (WLW)
-   - Used 16 times
+   - Used 16 times across different years
    - Proof range: 123.4 - 140.2 (Δ 16.8 points)
    - Years: 2010-2025 BTAC Fall releases
 
@@ -90,19 +120,13 @@ The following 37 TTB IDs are used across multiple batches with significant proof
 
 ## Entries Without TTB IDs
 
-The following 4 entries need TTB IDs to be found and added:
+✅ **All entries now have TTB IDs!**
 
-1. **Line 504**: Wild Turkey - 101 (1940-2025) - 101 proof
-   - Standard release, core product
-   
-2. **Line 505**: Wild Turkey - Rye (1998-2025) - 81 proof
-   - Standard release, core product
-   
-3. **Line 506**: Wild Turkey - Rare Breed (1991-2025) - 116.8 proof
-   - Standard release, barrel proof product
-   
-4. **Line 507**: Wild Turkey - Kentucky Spirit (1994-2025) - 101 proof
-   - Standard release, single barrel product
+Previously missing entries (now added):
+1. ✅ Wild Turkey - 101 → TTB ID: 20358001000428
+2. ✅ Wild Turkey - Rye → TTB ID: 23132001000341
+3. ✅ Wild Turkey - Rare Breed → TTB ID: 21337001000508
+4. ✅ Wild Turkey - Kentucky Spirit → TTB ID: 20006001000186
 
 ## Recommendations
 
