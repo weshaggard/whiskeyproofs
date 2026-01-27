@@ -25,6 +25,14 @@ URL_FORMAT_THRESHOLD = 9
 # Using 9 (representing 2009+) as it routes to the new format which is most common
 DEFAULT_YEAR_PREFIX = 9
 
+# HTTP method for TTB validation - must use GET to check response content
+# TTB website returns 200 even for invalid IDs, so we need to read the response body
+HTTP_METHOD = 'GET'
+
+# Error message that indicates an invalid TTB ID
+# TTB returns this in the response body even when HTTP status is 200
+TTB_ERROR_MESSAGE = 'Unable to process request'
+
 
 def generate_ttb_url(ttb_id: str) -> str:
     """
@@ -71,7 +79,7 @@ def validate_ttb_url(ttb_id: str, timeout: int = 10) -> Tuple[bool, str, str]:
     
     # Try with default SSL context first
     try:
-        req = urllib.request.Request(url, method='GET')
+        req = urllib.request.Request(url, method=HTTP_METHOD)
         req.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36')
         response = urllib.request.urlopen(req, timeout=timeout)
         
@@ -79,8 +87,8 @@ def validate_ttb_url(ttb_id: str, timeout: int = 10) -> Tuple[bool, str, str]:
             # Check response content for error messages
             # TTB returns 200 even for invalid IDs but includes error in the body
             content = response.read().decode('utf-8', errors='ignore')
-            if 'Unable to process request' in content:
-                return False, url, "TTB Error: Unable to process request"
+            if TTB_ERROR_MESSAGE in content:
+                return False, url, f"TTB Error: {TTB_ERROR_MESSAGE}"
             return True, url, ""
         else:
             return False, url, f"HTTP {response.status}"
@@ -102,15 +110,15 @@ def validate_ttb_url(ttb_id: str, timeout: int = 10) -> Tuple[bool, str, str]:
                 ssl_context.check_hostname = False
                 ssl_context.verify_mode = ssl.CERT_NONE
                 
-                req = urllib.request.Request(url, method='GET')
+                req = urllib.request.Request(url, method=HTTP_METHOD)
                 req.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36')
                 response = urllib.request.urlopen(req, timeout=timeout, context=ssl_context)
                 
                 if response.status == 200:
                     # Check response content for error messages
                     content = response.read().decode('utf-8', errors='ignore')
-                    if 'Unable to process request' in content:
-                        return False, url, "TTB Error: Unable to process request"
+                    if TTB_ERROR_MESSAGE in content:
+                        return False, url, f"TTB Error: {TTB_ERROR_MESSAGE}"
                     return True, url, ""
                 else:
                     return False, url, f"HTTP {response.status}"
