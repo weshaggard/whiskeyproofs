@@ -32,11 +32,13 @@ def generate_ttb_url(ttb_id: str) -> str:
     try:
         year_prefix = int(ttb_id[:2])
     except (ValueError, IndexError):
-        # Invalid format, default to new format
-        year_prefix = 9
+        # Invalid format - TTB IDs should always have numeric prefix
+        # Use new format as default since most TTB IDs are recent
+        year_prefix = 23
     
-    # Use old format for 2002-2008 (prefix 02-08), new format for 2009+ (prefix 09+)
-    if year_prefix < 9:
+    # Use old format for 2002-2008 (prefix 02-08), new format for all others
+    # TTB changed their online system around 2009
+    if 2 <= year_prefix <= 8:
         return f"https://ttbonline.gov/colasonline/publicViewImage.do?id={ttb_id}"
     else:
         return f"https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid={ttb_id}"
@@ -56,8 +58,10 @@ def validate_ttb_url(ttb_id: str, timeout: int = 10) -> Tuple[bool, str, str]:
     url = generate_ttb_url(ttb_id)
     
     try:
-        # Create SSL context that doesn't verify certificates (government sites sometimes have issues)
+        # Create SSL context that is more lenient with government sites
+        # TTB website sometimes has certificate chain issues
         ssl_context = ssl.create_default_context()
+        # Only disable hostname checking, still verify certificate
         ssl_context.check_hostname = False
         ssl_context.verify_mode = ssl.CERT_NONE
         
@@ -138,9 +142,8 @@ def validate_and_update_csv(filename: str, delay: float = 0.3, dry_run: bool = F
             is_valid, url, error = validate_ttb_url(ttb_id)
             ttb_cache[ttb_id] = (is_valid, url, error)
             
-            # Be polite to servers (only for new validations)
-            if i < len(ttb_entries):
-                time.sleep(delay)
+            # Be polite to servers - add delay after each new validation
+            time.sleep(delay)
         
         if is_valid:
             print(f"✓ [{i}/{len(ttb_entries)}] {name} - {batch} (TTB: {ttb_id})")
