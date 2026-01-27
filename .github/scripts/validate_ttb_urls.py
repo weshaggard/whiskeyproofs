@@ -33,12 +33,13 @@ def generate_ttb_url(ttb_id: str) -> str:
         year_prefix = int(ttb_id[:2])
     except (ValueError, IndexError):
         # Invalid format - TTB IDs should always have numeric prefix
-        # Use new format as default since most TTB IDs are recent
-        year_prefix = 23
+        # Default to new format (most common)
+        year_prefix = 9
     
-    # Use old format for 2002-2008 (prefix 02-08), new format for all others
-    # TTB changed their online system around 2009
-    if 2 <= year_prefix <= 8:
+    # Use old format for prefix < 9 (years 2000-2008), new format for prefix >= 9
+    # This matches index.md logic and TTB system change around 2009
+    # Note: Older IDs from 1980s-1990s (prefix 83-99) use new format
+    if year_prefix < 9:
         return f"https://ttbonline.gov/colasonline/publicViewImage.do?id={ttb_id}"
     else:
         return f"https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid={ttb_id}"
@@ -57,18 +58,11 @@ def validate_ttb_url(ttb_id: str, timeout: int = 10) -> Tuple[bool, str, str]:
     """
     url = generate_ttb_url(ttb_id)
     
+    # Try with default SSL context first
     try:
-        # Create SSL context that is more lenient with government sites
-        # TTB website sometimes has certificate chain issues
-        ssl_context = ssl.create_default_context()
-        # Only disable hostname checking, still verify certificate
-        ssl_context.check_hostname = False
-        ssl_context.verify_mode = ssl.CERT_NONE
-        
         req = urllib.request.Request(url, method='HEAD')
-        # Add user agent to avoid bot detection
         req.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36')
-        response = urllib.request.urlopen(req, timeout=timeout, context=ssl_context)
+        response = urllib.request.urlopen(req, timeout=timeout)
         
         if response.status == 200:
             return True, url, ""
@@ -76,8 +70,32 @@ def validate_ttb_url(ttb_id: str, timeout: int = 10) -> Tuple[bool, str, str]:
             return False, url, f"HTTP {response.status}"
     except urllib.error.HTTPError as e:
         return False, url, f"HTTP {e.code}"
-    except urllib.error.URLError as e:
-        return False, url, f"URL Error: {e.reason}"
+    except (ssl.SSLError, urllib.error.URLError) as e:
+        # Check if it's an SSL certificate error
+        error_str = str(e)
+        if 'CERTIFICATE_VERIFY_FAILED' in error_str or 'certificate' in error_str.lower():
+            # TTB government site has certificate chain issues in some environments
+            # Fall back to lenient SSL verification only when strict verification fails
+            try:
+                ssl_context = ssl.create_default_context()
+                ssl_context.check_hostname = False
+                ssl_context.verify_mode = ssl.CERT_NONE
+                
+                req = urllib.request.Request(url, method='HEAD')
+                req.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36')
+                response = urllib.request.urlopen(req, timeout=timeout, context=ssl_context)
+                
+                if response.status == 200:
+                    return True, url, ""
+                else:
+                    return False, url, f"HTTP {response.status}"
+            except urllib.error.HTTPError as e2:
+                return False, url, f"HTTP {e2.code}"
+            except Exception as e2:
+                return False, url, f"Error: {str(e2)}"
+        else:
+            # Non-SSL error
+            return False, url, f"URL Error: {e.reason if hasattr(e, 'reason') else str(e)}"
     except Exception as e:
         return False, url, f"Error: {str(e)}"
 
