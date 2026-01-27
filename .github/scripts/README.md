@@ -32,8 +32,8 @@ This script runs automatically via GitHub Actions on every pull request that mod
 ### validate_ttb_urls.py
 
 Validates all TTB IDs in the CSV file by checking if their generated URLs resolve correctly. This script follows the same URL generation logic used in `index.md`:
-- TTB IDs with prefix 02-08 (2002-2008) use the old `publicViewImage.do` format
-- TTB IDs with prefix 09+ (2009 onward) use the new `viewColaDetails.do` format
+- TTB IDs with prefix < 9 (00-08, representing 2000-2008) use the old `publicViewImage.do` format
+- TTB IDs with prefix >= 9 (09+, representing 2009 onward, plus 1980s-1990s) use the new `viewColaDetails.do` format
 
 **Usage:**
 ```bash

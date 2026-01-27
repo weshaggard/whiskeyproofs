@@ -4,8 +4,8 @@ TTB URL validation script for whiskeyindex.csv
 
 This script validates all TTB IDs by checking if their generated URLs resolve correctly.
 It follows the same logic used in index.md:
-- TTB IDs with prefix 02-08 (2002-2008) use publicViewImage.do format
-- TTB IDs with prefix 09+ (2009 onward) use viewColaDetails.do format
+- TTB IDs with prefix < 9 (00-08, representing 2000-2008) use publicViewImage.do format
+- TTB IDs with prefix >= 9 (09+, representing 2009 onward, plus 1980s-1990s) use viewColaDetails.do format
 
 Invalid TTB IDs will be removed from the CSV file.
 """
