@@ -33,6 +33,10 @@ HTTP_METHOD = 'GET'
 # TTB returns this in the response body even when HTTP status is 200
 TTB_ERROR_MESSAGE = 'Unable to process request'
 
+# Maximum bytes to read from response body for error checking
+# Error messages appear early in the response, no need to read entire page
+MAX_CONTENT_BYTES = 10000  # 10KB should be enough to catch error messages
+
 
 def generate_ttb_url(ttb_id: str) -> str:
     """
@@ -86,7 +90,8 @@ def validate_ttb_url(ttb_id: str, timeout: int = 10) -> Tuple[bool, str, str]:
         if response.status == 200:
             # Check response content for error messages
             # TTB returns 200 even for invalid IDs but includes error in the body
-            content = response.read().decode('utf-8', errors='ignore')
+            # Read only first portion of response for efficiency
+            content = response.read(MAX_CONTENT_BYTES).decode('utf-8', errors='ignore')
             if TTB_ERROR_MESSAGE in content:
                 return False, url, f"TTB Error: {TTB_ERROR_MESSAGE}"
             return True, url, ""
@@ -116,7 +121,8 @@ def validate_ttb_url(ttb_id: str, timeout: int = 10) -> Tuple[bool, str, str]:
                 
                 if response.status == 200:
                     # Check response content for error messages
-                    content = response.read().decode('utf-8', errors='ignore')
+                    # Read only first portion of response for efficiency
+                    content = response.read(MAX_CONTENT_BYTES).decode('utf-8', errors='ignore')
                     if TTB_ERROR_MESSAGE in content:
                         return False, url, f"TTB Error: {TTB_ERROR_MESSAGE}"
                     return True, url, ""
