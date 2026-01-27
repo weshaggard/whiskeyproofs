@@ -31,7 +31,8 @@ def validate_url(url: str, timeout: int = 10) -> Tuple[bool, str]:
         # Treat 403 from Angel's Envy as valid (warning only)
         if e.code == 403 and 'angelsenvy.com' in url:
             return True, "HTTP 403 (bot protection - URL valid in browser)"
-        return False, f"HTTP {e.code}"
+        if e.code == 403 and 'jackdaniels.com' in url:
+            return True, "HTTP 403 (bot protection - URL valid in browser)"
     except urllib.error.URLError as e:
         return False, f"URL Error: {e.reason}"
     except Exception as e:

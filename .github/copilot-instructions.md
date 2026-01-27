@@ -201,4 +201,42 @@ When researching TTB (Alcohol and Tobacco Tax and Trade Bureau) IDs for whiskey 
   - If not found, check the release year itself
   - Example: For a 2023 batch release, search "Jack Daniel's" in 2022 approvals first, then look for "10 YEARS OLD" in the results
 
+**Advanced Search Filters to Narrow Results:**
+
+- **Origin Code Filter**: If the distillery is in Kentucky, filter by origin code 22 to reduce results. Other origin codes can be found at: https://ttbonline.gov/colasonline/lookupOriginCode.do?action=search&display=all#search_results
+- **Product Class/Type Filter**: For whiskey products, filter by product class/type codes between 100-200. Other product codes can be found at: https://ttbonline.gov/colasonline/lookupProductClassTypeCode.do?action=search&display=all#search_results
+- **Widening Search**: If you can't find the label with a narrow date range, try widening the search time range while keeping the origin and product class filters applied. The end date range should still be less than or equal to the release year.
+
 **TTB COLA Registry**: The public TTB COLA (Certificate of Label Approval) registry at ttbonline.gov is the authoritative source for label approvals
+
+### TTB ID Validation
+
+When adding or updating TTB IDs in the `_data/whiskeyindex.csv` file, always validate them to ensure they resolve correctly. The TTB website returns HTTP 200 even for invalid IDs but includes an error message in the response body.
+
+**Always run this script after adding or updating TTB IDs:**
+
+```bash
+python3 .github/scripts/validate_ttb_urls.py
+```
+
+**What the TTB Validation Script Does:**
+
+1. **Validates TTB IDs**: Makes HTTP GET requests to check if TTB URLs resolve correctly
+2. **Content validation**: Checks response body for "Unable to process request" error message (TTB returns 200 even for invalid IDs)
+3. **Caches results**: Avoids redundant checks for duplicate TTB IDs
+4. **Dry-run mode**: Preview which IDs would be removed before applying changes
+5. **Auto-removal**: Use `--apply` flag to automatically remove invalid TTB IDs from the CSV
+
+**Why TTB Validation Matters:**
+
+- **Data accuracy**: Ensures all TTB IDs in the database are valid and accessible
+- **User experience**: Users can successfully view TTB label registrations
+- **Prevents broken links**: Catches invalid IDs that return error messages despite HTTP 200
+- **Maintains quality**: Keeps the database clean and trustworthy
+
+**Best Practices for TTB IDs:**
+
+1. **Validate before committing**: Always run validation after adding/updating TTB IDs
+2. **Use dry-run first**: Check what would be removed before applying changes
+3. **Verify manually**: Spot-check a few TTB URLs in your browser to confirm they work
+4. **Fix errors immediately**: Address all validation failures before pushing changes
