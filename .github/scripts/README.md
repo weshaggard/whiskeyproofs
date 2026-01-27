@@ -53,7 +53,8 @@ python3 .github/scripts/validate_ttb_urls.py --delay 0.5
 - `--csv PATH`: Specify CSV file path (default: _data/whiskeyindex.csv)
 
 **Features:**
-- Validates TTB IDs by making HTTP HEAD requests to generated URLs
+- Validates TTB IDs by making HTTP GET requests to generated URLs and checking response content
+- **Important:** Checks response body for "Unable to process request" error (TTB returns 200 even for invalid IDs)
 - Caches validation results to avoid redundant checks for duplicate TTB IDs
 - Provides detailed progress output and summary statistics
 - Dry-run mode by default to preview changes before applying
@@ -61,15 +62,20 @@ python3 .github/scripts/validate_ttb_urls.py --delay 0.5
 
 **Example Output:**
 ```
-Validating 546 TTB ID entries (336 unique IDs) from _data/whiskeyindex.csv...
-✓ [1/546] Angel's Envy Cask Strength - 2025 (TTB: 23132001000515)
+Validating 354 TTB ID entries (173 unique IDs) from _data/whiskeyindex.csv...
+✓ [1/354] Angel's Envy Cask Strength - 2025 (TTB: 23132001000515)
+❌ [50/354] Example Product - Batch (TTB: 12345678901234)
+   URL: https://ttbonline.gov/...
+   Error: TTB Error: Unable to process request
 ...
 VALIDATION SUMMARY
-Total TTB ID entries: 546
-Unique TTB IDs validated: 336
-Valid TTB IDs: 546
+Total TTB ID entries: 354
+Unique TTB IDs validated: 173
+Valid TTB IDs: 354
 Invalid TTB IDs: 0
 ```
+
+**Note:** The script performs content validation, not just HTTP status checks. The TTB website returns HTTP 200 even for invalid IDs but includes an error message "Unable to process request" in the response body.
 
 ### validate_urls.py
 
