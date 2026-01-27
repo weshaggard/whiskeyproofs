@@ -29,6 +29,76 @@ python3 .github/scripts/validate_whiskey_data.py
 
 This script runs automatically via GitHub Actions on every pull request that modifies the CSV file.
 
+### validate_ttb_urls.py
+
+Validates all TTB IDs in the CSV file by checking if their generated URLs resolve correctly. This script follows the same URL generation logic used in `index.md`:
+- TTB IDs with prefix 02-08 (2002-2008) use the old `publicViewImage.do` format
+- TTB IDs with prefix 09+ (2009 onward) use the new `viewColaDetails.do` format
+
+**Usage:**
+```bash
+# Dry run - check which TTB IDs would be removed (default)
+python3 .github/scripts/validate_ttb_urls.py
+
+# Actually remove invalid TTB IDs
+python3 .github/scripts/validate_ttb_urls.py --apply
+
+# Adjust delay between requests
+python3 .github/scripts/validate_ttb_urls.py --delay 0.5
+```
+
+**Options:**
+- `--apply`: Actually remove invalid TTB IDs (default is dry-run mode)
+- `--delay N`: Delay between requests in seconds (default: 0.3)
+- `--csv PATH`: Specify CSV file path (default: _data/whiskeyindex.csv)
+
+**Features:**
+- Validates TTB IDs by making HTTP HEAD requests to generated URLs
+- Caches validation results to avoid redundant checks for duplicate TTB IDs
+- Provides detailed progress output and summary statistics
+- Dry-run mode by default to preview changes before applying
+- Automatically removes invalid TTB IDs from the CSV when using `--apply`
+
+**Example Output:**
+```
+Validating 546 TTB ID entries (336 unique IDs) from _data/whiskeyindex.csv...
+✓ [1/546] Angel's Envy Cask Strength - 2025 (TTB: 23132001000515)
+...
+VALIDATION SUMMARY
+Total TTB ID entries: 546
+Unique TTB IDs validated: 336
+Valid TTB IDs: 546
+Invalid TTB IDs: 0
+```
+
+### validate_urls.py
+
+Validates all product URLs in the CSV file by checking if they return 200 status codes. Uses caching to avoid redundant checks for duplicate URLs.
+
+**Usage:**
+```bash
+python3 .github/scripts/validate_urls.py
+```
+
+**Features:**
+- Validates URLs by making HTTP HEAD requests
+- Caches validation results for duplicate URLs (performance optimization)
+- Treats Angel's Envy 403 errors as valid (bot protection)
+- Shows detailed progress with checkmarks for valid URLs
+- Provides summary statistics
+
+**Example Output:**
+```
+Validating 400 URL entries (150 unique URLs) from _data/whiskeyindex.csv...
+✓ [1/400] Whiskey Name - Batch
+...
+VALIDATION SUMMARY
+Total URL entries: 400
+Unique URLs validated: 150
+Valid URLs: 400
+Invalid URLs: 0
+```
+
 ### query_ttb.py
 
 Queries the TTB (Tobacco and Trade Bureau) COLA Public Registry to find TTB approval IDs for whiskey entries that don't have them. This script uses HTTP POST requests to search the TTB website.
