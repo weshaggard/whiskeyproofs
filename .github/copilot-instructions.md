@@ -205,7 +205,7 @@ When researching TTB (Alcohol and Tobacco Tax and Trade Bureau) IDs for whiskey 
 
 - **Origin Code Filter**: If the distillery is in Kentucky, filter by origin code 22 to reduce results. Other origin codes can be found at: https://ttbonline.gov/colasonline/lookupOriginCode.do?action=search&display=all#search_results
 - **Product Class/Type Filter**: For whiskey products, filter by product class/type codes between 100-200. Other product codes can be found at: https://ttbonline.gov/colasonline/lookupProductClassTypeCode.do?action=search&display=all#search_results
-- **Widening Search**: If you can't find the label with a narrow date range, try widening the search time range while keeping the origin and product class filters applied
+- **Widening Search**: If you can't find the label with a narrow date range, try widening the search time range while keeping the origin and product class filters applied. The end date range should still be less than or equal to the release year.
 
 **TTB COLA Registry**: The public TTB COLA (Certificate of Label Approval) registry at ttbonline.gov is the authoritative source for label approvals
 
