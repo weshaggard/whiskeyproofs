@@ -17,6 +17,14 @@ import ssl
 import time
 from typing import Dict, List, Tuple
 
+# TTB URL format threshold - prefixes < 9 use old format, >= 9 use new format
+# This matches the logic in index.md and reflects the TTB system change around 2009
+URL_FORMAT_THRESHOLD = 9
+
+# Default year prefix for invalid TTB ID formats
+# Using 9 (representing 2009+) as it routes to the new format which is most common
+DEFAULT_YEAR_PREFIX = 9
+
 
 def generate_ttb_url(ttb_id: str) -> str:
     """
@@ -34,12 +42,12 @@ def generate_ttb_url(ttb_id: str) -> str:
     except (ValueError, IndexError):
         # Invalid format - TTB IDs should always have numeric prefix
         # Default to new format (most common)
-        year_prefix = 9
+        year_prefix = DEFAULT_YEAR_PREFIX
     
-    # Use old format for prefix < 9 (years 2000-2008), new format for prefix >= 9
+    # Use old format for prefix < threshold (years 2000-2008), new format for prefix >= threshold
     # This matches index.md logic and TTB system change around 2009
     # Note: Older IDs from 1980s-1990s (prefix 83-99) use new format
-    if year_prefix < 9:
+    if year_prefix < URL_FORMAT_THRESHOLD:
         return f"https://ttbonline.gov/colasonline/publicViewImage.do?id={ttb_id}"
     else:
         return f"https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid={ttb_id}"
@@ -75,7 +83,12 @@ def validate_ttb_url(ttb_id: str, timeout: int = 10) -> Tuple[bool, str, str]:
         error_str = str(e)
         if 'CERTIFICATE_VERIFY_FAILED' in error_str or 'certificate' in error_str.lower():
             # TTB government site has certificate chain issues in some environments
+            # This is a known issue with government sites that have intermediate certificate problems
+            # Ideally would use custom CA bundle, but TTB doesn't provide one
             # Fall back to lenient SSL verification only when strict verification fails
+            # NOTE: This is acceptable for validation purposes as we're only checking URL existence,
+            # not transmitting sensitive data. For production use with sensitive data, 
+            # consider alternative approaches like certificate pinning or custom CA bundles.
             try:
                 ssl_context = ssl.create_default_context()
                 ssl_context.check_hostname = False
