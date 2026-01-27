@@ -55,7 +55,10 @@ def generate_ttb_url(ttb_id: str) -> str:
 
 def validate_ttb_url(ttb_id: str, timeout: int = 10) -> Tuple[bool, str, str]:
     """
-    Validate a TTB ID by checking if its generated URL resolves.
+    Validate a TTB ID by checking if its generated URL resolves and returns valid content.
+    
+    The TTB website returns HTTP 200 even for invalid IDs, but includes an error message
+    "Unable to process request" in the response body. We need to check the content.
     
     Args:
         ttb_id: The TTB ID to validate
@@ -68,11 +71,16 @@ def validate_ttb_url(ttb_id: str, timeout: int = 10) -> Tuple[bool, str, str]:
     
     # Try with default SSL context first
     try:
-        req = urllib.request.Request(url, method='HEAD')
+        req = urllib.request.Request(url, method='GET')
         req.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36')
         response = urllib.request.urlopen(req, timeout=timeout)
         
         if response.status == 200:
+            # Check response content for error messages
+            # TTB returns 200 even for invalid IDs but includes error in the body
+            content = response.read().decode('utf-8', errors='ignore')
+            if 'Unable to process request' in content:
+                return False, url, "TTB Error: Unable to process request"
             return True, url, ""
         else:
             return False, url, f"HTTP {response.status}"
@@ -94,11 +102,15 @@ def validate_ttb_url(ttb_id: str, timeout: int = 10) -> Tuple[bool, str, str]:
                 ssl_context.check_hostname = False
                 ssl_context.verify_mode = ssl.CERT_NONE
                 
-                req = urllib.request.Request(url, method='HEAD')
+                req = urllib.request.Request(url, method='GET')
                 req.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36')
                 response = urllib.request.urlopen(req, timeout=timeout, context=ssl_context)
                 
                 if response.status == 200:
+                    # Check response content for error messages
+                    content = response.read().decode('utf-8', errors='ignore')
+                    if 'Unable to process request' in content:
+                        return False, url, "TTB Error: Unable to process request"
                     return True, url, ""
                 else:
                     return False, url, f"HTTP {response.status}"
