@@ -43,6 +43,7 @@ class TTBQuerier:
     SEARCH_URL = "https://ttbonline.gov/colasonline/publicSearchColasBasicProcess.do?action=search"
     DETAIL_URL = "https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid="
     NEXT_PAGE_URL = "https://ttbonline.gov/colasonline/publicPageBasicCola.do?action=page&pgfcn=nextset"
+    MAX_PAGES = 100  # Safety limit to prevent infinite loops
     
     def __init__(self, verbose=False):
         self.verbose = verbose
@@ -130,7 +131,7 @@ class TTBQuerier:
             
             # Fetch additional pages if they exist
             page_num = 2
-            while has_next:
+            while has_next and page_num <= self.MAX_PAGES:
                 if self.verbose:
                     print(f"    Fetching page {page_num}...")
                 
@@ -145,6 +146,9 @@ class TTBQuerier:
                 # Add a small delay between page requests to be respectful
                 if has_next:
                     time.sleep(0.5)
+            
+            if page_num > self.MAX_PAGES:
+                print(f"    WARNING: Reached maximum page limit ({self.MAX_PAGES}). There may be more results.")
             
             if self.verbose and page_num > 2:
                 print(f"    Total: Found {len(all_results)} potential match(es) across {page_num - 1} page(s)")
