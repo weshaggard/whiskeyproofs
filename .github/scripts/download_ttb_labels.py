@@ -166,7 +166,6 @@ def extract_label_images_and_metadata(ttbid):
             # These appear as label-data pairs in the HTML
             label_sections = re.findall(r'<div class="label">([^<]+)</div>\s*<div class="data">([^<]+)</div>', html)
             for label, data in label_sections:
-                import html as html_module
                 label_clean = html_module.unescape(label.strip()).rstrip(':').strip()
                 data_clean = html_module.unescape(data.strip())
                 
