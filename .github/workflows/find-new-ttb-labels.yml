@@ -2,15 +2,15 @@
 name: Find New TTB Labels
 
 on:
-  # Run daily at 6 AM UTC (1 AM EST / 2 AM EDT)
+  # Run daily at 7 AM PST (3 PM UTC / 8 AM PDT)
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '0 15 * * *'
   
   # Allow manual trigger
   workflow_dispatch:
     inputs:
       date_from:
-        description: 'Start date (YYYY-MM-DD) - defaults to 7 days ago'
+        description: 'Start date (YYYY-MM-DD) - defaults to 2 days ago'
         required: false
         type: string
       date_to:
@@ -46,7 +46,7 @@ jobs:
           if [ -n "${{ github.event.inputs.date_from }}" ]; then
             DATE_FROM="${{ github.event.inputs.date_from }}"
           else
-            DATE_FROM=$(date -d '7 days ago' +%Y-%m-%d)
+            DATE_FROM=$(date -d '2 days ago' +%Y-%m-%d)
           fi
           
           if [ -n "${{ github.event.inputs.date_to }}" ]; then
