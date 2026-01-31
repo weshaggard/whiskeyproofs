@@ -1,0 +1,183 @@
+# Daily workflow to find new TTB COLA labels and create PRs for downloading them
+name: Find New TTB Labels
+
+on:
+  # Run daily at 6 AM UTC (1 AM EST / 2 AM EDT)
+  schedule:
+    - cron: '0 6 * * *'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+    inputs:
+      date_from:
+        description: 'Start date (YYYY-MM-DD) - defaults to 7 days ago'
+        required: false
+        type: string
+      date_to:
+        description: 'End date (YYYY-MM-DD) - defaults to today'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  find-new-labels:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4
+      
+      - name: Find new TTB labels
+        id: find_labels
+        run: |
+          # Set date range
+          if [ -n "${{ github.event.inputs.date_from }}" ]; then
+            DATE_FROM="${{ github.event.inputs.date_from }}"
+          else
+            DATE_FROM=$(date -d '7 days ago' +%Y-%m-%d)
+          fi
+          
+          if [ -n "${{ github.event.inputs.date_to }}" ]; then
+            DATE_TO="${{ github.event.inputs.date_to }}"
+          else
+            DATE_TO=$(date +%Y-%m-%d)
+          fi
+          
+          echo "date_from=${DATE_FROM}" >> $GITHUB_OUTPUT
+          echo "date_to=${DATE_TO}" >> $GITHUB_OUTPUT
+          
+          # Run the script and save output
+          python3 .github/scripts/find_new_ttb_labels.py \
+            --from "${DATE_FROM}" \
+            --to "${DATE_TO}" \
+            --output new_labels.json \
+            --verbose | tee search_output.txt
+          
+          # Check if any new labels were found
+          NEW_COUNT=$(python3 -c "import json; data=json.load(open('new_labels.json')); print(data.get('count', 0))")
+          echo "new_count=${NEW_COUNT}" >> $GITHUB_OUTPUT
+          
+          if [ "$NEW_COUNT" -gt 0 ]; then
+            echo "has_new_labels=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_new_labels=false" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Download new labels
+        if: steps.find_labels.outputs.has_new_labels == 'true'
+        id: download_labels
+        run: |
+          # Extract TTB IDs from JSON
+          TTB_IDS=$(python3 -c "import json; data=json.load(open('new_labels.json')); print(' '.join(data['new_ttb_ids']))")
+          
+          echo "Downloading labels for TTB IDs: ${TTB_IDS}"
+          
+          # Download each new label and track results
+          SUCCESS_COUNT=0
+          FAIL_COUNT=0
+          FAILED_IDS=""
+          
+          for TTB_ID in $TTB_IDS; do
+            echo "Downloading TTB ID: $TTB_ID"
+            if python3 .github/scripts/download_ttb_labels.py --ttbid "$TTB_ID" --no-skip-existing; then
+              SUCCESS_COUNT=$((SUCCESS_COUNT + 1))
+            else
+              FAIL_COUNT=$((FAIL_COUNT + 1))
+              FAILED_IDS="$FAILED_IDS $TTB_ID"
+              echo "  ⚠️ Failed to download TTB ID: $TTB_ID"
+            fi
+          done
+          
+          echo ""
+          echo "Download summary: $SUCCESS_COUNT succeeded, $FAIL_COUNT failed"
+          
+          if [ $FAIL_COUNT -gt 0 ]; then
+            echo "Failed TTB IDs:$FAILED_IDS"
+          fi
+          
+          # Save download stats to outputs
+          echo "success_count=$SUCCESS_COUNT" >> $GITHUB_OUTPUT
+          echo "fail_count=$FAIL_COUNT" >> $GITHUB_OUTPUT
+          
+          # Create formatted list of TTB IDs for PR body
+          python3 << 'PYEOF' > ttb_list.txt
+          import json
+          data = json.load(open('new_labels.json'))
+          for ttb_id in data['new_ttb_ids']:
+              url = f'https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid={ttb_id}'
+              print(f'- [{ttb_id}]({url})')
+          PYEOF
+          
+          # Save to output using heredoc to handle multiline content
+          echo 'ttb_list<<EOF' >> $GITHUB_OUTPUT
+          cat ttb_list.txt >> $GITHUB_OUTPUT
+          echo 'EOF' >> $GITHUB_OUTPUT
+      
+      - name: Create Pull Request
+        if: steps.find_labels.outputs.has_new_labels == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: 'Add new TTB labels from ${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }}'
+          branch: automated/new-ttb-labels-${{ steps.find_labels.outputs.date_to }}
+          delete-branch: true
+          title: 'New TTB Labels: ${{ steps.find_labels.outputs.new_count }} found (${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }})'
+          body: |
+            ## New TTB COLA Labels Found
+            
+            This PR was automatically created by the daily TTB label finder workflow.
+            
+            **Search Date Range:** ${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }}
+            **New Labels Found:** ${{ steps.find_labels.outputs.new_count }}
+            **Download Results:** ${{ steps.download_labels.outputs.success_count }} succeeded, ${{ steps.download_labels.outputs.fail_count }} failed
+            
+            ### Search Criteria
+            - **Origin Code:** 22 (Kentucky)
+            - **Product Class/Type:** 100-150 (whiskey)
+            
+            ### New TTB IDs
+            
+            The following new TTB IDs were found and downloaded:
+            
+            ${{ steps.download_labels.outputs.ttb_list }}
+            
+            ### Next Steps
+            
+            1. Review the downloaded label images in the `labels/` directory
+            2. Verify the labels are for whiskey products from Kentucky
+            3. Consider adding entries to `_data/whiskeyindex.csv` if these are new products
+            4. Merge this PR to add the labels to the repository
+            
+            ---
+            *Automated by `.github/workflows/find-new-ttb-labels.yml`*
+          labels: |
+            automated
+            ttb-labels
+      
+      - name: Upload search results as artifact
+        if: steps.find_labels.outputs.has_new_labels == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: new-labels-${{ steps.find_labels.outputs.date_to }}
+          path: |
+            new_labels.json
+            search_output.txt
+          retention-days: 30
+      
+      - name: No new labels found
+        if: steps.find_labels.outputs.has_new_labels == 'false'
+        run: |
+          echo "No new TTB labels found for date range ${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }}"
+          echo "No PR will be created."
