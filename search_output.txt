@@ -1,0 +1,63 @@
+============================================================
+TTB COLA Registry - New Label Finder
+============================================================
+
+Searching TTB registry:
+  Date range: 01/01/2026 to 01/30/2029
+  Origin code: 22 (Kentucky)
+  Product class/type: 100-150 (whiskey)
+    Found: 25274001000084
+    Found: 25323001000647
+    Found: 25338001000636
+    Found: 25344001000590
+    Found: 25357001000108
+    Found: 25357001000332
+    Found: 25361001000042
+    Found: 25364001000183
+    Found: 25364001000219
+    Found: 25364001000233
+    Found: 25364001000514
+    Found: 25365001000019
+    Found: 25365001000024
+    Found: 25365001000026
+    Found: 25365001000029
+    Found: 25365001000030
+    Found: 25365001000157
+    Found: 25365001000159
+    Found: 25365001000160
+    Found: 25365001000161
+  Found 20 TTB IDs in registry
+
+Found 177 existing TTB IDs in labels
+
+============================================================
+Results:
+  TTB IDs in registry: 20
+  Already in labels/: 0
+  New TTB IDs: 20
+============================================================
+
+Found 20 new TTB ID(s):
+  - 25274001000084: https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=25274001000084
+  - 25323001000647: https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=25323001000647
+  - 25338001000636: https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=25338001000636
+  - 25344001000590: https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=25344001000590
+  - 25357001000108: https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=25357001000108
+  - 25357001000332: https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=25357001000332
+  - 25361001000042: https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=25361001000042
+  - 25364001000183: https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=25364001000183
+  - 25364001000219: https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=25364001000219
+  - 25364001000233: https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=25364001000233
+  - 25364001000514: https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=25364001000514
+  - 25365001000019: https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=25365001000019
+  - 25365001000024: https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=25365001000024
+  - 25365001000026: https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=25365001000026
+  - 25365001000029: https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=25365001000029
+  - 25365001000030: https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=25365001000030
+  - 25365001000157: https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=25365001000157
+  - 25365001000159: https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=25365001000159
+  - 25365001000160: https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=25365001000160
+  - 25365001000161: https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=25365001000161
+
+Results saved to: new_labels.json
+
