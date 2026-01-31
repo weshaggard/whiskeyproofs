@@ -4,6 +4,11 @@
 
 **Issue Date:** 08/15/2018
 
+**Origin Code:** 51
+
+**Product Class/Type:** 81
+
+
 **Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=18225001000627)
 
 ## Label Images

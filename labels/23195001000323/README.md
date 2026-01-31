@@ -6,6 +6,11 @@
 
 **Issue Date:** 07/24/2023
 
+**Origin Code:** 52
+
+**Product Class/Type:** 81
+
+
 **Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=23195001000323)
 
 ## Label Images
