@@ -102,6 +102,18 @@ def extract_label_images_and_metadata(ttbid):
         with urllib.request.urlopen(req, timeout=30) as response:
             html = response.read().decode('utf-8', errors='ignore')
             
+            # Check for captcha - if detected, we're blocked
+            if 'captcha' in html.lower() or 'recaptcha' in html.lower():
+                print(f"\n{'='*60}")
+                print(f"⚠️  CAPTCHA DETECTED - Machine is blocked!")
+                print(f"{'='*60}")
+                print(f"The TTB website has returned a captcha challenge.")
+                print(f"Processing has been stopped to avoid further blocking.")
+                print(f"Please wait before running another batch.")
+                print(f"{'='*60}\n")
+                # Return a special value to signal captcha
+                return 'CAPTCHA_DETECTED', {}
+            
             # Find image URLs in the HTML
             # Look for publicViewAttachment.do?filename=...&filetype=l
             images = []
@@ -172,7 +184,18 @@ def download_ttb_labels(ttbid, labels_dir, skip_existing=True):
     ttbid_dir.mkdir(parents=True, exist_ok=True)
     
     # Extract label image filenames and metadata (this also establishes session)
-    images, metadata = extract_label_images_and_metadata(ttbid)
+    result = extract_label_images_and_metadata(ttbid)
+    
+    # Check if we got a captcha response
+    if result[0] == 'CAPTCHA_DETECTED':
+        # Clean up directory and signal to stop processing
+        try:
+            ttbid_dir.rmdir()
+        except:
+            pass
+        return 'captcha'
+    
+    images, metadata = result
     
     if not images:
         print(f"  No label images found for {ttbid}")
@@ -295,6 +318,7 @@ def main():
     success = 0
     failed = 0
     skipped = 0
+    captcha_detected = False
     
     for i, ttbid in enumerate(ttbids, 1):
         print(f"\n[{i}/{len(ttbids)}] ", end='')
@@ -305,6 +329,16 @@ def main():
             success += 1
         elif result == 'skipped':
             skipped += 1
+        elif result == 'captcha':
+            # Captcha detected - stop processing immediately
+            captcha_detected = True
+            print(f"\n{'='*60}")
+            print(f"❌ STOPPED: Captcha detected on TTB ID {ttbid}")
+            print(f"{'='*60}")
+            print(f"Processed {i-1} of {len(ttbids)} TTB IDs before blocking.")
+            print(f"Please wait before running another batch.")
+            print(f"{'='*60}\n")
+            break
         else:
             failed += 1
         
@@ -317,10 +351,12 @@ def main():
     print(f"  Success: {success}")
     print(f"  Failed:  {failed}")
     print(f"  Skipped: {skipped}")
+    if captcha_detected:
+        print(f"  ⚠️  Captcha: BLOCKED (stopped processing)")
     print(f"  Total:   {len(ttbids)}")
     print(f"{'='*60}")
     
-    return 0 if failed == 0 else 1
+    return 0 if (failed == 0 and not captcha_detected) else 1
 
 if __name__ == '__main__':
     sys.exit(main())
