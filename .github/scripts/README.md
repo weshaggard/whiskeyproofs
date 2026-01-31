@@ -14,6 +14,94 @@ This directory contains utility scripts for the Whiskey Proofs database.
 
 ## Available Scripts
 
+### download_ttb_labels.py / download_ttb_labels.sh
+
+Downloads label images (front and back labels) from the TTB COLA Public Registry for all TTB IDs in the whiskeyindex.csv file. Creates a structured folder hierarchy under `labels/` with one folder per TTB ID.
+
+**Usage (Shell script):**
+```bash
+# Download all labels (skips existing)
+.github/scripts/download_ttb_labels.sh
+
+# Test with first 10 TTB IDs
+.github/scripts/download_ttb_labels.sh --limit 10
+
+# Re-download all, even if they exist
+.github/scripts/download_ttb_labels.sh --no-skip-existing
+```
+
+**Usage (Python directly):**
+```bash
+# Download all labels (skips existing)
+python3 .github/scripts/download_ttb_labels.py
+
+# Test with first 10 TTB IDs
+python3 .github/scripts/download_ttb_labels.py --limit 10
+
+# Re-download all, even if they exist
+python3 .github/scripts/download_ttb_labels.py --no-skip-existing
+
+# Show help
+python3 .github/scripts/download_ttb_labels.py --help
+```
+
+**Options:**
+- `--limit N`: Only process first N TTB IDs (useful for testing)
+- `--skip-existing`: Skip TTB IDs that already have images (default: True)
+- `--no-skip-existing`: Re-download all TTB IDs even if they exist
+- `--help`: Show help message
+
+**Features:**
+- Automatically reads unique TTB IDs from `_data/whiskeyindex.csv`
+- Downloads front and back label images from TTB website
+- Creates organized folder structure: `labels/{TTBID}/`
+- Generates README.md for each TTB ID folder with metadata
+- Handles session cookies for authentication
+- Skips already-downloaded images by default (efficient for automation)
+- Respects TTB server with delays between requests
+- Provides detailed progress output and summary statistics
+
+**Output Structure:**
+```
+labels/
+├── 24002001000457/
+│   ├── README.md
+│   ├── front_label.jpg
+│   └── back_label.jpg
+├── 24002001000458/
+│   ├── README.md
+│   ├── front_label.jpg
+│   └── back_label.jpg
+└── ...
+```
+
+**Example Output:**
+```
+Found 194 unique TTB IDs to process
+Skip existing: True
+
+[1/194] Processing 24002001000457...
+  Found 2 label images
+  Downloading front_label.jpg...
+    ✓ Saved to front_label.jpg
+  Downloading back_label.jpg...
+    ✓ Saved to back_label.jpg
+
+...
+
+Summary:
+  Success: 150
+  Failed:  20
+  Skipped: 24
+  Total:   194
+```
+
+**Notes:**
+- Not all TTB IDs have label images available online
+- Some older TTB IDs may not have images in the public registry
+- The script uses session-based authentication to access TTB images
+- SSL certificate verification is disabled due to TTB certificate issues
+
 ### validate_whiskey_data.py
 
 Validates the `whiskeyindex.csv` data file for:
