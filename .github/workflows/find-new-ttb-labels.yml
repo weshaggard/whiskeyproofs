@@ -77,6 +77,7 @@ jobs:
       
       - name: Download new labels
         if: steps.find_labels.outputs.has_new_labels == 'true'
+        id: download_labels
         run: |
           # Extract TTB IDs from JSON
           TTB_IDS=$(python3 -c "import json; data=json.load(open('new_labels.json')); print(' '.join(data['new_ttb_ids']))")
@@ -88,6 +89,20 @@ jobs:
             echo "Downloading TTB ID: $TTB_ID"
             python3 .github/scripts/download_ttb_labels.py --ttbid "$TTB_ID" --no-skip-existing || true
           done
+          
+          # Create formatted list of TTB IDs for PR body
+          python3 << 'PYEOF' > ttb_list.txt
+          import json
+          data = json.load(open('new_labels.json'))
+          for ttb_id in data['new_ttb_ids']:
+              url = f'https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid={ttb_id}'
+              print(f'- [{ttb_id}]({url})')
+          PYEOF
+          
+          # Save to output using heredoc to handle multiline content
+          echo 'ttb_list<<EOF' >> $GITHUB_OUTPUT
+          cat ttb_list.txt >> $GITHUB_OUTPUT
+          echo 'EOF' >> $GITHUB_OUTPUT
       
       - name: Create Pull Request
         if: steps.find_labels.outputs.has_new_labels == 'true'
@@ -114,9 +129,7 @@ jobs:
             
             The following new TTB IDs were found and downloaded:
             
-            ```json
-            ${{ steps.find_labels.outputs.new_ttb_ids }}
-            ```
+            ${{ steps.download_labels.outputs.ttb_list }}
             
             ### Next Steps
             
