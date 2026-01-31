@@ -8,3 +8,8 @@ Gemfile.lock
 wget-log
 *.pyc
 scripts/__pycache__/
+
+# TTB workflow temporary files
+new_labels.json
+search_output.txt
+ttb_list.txt
