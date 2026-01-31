@@ -42,6 +42,8 @@ class TTBQuerier:
     
     SEARCH_URL = "https://ttbonline.gov/colasonline/publicSearchColasBasicProcess.do?action=search"
     DETAIL_URL = "https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid="
+    NEXT_PAGE_URL = "https://ttbonline.gov/colasonline/publicPageBasicCola.do?action=page&pgfcn=nextset"
+    MAX_PAGES = 100  # Safety limit to prevent infinite loops
     
     def __init__(self, verbose=False):
         self.verbose = verbose
@@ -81,6 +83,7 @@ class TTBQuerier:
     def search_whiskey(self, name, year_from, year_to):
         """
         Search TTB COLA registry for a whiskey entry using HTTP POST.
+        Automatically handles pagination to retrieve all results.
         
         Args:
             name: Product name (e.g., "Booker's", "Angel's Envy Cask Strength")
@@ -111,36 +114,89 @@ class TTBQuerier:
             'searchCriteria.originCode': ''
         }
         
+        all_results = []
+        
         try:
-            # Make POST request
+            # Make initial POST request
             response = self.session.post(self.SEARCH_URL, data=form_data, timeout=30, verify=False)
             response.raise_for_status()
             print(f"    date_from: {date_from}, date_to: {date_to}, brand: {brand}")
             
-            # Parse results
-            results = self._parse_search_results(response.text)
+            # Parse first page results
+            results, has_next = self._parse_search_results(response.text)
+            all_results.extend(results)
             
             if self.verbose:
-                print(f"    Found {len(results)} potential match(es)")
+                print(f"    Page 1: Found {len(results)} potential match(es)")
             
-            return results
+            # Fetch additional pages if they exist
+            page_num = 2
+            while has_next and page_num <= self.MAX_PAGES:
+                if self.verbose:
+                    print(f"    Fetching page {page_num}...")
+                
+                page_results, has_next = self._fetch_next_page()
+                all_results.extend(page_results)
+                
+                if self.verbose:
+                    print(f"    Page {page_num}: Found {len(page_results)} potential match(es)")
+                
+                page_num += 1
+                
+                # Add a small delay between page requests to be respectful
+                if has_next:
+                    time.sleep(0.5)
+            
+            # Warn if we hit the limit and there are still more pages
+            if has_next and page_num > self.MAX_PAGES:
+                print(f"    WARNING: Reached maximum page limit ({self.MAX_PAGES}). There may be more results.")
+            
+            if self.verbose or page_num > 2:
+                print(f"    Total: Found {len(all_results)} potential match(es) across {page_num - 1} page(s)")
+            
+            return all_results
             
         except Exception as e:
             if self.verbose:
                 print(f"    Error during search: {e}")
             return []
     
+    def _fetch_next_page(self):
+        """
+        Fetch the next page of search results.
+        Uses the session to maintain state from the initial search.
+        
+        Returns:
+            Tuple of (list of result dicts from this page, has_next_page boolean)
+        """
+        try:
+            response = self.session.get(self.NEXT_PAGE_URL, timeout=30, verify=False)
+            response.raise_for_status()
+            return self._parse_search_results(response.text)
+        except Exception as e:
+            if self.verbose:
+                print(f"    Error fetching next page: {e}")
+            return [], False
+    
     def _parse_search_results(self, html_content):
         """
         Parse the search results HTML to extract TTB IDs and metadata.
         Only returns unique TTB IDs (one per result row).
         Parses all table columns and maps them to header names.
+        
+        Returns:
+            Tuple of (list of result dicts, has_next_page boolean)
         """
         results = []
         seen_ids = set()
+        has_next = False
         
         try:
             soup = BeautifulSoup(html_content, 'html.parser')
+            
+            # Check for "Next >" link to determine if there are more pages
+            next_links = soup.find_all('a', string=re.compile(r'Next\s*>'))
+            has_next = len(next_links) > 0
             
             # Look for result tables
             tables = soup.find_all('table')
@@ -264,7 +320,7 @@ class TTBQuerier:
             if self.verbose:
                 print(f"    Error parsing results: {e}")
         
-        return results
+        return results, has_next
     
     def search_whiskey_with_chunking(self, name, year_from, year_to):
         """

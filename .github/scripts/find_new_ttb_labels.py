@@ -51,6 +51,8 @@ class TTBLabelFinder:
     
     SEARCH_URL = "https://ttbonline.gov/colasonline/publicSearchColasBasicProcess.do?action=search"
     DETAIL_URL = "https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid="
+    NEXT_PAGE_URL = "https://ttbonline.gov/colasonline/publicPageBasicCola.do?action=page&pgfcn=nextset"
+    MAX_PAGES = 100  # Safety limit to prevent infinite loops
     
     def __init__(self, verbose=False):
         self.verbose = verbose
@@ -67,6 +69,7 @@ class TTBLabelFinder:
     def search_ttb_registry(self, date_from, date_to, origin_code='22', class_type_from='100', class_type_to='150'):
         """
         Search TTB COLA registry for labels within date range and filters.
+        Automatically handles pagination to retrieve all results.
         
         Args:
             date_from: Start date in MM/DD/YYYY format
@@ -84,6 +87,8 @@ class TTBLabelFinder:
             print(f"  Origin code: {origin_code} (Kentucky)")
             print(f"  Product class/type: {class_type_from}-{class_type_to} (whiskey)")
         
+        all_ttb_ids = []
+        
         # Prepare form data for POST request
         form_data = {
             'searchCriteria.dateCompletedFrom': date_from,
@@ -96,33 +101,80 @@ class TTBLabelFinder:
         }
         
         try:
-            # Make POST request
+            # Make initial POST request
             # Note: verify=False due to known certificate issues with TTB website
             response = self.session.post(self.SEARCH_URL, data=form_data, timeout=30, verify=False)
             response.raise_for_status()
             
-            # Parse results
-            ttb_ids = self._parse_search_results(response.text)
+            # Parse first page results
+            ttb_ids, has_next = self._parse_search_results(response.text)
+            all_ttb_ids.extend(ttb_ids)
             
             if self.verbose:
-                print(f"  Found {len(ttb_ids)} TTB IDs in registry")
+                print(f"  Page 1: Found {len(ttb_ids)} TTB IDs")
             
-            return ttb_ids
+            # Fetch additional pages if they exist
+            page_num = 2
+            while has_next and page_num <= self.MAX_PAGES:
+                if self.verbose:
+                    print(f"  Fetching page {page_num}...")
+                
+                page_ttb_ids, has_next = self._fetch_next_page()
+                all_ttb_ids.extend(page_ttb_ids)
+                
+                if self.verbose:
+                    print(f"  Page {page_num}: Found {len(page_ttb_ids)} TTB IDs")
+                
+                page_num += 1
+                
+                # Add a small delay between page requests to be respectful
+                if has_next:
+                    time.sleep(0.5)
+            
+            # Warn if we hit the limit and there are still more pages
+            if has_next and page_num > self.MAX_PAGES:
+                print(f"  WARNING: Reached maximum page limit ({self.MAX_PAGES}). There may be more results.")
+            
+            if self.verbose or page_num > 2:
+                print(f"  Total: Found {len(all_ttb_ids)} TTB IDs across {page_num - 1} page(s)")
+            
+            return all_ttb_ids
             
         except Exception as e:
             print(f"Error during search: {e}")
             return []
     
+    def _fetch_next_page(self):
+        """
+        Fetch the next page of search results.
+        Uses the session to maintain state from the initial search.
+        
+        Returns:
+            Tuple of (list of TTB IDs from this page, has_next_page boolean)
+        """
+        try:
+            response = self.session.get(self.NEXT_PAGE_URL, timeout=30, verify=False)
+            response.raise_for_status()
+            return self._parse_search_results(response.text)
+        except Exception as e:
+            print(f"Error fetching next page: {e}")
+            return [], False
+    
     def _parse_search_results(self, html_content):
         """
         Parse the search results HTML to extract TTB IDs.
-        Returns list of unique TTB IDs.
+        Returns tuple of (list of unique TTB IDs, has_next_page boolean).
         """
         ttb_ids = []
         seen_ids = set()
+        has_next = False
         
         try:
             soup = BeautifulSoup(html_content, 'html.parser')
+            
+            # Check for "Next >" link to determine if there are more pages
+            next_links = soup.find_all('a', string=re.compile(r'Next\s*>'))
+            has_next = len(next_links) > 0
             
             # Look for result tables
             tables = soup.find_all('table')
@@ -152,7 +204,7 @@ class TTBLabelFinder:
         except Exception as e:
             print(f"Error parsing results: {e}")
         
-        return ttb_ids
+        return ttb_ids, has_next
     
     def get_existing_ttb_ids(self, labels_dir):
         """
