@@ -10,9 +10,15 @@
 #   ./download_ttb_labels.sh [options]
 #
 # Options:
+#   --ttbid TTBID       Download labels for a specific TTB ID only
 #   --limit N           Only process first N TTB IDs (for testing)
 #   --no-skip-existing  Re-download all, even if images exist
 #   --help              Show help
+#
+# Examples:
+#   ./download_ttb_labels.sh --ttbid 24002001000457
+#   ./download_ttb_labels.sh --limit 10
+#   ./download_ttb_labels.sh --ttbid 24002001000458 --no-skip-existing
 #
 
 set -e  # Exit on error

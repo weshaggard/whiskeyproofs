@@ -23,17 +23,23 @@ Downloads label images (front and back labels) from the TTB COLA Public Registry
 # Download all labels (skips existing)
 .github/scripts/download_ttb_labels.sh
 
+# Download a specific TTB ID
+.github/scripts/download_ttb_labels.sh --ttbid 24002001000457
+
 # Test with first 10 TTB IDs
 .github/scripts/download_ttb_labels.sh --limit 10
 
-# Re-download all, even if they exist
-.github/scripts/download_ttb_labels.sh --no-skip-existing
+# Re-download a specific TTB ID even if it exists
+.github/scripts/download_ttb_labels.sh --ttbid 24002001000457 --no-skip-existing
 ```
 
 **Usage (Python directly):**
 ```bash
 # Download all labels (skips existing)
 python3 .github/scripts/download_ttb_labels.py
+
+# Download a specific TTB ID
+python3 .github/scripts/download_ttb_labels.py --ttbid 24002001000457
 
 # Test with first 10 TTB IDs
 python3 .github/scripts/download_ttb_labels.py --limit 10
@@ -46,6 +52,7 @@ python3 .github/scripts/download_ttb_labels.py --help
 ```
 
 **Options:**
+- `--ttbid TTBID`: Download labels for a specific TTB ID only (great for testing or one-off downloads)
 - `--limit N`: Only process first N TTB IDs (useful for testing)
 - `--skip-existing`: Skip TTB IDs that already have images (default: True)
 - `--no-skip-existing`: Re-download all TTB IDs even if they exist
@@ -53,6 +60,7 @@ python3 .github/scripts/download_ttb_labels.py --help
 
 **Features:**
 - Automatically reads unique TTB IDs from `_data/whiskeyindex.csv`
+- Can download a single specific TTB ID or process all TTB IDs
 - Downloads front and back label images from TTB website
 - Creates organized folder structure: `labels/{TTBID}/`
 - Generates README.md for each TTB ID folder with metadata

@@ -7,11 +7,20 @@ It reads unique TTB IDs from _data/whiskeyindex.csv and downloads the front and 
 label images for each one.
 
 Usage:
-    python3 .github/scripts/download_ttb_labels.py [--limit N] [--skip-existing]
+    # Download all TTB IDs
+    python3 .github/scripts/download_ttb_labels.py
+    
+    # Download a specific TTB ID
+    python3 .github/scripts/download_ttb_labels.py --ttbid 24002001000457
+    
+    # Download with options
+    python3 .github/scripts/download_ttb_labels.py --limit 10 --skip-existing
 
 Options:
+    --ttbid TTBID     Download labels for a specific TTB ID only
     --limit N         Only process the first N TTB IDs (for testing)
-    --skip-existing   Skip TTB IDs that already have a folder with images
+    --skip-existing   Skip TTB IDs that already have a folder with images (default)
+    --no-skip-existing Re-download all TTB IDs even if they exist
     --help           Show this help message
 """
 
@@ -98,8 +107,9 @@ def extract_label_images(ttbid):
             images = []
             
             # Simple pattern matching for label images
+            # Match both &amp; (HTML entity) and & (raw)
             import re
-            pattern = r'publicViewAttachment\.do\?filename=([^"&]+)&amp;filetype=l'
+            pattern = r'publicViewAttachment\.do\?filename=([^"&]+)&(?:amp;)?filetype=l'
             matches = re.findall(pattern, html)
             
             for filename in matches:
@@ -162,8 +172,9 @@ def download_ttb_labels(ttbid, labels_dir, skip_existing=True):
         
         output_path = ttbid_dir / output_name
         
-        # Build download URL - use the URL parameter as-is (already encoded in HTML)
-        download_url = f"{ATTACHMENT_URL}?filename={url_param}&filetype=l"
+        # Build download URL - properly encode the filename parameter
+        encoded_filename = urllib.parse.quote(filename)
+        download_url = f"{ATTACHMENT_URL}?filename={encoded_filename}&filetype=l"
         
         print(f"  Downloading {output_name}...")
         if download_file(download_url, output_path):
@@ -204,6 +215,7 @@ def main():
     parser = argparse.ArgumentParser(
         description='Download TTB COLA label images for all TTB IDs in whiskeyindex.csv'
     )
+    parser.add_argument('--ttbid', type=str, help='Download labels for a specific TTB ID only')
     parser.add_argument('--limit', type=int, help='Only process first N TTB IDs (for testing)')
     parser.add_argument('--skip-existing', action='store_true', default=True,
                         help='Skip TTB IDs that already have images (default: True)')
@@ -219,15 +231,21 @@ def main():
     # Create labels directory
     labels_dir.mkdir(exist_ok=True)
     
-    # Get unique TTB IDs
-    ttbids = get_unique_ttbids(csv_file)
+    # Handle single TTB ID mode
+    if args.ttbid:
+        ttbids = [args.ttbid]
+        print(f"Processing single TTB ID: {args.ttbid}\n")
+    else:
+        # Get unique TTB IDs from CSV
+        ttbids = get_unique_ttbids(csv_file)
+        
+        # Apply limit if specified
+        if args.limit:
+            ttbids = ttbids[:args.limit]
+            print(f"Processing first {args.limit} TTB IDs (limited for testing)")
+        
+        print(f"Found {len(ttbids)} unique TTB IDs to process")
     
-    # Apply limit if specified
-    if args.limit:
-        ttbids = ttbids[:args.limit]
-        print(f"Processing first {args.limit} TTB IDs (limited for testing)")
-    
-    print(f"Found {len(ttbids)} unique TTB IDs to process")
     print(f"Skip existing: {args.skip_existing}\n")
     
     # Process each TTB ID
