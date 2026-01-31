@@ -192,7 +192,7 @@ class TTBLabelFinder:
             class_type_to: End of product class/type range (default: 150)
             
         Returns:
-            List of new TTB IDs not yet in labels directory
+            Tuple of (list of new TTB IDs, total count from registry)
         """
         # Search registry
         registry_ids = self.search_ttb_registry(
@@ -213,7 +213,7 @@ class TTBLabelFinder:
             print(f"  New TTB IDs: {len(new_ids)}")
             print(f"{'='*60}")
         
-        return new_ids
+        return new_ids, len(registry_ids)
 
 
 def main():
@@ -326,7 +326,7 @@ Examples:
     finder = TTBLabelFinder(verbose=args.verbose)
     
     try:
-        new_ids = finder.find_new_labels(
+        new_ids, total_registry_results = finder.find_new_labels(
             date_from=date_from,
             date_to=date_to,
             labels_dir=args.labels_dir,
@@ -365,7 +365,8 @@ Examples:
                     'class_type_to': args.class_to
                 },
                 'new_ttb_ids': new_ids,
-                'count': len(new_ids)
+                'count': len(new_ids),
+                'total_registry_results': total_registry_results
             }
             
             with open(args.output, 'w') as f:
@@ -373,6 +374,27 @@ Examples:
             print(f"\nResults saved to: {args.output}")
     else:
         print("No new TTB IDs found.")
+        
+        # Save to file even if no new labels (for workflow to read)
+        if args.output:
+            output_data = {
+                'search_date': datetime.now().isoformat(),
+                'date_range': {
+                    'from': args.date_from or start_date.strftime('%Y-%m-%d'),
+                    'to': args.date_to or end_date.strftime('%Y-%m-%d')
+                },
+                'filters': {
+                    'origin_code': args.origin,
+                    'class_type_from': args.class_from,
+                    'class_type_to': args.class_to
+                },
+                'new_ttb_ids': [],
+                'count': 0,
+                'total_registry_results': total_registry_results
+            }
+            
+            with open(args.output, 'w') as f:
+                json.dump(output_data, f, indent=2)
     
     print()
 

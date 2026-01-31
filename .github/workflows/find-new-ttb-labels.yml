@@ -2,15 +2,15 @@
 name: Find New TTB Labels
 
 on:
-  # Run daily at 6 AM UTC (1 AM EST / 2 AM EDT)
+  # Run daily at 3 PM UTC (7 AM PST / 8 AM PDT)
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '0 15 * * *'
   
   # Allow manual trigger
   workflow_dispatch:
     inputs:
       date_from:
-        description: 'Start date (YYYY-MM-DD) - defaults to 7 days ago'
+        description: 'Start date (YYYY-MM-DD) - defaults to 2 days ago'
         required: false
         type: string
       date_to:
@@ -46,7 +46,7 @@ jobs:
           if [ -n "${{ github.event.inputs.date_from }}" ]; then
             DATE_FROM="${{ github.event.inputs.date_from }}"
           else
-            DATE_FROM=$(date -d '7 days ago' +%Y-%m-%d)
+            DATE_FROM=$(date -d '2 days ago' +%Y-%m-%d)
           fi
           
           if [ -n "${{ github.event.inputs.date_to }}" ]; then
@@ -69,10 +69,22 @@ jobs:
           NEW_COUNT=$(python3 -c "import json; data=json.load(open('new_labels.json')); print(data.get('count', 0))")
           echo "new_count=${NEW_COUNT}" >> $GITHUB_OUTPUT
           
+          # Check total results found in registry to detect if we hit the limit
+          TOTAL_RESULTS=$(python3 -c "import json; data=json.load(open('new_labels.json')); print(data.get('total_registry_results', 0))")
+          echo "total_results=${TOTAL_RESULTS}" >> $GITHUB_OUTPUT
+          
           if [ "$NEW_COUNT" -gt 0 ]; then
             echo "has_new_labels=true" >> $GITHUB_OUTPUT
           else
             echo "has_new_labels=false" >> $GITHUB_OUTPUT
+          fi
+          
+          # Check if we should chunk (20 or more total results means we might be missing some)
+          if [ "$TOTAL_RESULTS" -ge 20 ]; then
+            echo "should_chunk=true" >> $GITHUB_OUTPUT
+            echo "⚠️ WARNING: Found ${TOTAL_RESULTS} results (limit is typically 20). Consider chunking the date range."
+          else
+            echo "should_chunk=false" >> $GITHUB_OUTPUT
           fi
       
       - name: Download new labels
@@ -131,8 +143,8 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: 'Add new TTB labels from ${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }}'
-          branch: automated/new-ttb-labels-${{ steps.find_labels.outputs.date_to }}
-          delete-branch: true
+          branch: automated/new-ttb-labels
+          delete-branch: false
           title: 'New TTB Labels: ${{ steps.find_labels.outputs.new_count }} found (${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }})'
           body: |
             ## New TTB COLA Labels Found
@@ -142,6 +154,8 @@ jobs:
             **Search Date Range:** ${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }}
             **New Labels Found:** ${{ steps.find_labels.outputs.new_count }}
             **Download Results:** ${{ steps.download_labels.outputs.success_count }} succeeded, ${{ steps.download_labels.outputs.fail_count }} failed
+            **Total Registry Results:** ${{ steps.find_labels.outputs.total_results }}
+            ${{ steps.find_labels.outputs.should_chunk == 'true' && '⚠️ **WARNING:** Found 20+ results - there may be more results not shown. Consider running with smaller date ranges.' || '' }}
             
             ### Search Criteria
             - **Origin Code:** 22 (Kentucky)
@@ -159,6 +173,7 @@ jobs:
             2. Verify the labels are for whiskey products from Kentucky
             3. Consider adding entries to `_data/whiskeyindex.csv` if these are new products
             4. Merge this PR to add the labels to the repository
+            ${{ steps.find_labels.outputs.should_chunk == 'true' && '\n### ⚠️ Chunking Recommended\n\nThe search returned 20 or more results, which is the typical TTB limit. To ensure all labels are found, consider:\n1. Running the workflow manually with smaller date ranges\n2. Breaking the current date range into multiple chunks (e.g., weekly or daily)\n3. Re-running this workflow after merging this PR to find any remaining labels' || '' }}
             
             ---
             *Automated by `.github/workflows/find-new-ttb-labels.yml`*

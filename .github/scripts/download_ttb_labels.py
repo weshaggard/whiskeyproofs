@@ -162,6 +162,18 @@ def extract_label_images_and_metadata(ttbid):
                     metadata['issue_date'] = html_module.unescape(date_match.group(1).strip())
                     break
             
+            # Extract Origin Code (OR) and Product Class/Type (CT)
+            # These appear as label-data pairs in the HTML
+            label_sections = re.findall(r'<div class="label">([^<]+)</div>\s*<div class="data">([^<]+)</div>', html)
+            for label, data in label_sections:
+                label_clean = html_module.unescape(label.strip()).rstrip(':').strip()
+                data_clean = html_module.unescape(data.strip())
+                
+                if label_clean == 'OR':
+                    metadata['origin_code'] = data_clean
+                elif label_clean == 'CT':
+                    metadata['product_class_type'] = data_clean
+            
             return images, metadata
     except Exception as e:
         print(f"  Error fetching TTB page for {ttbid}: {e}")
@@ -261,6 +273,10 @@ def download_ttb_labels(ttbid, labels_dir, skip_existing=True):
             f.write(f"**Fanciful Name:** {metadata['fanciful_name']}\n\n")
         if metadata.get('issue_date'):
             f.write(f"**Issue Date:** {metadata['issue_date']}\n\n")
+        if metadata.get('origin_code'):
+            f.write(f"**Origin Code:** {metadata['origin_code']}\n\n")
+        if metadata.get('product_class_type'):
+            f.write(f"**Product Class/Type:** {metadata['product_class_type']}\n\n")
         
         f.write(f"**Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid={ttbid})\n\n")
         
