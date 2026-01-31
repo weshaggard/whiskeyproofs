@@ -89,8 +89,8 @@ def download_file(url, output_path):
         print(f"  Error downloading: {e}")
         return False
 
-def extract_label_images(ttbid):
-    """Extract label image filenames from TTB page and establish session."""
+def extract_label_images_and_metadata(ttbid):
+    """Extract label image filenames and metadata from TTB page and establish session."""
     url = DETAIL_URL + ttbid
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
@@ -120,10 +120,40 @@ def extract_label_images(ttbid):
                     'url_param': filename  # Keep original for URL
                 })
             
-            return images
+            # Extract metadata from the page
+            metadata = {}
+            
+            # Extract Brand Name (field 6)
+            brand_pattern = r'6\.\s*BRAND NAME.*?<div class="data">([^<]+)</div>'
+            brand_match = re.search(brand_pattern, html, re.DOTALL | re.IGNORECASE)
+            if brand_match:
+                import html as html_module
+                metadata['brand_name'] = html_module.unescape(brand_match.group(1).strip())
+            
+            # Extract Fanciful Name (field 7)
+            fanciful_pattern = r'7\.\s*FANCIFUL NAME.*?<div class="data">([^<]+)</div>'
+            fanciful_match = re.search(fanciful_pattern, html, re.DOTALL | re.IGNORECASE)
+            if fanciful_match:
+                import html as html_module
+                metadata['fanciful_name'] = html_module.unescape(fanciful_match.group(1).strip())
+            
+            # Extract Issue Date (various possible patterns)
+            issue_date_patterns = [
+                r'Issue Date.*?<div class="data">([^<]+)</div>',
+                r'Approval Date.*?<div class="data">([^<]+)</div>',
+                r'Date Issued.*?<div class="data">([^<]+)</div>'
+            ]
+            for pattern in issue_date_patterns:
+                date_match = re.search(pattern, html, re.DOTALL | re.IGNORECASE)
+                if date_match:
+                    import html as html_module
+                    metadata['issue_date'] = html_module.unescape(date_match.group(1).strip())
+                    break
+            
+            return images, metadata
     except Exception as e:
         print(f"  Error fetching TTB page for {ttbid}: {e}")
-        return []
+        return [], {}
 
 def download_ttb_labels(ttbid, labels_dir, skip_existing=True):
     """Download label images for a given TTB ID."""
@@ -141,8 +171,8 @@ def download_ttb_labels(ttbid, labels_dir, skip_existing=True):
     # Create directory
     ttbid_dir.mkdir(parents=True, exist_ok=True)
     
-    # Extract label image filenames (this also establishes session)
-    images = extract_label_images(ttbid)
+    # Extract label image filenames and metadata (this also establishes session)
+    images, metadata = extract_label_images_and_metadata(ttbid)
     
     if not images:
         print(f"  No label images found for {ttbid}")
@@ -157,6 +187,7 @@ def download_ttb_labels(ttbid, labels_dir, skip_existing=True):
     
     # Download each image
     success_count = 0
+    downloaded_images = []
     for idx, img_info in enumerate(images):
         filename = img_info['filename']
         url_param = img_info['url_param']
@@ -179,6 +210,7 @@ def download_ttb_labels(ttbid, labels_dir, skip_existing=True):
         print(f"  Downloading {output_name}...")
         if download_file(download_url, output_path):
             success_count += 1
+            downloaded_images.append(output_name)
             print(f"    ✓ Saved to {output_name}")
         else:
             print(f"    ✗ Failed to download {output_name}")
@@ -194,19 +226,30 @@ def download_ttb_labels(ttbid, labels_dir, skip_existing=True):
             pass
         return 'failed'
     
-    # Create README
+    # Create README with embedded images and metadata
     readme_path = ttbid_dir / 'README.md'
     with open(readme_path, 'w') as f:
         f.write(f"# TTB COLA Label Images - TTBID {ttbid}\n\n")
-        f.write(f"This folder contains the label images for TTB ID: {ttbid}\n\n")
-        f.write(f"## Source\n")
-        f.write(f"https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid={ttbid}\n\n")
-        f.write(f"## Label Images\n")
+        
+        # Add metadata if available
+        if metadata.get('brand_name'):
+            f.write(f"**Brand Name:** {metadata['brand_name']}\n\n")
+        if metadata.get('fanciful_name'):
+            f.write(f"**Fanciful Name:** {metadata['fanciful_name']}\n\n")
+        if metadata.get('issue_date'):
+            f.write(f"**Issue Date:** {metadata['issue_date']}\n\n")
+        
+        f.write(f"**Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid={ttbid})\n\n")
+        
+        f.write(f"## Label Images\n\n")
+        
+        # Embed images with markdown syntax
         for img_file in sorted(ttbid_dir.glob('*.jpg')):
-            f.write(f"- `{img_file.name}`\n")
-        f.write(f"\n## Download Date\n")
-        from datetime import datetime
-        f.write(f"{datetime.now().strftime('%B %d, %Y')}\n")
+            img_name = img_file.name
+            # Create a nice display name
+            display_name = img_name.replace('_', ' ').replace('.jpg', '').title()
+            f.write(f"### {display_name}\n\n")
+            f.write(f"![{display_name}](./{img_name})\n\n")
     
     return 'success'
 
