@@ -147,10 +147,11 @@ class TTBQuerier:
                 if has_next:
                     time.sleep(0.5)
             
-            if page_num > self.MAX_PAGES:
+            # Warn if we hit the limit and there are still more pages
+            if has_next and page_num > self.MAX_PAGES:
                 print(f"    WARNING: Reached maximum page limit ({self.MAX_PAGES}). There may be more results.")
             
-            if self.verbose and page_num > 2:
+            if self.verbose or page_num > 2:
                 print(f"    Total: Found {len(all_results)} potential match(es) across {page_num - 1} page(s)")
             
             return all_results
