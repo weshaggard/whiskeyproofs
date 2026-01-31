@@ -84,11 +84,32 @@ jobs:
           
           echo "Downloading labels for TTB IDs: ${TTB_IDS}"
           
-          # Download each new label
+          # Download each new label and track results
+          SUCCESS_COUNT=0
+          FAIL_COUNT=0
+          FAILED_IDS=""
+          
           for TTB_ID in $TTB_IDS; do
             echo "Downloading TTB ID: $TTB_ID"
-            python3 .github/scripts/download_ttb_labels.py --ttbid "$TTB_ID" --no-skip-existing || true
+            if python3 .github/scripts/download_ttb_labels.py --ttbid "$TTB_ID" --no-skip-existing; then
+              SUCCESS_COUNT=$((SUCCESS_COUNT + 1))
+            else
+              FAIL_COUNT=$((FAIL_COUNT + 1))
+              FAILED_IDS="$FAILED_IDS $TTB_ID"
+              echo "  ⚠️ Failed to download TTB ID: $TTB_ID"
+            fi
           done
+          
+          echo ""
+          echo "Download summary: $SUCCESS_COUNT succeeded, $FAIL_COUNT failed"
+          
+          if [ $FAIL_COUNT -gt 0 ]; then
+            echo "Failed TTB IDs:$FAILED_IDS"
+          fi
+          
+          # Save download stats to outputs
+          echo "success_count=$SUCCESS_COUNT" >> $GITHUB_OUTPUT
+          echo "fail_count=$FAIL_COUNT" >> $GITHUB_OUTPUT
           
           # Create formatted list of TTB IDs for PR body
           python3 << 'PYEOF' > ttb_list.txt
@@ -120,6 +141,7 @@ jobs:
             
             **Search Date Range:** ${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }}
             **New Labels Found:** ${{ steps.find_labels.outputs.new_count }}
+            **Download Results:** ${{ steps.download_labels.outputs.success_count }} succeeded, ${{ steps.download_labels.outputs.fail_count }} failed
             
             ### Search Criteria
             - **Origin Code:** 22 (Kentucky)

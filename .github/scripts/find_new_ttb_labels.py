@@ -59,6 +59,8 @@ class TTBLabelFinder:
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
         })
         # Disable SSL verification warnings
+        # Note: SSL verification is disabled (verify=False) due to known certificate issues
+        # with the TTB website. This is consistent with other TTB scripts in this repository.
         import urllib3
         urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
     
@@ -95,6 +97,7 @@ class TTBLabelFinder:
         
         try:
             # Make POST request
+            # Note: verify=False due to known certificate issues with TTB website
             response = self.session.post(self.SEARCH_URL, data=form_data, timeout=30, verify=False)
             response.raise_for_status()
             
