@@ -2,7 +2,7 @@
 name: Find New TTB Labels
 
 on:
-  # Run daily at 7 AM PST (3 PM UTC / 8 AM PDT)
+  # Run daily at 3 PM UTC (7 AM PST / 8 AM PDT)
   schedule:
     - cron: '0 15 * * *'
   
