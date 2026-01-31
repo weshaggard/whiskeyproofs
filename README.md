@@ -55,6 +55,15 @@ To find TTB IDs:
 3. Copy the TTB ID from the URL (e.g., `22089001000941` from `https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=22089001000941` or `02156000000070` from `https://ttbonline.gov/colasonline/publicViewImage.do?id=02156000000070`)
 4. Add it to the TTB_ID column in the CSV
 
+#### Advanced Search Filters
+
+To narrow down search results when looking for TTB IDs:
+
+- **Origin Code Filter**: Use origin codes to filter by production location. For example, Kentucky distilleries use origin code 22. [View all origin codes](https://ttbonline.gov/colasonline/lookupOriginCode.do?action=search&display=all#search_results)
+- **Product Class/Type Filter**: For whiskey products, filter by product class/type codes between 100-200. [View all product class/type codes](https://ttbonline.gov/colasonline/lookupProductClassTypeCode.do?action=search&display=all#search_results)
+
+These filters can significantly reduce search results, making it easier to find the specific label you're looking for.
+
 **Note**: Not all TTB IDs have been verified and may be incorrect. If you notice an incorrect label, please submit feedback via the GitHub issues page.
 
 ### Data Sorting Rules
