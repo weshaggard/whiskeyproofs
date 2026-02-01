@@ -6,6 +6,11 @@
 
 **Issue Date:** 08/02/2018
 
+**Origin Code:** 01
+
+**Product Class/Type:** 906
+
+
 **Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=18214001000356)
 
 ## Label Images

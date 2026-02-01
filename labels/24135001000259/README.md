@@ -4,6 +4,11 @@
 
 **Issue Date:** 05/21/2024
 
+**Origin Code:** 92
+
+**Product Class/Type:** 352
+
+
 **Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=24135001000259)
 
 ## Label Images

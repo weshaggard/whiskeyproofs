@@ -4,6 +4,11 @@
 
 **Issue Date:** 08/25/2020
 
+**Origin Code:** 22
+
+**Product Class/Type:** 192
+
+
 **Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=20231001000482)
 
 ## Label Images

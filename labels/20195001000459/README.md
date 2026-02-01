@@ -6,6 +6,11 @@
 
 **Issue Date:** 07/27/2020
 
+**Origin Code:** 27
+
+**Product Class/Type:** 140
+
+
 **Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=20195001000459)
 
 ## Label Images

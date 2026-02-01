@@ -6,6 +6,11 @@
 
 **Issue Date:** 04/07/2022
 
+**Origin Code:** 14
+
+**Product Class/Type:** 902
+
+
 **Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=22095001001035)
 
 ## Label Images

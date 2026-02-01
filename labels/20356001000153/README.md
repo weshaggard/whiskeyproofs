@@ -4,6 +4,11 @@
 
 **Issue Date:** 12/28/2020
 
+**Origin Code:** 22
+
+**Product Class/Type:** 101
+
+
 **Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=20356001000153)
 
 ## Label Images

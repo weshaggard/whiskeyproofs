@@ -6,6 +6,11 @@
 
 **Issue Date:** 09/24/2012
 
+**Origin Code:** 16
+
+**Product Class/Type:** 410
+
+
 **Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=12254001000317)
 
 ## Label Images

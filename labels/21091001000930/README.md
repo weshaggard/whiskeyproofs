@@ -6,6 +6,11 @@
 
 **Issue Date:** 04/05/2021
 
+**Origin Code:** 43
+
+**Product Class/Type:** 109
+
+
 **Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=21091001000930)
 
 ## Label Images

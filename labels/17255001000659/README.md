@@ -6,6 +6,11 @@
 
 **Issue Date:** 09/14/2017
 
+**Origin Code:** 51
+
+**Product Class/Type:** 558
+
+
 **Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=17255001000659)
 
 ## Label Images

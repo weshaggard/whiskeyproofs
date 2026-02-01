@@ -4,6 +4,11 @@
 
 **Issue Date:** 04/01/2024
 
+**Origin Code:** 07
+
+**Product Class/Type:** 88
+
+
 **Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=24085001000979)
 
 ## Label Images
