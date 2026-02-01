@@ -4,6 +4,11 @@
 
 **Issue Date:** 06/03/2022
 
+**Origin Code:** 22
+
+**Product Class/Type:** 129
+
+
 **Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=22151001000666)
 
 ## Label Images

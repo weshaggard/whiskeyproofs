@@ -6,6 +6,11 @@
 
 **Issue Date:** 08/25/2014
 
+**Origin Code:** 22
+
+**Product Class/Type:** 101
+
+
 **Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=14232001000329)
 
 ## Label Images

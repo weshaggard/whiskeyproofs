@@ -6,6 +6,11 @@
 
 **Issue Date:** 04/26/2022
 
+**Origin Code:** 39
+
+**Product Class/Type:** 902
+
+
 **Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=22115001000147)
 
 ## Label Images

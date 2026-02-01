@@ -6,6 +6,11 @@
 
 **Issue Date:** 01/18/2018
 
+**Origin Code:** 43
+
+**Product Class/Type:** 140
+
+
 **Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=18017001000600)
 
 ## Label Images

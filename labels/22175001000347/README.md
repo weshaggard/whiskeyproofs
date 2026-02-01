@@ -4,6 +4,11 @@
 
 **Issue Date:** 06/29/2022
 
+**Origin Code:** 50
+
+**Product Class/Type:** 80A
+
+
 **Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=22175001000347)
 
 ## Label Images

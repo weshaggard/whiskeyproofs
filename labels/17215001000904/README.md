@@ -6,6 +6,11 @@
 
 **Issue Date:** 08/28/2017
 
+**Origin Code:** 22
+
+**Product Class/Type:** 641
+
+
 **Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=17215001000904)
 
 ## Label Images

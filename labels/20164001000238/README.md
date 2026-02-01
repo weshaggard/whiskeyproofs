@@ -6,6 +6,11 @@
 
 **Issue Date:** 06/22/2020
 
+**Origin Code:** 29
+
+**Product Class/Type:** 641
+
+
 **Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=20164001000238)
 
 ## Label Images

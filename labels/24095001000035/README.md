@@ -4,6 +4,11 @@
 
 **Issue Date:** 04/23/2024
 
+**Origin Code:** 16
+
+**Product Class/Type:** 301
+
+
 **Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=24095001000035)
 
 ## Label Images
