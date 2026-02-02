@@ -1,6 +1,6 @@
 # TTB Label Product Type Summary
 
-**Last Updated:** 2026-02-01
+**Last Updated:** 2026-02-02
 
 This document provides a summary of Product Class/Type codes found in the TTB COLA label README files.
 
