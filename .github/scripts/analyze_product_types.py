@@ -60,8 +60,8 @@ def analyze_product_types(repo_root):
             # Count product types
             product_types[product_type].append(ttbid)
             
-            # Check if outside 100-150 range
-            if product_type < 100 or product_type > 150:
+            # Check if outside 100-200 range (and not 641)
+            if (product_type < 100 or product_type > 200) and product_type != 641:
                 outside_range[product_type].append(ttbid)
         else:
             without_type.append(ttbid)
@@ -101,14 +101,14 @@ def generate_markdown_summary(data):
     lines.append("")
     lines.append("The following table shows all Product Class/Type codes found in the label READMEs, sorted by type code:")
     lines.append("")
-    lines.append("| Product Type | Count | Percentage | In Range (100-150)? |")
+    lines.append("| Product Type | Count | Percentage | In Range (100-200 or 641)? |")
     lines.append("|--------------|-------|------------|---------------------|")
     
     total_with_type = data['with_type']
     for pt in sorted(data['product_types'].keys()):
         count = len(data['product_types'][pt])
         percentage = (count / total_with_type * 100) if total_with_type > 0 else 0
-        in_range = "✓ Yes" if 100 <= pt <= 150 else "✗ NO"
+        in_range = "✓ Yes" if (100 <= pt <= 200 or pt == 641) else "✗ NO"
         lines.append(f"| {pt} | {count} | {percentage:.1f}% | {in_range} |")
     
     lines.append(f"| **Total** | **{total_with_type}** | **100%** | - |")
@@ -117,7 +117,7 @@ def generate_markdown_summary(data):
     lines.append("")
     
     # Outside range section
-    lines.append("## Product Types Outside 100-150 Range")
+    lines.append("## Product Types Outside 100-200 Range (excluding 641)")
     lines.append("")
     
     if data['outside_range']:
@@ -135,7 +135,7 @@ def generate_markdown_summary(data):
     else:
         lines.append("**Result:** NONE")
         lines.append("")
-        lines.append("All " + str(total_with_type) + " label READMEs that contain a Product Class/Type field have values within the 100-150 range. No product types were found outside this range.")
+        lines.append("All " + str(total_with_type) + " label READMEs that contain a Product Class/Type field have values within the 100-200 range or are type 641. No product types were found outside this range.")
         lines.append("")
     
     # Most common types
@@ -166,12 +166,14 @@ def generate_markdown_summary(data):
     lines.append("## Notes")
     lines.append("")
     lines.append("- Product Class/Type codes are TTB (Alcohol and Tobacco Tax and Trade Bureau) classifications for alcoholic beverages")
-    lines.append("- The range 100-150 specifically covers whiskey and related spirits:")
+    lines.append("- This repository tracks labels with product types in the range 100-200 (whiskey and related spirits) plus type 641 (cordials/liqueurs with whiskey base):")
     lines.append("  - 100-109: Various whiskey types")
     lines.append("  - 110-119: Bourbon whiskey")
     lines.append("  - 120-129: Rye whiskey")
     lines.append("  - 130-139: Corn whiskey")
     lines.append("  - 140-149: Blended whiskey")
+    lines.append("  - 150-200: Other whiskey-related classifications")
+    lines.append("  - 641: Cordials and liqueurs (included for whiskey-based products)")
     lines.append("- Labels without Product Class/Type information are primarily older approvals where this field was not captured during label download")
     lines.append("")
     
@@ -237,9 +239,9 @@ def main():
         print(f"  Without Product Class/Type: {len(data['without_type'])}", file=sys.stderr)
         print(f"  Unique product types: {data['unique_types']}", file=sys.stderr)
         if data['outside_range']:
-            print(f"  Types outside 100-150: {len(data['outside_range'])}", file=sys.stderr)
+            print(f"  Types outside 100-200 (excl. 641): {len(data['outside_range'])}", file=sys.stderr)
         else:
-            print(f"  Types outside 100-150: NONE", file=sys.stderr)
+            print(f"  Types outside 100-200 (excl. 641): NONE", file=sys.stderr)
     
     return 0
 
