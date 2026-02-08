@@ -3,7 +3,7 @@
 Find new TTB COLA labels in the registry that are not yet in the labels directory.
 
 This script searches the TTB COLA Public Registry for new label approvals with:
-- Origin code 22 (Kentucky)
+- All origin codes (or specific code if provided)
 - Product class/type 100-150 (whiskey)
 - Within a specified date range
 
@@ -66,7 +66,7 @@ class TTBLabelFinder:
         import urllib3
         urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
     
-    def search_ttb_registry(self, date_from, date_to, origin_code='22', class_type_from='100', class_type_to='150'):
+    def search_ttb_registry(self, date_from, date_to, origin_code='', class_type_from='100', class_type_to='150'):
         """
         Search TTB COLA registry for labels within date range and filters.
         Automatically handles pagination to retrieve all results.
@@ -74,7 +74,7 @@ class TTBLabelFinder:
         Args:
             date_from: Start date in MM/DD/YYYY format
             date_to: End date in MM/DD/YYYY format
-            origin_code: TTB origin code (default: 22 for Kentucky)
+            origin_code: TTB origin code (default: '' for all origin codes)
             class_type_from: Start of product class/type range (default: 100)
             class_type_to: End of product class/type range (default: 150)
             
@@ -84,7 +84,10 @@ class TTBLabelFinder:
         if self.verbose:
             print(f"Searching TTB registry:")
             print(f"  Date range: {date_from} to {date_to}")
-            print(f"  Origin code: {origin_code} (Kentucky)")
+            if origin_code:
+                print(f"  Origin code: {origin_code}")
+            else:
+                print(f"  Origin code: All origin codes")
             print(f"  Product class/type: {class_type_from}-{class_type_to} (whiskey)")
         
         all_ttb_ids = []
@@ -230,7 +233,7 @@ class TTBLabelFinder:
         
         return existing_ids
     
-    def find_new_labels(self, date_from, date_to, labels_dir, origin_code='22', 
+    def find_new_labels(self, date_from, date_to, labels_dir, origin_code='', 
                         class_type_from='100', class_type_to='150'):
         """
         Find TTB IDs in registry that are not yet in the labels directory.
@@ -239,7 +242,7 @@ class TTBLabelFinder:
             date_from: Start date in MM/DD/YYYY format
             date_to: End date in MM/DD/YYYY format
             labels_dir: Path to labels directory
-            origin_code: TTB origin code (default: 22 for Kentucky)
+            origin_code: TTB origin code (default: '' for all origin codes)
             class_type_from: Start of product class/type range (default: 100)
             class_type_to: End of product class/type range (default: 150)
             
@@ -300,8 +303,8 @@ Examples:
     )
     parser.add_argument(
         '--origin',
-        default='22',
-        help='TTB origin code (default: 22 for Kentucky)'
+        default='',
+        help='TTB origin code (default: empty string for all origin codes)'
     )
     parser.add_argument(
         '--class-from',
