@@ -96,7 +96,7 @@ jobs:
           
           for TTB_ID in $TTB_IDS; do
             echo "Downloading TTB ID: $TTB_ID"
-            if python3 .github/scripts/download_ttb_labels.py --ttbid "$TTB_ID" --no-skip-existing; then
+            if python3 .github/scripts/download_ttb_labels.py --ttbid "$TTB_ID"; then
               SUCCESS_COUNT=$((SUCCESS_COUNT + 1))
             else
               FAIL_COUNT=$((FAIL_COUNT + 1))
