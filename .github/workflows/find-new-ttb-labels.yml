@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
     inputs:
       date_from:
-        description: 'Start date (YYYY-MM-DD) - defaults to 2 days ago'
+        description: 'Start date (YYYY-MM-DD) - defaults to 7 days ago'
         required: false
         type: string
       date_to:
@@ -46,7 +46,7 @@ jobs:
           if [ -n "${{ github.event.inputs.date_from }}" ]; then
             DATE_FROM="${{ github.event.inputs.date_from }}"
           else
-            DATE_FROM=$(date -d '2 days ago' +%Y-%m-%d)
+            DATE_FROM=$(date -d '7 days ago' +%Y-%m-%d)
           fi
           
           if [ -n "${{ github.event.inputs.date_to }}" ]; then
@@ -62,6 +62,7 @@ jobs:
           python3 .github/scripts/find_new_ttb_labels.py \
             --from "${DATE_FROM}" \
             --to "${DATE_TO}" \
+            --origin "" \
             --output new_labels.json \
             --verbose | tee search_output.txt
           
@@ -149,7 +150,7 @@ jobs:
             **Total Registry Results:** ${{ steps.find_labels.outputs.total_results }}
             
             ### Search Criteria
-            - **Origin Code:** 22 (Kentucky)
+            - **Origin Code:** All origin codes (not limited to Kentucky)
             - **Product Class/Type:** 100-150 (whiskey)
             - **Pagination:** Enabled (automatically retrieves all pages)
             
@@ -162,7 +163,7 @@ jobs:
             ### Next Steps
             
             1. Review the downloaded label images in the `labels/` directory
-            2. Verify the labels are for whiskey products from Kentucky
+            2. Verify the labels are for whiskey products
             3. Consider adding entries to `_data/whiskeyindex.csv` if these are new products
             4. Merge this PR to add the labels to the repository
             
