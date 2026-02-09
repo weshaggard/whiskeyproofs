@@ -69,9 +69,29 @@ def update_csv(csv_file, results, verify=False, dry_run=False):
             skipped += 1
             continue
         
-        # Get TTB ID from results (take first match if multiple)
+        # Get TTB ID from results (filter by match quality)
+        selected_result = None
         if isinstance(ttb_results, list) and len(ttb_results) > 0:
-            ttb_id = ttb_results[0].get('ttb_id', '')
+            # Sort by match quality descending
+            sorted_results = sorted(ttb_results, key=lambda x: x.get('match_quality', 0), reverse=True)
+            best_result = sorted_results[0]
+            
+            # Check quality threshold (default 1.5 for auto-update, or 1.0 if unique)
+            quality = best_result.get('match_quality', 0)
+            if quality >= 1.5:
+                selected_result = best_result
+            elif len(ttb_results) == 1 and quality >= 1.0:
+                # Unique match with correct year
+                selected_result = best_result
+            elif verify:
+                # If verifying, show the best option even if low quality
+                selected_result = best_result
+            else:
+                print(f"Skipping line {line_num}: Best match quality {quality} too low (need 1.5 or unique match)")
+                skipped += 1
+                continue
+                
+            ttb_id = selected_result.get('ttb_id', '')
         elif isinstance(ttb_results, dict):
             ttb_id = ttb_results.get('ttb_id', '')
         else:
