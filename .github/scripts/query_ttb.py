@@ -426,9 +426,20 @@ class TTBQuerier:
             
             name_groups[name]['entries'].append((i, row))
             try:
-                year = int(row['ReleaseYear'])
-                name_groups[name]['min_year'] = min(name_groups[name]['min_year'], year)
-                name_groups[name]['max_year'] = max(name_groups[name]['max_year'], year)
+                # Handle year ranges like "2019-2025"
+                years = []
+                val = str(row.get('ReleaseYear', '')).strip()
+                if '-' in val:
+                    parts = val.split('-')
+                    for p in parts:
+                        if p.strip().isdigit():
+                            years.append(int(p.strip()))
+                elif val.isdigit():
+                    years.append(int(val))
+                
+                if years:
+                    name_groups[name]['min_year'] = min(name_groups[name]['min_year'], min(years))
+                    name_groups[name]['max_year'] = max(name_groups[name]['max_year'], max(years))
             except (ValueError, KeyError):
                 pass
         
@@ -438,6 +449,11 @@ class TTBQuerier:
         # Query once per unique name (split into 15-year chunks if needed)
         ttb_cache = {}
         for idx, (name, group_info) in enumerate(name_groups.items(), start=1):
+            if group_info['min_year'] == float('inf'):
+                # Default to last 10 years if no valid years found
+                group_info['min_year'] = datetime.now().year - 10
+                group_info['max_year'] = datetime.now().year
+                
             year_from = group_info['min_year'] - 1  # One year before earliest
             year_to = group_info['max_year']
             entry_count = len(group_info['entries'])
@@ -475,7 +491,24 @@ class TTBQuerier:
             for i, row in group_info['entries']:
                 try:
                     target_proof = float(row['Proof'])
-                    target_year = int(row['ReleaseYear'])
+                    
+                    # Handle year ranges for matching
+                    year_min = float('inf')
+                    year_max = 0
+                    
+                    val = str(row.get('ReleaseYear', '')).strip()
+                    if '-' in val:
+                        parts = val.split('-')
+                        if parts[0].strip().isdigit():
+                            year_min = int(parts[0])
+                        if len(parts) > 1 and parts[1].strip().isdigit():
+                            year_max = int(parts[1])
+                        else:
+                             # Open ended or bad format, assume up to now
+                             year_max = datetime.now().year
+                    elif val.isdigit():
+                        year_min = int(val)
+                        year_max = int(val)
                 except (ValueError, KeyError):
                     continue
                 
@@ -490,8 +523,11 @@ class TTBQuerier:
                         proof_match = abs(ttb_result['proof'] - target_proof) <= 1.0
                     
                     # Check year (allow exact match or one year before release)
-                    if ttb_result.get('year'):
-                        year_match = ttb_result['year'] == target_year or ttb_result['year'] == target_year - 1
+                    if ttb_result.get('year') and year_max > 0:
+                        # Check if TTB year is within range [min-1, max]
+                        # min-1 because label can be approved year before release
+                        if year_min - 1 <= ttb_result['year'] <= year_max:
+                             year_match = True
                     
                     # Add if either proof or year matches (prefer both)
                     if proof_match or year_match:
