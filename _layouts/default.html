@@ -11,6 +11,24 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
+    <style>
+      .site-nav {
+        margin: 20px 0;
+        padding: 10px 0;
+        border-bottom: 1px solid #e8e8e8;
+      }
+      .site-nav a {
+        margin-right: 15px;
+        color: #267CB9;
+        text-decoration: none;
+      }
+      .site-nav a:hover {
+        text-decoration: underline;
+      }
+      .site-nav a.active {
+        font-weight: bold;
+      }
+    </style>
   </head>
   <body>
     <div class="wrapper">
@@ -40,6 +58,12 @@
         {% endif %}
       </header>
       <section>
+
+      <nav class="site-nav">
+        <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Whiskey Index</a>
+        <a href="{{ '/about/' | relative_url }}" {% if page.url == '/about/' %}class="active"{% endif %}>About</a>
+        <a href="{{ '/faq/' | relative_url }}" {% if page.url == '/faq/' %}class="active"{% endif %}>FAQ</a>
+      </nav>
 
       {{ content }}
 

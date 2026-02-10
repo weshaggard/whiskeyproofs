@@ -67,6 +67,8 @@ This whiskey proof index is maintained as a free resource for bourbon and whiske
 
 **Search our extensive index** of barrel proof bourbon, cask strength whiskey, and limited releases from top distilleries including Buffalo Trace Antique Collection (BTAC), Heaven Hill, Old Forester, Wild Turkey, and many more. Find specific batch numbers, compare proof variations, track age statements, and discover release year information for your favorite bottles.
 
+**New to the site?** Check out our [Frequently Asked Questions]({{ '/faq/' | relative_url }}) or [learn more about this project]({{ '/about/' | relative_url }}).
+
 ### How to use
 
 1. Use the search bar to filter by whiskey name, batch number, proof, or any other field
@@ -81,7 +83,7 @@ Found incorrect data? Want to add a missing whiskey? Have suggestions? <a href="
 
 <p align="left">
   <a href="https://www.buymeacoffee.com/whiskeyproofs">
-    <img src="assets/buymeadrink.png" alt="Buy me a drink" height="60">
+    <img src="assets/buymeadrink.png" alt="Support Whiskey Proof Index - Buy me a drink" height="60">
   </a>
 </p>
 
