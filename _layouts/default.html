@@ -12,11 +12,25 @@
     <![endif]-->
     {% include head-custom.html %}
     <style>
+      /* Position section relative so menu button can align with title */
+      section {
+        position: relative;
+      }
+      
+      /* Style the h1 title to work with the menu button */
+      section > h1:first-of-type {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-top: 0;
+        margin-bottom: 8px;
+      }
+      
       /* Hamburger menu button */
       .menu-toggle {
-        position: absolute;
-        top: 20px;
-        right: 20px;
+        position: relative;
+        top: 0;
+        right: 0;
         background: transparent;
         border: none;
         cursor: pointer;
@@ -26,6 +40,7 @@
         flex-direction: column;
         gap: 5px;
         transition: all 0.3s ease;
+        flex-shrink: 0;
       }
       
       .menu-toggle:hover {
@@ -57,8 +72,8 @@
       /* Navigation menu - hidden by default */
       .site-nav {
         position: absolute;
-        top: 60px;
-        right: 20px;
+        top: 45px;
+        right: 0;
         background-color: rgba(255, 255, 255, 0.98);
         border-radius: 8px;
         box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
@@ -104,13 +119,12 @@
       /* Responsive adjustments */
       @media screen and (max-width: 600px) {
         .menu-toggle {
-          top: 10px;
-          right: 10px;
+          padding: 4px;
         }
         
         .site-nav {
-          top: 50px;
-          right: 10px;
+          top: 40px;
+          right: 0;
         }
       }
     </style>
@@ -178,6 +192,33 @@
       </header>
       <section>
 
+      {{ content }}
+      
+      <script>
+        // Move menu button into the first h1 for proper alignment
+        document.addEventListener('DOMContentLoaded', function() {
+          const firstH1 = document.querySelector('section > h1:first-of-type');
+          const menuButton = document.querySelector('.menu-toggle');
+          const menuNav = document.querySelector('.site-nav');
+          
+          if (firstH1 && menuButton) {
+            // Create a wrapper for menu button and nav
+            const menuWrapper = document.createElement('div');
+            menuWrapper.style.position = 'relative';
+            menuWrapper.style.display = 'flex';
+            menuWrapper.style.flexDirection = 'column';
+            menuWrapper.style.alignItems = 'flex-end';
+            
+            // Move button and nav into wrapper
+            menuWrapper.appendChild(menuButton);
+            menuWrapper.appendChild(menuNav);
+            
+            // Add wrapper to h1
+            firstH1.appendChild(menuWrapper);
+          }
+        });
+      </script>
+
       <button class="menu-toggle" onclick="toggleMenu()" aria-label="Toggle menu" aria-expanded="false">
         <span></span>
         <span></span>
@@ -189,8 +230,6 @@
         <a href="{{ '/about/' | relative_url }}" {% if page.url == '/about/' %}class="active"{% endif %}>About</a>
         <a href="{{ '/faq/' | relative_url }}" {% if page.url == '/faq/' %}class="active"{% endif %}>FAQ</a>
       </nav>
-
-      {{ content }}
 
       </section>
       <footer>
