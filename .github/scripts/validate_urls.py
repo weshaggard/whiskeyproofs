@@ -17,11 +17,24 @@ def validate_url(url: str, timeout: int = 10) -> Tuple[bool, str]:
     """
     Validate a URL by making a HEAD request.
     
+    Handles two special cases:
+    1. Bot protection: Some sites (angelsenvy.com, jackdaniels.com) return 403 for automated
+       requests but work in browsers. These are treated as valid with a warning.
+    2. SSL certificate errors: Sites with expired or invalid certificates are retried with
+       lenient SSL verification. This is acceptable for URL existence checking where no
+       sensitive data is transmitted. For production use with sensitive data, consider
+       alternative approaches like certificate pinning or custom CA bundles.
+    
     Returns:
         Tuple of (is_valid, error_message)
     """
     def is_bot_protected(code: int, url: str) -> bool:
-        """Check if HTTP 403 is due to bot protection on known sites."""
+        """
+        Check if HTTP 403 is due to bot protection on known sites.
+        
+        Note: This only checks a hardcoded list of known sites and may return false
+        negatives for other bot-protected sites not in the list.
+        """
         return code == 403 and ('angelsenvy.com' in url or 'jackdaniels.com' in url)
     
     # Try with default SSL context first
@@ -38,15 +51,9 @@ def validate_url(url: str, timeout: int = 10) -> Tuple[bool, str]:
             return True, "HTTP 403 (bot protection - URL valid in browser)"
         return False, f"HTTP {e.code}"
     except urllib.error.URLError as e:
-        # Check if it's an SSL certificate verification error
         # SSL errors come wrapped in URLError with the SSLError in the reason attribute
         if isinstance(e.reason, ssl.SSLError):
-            # Some sites have expired or invalid certificates but are still accessible
-            # This is particularly common with older distillery sites
-            # Fall back to lenient SSL verification only when strict verification fails
-            # NOTE: This is acceptable for validation purposes as we're only checking URL existence,
-            # not transmitting sensitive data. For production use with sensitive data,
-            # consider alternative approaches like certificate pinning or custom CA bundles.
+            # Retry with lenient SSL verification (see docstring for justification)
             try:
                 ssl_context = ssl.create_default_context()
                 ssl_context.check_hostname = False
@@ -64,8 +71,10 @@ def validate_url(url: str, timeout: int = 10) -> Tuple[bool, str]:
                 if is_bot_protected(e2.code, url):
                     return True, "HTTP 403 (bot protection - URL valid in browser)"
                 return False, f"HTTP {e2.code}"
-            except Exception as e2:
-                return False, f"Error: {str(e2)}"
+            except urllib.error.URLError as e2:
+                return False, f"URL Error: {e2.reason}"
+            except TimeoutError as e2:
+                return False, f"Timeout: {str(e2)}"
         else:
             # Non-SSL URLError
             return False, f"URL Error: {e.reason}"
