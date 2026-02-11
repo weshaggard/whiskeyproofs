@@ -115,19 +115,30 @@
       }
     </style>
     <script>
+      // Cache DOM elements for better performance
+      let menuToggle, siteNav;
+      
       // Toggle menu visibility
       function toggleMenu() {
-        const menuToggle = document.querySelector('.menu-toggle');
-        const siteNav = document.querySelector('.site-nav');
-        menuToggle.classList.toggle('active');
+        if (!menuToggle) {
+          menuToggle = document.querySelector('.menu-toggle');
+          siteNav = document.querySelector('.site-nav');
+        }
+        
+        const isActive = menuToggle.classList.toggle('active');
         siteNav.classList.toggle('active');
+        
+        // Update aria-expanded for accessibility
+        menuToggle.setAttribute('aria-expanded', isActive);
       }
       
       // Close menu when clicking outside
       document.addEventListener('DOMContentLoaded', function() {
+        // Initialize cached elements
+        menuToggle = document.querySelector('.menu-toggle');
+        siteNav = document.querySelector('.site-nav');
+        
         document.addEventListener('click', function(event) {
-          const menuToggle = document.querySelector('.menu-toggle');
-          const siteNav = document.querySelector('.site-nav');
           const isClickInsideMenu = siteNav.contains(event.target);
           const isClickOnToggle = menuToggle.contains(event.target);
           
@@ -167,7 +178,7 @@
       </header>
       <section>
 
-      <button class="menu-toggle" onclick="toggleMenu()" aria-label="Toggle menu">
+      <button class="menu-toggle" onclick="toggleMenu()" aria-label="Toggle menu" aria-expanded="false">
         <span></span>
         <span></span>
         <span></span>
