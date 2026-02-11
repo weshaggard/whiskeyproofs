@@ -1,11 +1,15 @@
 <!-- Favicon -->
 <link rel="icon" href="{{ '/assets/whiskeyglass.png' | relative_url }}" type="image/png">
 
+<!-- Search Engine Verification -->
+<meta name="google-site-verification" content="GOOGLE_VERIFICATION_CODE_PLACEHOLDER">
+<meta name="msvalidate.01" content="BING_VERIFICATION_CODE_PLACEHOLDER">
+
 <!-- Additional meta tags for SEO -->
 <meta name="keywords" content="whiskey proof, bourbon batch, whiskey index, bourbon proof, barrel proof, cask strength, whiskey batches, bourbon releases, whiskey releases, releases, Buffalo Trace, Heaven Hill, George T Stagg, Elijah Craig, bourbon collector, whiskey reference, proof index, limited release bourbon, bourbon batch numbers, whiskey age statement, bourbon barrel proof, cask strength bourbon">
 <meta name="author" content="Whiskey Proof Index">
-<meta name="robots" content="index, follow">
-<meta name="googlebot" content="index, follow">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <link rel="canonical" href="{{ page.url | absolute_url }}">
 
 <!-- Open Graph / Facebook -->
@@ -37,6 +41,7 @@
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "Whiskey Proof Index",
+  "alternateName": "Bourbon Proof Index",
   "url": "{{ site.url }}{{ site.baseurl }}",
   "description": "Comprehensive searchable index of whiskey and bourbon batch information including proofs, release years, age statements, and distillery details.",
   "author": {
@@ -76,6 +81,30 @@
   }
 }
 </script>
+
+<!-- Breadcrumb Navigation Schema -->
+{% if page.url != '/' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ site.url }}{{ site.baseurl }}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ page.title }}",
+      "item": "{{ page.url | absolute_url }}"
+    }
+  ]
+}
+</script>
+{% endif %}
 
 <!-- Google Fonts for buymeacoffee button -->
 <link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet">
