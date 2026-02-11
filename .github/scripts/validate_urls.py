@@ -20,6 +20,10 @@ def validate_url(url: str, timeout: int = 10) -> Tuple[bool, str]:
     Returns:
         Tuple of (is_valid, error_message)
     """
+    def is_bot_protected(code: int, url: str) -> bool:
+        """Check if HTTP 403 is due to bot protection on known sites."""
+        return code == 403 and ('angelsenvy.com' in url or 'jackdaniels.com' in url)
+    
     # Try with default SSL context first
     try:
         req = urllib.request.Request(url, method='HEAD')
@@ -29,11 +33,8 @@ def validate_url(url: str, timeout: int = 10) -> Tuple[bool, str]:
         else:
             return False, f"HTTP {response.status}"
     except urllib.error.HTTPError as e:
-        # Angel's Envy blocks bots with 403, but URLs work in browsers
-        # Treat 403 from Angel's Envy as valid (warning only)
-        if e.code == 403 and 'angelsenvy.com' in url:
-            return True, "HTTP 403 (bot protection - URL valid in browser)"
-        if e.code == 403 and 'jackdaniels.com' in url:
+        # Angel's Envy and Jack Daniel's block bots with 403, but URLs work in browsers
+        if is_bot_protected(e.code, url):
             return True, "HTTP 403 (bot protection - URL valid in browser)"
         return False, f"HTTP {e.code}"
     except (ssl.SSLError, urllib.error.URLError) as e:
@@ -60,9 +61,7 @@ def validate_url(url: str, timeout: int = 10) -> Tuple[bool, str]:
                     return False, f"HTTP {response.status}"
             except urllib.error.HTTPError as e2:
                 # Check for bot protection on retry
-                if e2.code == 403 and 'angelsenvy.com' in url:
-                    return True, "HTTP 403 (bot protection - URL valid in browser)"
-                if e2.code == 403 and 'jackdaniels.com' in url:
+                if is_bot_protected(e2.code, url):
                     return True, "HTTP 403 (bot protection - URL valid in browser)"
                 return False, f"HTTP {e2.code}"
             except Exception as e2:
