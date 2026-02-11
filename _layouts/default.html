@@ -12,57 +12,131 @@
     <![endif]-->
     {% include head-custom.html %}
     <style>
-      .site-nav {
-        position: fixed;
+      /* Hamburger menu button */
+      .menu-toggle {
+        position: absolute;
         top: 20px;
         right: 20px;
-        padding: 12px 18px;
-        background-color: rgba(255, 255, 255, 0.95);
-        border-radius: 8px;
-        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-        z-index: 1000;
-        backdrop-filter: blur(10px);
+        background: transparent;
+        border: none;
+        cursor: pointer;
+        padding: 8px;
+        z-index: 1001;
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
         transition: all 0.3s ease;
       }
-      .site-nav:hover {
-        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
-        background-color: rgba(255, 255, 255, 0.98);
+      
+      .menu-toggle:hover {
+        opacity: 0.7;
       }
+      
+      .menu-toggle span {
+        display: block;
+        width: 28px;
+        height: 3px;
+        background-color: #8B4513;
+        border-radius: 2px;
+        transition: all 0.3s ease;
+      }
+      
+      /* Animate hamburger to X when menu is open */
+      .menu-toggle.active span:nth-child(1) {
+        transform: rotate(45deg) translate(8px, 8px);
+      }
+      
+      .menu-toggle.active span:nth-child(2) {
+        opacity: 0;
+      }
+      
+      .menu-toggle.active span:nth-child(3) {
+        transform: rotate(-45deg) translate(8px, -8px);
+      }
+      
+      /* Navigation menu - hidden by default */
+      .site-nav {
+        position: absolute;
+        top: 60px;
+        right: 20px;
+        background-color: rgba(255, 255, 255, 0.98);
+        border-radius: 8px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        z-index: 1000;
+        padding: 15px 20px;
+        min-width: 180px;
+        opacity: 0;
+        visibility: hidden;
+        transform: translateY(-10px);
+        transition: all 0.3s ease;
+      }
+      
+      .site-nav.active {
+        opacity: 1;
+        visibility: visible;
+        transform: translateY(0);
+      }
+      
       .site-nav a {
-        margin-left: 15px;
+        display: block;
+        margin: 0;
+        padding: 10px 0;
         color: #666;
         text-decoration: none;
-        font-size: 0.9em;
+        font-size: 0.95em;
         transition: color 0.2s ease;
+        border-bottom: 1px solid #f0f0f0;
       }
-      .site-nav a:first-child {
-        margin-left: 0;
+      
+      .site-nav a:last-child {
+        border-bottom: none;
       }
+      
       .site-nav a:hover {
         color: #8B4513;
       }
+      
       .site-nav a.active {
         color: #8B4513;
         font-weight: 600;
       }
-      /* Responsive: stack navigation vertically on small screens */
+      
+      /* Responsive adjustments */
       @media screen and (max-width: 600px) {
-        .site-nav {
+        .menu-toggle {
           top: 10px;
           right: 10px;
-          padding: 10px 14px;
         }
-        .site-nav a {
-          display: block;
-          margin-left: 0;
-          margin-top: 8px;
-          font-size: 0.85em;
-        }
-        .site-nav a:first-child {
-          margin-top: 0;
+        
+        .site-nav {
+          top: 50px;
+          right: 10px;
         }
       }
     </style>
+    <script>
+      // Toggle menu visibility
+      function toggleMenu() {
+        const menuToggle = document.querySelector('.menu-toggle');
+        const siteNav = document.querySelector('.site-nav');
+        menuToggle.classList.toggle('active');
+        siteNav.classList.toggle('active');
+      }
+      
+      // Close menu when clicking outside
+      document.addEventListener('DOMContentLoaded', function() {
+        document.addEventListener('click', function(event) {
+          const menuToggle = document.querySelector('.menu-toggle');
+          const siteNav = document.querySelector('.site-nav');
+          const isClickInsideMenu = siteNav.contains(event.target);
+          const isClickOnToggle = menuToggle.contains(event.target);
+          
+          if (!isClickInsideMenu && !isClickOnToggle && siteNav.classList.contains('active')) {
+            toggleMenu();
+          }
+        });
+      });
+    </script>
   </head>
   <body>
     <div class="wrapper">
@@ -92,6 +166,12 @@
         {% endif %}
       </header>
       <section>
+
+      <button class="menu-toggle" onclick="toggleMenu()" aria-label="Toggle menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
 
       <nav class="site-nav">
         <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Whiskey Index</a>
