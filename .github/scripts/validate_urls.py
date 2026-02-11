@@ -8,6 +8,7 @@ Includes caching to avoid redundant checks for duplicate URLs.
 import csv
 import sys
 import urllib.request
+import ssl
 import time
 from typing import Dict, List, Tuple
 
@@ -16,9 +17,39 @@ def validate_url(url: str, timeout: int = 10) -> Tuple[bool, str]:
     """
     Validate a URL by making a HEAD request.
     
+    Handles two special cases:
+    1. Bot protection: Some sites (angelsenvy.com, jackdaniels.com) return 403 for automated
+       requests but work in browsers. These are treated as valid with a warning.
+    2. SSL certificate errors: Sites with expired or invalid certificates are retried with
+       lenient SSL verification. This is acceptable for URL existence checking where no
+       sensitive data is transmitted. For production use with sensitive data, consider
+       alternative approaches like certificate pinning or custom CA bundles.
+    
     Returns:
         Tuple of (is_valid, error_message)
     """
+    def is_bot_protected(code: int, url: str) -> bool:
+        """
+        Check if HTTP 403 is due to bot protection on known sites.
+        
+        Note: This only checks a hardcoded list of known sites and may return false
+        negatives for other bot-protected sites not in the list.
+        """
+        from urllib.parse import urlparse
+        
+        if code != 403:
+            return False
+        
+        # Parse URL to get the domain
+        parsed = urlparse(url)
+        domain = parsed.netloc.lower()
+        
+        # Check if domain matches known bot-protected sites
+        # Allow exact match or subdomain (e.g., www.angelsenvy.com)
+        return domain == 'angelsenvy.com' or domain.endswith('.angelsenvy.com') or \
+               domain == 'jackdaniels.com' or domain.endswith('.jackdaniels.com')
+    
+    # Try with default SSL context first
     try:
         req = urllib.request.Request(url, method='HEAD')
         response = urllib.request.urlopen(req, timeout=timeout)
@@ -27,14 +58,38 @@ def validate_url(url: str, timeout: int = 10) -> Tuple[bool, str]:
         else:
             return False, f"HTTP {response.status}"
     except urllib.error.HTTPError as e:
-        # Angel's Envy blocks bots with 403, but URLs work in browsers
-        # Treat 403 from Angel's Envy as valid (warning only)
-        if e.code == 403 and 'angelsenvy.com' in url:
+        # Angel's Envy and Jack Daniel's block bots with 403, but URLs work in browsers
+        if is_bot_protected(e.code, url):
             return True, "HTTP 403 (bot protection - URL valid in browser)"
-        if e.code == 403 and 'jackdaniels.com' in url:
-            return True, "HTTP 403 (bot protection - URL valid in browser)"
+        return False, f"HTTP {e.code}"
     except urllib.error.URLError as e:
-        return False, f"URL Error: {e.reason}"
+        # SSL errors come wrapped in URLError with the SSLError in the reason attribute
+        if isinstance(e.reason, ssl.SSLError):
+            # Retry with lenient SSL verification (see docstring for justification)
+            try:
+                ssl_context = ssl.create_default_context()
+                ssl_context.check_hostname = False
+                ssl_context.verify_mode = ssl.CERT_NONE
+                
+                req = urllib.request.Request(url, method='HEAD')
+                response = urllib.request.urlopen(req, timeout=timeout, context=ssl_context)
+                
+                if response.status == 200:
+                    return True, ""
+                else:
+                    return False, f"HTTP {response.status}"
+            except urllib.error.HTTPError as e2:
+                # Check for bot protection on retry
+                if is_bot_protected(e2.code, url):
+                    return True, "HTTP 403 (bot protection - URL valid in browser)"
+                return False, f"HTTP {e2.code}"
+            except urllib.error.URLError as e2:
+                return False, f"URL Error: {e2.reason}"
+            except TimeoutError as e2:
+                return False, f"Timeout: {str(e2)}"
+        else:
+            # Non-SSL URLError
+            return False, f"URL Error: {e.reason}"
     except Exception as e:
         return False, f"Error: {str(e)}"
 
