@@ -35,7 +35,19 @@ def validate_url(url: str, timeout: int = 10) -> Tuple[bool, str]:
         Note: This only checks a hardcoded list of known sites and may return false
         negatives for other bot-protected sites not in the list.
         """
-        return code == 403 and ('angelsenvy.com' in url or 'jackdaniels.com' in url)
+        from urllib.parse import urlparse
+        
+        if code != 403:
+            return False
+        
+        # Parse URL to get the domain
+        parsed = urlparse(url)
+        domain = parsed.netloc.lower()
+        
+        # Check if domain matches known bot-protected sites
+        # Allow exact match or subdomain (e.g., www.angelsenvy.com)
+        return domain == 'angelsenvy.com' or domain.endswith('.angelsenvy.com') or \
+               domain == 'jackdaniels.com' or domain.endswith('.jackdaniels.com')
     
     # Try with default SSL context first
     try:
