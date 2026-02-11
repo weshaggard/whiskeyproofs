@@ -37,10 +37,10 @@ def validate_url(url: str, timeout: int = 10) -> Tuple[bool, str]:
         if is_bot_protected(e.code, url):
             return True, "HTTP 403 (bot protection - URL valid in browser)"
         return False, f"HTTP {e.code}"
-    except (ssl.SSLError, urllib.error.URLError) as e:
-        # Check if it's an SSL certificate error
-        error_str = str(e).lower()
-        if 'certificate_verify_failed' in error_str or 'certificate' in error_str:
+    except urllib.error.URLError as e:
+        # Check if it's an SSL certificate verification error
+        # SSL errors come wrapped in URLError with the SSLError in the reason attribute
+        if isinstance(e.reason, ssl.SSLError):
             # Some sites have expired or invalid certificates but are still accessible
             # This is particularly common with older distillery sites
             # Fall back to lenient SSL verification only when strict verification fails
@@ -67,11 +67,8 @@ def validate_url(url: str, timeout: int = 10) -> Tuple[bool, str]:
             except Exception as e2:
                 return False, f"Error: {str(e2)}"
         else:
-            # Non-SSL error (URLError has 'reason' attribute, SSLError may not)
-            if isinstance(e, urllib.error.URLError) and hasattr(e, 'reason'):
-                return False, f"URL Error: {e.reason}"
-            else:
-                return False, f"Error: {str(e)}"
+            # Non-SSL URLError
+            return False, f"URL Error: {e.reason}"
     except Exception as e:
         return False, f"Error: {str(e)}"
 
