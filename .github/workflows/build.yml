@@ -41,9 +41,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          # For workflow_run triggered by "Find New TTB Labels", checkout the PR branch
+          # For workflow_run triggered by "Find New TTB Labels", checkout the automated PR branch
+          # The TTB workflow always creates/updates the same branch name
           # For regular pull_request events, this will use the default PR head
-          ref: ${{ github.event.workflow_run.head_branch || github.ref }}
+          ref: ${{ github.event_name == 'workflow_run' && 'automated/new-ttb-labels' || github.ref }}
       - name: Set up Python
         uses: actions/setup-python@v5
         with:

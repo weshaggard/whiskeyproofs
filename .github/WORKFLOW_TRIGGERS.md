@@ -35,6 +35,16 @@ GitHub Actions has a security feature where workflows triggered by `GITHUB_TOKEN
 
 The `workflow_run` trigger works around this limitation by explicitly running the validation workflow after the TTB label finder workflow completes, ensuring automated PRs are validated.
 
+**Branch Checkout:**
+
+The "Find New TTB Labels" workflow always creates/updates a PR with the branch name `automated/new-ttb-labels`. When triggered by `workflow_run`, the validation workflow explicitly checks out this branch:
+
+```yaml
+ref: ${{ github.event_name == 'workflow_run' && 'automated/new-ttb-labels' || github.ref }}
+```
+
+This is necessary because `workflow_run` events execute on the default branch context (main), not the PR branch context. The conditional checks if the trigger is `workflow_run` and uses the known branch name; otherwise, it uses the default ref (for pull_request events).
+
 ### 4. Manual Trigger
 ```yaml
 workflow_dispatch:
