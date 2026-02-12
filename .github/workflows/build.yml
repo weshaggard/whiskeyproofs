@@ -10,6 +10,13 @@ on:
   pull_request:
     branches: ["main"]
 
+  # Runs when the TTB label finder workflow completes
+  # This allows validation to run for automated PRs created by GITHUB_TOKEN
+  workflow_run:
+    workflows: ["Find New TTB Labels"]
+    types:
+      - completed
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -29,9 +36,14 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read
+      pull-requests: read  # Needed to fetch PR information for workflow_run
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # For workflow_run triggered by "Find New TTB Labels", checkout the PR branch
+          # For regular pull_request events, this will use the default PR head
+          ref: ${{ github.event.workflow_run.head_branch || github.ref }}
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -67,7 +79,7 @@ jobs:
   # Deployment job
   deploy:
     # Only deploy on push to main or manual workflow dispatch
-    # Also verify we're not in a pull request context as an extra safeguard
+    # Do not deploy on workflow_run or pull_request events
     if: (github.event_name == 'push' || github.event_name == 'workflow_dispatch') && github.event.pull_request == null
     permissions:
       contents: read
