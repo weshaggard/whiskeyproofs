@@ -40,10 +40,13 @@ The `workflow_run` trigger works around this limitation by explicitly running th
 The "Find New TTB Labels" workflow always creates/updates a PR with the branch name `automated/new-ttb-labels`. When triggered by `workflow_run`, the validation workflow explicitly checks out this branch:
 
 ```yaml
-ref: ${{ github.event_name == 'workflow_run' && 'automated/new-ttb-labels' || github.ref }}
+ref: ${{ (github.event_name == 'workflow_run' && github.event.workflow_run.name == 'Find New TTB Labels') && 'automated/new-ttb-labels' || github.ref }}
 ```
 
-This is necessary because `workflow_run` events execute on the default branch context (main), not the PR branch context. The conditional checks if the trigger is `workflow_run` and uses the known branch name; otherwise, it uses the default ref (for pull_request events).
+This is necessary because `workflow_run` events execute on the default branch context (main), not the PR branch context. The conditional:
+1. Checks if the event is `workflow_run` AND the triggering workflow is "Find New TTB Labels"
+2. If both conditions are true, uses the known branch name `automated/new-ttb-labels`
+3. Otherwise, uses the default ref (for pull_request events or other triggers)
 
 ### 4. Manual Trigger
 ```yaml
