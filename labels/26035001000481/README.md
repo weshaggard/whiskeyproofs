@@ -12,6 +12,14 @@
 
 ## Label Images
 
+### Back Label
+
+![Back Label](./back_label.jpg)
+
+### Front Label
+
+![Front Label](./front_label.jpg)
+
 ### Label 3
 
 ![Label 3](./label_3.jpg)
