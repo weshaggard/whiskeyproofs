@@ -48,6 +48,15 @@ This is necessary because `workflow_run` events execute on the default branch co
 2. If both conditions are true, uses the known branch name `automated/new-ttb-labels`
 3. Otherwise, uses the default ref (for pull_request events or other triggers)
 
+**PR Status Check Integration:**
+
+Since `workflow_run` executes in the main branch context, it doesn't automatically show up as a PR status check. To solve this, the workflow:
+1. **Finds the PR** associated with the `automated/new-ttb-labels` branch
+2. **Sets a pending status** on the PR's head commit when validation starts
+3. **Updates the status** to success/failure when validation completes
+
+This ensures that the validation results appear as a commit status check on the PR, allowing merge requirements and branch protection rules to work correctly.
+
 ### 4. Manual Trigger
 ```yaml
 workflow_dispatch:
