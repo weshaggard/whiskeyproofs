@@ -49,25 +49,9 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-      - name: Check for CSV changes
-        id: check_csv
-        run: |
-          # Fetch main branch for comparison if not already available
-          git fetch origin main:main 2>/dev/null || true
-          
-          # Check if the CSV file was modified compared to main
-          if git diff --name-only main HEAD | grep -q "_data/whiskeyindex.csv"; then
-            echo "csv_changed=true" >> $GITHUB_OUTPUT
-            echo "CSV file was modified - validation will run"
-          else
-            echo "csv_changed=false" >> $GITHUB_OUTPUT
-            echo "CSV file was not modified - skipping validation"
-          fi
       - name: Run data validation script
-        if: steps.check_csv.outputs.csv_changed == 'true'
         run: python3 .github/scripts/validate_whiskey_data.py
       - name: Run URL validation script
-        if: steps.check_csv.outputs.csv_changed == 'true'
         run: python3 .github/scripts/validate_urls.py
       - name: Setup Ruby
         # https://github.com/ruby/setup-ruby/releases/tag/v1.207.0
