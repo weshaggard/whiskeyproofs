@@ -88,13 +88,15 @@ Birthday Bourbon,2007,12,94,2007,Old Forester,Bourbon,07053000000113,https://www
 Birthday Bourbon,2006,13,96,2006,Old Forester,Bourbon,06083000000010,https://www.oldforester.com/products/old-forester-2006-birthday-bourbon/
 Birthday Bourbon,2005,12,96,2005,Old Forester,Bourbon,05108000000030,https://www.oldforester.com/products/old-forester-2005-birthday-bourbon/
 Birthday Bourbon,2004,8,94,2004,Old Forester,Bourbon,04085000000240,https://www.oldforester.com/products/old-forester-2004-birthday-bourbon/
-Birthday Bourbon,2003 Spring,12,93,2003,Old Forester,Bourbon,03147000000031,https://www.oldforester.com/products/old-forester-2003-spring-birthday-bourbon/
 Birthday Bourbon,2003 Fall,13,89,2003,Old Forester,Bourbon,03147000000032,https://www.oldforester.com/products/old-forester-2003-fall-birthday-bourbon/
+Birthday Bourbon,2003 Spring,12,93,2003,Old Forester,Bourbon,03147000000031,https://www.oldforester.com/products/old-forester-2003-spring-birthday-bourbon/
 Birthday Bourbon,2002,12,95,2002,Old Forester,Bourbon,02156000000070,https://www.oldforester.com/products/old-forester-2002-birthday-bourbon/
 Blanton's,Straight From The Barrel,,120-135,1999-2025,Buffalo Trace,Bourbon,22313001000951,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-straight-from-the-barrel/
 Blanton's,Special Reserve,,80,1999-2025,Buffalo Trace,Bourbon,19222001000003,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-special-reserve/
 Blanton's,Original,,93,1984-2025,Buffalo Trace,Bourbon,19222001000002,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-original-single-barrel/
 Blanton's,Gold Edition,,103,1999-2025,Buffalo Trace,Bourbon,19222001000001,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-gold-edition/
+Blood Oath,Pact 11,7-14,98.6,2025,Lux Row,Bourbon,24303001000381,https://luxrowdistillers.com/blood-oath/
+Blood Oath,Pact 10,,98.6,2024,Lux Row,Bourbon,23307001000383,https://luxrowdistillers.com/blood-oath/
 Blood Oath,Pact 9,7-16,98.6,2023,Lux Row,Bourbon,23013001000162,https://luxrowdistillers.com/blood-oath/
 Blood Oath,Pact 8,8-14,98.6,2022,Lux Row,Bourbon,21288001000078,https://luxrowdistillers.com/blood-oath/
 Blood Oath,Pact 7,8-14,98.6,2021,Lux Row,Bourbon,20164001000238,https://luxrowdistillers.com/blood-oath/
@@ -103,8 +105,6 @@ Blood Oath,Pact 5,8-13,98.6,2019,Lux Row,Bourbon,18215001000340,https://luxrowdi
 Blood Oath,Pact 4,9-12,98.6,2018,Lux Row,Bourbon,17251001000254,https://luxrowdistillers.com/blood-oath/
 Blood Oath,Pact 3,7-12,98.6,2017,Lux Row,Bourbon,16286001000281,https://luxrowdistillers.com/blood-oath/
 Blood Oath,Pact 2,7-11,98.6,2016,Lux Row,Bourbon,15244001000320,https://luxrowdistillers.com/blood-oath/
-Blood Oath,Pact 11,7-14,98.6,2025,Lux Row,Bourbon,24303001000381,https://luxrowdistillers.com/blood-oath/
-Blood Oath,Pact 10,,98.6,2024,Lux Row,Bourbon,23307001000383,https://luxrowdistillers.com/blood-oath/
 Blood Oath,Pact 1,6-12,98.6,2015,Lux Row,Bourbon,14261001000322,https://luxrowdistillers.com/blood-oath/
 Bomberger's Declaration,2025,,108,2025,Michter's,Bourbon,17347001000282,https://michters.com/bombergers-declaration/
 Bomberger's Declaration,2024,,108,2024,Michter's,Bourbon,17347001000282,https://michters.com/bombergers-declaration/
@@ -220,44 +220,44 @@ Elijah Craig,Toasted Barrel,,94,2020-2025,Heaven Hill,Bourbon,20122001000174,htt
 Elijah Craig,Small Batch,,94,1986-2025,Heaven Hill,Bourbon,16141001000057,https://heavenhilldistillery.com/elijah-craig-small-batch.php
 Elijah Craig,Rye,,94,2018-2025,Heaven Hill,Rye,19248001000811,https://heavenhilldistillery.com/elijah-craig-rye.php
 Elijah Craig Barrel Proof (ECBP),C925,9.1,129,2025,Heaven Hill,Bourbon,20052001000181,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-c925
-Elijah Craig Barrel Proof (ECBP),C924,11,129,2024,Heaven Hill,Bourbon,20052001000181,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-c924
-Elijah Craig Barrel Proof (ECBP),C923,13,133,2023,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
-Elijah Craig Barrel Proof (ECBP),C922,12,124.8,2022,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
-Elijah Craig Barrel Proof (ECBP),C921,12,120.2,2021,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
-Elijah Craig Barrel Proof (ECBP),C920,12,132.8,2020,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
-Elijah Craig Barrel Proof (ECBP),C919,12,136.8,2019,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
-Elijah Craig Barrel Proof (ECBP),C918,12,131.4,2018,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
-Elijah Craig Barrel Proof (ECBP),C917,12,131,2017,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
-Elijah Craig Barrel Proof (ECBP),C916,12,136,2016,Heaven Hill,Bourbon,13232001000241,https://elijahcraig.com/barrel-proof
-Elijah Craig Barrel Proof (ECBP),C915,12,135.6,2015,Heaven Hill,Bourbon,13232001000241,https://elijahcraig.com/barrel-proof
-Elijah Craig Barrel Proof (ECBP),C914,12,140.2,2014,Heaven Hill,Bourbon,13232001000241,https://elijahcraig.com/barrel-proof
-Elijah Craig Barrel Proof (ECBP),C913,12,133.2,2013,Heaven Hill,Bourbon,13232001000241,https://elijahcraig.com/barrel-proof
-Elijah Craig Barrel Proof (ECBP),B713,12,137,2013,Heaven Hill,Bourbon,13232001000241,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),B525,11.6,126.2,2025,Heaven Hill,Bourbon,20052001000181,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-b525
+Elijah Craig Barrel Proof (ECBP),A125,10.6,118.2,2025,Heaven Hill,Bourbon,20052001000181,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-a125
+Elijah Craig Barrel Proof (ECBP),C924,11,129,2024,Heaven Hill,Bourbon,20052001000181,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-c924
 Elijah Craig Barrel Proof (ECBP),B524,11.2,130.6,2024,Heaven Hill,Bourbon,20052001000181,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-b524
+Elijah Craig Barrel Proof (ECBP),A124,10.8,119,2024,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),C923,13,133,2023,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),B523,11,124.2,2023,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),A123,12,125.6,2023,Heaven Hill,Bourbon,20052001000181,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-a123
+Elijah Craig Barrel Proof (ECBP),C922,12,124.8,2022,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),B522,12,121,2022,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),A122,12,120.8,2022,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),C921,12,120.2,2021,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),B521,12,118.2,2021,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),A121,12,123.6,2021,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),C920,12,132.8,2020,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),B520,12,127.2,2020,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),A120,12,136.6,2020,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),C919,12,136.8,2019,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),B519,12,122.2,2019,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),A119,12,135.2,2019,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),C918,12,131.4,2018,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),B518,12,133.4,2018,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),A118,12,130.6,2018,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),C917,12,131,2017,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),B517,12,124.2,2017,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),A117,12,127,2017,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),C916,12,136,2016,Heaven Hill,Bourbon,13232001000241,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),B516,12,139.4,2016,Heaven Hill,Bourbon,13232001000241,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),A116,12,138.8,2016,Heaven Hill,Bourbon,13232001000241,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),C915,12,135.6,2015,Heaven Hill,Bourbon,13232001000241,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),B515,12,139.8,2015,Heaven Hill,Bourbon,13232001000241,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),A215,12,128,2015,Heaven Hill,Bourbon,13232001000241,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),C914,12,140.2,2014,Heaven Hill,Bourbon,13232001000241,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),B514,12,134.8,2014,Heaven Hill,Bourbon,13232001000241,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),A314,12,132.4,2014,Heaven Hill,Bourbon,13232001000241,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),C913,12,133.2,2013,Heaven Hill,Bourbon,13232001000241,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),B713,12,137,2013,Heaven Hill,Bourbon,13232001000241,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),A313,12,134.2,2013,Heaven Hill,Bourbon,13232001000241,https://elijahcraig.com/barrel-proof
-Elijah Craig Barrel Proof (ECBP),A215,12,128,2015,Heaven Hill,Bourbon,13232001000241,https://elijahcraig.com/barrel-proof
-Elijah Craig Barrel Proof (ECBP),A125,10.6,118.2,2025,Heaven Hill,Bourbon,20052001000181,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-a125
-Elijah Craig Barrel Proof (ECBP),A124,10.8,119,2024,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
-Elijah Craig Barrel Proof (ECBP),A123,12,125.6,2023,Heaven Hill,Bourbon,20052001000181,https://www.breakingbourbon.com/review/elijah-craig-barrel-proof-bourbon-batch-a123
-Elijah Craig Barrel Proof (ECBP),A122,12,120.8,2022,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
-Elijah Craig Barrel Proof (ECBP),A121,12,123.6,2021,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
-Elijah Craig Barrel Proof (ECBP),A120,12,136.6,2020,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
-Elijah Craig Barrel Proof (ECBP),A119,12,135.2,2019,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
-Elijah Craig Barrel Proof (ECBP),A118,12,130.6,2018,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
-Elijah Craig Barrel Proof (ECBP),A117,12,127,2017,Heaven Hill,Bourbon,20052001000181,https://elijahcraig.com/barrel-proof
-Elijah Craig Barrel Proof (ECBP),A116,12,138.8,2016,Heaven Hill,Bourbon,13232001000241,https://elijahcraig.com/barrel-proof
 Elmer T. Lee,standard,,90,1986-2025,Buffalo Trace,Bourbon,19072001000124,https://www.buffalotracedistillery.com/our-brands/elmer-t-lee-single-barrel/
 Evan Williams,Bottled-in-Bond,,100,2012-2025,Heaven Hill,Bourbon,16180001000393,https://heavenhilldistillery.com/ew-bottled-in-bond.php
 Evan Williams,Black Label,,86,1957-2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/evan-williams-single-barrel.php
@@ -295,14 +295,14 @@ George T. Stagg (GTS),BTAC Fall 2013,15,128.2,2013,Buffalo Trace,Bourbon,0416000
 George T. Stagg (GTS),BTAC Fall 2012,15,142.8,2012,Buffalo Trace,Bourbon,04160000000256,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/george-t-stagg-bourbon/
 George T. Stagg (GTS),BTAC Fall 2011,15,142.6,2011,Buffalo Trace,Bourbon,04160000000256,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/george-t-stagg-bourbon/
 George T. Stagg (GTS),BTAC Fall 2010,15,143,2010,Buffalo Trace,Bourbon,04160000000256,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/george-t-stagg-bourbon/
-Hardin's Creek,Jacob's Well - Batch 2 (211),17.58,109,2023,Jim Beam,Bourbon,23202001000263,https://www.beamdistilling.com/hardins-creek/whiskies/release-1-jacobs-well
-Hardin's Creek,Jacob's Well - Batch 1 (184),15.33,108,2022,Jim Beam,Bourbon,22053001000495,https://www.beamdistilling.com/hardins-creek/whiskies/release-1-jacobs-well
 Hardin's Creek,Warehouse Series - The Owl,11,110,2025,Jim Beam,Bourbon,25044001001024,https://www.beamdistilling.com/hardins-creek/whiskies/current-releases
 Hardin's Creek,Warehouse Series - The Mushroom,11,110,2025,Jim Beam,Bourbon,25043001000042,https://www.beamdistilling.com/hardins-creek/whiskies/current-releases
 Hardin's Creek,Warehouse Series - The Beaver,11,110,2025,Jim Beam,Bourbon,25043001000047,https://www.beamdistilling.com/hardins-creek/whiskies/current-releases
 Hardin's Creek,Kentucky Series - Frankfort,17,110,2023,Jim Beam,Bourbon,22132001000315,https://www.beamdistilling.com/hardins-creek/whiskies/release-2-frankfort
 Hardin's Creek,Kentucky Series - Clermont,17,110,2023,Jim Beam,Bourbon,22132001000350,https://www.beamdistilling.com/hardins-creek/whiskies/release-1-clermont
 Hardin's Creek,Kentucky Series - Boston,17,110,2023,Jim Beam,Bourbon,22132001000258,https://www.beamdistilling.com/hardins-creek/whiskies/release-3-boston
+Hardin's Creek,Jacob's Well - Batch 2 (211),17.58,109,2023,Jim Beam,Bourbon,23202001000263,https://www.beamdistilling.com/hardins-creek/whiskies/release-1-jacobs-well
+Hardin's Creek,Jacob's Well - Batch 1 (184),15.33,108,2022,Jim Beam,Bourbon,22053001000495,https://www.beamdistilling.com/hardins-creek/whiskies/release-1-jacobs-well
 Hardin's Creek,Golden Origins,11,106,2024,Jim Beam,Corn Whiskey,23348001000580,https://www.beamdistilling.com/hardins-creek
 Hardin's Creek,Colonel James B. Beam,2,108,2022,Jim Beam,Bourbon,22053001000519,https://www.beamdistilling.com/hardins-creek/whiskies/release-2-col-james-b-beam
 Heaven Hill 7 Year Bottled-in-Bond,standard,7,100,1939-2025,Heaven Hill,Bourbon,16271001000296,https://heavenhilldistillery.com/hh-bottled-in-bond.php
@@ -336,22 +336,22 @@ Knob Creek 2001 Limited Edition,Batch 1,14,100,2016,Knob Creek,Bourbon,160290010
 Knob Creek 21 Year (KC21),2025,21,100,2025,Knob Creek,Bourbon,,https://www.knobcreek.com/whiskies/21-year-old-bourbon-whiskey
 Knob Creek 25th Anniversary,2017,12-13,122,2017,Knob Creek,Bourbon,,https://www.knobcreek.com/
 Larceny Barrel Proof,C925,,119.6,2025,Heaven Hill,Bourbon,24122001000203,https://heavenhilldistillery.com/larceny-barrel-proof.php
-Larceny Barrel Proof,C924,,125.1,2024,Heaven Hill,Bourbon,24122001000203,https://heavenhilldistillery.com/larceny-barrel-proof.php
-Larceny Barrel Proof,C923,,126.4,2023,Heaven Hill,Bourbon,23213001000431,https://www.breakingbourbon.com/review/larceny-barrel-proof-batch-c923
-Larceny Barrel Proof,C922,,126.6,2022,Heaven Hill,Bourbon,21081001000429,https://heavenhilldistillery.com/larceny-barrel-proof.php
-Larceny Barrel Proof,C921,,122.6,2021,Heaven Hill,Bourbon,21081001000429,https://heavenhilldistillery.com/larceny-barrel-proof.php
-Larceny Barrel Proof,C920,,122.4,2020,Heaven Hill,Bourbon,19249001000186,https://heavenhilldistillery.com/larceny-barrel-proof.php
 Larceny Barrel Proof,B525,,117.4,2025,Heaven Hill,Bourbon,24122001000203,https://heavenhilldistillery.com/larceny-barrel-proof.php
-Larceny Barrel Proof,B524,,125.4,2024,Heaven Hill,Bourbon,24012001000626,https://heavenhilldistillery.com/larceny-barrel-proof.php
-Larceny Barrel Proof,B523,,124.4,2023,Heaven Hill,Bourbon,23213001000431,https://www.breakingbourbon.com/review/larceny-barrel-proof-batch-b523
-Larceny Barrel Proof,B522,,123.8,2022,Heaven Hill,Bourbon,21081001000429,https://heavenhilldistillery.com/larceny-barrel-proof.php
-Larceny Barrel Proof,B521,,121,2021,Heaven Hill,Bourbon,21081001000429,https://heavenhilldistillery.com/larceny-barrel-proof.php
-Larceny Barrel Proof,B520,,122.2,2020,Heaven Hill,Bourbon,19249001000186,https://heavenhilldistillery.com/larceny-barrel-proof.php
 Larceny Barrel Proof,A125,,125,2025,Heaven Hill,Bourbon,24122001000203,https://heavenhilldistillery.com/larceny-barrel-proof.php
+Larceny Barrel Proof,C924,,125.1,2024,Heaven Hill,Bourbon,24122001000203,https://heavenhilldistillery.com/larceny-barrel-proof.php
+Larceny Barrel Proof,B524,,125.4,2024,Heaven Hill,Bourbon,24012001000626,https://heavenhilldistillery.com/larceny-barrel-proof.php
 Larceny Barrel Proof,A124,,124.2,2024,Heaven Hill,Bourbon,24012001000626,https://heavenhilldistillery.com/larceny-barrel-proof.php
+Larceny Barrel Proof,C923,,126.4,2023,Heaven Hill,Bourbon,23213001000431,https://www.breakingbourbon.com/review/larceny-barrel-proof-batch-c923
+Larceny Barrel Proof,B523,,124.4,2023,Heaven Hill,Bourbon,23213001000431,https://www.breakingbourbon.com/review/larceny-barrel-proof-batch-b523
 Larceny Barrel Proof,A123,,125.8,2023,Heaven Hill,Bourbon,23213001000431,https://www.breakingbourbon.com/review/larceny-barrel-proof-batch-a123
+Larceny Barrel Proof,C922,,126.6,2022,Heaven Hill,Bourbon,21081001000429,https://heavenhilldistillery.com/larceny-barrel-proof.php
+Larceny Barrel Proof,B522,,123.8,2022,Heaven Hill,Bourbon,21081001000429,https://heavenhilldistillery.com/larceny-barrel-proof.php
 Larceny Barrel Proof,A122,,124.4,2022,Heaven Hill,Bourbon,21081001000429,https://heavenhilldistillery.com/larceny-barrel-proof.php
+Larceny Barrel Proof,C921,,122.6,2021,Heaven Hill,Bourbon,21081001000429,https://heavenhilldistillery.com/larceny-barrel-proof.php
+Larceny Barrel Proof,B521,,121,2021,Heaven Hill,Bourbon,21081001000429,https://heavenhilldistillery.com/larceny-barrel-proof.php
 Larceny Barrel Proof,A121,,114.8,2021,Heaven Hill,Bourbon,21081001000429,https://heavenhilldistillery.com/larceny-barrel-proof.php
+Larceny Barrel Proof,C920,,122.4,2020,Heaven Hill,Bourbon,19249001000186,https://heavenhilldistillery.com/larceny-barrel-proof.php
+Larceny Barrel Proof,B520,,122.2,2020,Heaven Hill,Bourbon,19249001000186,https://heavenhilldistillery.com/larceny-barrel-proof.php
 Larceny Barrel Proof,A120,,123.2,2020,Heaven Hill,Bourbon,19249001000186,https://heavenhilldistillery.com/larceny-barrel-proof.php
 Larceny Small Batch,standard,,92,2012-2025,Heaven Hill,Bourbon,12096001000336,https://heavenhilldistillery.com/larceny-bourbon.php
 Little Book,Chapter 9: None For Granted,,121.8,2025,Jim Beam,Bourbon,24032001000586,https://www.beamdistilling.com/littlebook/whiskies/little-book-chapter-9-none-for-granted
@@ -431,28 +431,28 @@ Michter's US 1,Bourbon,,91.4,2000-2025,Michter's,Bourbon,16085001000517,https://
 Michter's US 1,Barrel Strength Rye,,107.4-115.2,2025,Michter's,Rye,19274001000463,https://michters.com/whiskey/us-1-barrel-strength-rye/
 Michter's US 1,Barrel Strength Bourbon,,108-112,2017-2025,Michter's,Bourbon,17010001000238,https://michters.com/whiskey/us-1-limited-release-barrel-strength-bourbon/
 Michter's US 1,American Whiskey,,83.4,2000-2025,Michter's,Whiskey,16085001000490,https://michters.com/us1-american-whiskey/
-Old Fitzgerald Bottled-in-Bond,Spring 2025,9,100,2025,Heaven Hill,Bourbon,24324001000478,https://heavenhilldistillery.com/old-fitzgerald.php
-Old Fitzgerald Bottled-in-Bond,Spring 2024,10,100,2024,Heaven Hill,Bourbon,23320001000289,https://heavenhilldistillery.com/old-fitzgerald.php
-Old Fitzgerald Bottled-in-Bond,Spring 2023,10,100,2023,Heaven Hill,Bourbon,22215001000413,https://heavenhilldistillery.com/old-fitzgerald.php
-Old Fitzgerald Bottled-in-Bond,Spring 2022,17,100,2022,Heaven Hill,Bourbon,22116001000615,https://heavenhilldistillery.com/old-fitzgerald.php
-Old Fitzgerald Bottled-in-Bond,Spring 2021,8,100,2021,Heaven Hill,Bourbon,22116001000615,https://heavenhilldistillery.com/old-fitzgerald.php
-Old Fitzgerald Bottled-in-Bond,Spring 2020,9,100,2020,Heaven Hill,Bourbon,18043001000060,https://heavenhilldistillery.com/old-fitzgerald.php
-Old Fitzgerald Bottled-in-Bond,Spring 2019,13,100,2019,Heaven Hill,Bourbon,18043001000060,https://heavenhilldistillery.com/old-fitzgerald.php
-Old Fitzgerald Bottled-in-Bond,Spring 2018,11,100,2018,Heaven Hill,Bourbon,18043001000060,https://heavenhilldistillery.com/old-fitzgerald.php
 Old Fitzgerald Bottled-in-Bond,Fall 2025,11,100,2025,Heaven Hill,Bourbon,24324001000478,https://heavenhilldistillery.com/old-fitzgerald.php
+Old Fitzgerald Bottled-in-Bond,Spring 2025,9,100,2025,Heaven Hill,Bourbon,24324001000478,https://heavenhilldistillery.com/old-fitzgerald.php
 Old Fitzgerald Bottled-in-Bond,Fall 2024,8,100,2024,Heaven Hill,Bourbon,24324001000478,https://heavenhilldistillery.com/old-fitzgerald.php
+Old Fitzgerald Bottled-in-Bond,Spring 2024,10,100,2024,Heaven Hill,Bourbon,23320001000289,https://heavenhilldistillery.com/old-fitzgerald.php
 Old Fitzgerald Bottled-in-Bond,Fall 2023,8,100,2023,Heaven Hill,Bourbon,23320001000289,https://heavenhilldistillery.com/old-fitzgerald.php
+Old Fitzgerald Bottled-in-Bond,Spring 2023,10,100,2023,Heaven Hill,Bourbon,22215001000413,https://heavenhilldistillery.com/old-fitzgerald.php
 Old Fitzgerald Bottled-in-Bond,Fall 2022,19,100,2022,Heaven Hill,Bourbon,22116001000615,https://heavenhilldistillery.com/old-fitzgerald.php
+Old Fitzgerald Bottled-in-Bond,Spring 2022,17,100,2022,Heaven Hill,Bourbon,22116001000615,https://heavenhilldistillery.com/old-fitzgerald.php
 Old Fitzgerald Bottled-in-Bond,Fall 2021,11,100,2021,Heaven Hill,Bourbon,22116001000615,https://heavenhilldistillery.com/old-fitzgerald.php
+Old Fitzgerald Bottled-in-Bond,Spring 2021,8,100,2021,Heaven Hill,Bourbon,22116001000615,https://heavenhilldistillery.com/old-fitzgerald.php
 Old Fitzgerald Bottled-in-Bond,Fall 2020,14,100,2020,Heaven Hill,Bourbon,18043001000060,https://heavenhilldistillery.com/old-fitzgerald.php
+Old Fitzgerald Bottled-in-Bond,Spring 2020,9,100,2020,Heaven Hill,Bourbon,18043001000060,https://heavenhilldistillery.com/old-fitzgerald.php
 Old Fitzgerald Bottled-in-Bond,Fall 2019,15,100,2019,Heaven Hill,Bourbon,18043001000060,https://heavenhilldistillery.com/old-fitzgerald.php
+Old Fitzgerald Bottled-in-Bond,Spring 2019,13,100,2019,Heaven Hill,Bourbon,18043001000060,https://heavenhilldistillery.com/old-fitzgerald.php
 Old Fitzgerald Bottled-in-Bond,Fall 2018,9,100,2018,Heaven Hill,Bourbon,18043001000060,https://heavenhilldistillery.com/old-fitzgerald.php
-Old Forester,President's Choice,7-9,110-125,2025,Old Forester,Bourbon,,https://www.oldforester.com/presidents-choice/
+Old Fitzgerald Bottled-in-Bond,Spring 2018,11,100,2018,Heaven Hill,Bourbon,18043001000060,https://heavenhilldistillery.com/old-fitzgerald.php
 Old Forester,1924,10,100,2024-2025,Old Forester,Bourbon,23144001000517,https://www.oldforester.com/products/old-forester-1924-10-year-old-whisky/
 Old Forester,1920,,115,2025,Old Forester,Bourbon,24305001000157,https://www.oldforester.com/products/old-forester-1920-style-prohibition-whisky/
 Old Forester,1910,,93,2025,Old Forester,Bourbon,24305001000147,https://www.oldforester.com/products/old-forester-1910-old-fine-whisky/
 Old Forester,1897,4,100,2025,Old Forester,Bourbon,24018001000248,https://www.oldforester.com/products/old-forester-1897-bottled-in-bond/
 Old Forester,1870,,90,2025,Old Forester,Bourbon,25022001000723,https://www.oldforester.com/products/old-forester-1870-original-batch-whisky/
+Old Forester,President's Choice,7-9,110-125,2025,Old Forester,Bourbon,,https://www.oldforester.com/presidents-choice/
 Parker's Heritage Collection,2025 - 11 Year American Whiskey,11-15,122.5,2025,Heaven Hill,American Whiskey,25071001000251,https://heavenhilldistillery.com/parkers-heritage-collection.php
 Parker's Heritage Collection,2024 - 14 Year Malt Whiskey,14,107,2024,Heaven Hill,Malt Whiskey,23156001000960,https://heavenhilldistillery.com/parkers-heritage-collection.php
 Parker's Heritage Collection,2023 - Kentucky Straight Rye,,128.8,2023,Heaven Hill,Rye,22241001000540,https://heavenhilldistillery.com/parkers-heritage-collection.php
@@ -477,11 +477,11 @@ Remus Gatsby Reserve,2025,15,102.8,2025,MGP,Bourbon,22074001000848,https://remus
 Remus Gatsby Reserve,2024,15,104.9,2024,MGP,Bourbon,22074001000848,https://remusbourbon.com/the-bourbons/remus-gatsby-reserve/
 Remus Gatsby Reserve,2023,15,98.1,2023,MGP,Bourbon,22074001000848,https://remusbourbon.com/the-bourbons/remus-gatsby-reserve/
 Remus Gatsby Reserve,2022,15,97.8,2022,MGP,Bourbon,22074001000848,https://remusbourbon.com/the-bourbons/remus-gatsby-reserve/
+Remus Repeal Reserve,Series IX,11,104,2025,MGP,Bourbon,17091001000011,https://www.breakingbourbon.com/review/remus-repeal-reserve-series-ix
 Remus Repeal Reserve,Series VIII,10.63,101,2024,MGP,Bourbon,22074001000858,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-viii/
 Remus Repeal Reserve,Series VII,9.94,100,2023,MGP,Bourbon,22074001000858,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-vii/
 Remus Repeal Reserve,Series VI,9,100,2022,MGP,Bourbon,21111001000763,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-vi/
 Remus Repeal Reserve,Series V,13.75,100,2021,MGP,Bourbon,21111001000763,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-v/
-Remus Repeal Reserve,Series IX,11,104,2025,MGP,Bourbon,17091001000011,https://www.breakingbourbon.com/review/remus-repeal-reserve-series-ix
 Remus Repeal Reserve,Series IV,12,100,2020,MGP,Bourbon,20023001000276,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-iv/
 Remus Repeal Reserve,Series III,11.12,100,2019,MGP,Bourbon,18241001000238,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-iii/
 Remus Repeal Reserve,Series II,10.25,100,2018,MGP,Bourbon,18241001000238,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-ii/
@@ -538,14 +538,6 @@ Stagg,23B,,127.8,2023,Buffalo Trace,Bourbon,21302001000316,https://www.buffalotr
 Stagg,23A,,130.2,2023,Buffalo Trace,Bourbon,21302001000316,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg,22B,,130,2022,Buffalo Trace,Bourbon,21302001000316,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg,22A,,132.2,2022,Buffalo Trace,Bourbon,21302001000316,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
-Stagg Jr,9,,131.9,2017,Buffalo Trace,Bourbon,12355001000167,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
-Stagg Jr,8,,129.5,2017,Buffalo Trace,Bourbon,12355001000167,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
-Stagg Jr,7,,130,2016,Buffalo Trace,Bourbon,12355001000167,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
-Stagg Jr,6,,132.5,2016,Buffalo Trace,Bourbon,12355001000167,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
-Stagg Jr,5,,129.7,2015,Buffalo Trace,Bourbon,12355001000167,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
-Stagg Jr,4,,132.2,2015,Buffalo Trace,Bourbon,12355001000167,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
-Stagg Jr,3,,132.1,2014,Buffalo Trace,Bourbon,12355001000167,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
-Stagg Jr,2,,128.7,2014,Buffalo Trace,Bourbon,12355001000167,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg Jr,18,,131,2022,Buffalo Trace,Bourbon,12355001000167,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg Jr,17,,128.7,2021,Buffalo Trace,Bourbon,12355001000167,https://www.breakingbourbon.com/review/stagg-jr-bourbon-batch-17
 Stagg Jr,16,,130.9,2021,Buffalo Trace,Bourbon,12355001000167,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
@@ -555,6 +547,14 @@ Stagg Jr,13,,128.4,2019,Buffalo Trace,Bourbon,12355001000167,https://www.buffalo
 Stagg Jr,12,,132.3,2019,Buffalo Trace,Bourbon,12355001000167,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg Jr,11,,127.9,2018,Buffalo Trace,Bourbon,12355001000167,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg Jr,10,,126.4,2018,Buffalo Trace,Bourbon,12355001000167,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
+Stagg Jr,9,,131.9,2017,Buffalo Trace,Bourbon,12355001000167,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
+Stagg Jr,8,,129.5,2017,Buffalo Trace,Bourbon,12355001000167,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
+Stagg Jr,7,,130,2016,Buffalo Trace,Bourbon,12355001000167,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
+Stagg Jr,6,,132.5,2016,Buffalo Trace,Bourbon,12355001000167,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
+Stagg Jr,5,,129.7,2015,Buffalo Trace,Bourbon,12355001000167,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
+Stagg Jr,4,,132.2,2015,Buffalo Trace,Bourbon,12355001000167,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
+Stagg Jr,3,,132.1,2014,Buffalo Trace,Bourbon,12355001000167,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
+Stagg Jr,2,,128.7,2014,Buffalo Trace,Bourbon,12355001000167,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg Jr,1,,134.4,2013,Buffalo Trace,Bourbon,12355001000167,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Thomas H. Handy (THH),BTAC Fall 2025,6,129.8,2025,Buffalo Trace,Rye,06194000000025,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
 Thomas H. Handy (THH),BTAC Fall 2024,6,127.2,2024,Buffalo Trace,Rye,06194000000025,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
