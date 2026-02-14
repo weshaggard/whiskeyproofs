@@ -134,7 +134,10 @@ jobs:
         if: steps.find_labels.outputs.has_new_labels == 'true'
         uses: peter-evans/create-pull-request@v7
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # Use PAT to allow PR to trigger pull_request workflows
+          # GITHUB_TOKEN doesn't trigger workflows for security reasons
+          # See: https://github.com/peter-evans/create-pull-request#action-inputs
+          token: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
           commit-message: 'Add new TTB labels from ${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }}'
           branch: automated/new-ttb-labels
           delete-branch: false
