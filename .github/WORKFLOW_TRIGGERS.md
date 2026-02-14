@@ -6,6 +6,15 @@ This document explains how workflows are triggered in this repository and soluti
 
 The `build.yml` workflow (Validate, Build, and Deploy) is triggered by multiple events:
 
+### Conditional Validation
+
+The CSV validation and URL validation steps are **conditional** - they only run if the `_data/whiskeyindex.csv` file was modified compared to the `main` branch. This prevents:
+- False positives from pre-existing URL issues in automated label-only PRs
+- Unnecessary validation overhead when only documentation or label files change
+- Blocking of automated TTB label PRs due to unrelated data quality issues
+
+If the CSV was not modified, the workflow will skip these validation steps and proceed directly to building the Jekyll site.
+
 ### 1. Pull Request Trigger
 ```yaml
 pull_request:
