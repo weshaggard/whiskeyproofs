@@ -10,13 +10,6 @@ on:
   pull_request:
     branches: ["main"]
 
-  # Runs when the TTB label finder workflow completes
-  # This allows validation to run for automated PRs created by GITHUB_TOKEN
-  workflow_run:
-    workflows: ["Find New TTB Labels"]
-    types:
-      - completed
-
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -36,54 +29,9 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read
-      pull-requests: read  # Needed to fetch PR information for workflow_run
-      statuses: write      # Needed to set commit status for workflow_run
     steps:
-      - name: Get PR information for workflow_run
-        id: pr_info
-        if: github.event_name == 'workflow_run'
-        uses: actions/github-script@v7
-        with:
-          script: |
-            // Find the PR associated with the automated/new-ttb-labels branch
-            const { data: pulls } = await github.rest.pulls.list({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              state: 'open',
-              head: `${context.repo.owner}:automated/new-ttb-labels`
-            });
-            
-            if (pulls.length > 0) {
-              const pr = pulls[0];
-              core.setOutput('pr_number', pr.number);
-              core.setOutput('pr_sha', pr.head.sha);
-              console.log(`Found PR #${pr.number} with SHA ${pr.head.sha}`);
-            } else {
-              console.log('No open PR found for automated/new-ttb-labels branch');
-            }
-      
-      - name: Set pending status
-        if: github.event_name == 'workflow_run' && steps.pr_info.outputs.pr_sha
-        uses: actions/github-script@v7
-        with:
-          script: |
-            await github.rest.repos.createCommitStatus({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              sha: '${{ steps.pr_info.outputs.pr_sha }}',
-              state: 'pending',
-              context: 'Validate, Build, and Deploy',
-              description: 'Validation and build in progress...',
-              target_url: `https://github.com/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`
-            });
-      
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          # For workflow_run triggered by "Find New TTB Labels", checkout the automated PR branch
-          # The TTB workflow always creates/updates the same branch name
-          # For regular pull_request events, this will use the default PR head
-          ref: ${{ (github.event_name == 'workflow_run' && github.event.workflow_run.name == 'Find New TTB Labels') && 'automated/new-ttb-labels' || github.ref }}
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -115,26 +63,6 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
-      
-      - name: Set final status
-        if: always() && github.event_name == 'workflow_run' && steps.pr_info.outputs.pr_sha
-        uses: actions/github-script@v7
-        with:
-          script: |
-            const state = '${{ job.status }}' === 'success' ? 'success' : 'failure';
-            const description = '${{ job.status }}' === 'success' 
-              ? 'All checks passed' 
-              : 'Some checks failed';
-            
-            await github.rest.repos.createCommitStatus({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              sha: '${{ steps.pr_info.outputs.pr_sha }}',
-              state: state,
-              context: 'Validate, Build, and Deploy',
-              description: description,
-              target_url: `https://github.com/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`
-            });
 
   # Deployment job
   deploy:
