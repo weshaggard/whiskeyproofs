@@ -211,6 +211,43 @@ No changes needed - the workflow is ready to use once you add the secrets to the
 
 ## Security Considerations
 
+**Private Key Security:**
+
+The private key must be stored in GitHub Secrets - there's no alternative if you want workflows to trigger automatically. However, this is **safe and industry-standard** because:
+
+✅ **GitHub Secrets are highly secure:**
+- Encrypted at rest with AES-256-GCM
+- Encrypted in transit over TLS
+- Only decrypted in runner memory during execution
+- Automatically redacted from all logs
+- Runner environment destroyed after use
+
+✅ **The private key is used securely:**
+- Only loads into memory momentarily
+- Generates a 1-hour token
+- The token (not key) is used for API calls
+- Key never exposed outside GitHub's infrastructure
+
+✅ **Additional protection from environment secrets:**
+- Stored in 'automation' environment for better isolation
+- Can add protection rules and approvals
+- Separate from general repository secrets
+
+**What if the private key is compromised?**
+
+The impact is limited because:
+- App is scoped to single repository only
+- Has minimal permissions (Contents, PRs, Workflows)
+- Activity is logged - you can detect misuse
+- Can be immediately revoked in app settings
+
+**To rotate the private key:**
+1. Generate new key in app settings
+2. Update APP_PRIVATE_KEY secret
+3. Revoke old key
+
+**For detailed security analysis:** See [SECURITY_ANALYSIS.md](./SECURITY_ANALYSIS.md)
+
 **Best Practices:**
 
 ✅ **Store private key as secret** - Never commit to git  
