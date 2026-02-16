@@ -25,6 +25,7 @@ permissions:
 jobs:
   find-new-labels:
     runs-on: ubuntu-latest
+    environment: automation
     
     steps:
       - name: Checkout repository
@@ -130,11 +131,23 @@ jobs:
           cat ttb_list.txt >> $GITHUB_OUTPUT
           echo 'EOF' >> $GITHUB_OUTPUT
       
+      - name: Generate GitHub App Token
+        id: generate_token
+        if: steps.find_labels.outputs.has_new_labels == 'true'
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ secrets.APP_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+          repositories: ${{ github.event.repository.name }}
+      
       - name: Create Pull Request
         if: steps.find_labels.outputs.has_new_labels == 'true'
         uses: peter-evans/create-pull-request@v7
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # Use GitHub App token for automatic PR workflow triggering
+          # Tokens are auto-generated (1-hour lifetime), no maintenance required
+          # See: .github/GITHUB_APP_SETUP.md for setup instructions
+          token: ${{ steps.generate_token.outputs.token }}
           commit-message: 'Add new TTB labels from ${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }}'
           branch: automated/new-ttb-labels
           delete-branch: false
