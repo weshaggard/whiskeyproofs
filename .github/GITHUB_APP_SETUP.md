@@ -1,22 +1,17 @@
-# GitHub App Setup for Automated PRs (Recommended)
+# GitHub App Setup for Automated PRs
 
 **🎯 Zero Manual Maintenance Required!**
 
-This guide shows you how to set up a GitHub App for automated PR workflows. Unlike PATs, GitHub Apps provide automatic token rotation with no manual maintenance needed.
+This guide shows you how to set up a GitHub App for automated PR workflows. GitHub Apps provide automatic token rotation with no manual maintenance needed.
 
-## Why GitHub App Instead of PAT?
+## Why GitHub App?
 
-| Feature | GitHub App ✅ | Personal Access Token ❌ |
-|---------|--------------|-------------------------|
-| **Token Rotation** | Automatic (1-hour tokens) | Manual (every 90 days) |
-| **Maintenance** | None required | Regular rotation needed |
-| **Permissions** | Granular, repository-scoped | Broad, user-scoped |
-| **Audit Logging** | Detailed activity logs | Limited logging |
-| **Expiration** | Never expires | Requires expiration dates |
-| **Security** | Higher (short-lived tokens) | Lower (long-lived tokens) |
-| **Setup Complexity** | Medium (one-time) | Low (but recurring) |
-
-**Recommendation:** GitHub App is the best long-term solution. Set it up once and forget about token maintenance forever.
+- ✅ **Zero Maintenance** - Set up once, works forever
+- ✅ **Automatic Token Rotation** - Fresh 1-hour tokens on each run
+- ✅ **Better Security** - Short-lived, repository-scoped tokens
+- ✅ **Granular Permissions** - Only what's needed
+- ✅ **Detailed Audit Logging** - Track all actions
+- ✅ **Never Expires** - No token expiration to manage
 
 ## Prerequisites
 
@@ -111,19 +106,10 @@ This guide shows you how to set up a GitHub App for automated PR workflows. Unli
    - Value: The entire `.pem` file contents from Step 2.5
    - Click "Add secret"
 
-### Step 5: Update Workflow Configuration
+### Step 5: Verify Workflow Configuration
 
-The workflow file `.github/workflows/find-new-ttb-labels.yml` needs to be updated to use the GitHub App token.
+The workflow file `.github/workflows/find-new-ttb-labels.yml` is already configured to use the GitHub App token:
 
-**Before (PAT):**
-```yaml
-- name: Create Pull Request
-  uses: peter-evans/create-pull-request@v7
-  with:
-    token: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
-```
-
-**After (GitHub App):**
 ```yaml
 - name: Generate GitHub App Token
   id: generate_token
@@ -139,7 +125,7 @@ The workflow file `.github/workflows/find-new-ttb-labels.yml` needs to be update
     token: ${{ steps.generate_token.outputs.token }}
 ```
 
-See the updated workflow file for the complete implementation.
+No changes needed - the workflow is ready to use once you add the secrets!
 
 ### Step 6: Test the Setup
 
@@ -153,19 +139,6 @@ See the updated workflow file for the complete implementation.
    - ✅ PR is created (if new labels found)
    - ✅ Validation workflows trigger automatically on the PR
    - ✅ Status checks appear on the PR
-
-### Step 7: Clean Up Old PAT (Optional)
-
-Once the GitHub App is working:
-
-1. **Remove the PAT from repository secrets:**
-   - Go to Settings → Secrets → Actions
-   - Delete the `PAT` secret (if it exists)
-
-2. **Revoke the PAT from your GitHub account:**
-   - Go to https://github.com/settings/tokens
-   - Find your "Automated PR Workflow Token"
-   - Click "Delete"
 
 ## How It Works
 
@@ -238,7 +211,7 @@ Once the GitHub App is working:
   2. Generate a new private key
   3. Update the APP_PRIVATE_KEY secret
 
-## Advantages Over PAT
+## Key Benefits
 
 1. **No Maintenance:** Set up once, works forever
 2. **Better Security:** Short-lived tokens (1 hour)
@@ -246,16 +219,6 @@ Once the GitHub App is working:
 4. **Granular Permissions:** Scoped to specific repositories
 5. **No Expiration:** App itself doesn't expire
 6. **Professional:** Better for teams and organizations
-
-## Migration from PAT
-
-If you're currently using a PAT:
-
-1. **Set up GitHub App** (follow Steps 1-5 above)
-2. **Update workflow** (Step 5)
-3. **Test thoroughly** (Step 6)
-4. **Once working, remove PAT** (Step 7)
-5. **Update documentation** to reflect the change
 
 ## Support and Resources
 

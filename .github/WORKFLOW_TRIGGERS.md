@@ -32,15 +32,15 @@ Allows manual triggering from the Actions tab.
 
 To enable automatic workflow triggering for PRs created by automated workflows (TTB label finder) and GitHub Copilot, **see the detailed setup guide:**
 
-📖 **[AUTOMATED_PR_SETUP.md](./AUTOMATED_PR_SETUP.md)**
+📖 **[GitHub App Setup Guide](./GITHUB_APP_SETUP.md)**
 
 This guide covers:
-- Creating a Personal Access Token (PAT)
-- Adding it as a repository secret
-- How it enables automatic PR workflow triggering
-- Troubleshooting common issues
+- Creating a GitHub App for automated tokens
+- Configuring app permissions
+- Adding secrets to the repository
+- Zero-maintenance token rotation
 
-**Summary:** Automated workflows use a PAT instead of `GITHUB_TOKEN` to create PRs, which allows those PRs to trigger the `pull_request` workflow naturally.
+**Summary:** Automated workflows use a GitHub App to generate short-lived tokens for creating PRs, which allows those PRs to trigger the `pull_request` workflow naturally.
 
 
 ## Workflow Permissions
@@ -64,7 +64,7 @@ permissions:
 ## Testing Workflows
 
 ### Test Automated PR Workflow
-1. Ensure PAT secret is configured (see [AUTOMATED_PR_SETUP.md](./AUTOMATED_PR_SETUP.md))
+1. Ensure GitHub App is configured (see [GitHub App Setup Guide](./GITHUB_APP_SETUP.md))
 2. Manually trigger "Find New TTB Labels" workflow from Actions tab
 3. It will create a PR with new labels
 4. The validation workflow should automatically run via `pull_request` trigger

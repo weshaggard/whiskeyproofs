@@ -1,96 +1,48 @@
-# Quick Start: Automated PR Setup
+# Automated PR Setup
 
-Choose your approach based on your needs:
+This repository uses a **GitHub App** for automated pull request creation, providing zero-maintenance workflow automation.
 
-## Option 1: GitHub App (Recommended) 🌟
+## Why GitHub App?
 
-**Best for:** Long-term use, teams, anyone who wants zero maintenance
+- ✅ **Zero Maintenance** - Set up once, works forever
+- ✅ **Automatic Token Rotation** - Fresh 1-hour tokens on each run
+- ✅ **Better Security** - Short-lived, repository-scoped tokens
+- ✅ **Granular Permissions** - Only what's needed
+- ✅ **Never Expires** - No token expiration to manage
 
-**Pros:**
-- ✅ **Zero maintenance** - Set up once, works forever
-- ✅ Automatic token rotation (1-hour tokens)
-- ✅ More secure (short-lived, granular permissions)
-- ✅ Better audit logging
+## Setup Guide
 
-**Cons:**
-- ⚠️ Slightly more complex initial setup (15 minutes)
-- ⚠️ Requires admin access to create GitHub App
+**👉 [Complete GitHub App Setup Instructions](./GITHUB_APP_SETUP.md)**
 
-**Setup Time:** 15 minutes (one-time)  
-**Maintenance:** None
+### Quick Overview
 
-**👉 [GitHub App Setup Guide](./GITHUB_APP_SETUP.md)**
+1. **Create GitHub App** (5 minutes)
+   - Go to https://github.com/settings/apps/new
+   - Configure permissions: Contents, Pull Requests, Workflows (Read & Write)
+   - Generate private key
 
----
+2. **Add Secrets** (2 minutes)
+   - `APP_ID`: Your app's ID number
+   - `APP_PRIVATE_KEY`: Contents of the .pem file
 
-## Option 2: Personal Access Token (PAT)
+3. **Done!** (No maintenance needed)
+   - Workflows automatically use the app
+   - Tokens rotate automatically
+   - Works forever
 
-**Best for:** Quick setup, personal repos, temporary testing
+**Setup Time:** ~15 minutes one-time  
+**Maintenance Required:** None
 
-**Pros:**
-- ✅ Simple initial setup (5 minutes)
-- ✅ No app creation needed
+## How It Works
 
-**Cons:**
-- ❌ **Requires manual rotation every 90 days**
-- ❌ Less secure (long-lived tokens)
-- ❌ Broader permissions (user-scoped)
-- ❌ Manual maintenance burden
-
-**Setup Time:** 5 minutes (initial), 10 minutes every 90 days (rotation)  
-**Maintenance:** Quarterly rotation required
-
-**👉 [PAT Setup Guide](./AUTOMATED_PR_SETUP.md#setup-instructions-pat-method)**
-
----
-
-## Quick Comparison
-
-| Feature | GitHub App | PAT |
-|---------|-----------|-----|
-| **Initial Setup** | 15 min | 5 min |
-| **Maintenance** | ✨ None | ⚠️ Every 90 days |
-| **Token Lifetime** | 1 hour (auto-renews) | 90 days (manual) |
-| **Security** | Higher | Lower |
-| **Permissions** | Repository-scoped | User-scoped |
-| **Audit Logging** | Detailed | Basic |
-| **Recommended For** | Production use | Testing/personal |
-
----
-
-## Decision Guide
-
-**Choose GitHub App if:**
-- ✅ You want zero maintenance
-- ✅ You value security
-- ✅ You're setting up for long-term use
-- ✅ You work on a team
-- ✅ You can spend 15 minutes on initial setup
-
-**Choose PAT if:**
-- ✅ You need something working in 5 minutes
-- ✅ You're just testing
-- ✅ You don't mind quarterly maintenance
-- ✅ You can't create GitHub Apps (permission limits)
-
----
-
-## Already Using PAT? Migrate to GitHub App
-
-It's easy to migrate and worth it for zero maintenance:
-
-1. **Set up GitHub App** (15 minutes) - [Guide](./GITHUB_APP_SETUP.md)
-2. **Test it works** (5 minutes)
-3. **Remove PAT** (1 minute)
-4. **Done!** Never rotate tokens again
-
-**Total migration time:** ~20 minutes for a lifetime of zero maintenance
-
----
+1. Workflow runs (scheduled or manual)
+2. GitHub App token is auto-generated (1-hour lifetime)
+3. PR is created using app token
+4. PR triggers validation workflows automatically
+5. Token expires (no cleanup needed)
+6. Next run generates fresh token
 
 ## Need Help?
 
-- **GitHub App Setup:** [GITHUB_APP_SETUP.md](./GITHUB_APP_SETUP.md)
-- **PAT Setup:** [AUTOMATED_PR_SETUP.md](./AUTOMATED_PR_SETUP.md)
-- **PAT Maintenance:** [PAT_MAINTENANCE.md](./PAT_MAINTENANCE.md)
-- **Troubleshooting:** Check the relevant guide above
+See the [Complete Setup Guide](./GITHUB_APP_SETUP.md) for detailed instructions and troubleshooting.
+
