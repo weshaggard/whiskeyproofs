@@ -130,14 +130,26 @@ jobs:
           cat ttb_list.txt >> $GITHUB_OUTPUT
           echo 'EOF' >> $GITHUB_OUTPUT
       
+      - name: Generate GitHub App Token
+        id: generate_token
+        if: steps.find_labels.outputs.has_new_labels == 'true'
+        uses: actions/create-github-app-token@v1
+        continue-on-error: true
+        with:
+          app-id: ${{ secrets.APP_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+          repositories: ${{ github.event.repository.name }}
+      
       - name: Create Pull Request
         if: steps.find_labels.outputs.has_new_labels == 'true'
         uses: peter-evans/create-pull-request@v7
         with:
-          # Use PAT to allow PR to trigger pull_request workflows
-          # GITHUB_TOKEN doesn't trigger workflows for security reasons
-          # See: https://github.com/peter-evans/create-pull-request#action-inputs
-          token: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
+          # Use GitHub App token (preferred), fall back to PAT, then GITHUB_TOKEN
+          # GitHub App: Automatic token rotation, no manual maintenance
+          # PAT: Requires manual rotation every 90 days
+          # GITHUB_TOKEN: Won't trigger PR workflows (fallback only)
+          # See: .github/GITHUB_APP_SETUP.md for GitHub App setup instructions
+          token: ${{ steps.generate_token.outputs.token || secrets.PAT || secrets.GITHUB_TOKEN }}
           commit-message: 'Add new TTB labels from ${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }}'
           branch: automated/new-ttb-labels
           delete-branch: false

@@ -4,7 +4,8 @@ This document explains how to make the validation pipeline automatically trigger
 
 ## Quick Links
 
-- **Maintaining the PAT?** See [PAT Maintenance Guide](./PAT_MAINTENANCE.md)
+- **🌟 Recommended:** [GitHub App Setup](./GITHUB_APP_SETUP.md) - **Zero maintenance!**
+- **Alternative:** [PAT Setup](#setup-instructions-pat-method) - Requires manual rotation every 90 days
 - **Token expired?** See [Emergency Token Renewal](./PAT_MAINTENANCE.md#emergency-token-renewal)
 - **Troubleshooting?** See [Troubleshooting](#troubleshooting) below
 
@@ -16,9 +17,30 @@ By default, PRs created by `GITHUB_TOKEN` don't trigger `pull_request` workflows
 
 ## The Solution
 
-Use a **Personal Access Token (PAT)** instead of `GITHUB_TOKEN` when creating pull requests. This allows the created PRs to trigger workflows normally.
+You have two options:
 
-## Setup Instructions
+### Option 1: GitHub App (Recommended) ✨
+
+**✅ Zero manual maintenance**
+- Tokens rotate automatically (1-hour lifetime)
+- No expiration dates to track
+- Set up once, works forever
+- More secure with granular permissions
+
+**👉 [Follow the GitHub App Setup Guide](./GITHUB_APP_SETUP.md)**
+
+### Option 2: Personal Access Token (PAT)
+
+**⚠️ Requires manual rotation every 90 days**
+- Simpler initial setup
+- Needs regular maintenance
+- Manual token rotation required
+
+**Continue reading below for PAT setup instructions.**
+
+---
+
+## Setup Instructions (PAT Method)
 
 ### Step 1: Create a Personal Access Token
 
@@ -43,33 +65,45 @@ Use a **Personal Access Token (PAT)** instead of `GITHUB_TOKEN` when creating pu
 
 ### Step 3: Verify Workflow Configuration
 
-The workflows are already configured to use the PAT token:
+The workflows are already configured to use tokens in this priority order:
 
 **`.github/workflows/find-new-ttb-labels.yml`:**
 ```yaml
 - name: Create Pull Request
   uses: peter-evans/create-pull-request@v7
   with:
-    token: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}  # Uses PAT if available
+    # Priority: GitHub App > PAT > GITHUB_TOKEN
+    token: ${{ steps.generate_token.outputs.token || secrets.PAT || secrets.GITHUB_TOKEN }}
 ```
 
-The `||` operator means it will use `PAT` if it exists, otherwise fall back to `GITHUB_TOKEN`.
+**Token Selection:**
+1. **GitHub App token** (if APP_ID and APP_PRIVATE_KEY secrets exist)
+2. **PAT** (if PAT secret exists) 
+3. **GITHUB_TOKEN** (fallback - won't trigger workflows)
+
+If you set up the GitHub App, you can remove the PAT secret.
 
 ## How It Works
 
-### Before (Complex):
+### With GitHub App (Recommended):
+1. TTB workflow generates a fresh app token (valid 1 hour)
+2. PR is created using the app token
+3. PR automatically triggers validation workflow via normal `pull_request` trigger
+4. Results show up naturally as PR checks
+5. Token expires automatically (no cleanup needed)
+
+### With PAT (Alternative):
+1. TTB workflow creates PR using manually-created PAT
+2. PR automatically triggers validation workflow via normal `pull_request` trigger
+3. Results show up naturally as PR checks
+4. **Requires manual token rotation every 90 days**
+
+### Before (Old Complex Approach):
 1. TTB workflow creates PR using `GITHUB_TOKEN`
 2. PR doesn't trigger validation workflow (security restriction)
 3. Separate `workflow_run` trigger required
 4. Manual commit status updates needed to show results on PR
 5. Extra 70+ lines of complex status management code
-
-### After (Simple):
-1. TTB workflow creates PR using `PAT`
-2. PR automatically triggers validation workflow via normal `pull_request` trigger
-3. Results show up naturally as PR checks
-4. No manual status management needed
-5. Clean, simple code
 
 ## Benefits
 
@@ -107,28 +141,39 @@ This shouldn't happen with the PAT approach. If it does:
 
 ## Security Considerations
 
-**PAT Security:**
+**Recommendation: Use GitHub App for Best Security**
+
+GitHub Apps provide better security than PATs:
+- ✅ Short-lived tokens (1 hour vs 90 days)
+- ✅ Granular, repository-scoped permissions
+- ✅ Better audit logging
+- ✅ Automatic rotation (no manual process)
+
+**👉 [Set up GitHub App](./GITHUB_APP_SETUP.md)**
+
+**If Using PAT:**
 - Store PAT as a repository secret (never commit to code)
 - Use minimal necessary scopes (`repo` + `workflow`)
 - Set an expiration date (e.g., 90 days) and rotate regularly
-- Consider using a GitHub App token for better security controls
+- Consider migrating to GitHub App for zero maintenance
 
-**⭐ For detailed maintenance procedures, see:** [PAT Maintenance Guide](./PAT_MAINTENANCE.md)
+**⭐ For detailed PAT maintenance procedures, see:** [PAT Maintenance Guide](./PAT_MAINTENANCE.md)
 
 This includes:
 - Regular rotation schedule and procedures
 - Expiration monitoring
 - Emergency renewal steps
-- Automation options
 - Security best practices
 
-**Alternative: GitHub App Token**
+**Migration Path: PAT → GitHub App**
 
-For enterprise/organization use, consider using a GitHub App instead of a PAT:
-- More granular permissions
-- Better audit logging
-- Automatic token rotation
-- See: https://github.com/tibdex/github-app-token
+Already using a PAT? You can easily migrate:
+
+1. Set up GitHub App (one-time, 15 minutes)
+2. Test that it works
+3. Remove the PAT secret (no longer needed)
+
+See [GitHub App Setup Guide](./GITHUB_APP_SETUP.md) for migration instructions.
 
 ## References
 
