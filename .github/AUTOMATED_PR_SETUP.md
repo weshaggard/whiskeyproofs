@@ -2,6 +2,14 @@
 
 This document explains how to make the validation pipeline automatically trigger on PRs created by automated workflows (like the TTB label finder) and by GitHub Copilot.
 
+## Quick Links
+
+- **Maintaining the PAT?** See [PAT Maintenance Guide](./PAT_MAINTENANCE.md)
+- **Token expired?** See [Emergency Token Renewal](./PAT_MAINTENANCE.md#emergency-token-renewal)
+- **Troubleshooting?** See [Troubleshooting](#troubleshooting) below
+
+---
+
 ## The Problem
 
 By default, PRs created by `GITHUB_TOKEN` don't trigger `pull_request` workflows. This is a security feature in GitHub Actions to prevent recursive workflow runs.
@@ -30,6 +38,8 @@ Use a **Personal Access Token (PAT)** instead of `GITHUB_TOKEN` when creating pu
 3. Name: `PAT`
 4. Value: Paste the token you copied
 5. Click "Add secret"
+
+**⚠️ Important:** Set a calendar reminder to rotate this token before it expires! See [PAT Maintenance Guide](./PAT_MAINTENANCE.md) for details.
 
 ### Step 3: Verify Workflow Configuration
 
@@ -102,6 +112,15 @@ This shouldn't happen with the PAT approach. If it does:
 - Use minimal necessary scopes (`repo` + `workflow`)
 - Set an expiration date (e.g., 90 days) and rotate regularly
 - Consider using a GitHub App token for better security controls
+
+**⭐ For detailed maintenance procedures, see:** [PAT Maintenance Guide](./PAT_MAINTENANCE.md)
+
+This includes:
+- Regular rotation schedule and procedures
+- Expiration monitoring
+- Emergency renewal steps
+- Automation options
+- Security best practices
 
 **Alternative: GitHub App Token**
 
