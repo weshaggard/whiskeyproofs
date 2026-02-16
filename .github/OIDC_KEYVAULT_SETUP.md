@@ -1,10 +1,22 @@
-# OIDC + Key Vault Setup for Enhanced Security
+# OIDC + Key Vault Setup (Optional Enhancement)
 
-**🔒 Most Secure: Private key never leaves your cloud provider!**
+**🔒 Maximum Security: Private key never leaves your cloud provider!**
 
-This guide explains how to use OIDC with cloud key vaults to avoid storing the GitHub App private key in GitHub Secrets.
+**⚠️ This is an OPTIONAL advanced configuration.** The standard GitHub App setup with environment secrets is production-ready and secure for most use cases.
 
-## The Enhanced Security Approach
+**Consider this enhancement if:**
+- You need maximum security / compliance
+- You have regulatory requirements
+- You already use Azure or AWS infrastructure
+- You want to eliminate all private key storage in GitHub
+
+**Otherwise, stick with the standard setup** - it's secure, simpler, and works great!
+
+---
+
+This guide shows how to use OIDC federation with Azure Key Vault or AWS Secrets Manager to generate GitHub App tokens without storing the private key in GitHub Secrets.
+
+## Why This is More Secure (But Optional)
 
 ### What You're Concerned About:
 - Storing private key in GitHub Secrets
@@ -247,3 +259,42 @@ I can help you implement the OIDC + Key Vault approach if you'd like:
 - Most cost-effective
 
 Which approach would you like to pursue?
+
+---
+
+## When to Implement This
+
+**You can implement OIDC + Key Vault anytime:**
+- ✅ Current setup works fine - no rush
+- ✅ Can upgrade later without disruption
+- ✅ Migration is straightforward
+- ✅ No changes needed to GitHub App itself
+
+**Good reasons to upgrade later:**
+- Security requirements increase
+- Compliance/audit requirements
+- You start using Azure/AWS for other purposes
+- You want enhanced monitoring
+
+**Perfectly fine to stay with current setup:**
+- GitHub environment secrets are secure
+- Zero maintenance is the same
+- Works great for personal/small projects
+- No additional costs
+
+## Migration Path (When Ready)
+
+If you decide to implement this later:
+
+1. **Set up cloud resources** (Key Vault or Secrets Manager)
+2. **Import your existing private key** to the cloud
+3. **Update workflow** to use OIDC authentication
+4. **Test thoroughly**
+5. **Remove private key from GitHub secrets**
+6. **Done!** Same zero maintenance, enhanced security
+
+No disruption to existing automated PRs during migration.
+
+---
+
+**Current Recommendation:** Stay with the GitHub App setup you just completed. It's secure, simple, and maintenance-free. You can always enhance with OIDC + Key Vault later if your security requirements change!

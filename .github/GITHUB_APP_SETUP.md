@@ -4,6 +4,10 @@
 
 This guide shows you how to set up a GitHub App for automated PR workflows. GitHub Apps provide automatic token rotation with no manual maintenance needed.
 
+**✅ This is a production-ready solution.** The GitHub App with environment secrets provides excellent security for most use cases.
+
+**🔒 Want even more security?** See the optional [OIDC + Key Vault enhancement](./OIDC_KEYVAULT_SETUP.md) to avoid storing the private key in GitHub entirely.
+
 ## Why GitHub App?
 
 - ✅ **Zero Maintenance** - Set up once, works forever
@@ -248,6 +252,8 @@ The impact is limited because:
 
 **For detailed security analysis:** See [SECURITY_ANALYSIS.md](./SECURITY_ANALYSIS.md)
 
+**For maximum security (optional future enhancement):** See [OIDC + Key Vault Setup](./OIDC_KEYVAULT_SETUP.md) to store the private key in Azure Key Vault or AWS Secrets Manager with OIDC authentication.
+
 **Best Practices:**
 
 ✅ **Store private key as secret** - Never commit to git  
@@ -274,6 +280,27 @@ The impact is limited because:
 4. **Granular Permissions:** Scoped to specific repositories
 5. **No Expiration:** App itself doesn't expire
 6. **Professional:** Better for teams and organizations
+
+## Future Enhancement: OIDC + Key Vault (Optional)
+
+**Current setup (environment secrets) is production-ready and secure.** However, if you want to eliminate private key storage in GitHub entirely, you can optionally upgrade to OIDC + Key Vault:
+
+**Benefits of OIDC + Key Vault:**
+- 🔒 Private key stored in Azure Key Vault or AWS Secrets Manager
+- 🔒 With Azure: Private key **never** downloaded (remote signing)
+- 🔒 Zero static credentials in GitHub (OIDC auth)
+- 🔒 Enhanced audit logging in cloud provider
+- 🔒 Better for compliance/regulatory requirements
+
+**When to consider:**
+- Security requirements increase
+- Need enhanced audit capabilities  
+- Regulatory compliance requires it
+- Already have Azure/AWS infrastructure
+
+**📖 See:** [OIDC + Key Vault Setup Guide](./OIDC_KEYVAULT_SETUP.md)
+
+**Migration:** Can be done anytime without disruption - just switch the workflow steps.
 
 ## Support and Resources
 

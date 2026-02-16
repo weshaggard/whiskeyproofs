@@ -1,37 +1,16 @@
 # Automated PR Setup
 
-This repository uses a **GitHub App** for automated pull request creation, providing zero-maintenance workflow automation.
+**✅ Your setup is complete!** This repository uses a GitHub App for automated pull request creation with zero-maintenance workflow automation.
 
-## Why GitHub App?
+The GitHub App approach with environment secrets provides excellent security and is production-ready.
+
+## Current Setup
 
 - ✅ **Zero Maintenance** - Set up once, works forever
 - ✅ **Automatic Token Rotation** - Fresh 1-hour tokens on each run
 - ✅ **Better Security** - Short-lived, repository-scoped tokens
-- ✅ **Granular Permissions** - Only what's needed
+- ✅ **Environment Secrets** - Stored in 'automation' environment
 - ✅ **Never Expires** - No token expiration to manage
-
-## Setup Guide
-
-**👉 [Complete GitHub App Setup Instructions](./GITHUB_APP_SETUP.md)**
-
-### Quick Overview
-
-1. **Create GitHub App** (5 minutes)
-   - Go to https://github.com/settings/apps/new
-   - Configure permissions: Contents, Pull Requests, Workflows (Read & Write)
-   - Generate private key
-
-2. **Add Secrets** (2 minutes)
-   - `APP_ID`: Your app's ID number
-   - `APP_PRIVATE_KEY`: Contents of the .pem file
-
-3. **Done!** (No maintenance needed)
-   - Workflows automatically use the app
-   - Tokens rotate automatically
-   - Works forever
-
-**Setup Time:** ~15 minutes one-time  
-**Maintenance Required:** None
 
 ## How It Works
 
@@ -41,6 +20,32 @@ This repository uses a **GitHub App** for automated pull request creation, provi
 4. PR triggers validation workflows automatically
 5. Token expires (no cleanup needed)
 6. Next run generates fresh token
+
+## Setup Guide
+
+**👉 [Complete GitHub App Setup Instructions](./GITHUB_APP_SETUP.md)**
+
+Your secrets are configured in: **Settings → Environments → automation**
+- `APP_ID`
+- `APP_PRIVATE_KEY`
+
+**Setup Time:** ~15 minutes one-time  
+**Maintenance Required:** None
+
+## Optional Future Enhancement
+
+**Want maximum security?** You can optionally upgrade to OIDC + Key Vault later:
+
+📖 [OIDC + Key Vault Setup Guide](./OIDC_KEYVAULT_SETUP.md) (Optional)
+
+This stores the private key in Azure Key Vault or AWS Secrets Manager instead of GitHub, with remote signing that never downloads the key.
+
+**When to consider:**
+- Enhanced security/compliance requirements
+- Already using Azure/AWS
+- Want to eliminate all credential storage in GitHub
+
+**Current setup is fine for now** - you can always upgrade later if needed.
 
 ## Need Help?
 

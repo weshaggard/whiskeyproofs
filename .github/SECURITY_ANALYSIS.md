@@ -201,7 +201,31 @@ There is **no perfect solution** without storing credentials. You must choose ba
 
 ## If You're Still Concerned
 
-### Alternative: Manual Approval Workflow
+### Option 1: OIDC + Key Vault (Advanced - Optional)
+
+If you need maximum security and can invest in setup time:
+
+**✅ Use OIDC + Azure Key Vault or AWS Secrets Manager**
+
+This approach:
+- Stores private key in cloud provider (Azure/AWS)
+- Uses OIDC for authentication (no cloud credentials in GitHub)
+- With Azure: Private key **never** downloaded (remote signing)
+- Enhanced audit logging and compliance
+
+**📖 See:** [OIDC + Key Vault Setup Guide](./OIDC_KEYVAULT_SETUP.md)
+
+**When to use:**
+- Maximum security requirements
+- Regulatory/compliance needs
+- Already using Azure or AWS
+- Want to eliminate GitHub secret storage
+
+**Setup time:** 1-2 hours (one-time)  
+**Maintenance:** None  
+**Cost:** ~$1-2/month (cloud provider fees)
+
+### Option 2: Manual Approval Workflow (Most Secure, Least Practical)
 
 If you absolutely cannot accept storing a private key, your only option is:
 
