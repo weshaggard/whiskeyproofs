@@ -87,45 +87,58 @@ This guide shows you how to set up a GitHub App for automated PR workflows. GitH
 
 4. **Click "Install"**
 
-### Step 4: Add Secrets to Repository
+### Step 4: Add Secrets to Environment
 
-1. **Go to your repository:**
-   https://github.com/weshaggard/whiskeyproofs/settings/secrets/actions
+1. **Go to your repository environments:**
+   https://github.com/weshaggard/whiskeyproofs/settings/environments
 
-2. **Add two secrets:**
+2. **Create or select the 'automation' environment:**
+   - If it doesn't exist, click "New environment"
+   - Name it: `automation`
+   - Click "Configure environment"
+
+3. **Add two environment secrets:**
 
    **Secret 1: `APP_ID`**
-   - Click "New repository secret"
+   - In the environment settings, scroll to "Environment secrets"
+   - Click "Add secret"
    - Name: `APP_ID`
    - Value: The App ID from Step 1.4 (e.g., `123456`)
    - Click "Add secret"
 
    **Secret 2: `APP_PRIVATE_KEY`**
-   - Click "New repository secret"
+   - Click "Add secret" again
    - Name: `APP_PRIVATE_KEY`
    - Value: The entire `.pem` file contents from Step 2.5
    - Click "Add secret"
 
 ### Step 5: Verify Workflow Configuration
 
-The workflow file `.github/workflows/find-new-ttb-labels.yml` is already configured to use the GitHub App token:
+The workflow file `.github/workflows/find-new-ttb-labels.yml` is already configured to use the GitHub App token from the 'automation' environment:
 
 ```yaml
-- name: Generate GitHub App Token
-  id: generate_token
-  uses: actions/create-github-app-token@v1
-  with:
-    app-id: ${{ secrets.APP_ID }}
-    private-key: ${{ secrets.APP_PRIVATE_KEY }}
-    repositories: ${{ github.repository }}
+jobs:
+  find-new-labels:
+    runs-on: ubuntu-latest
+    environment: automation  # References the 'automation' environment for secrets
+    
+    steps:
+      # ...
+      - name: Generate GitHub App Token
+        id: generate_token
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ secrets.APP_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+          repositories: ${{ github.repository }}
 
-- name: Create Pull Request
-  uses: peter-evans/create-pull-request@v7
-  with:
-    token: ${{ steps.generate_token.outputs.token }}
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ steps.generate_token.outputs.token }}
 ```
 
-No changes needed - the workflow is ready to use once you add the secrets!
+No changes needed - the workflow is ready to use once you add the secrets to the 'automation' environment!
 
 ### Step 6: Test the Setup
 
@@ -167,8 +180,13 @@ No changes needed - the workflow is ready to use once you add the secrets!
 **Check:**
 - APP_ID secret is correct (numbers only, no quotes)
 - APP_PRIVATE_KEY secret contains the full `.pem` file contents
+- Secrets are in the 'automation' environment (not repository secrets)
 - GitHub App is installed on the repository
 - GitHub App has the correct permissions
+
+**To verify secrets location:**
+- Go to: Repository Settings → Environments → automation
+- Check that both APP_ID and APP_PRIVATE_KEY are listed under "Environment secrets"
 
 ### Error: "Resource not accessible by integration"
 
@@ -231,7 +249,7 @@ No changes needed - the workflow is ready to use once you add the secrets!
 | Item | Value | Location |
 |------|-------|----------|
 | App Settings | - | https://github.com/settings/apps |
-| Repository Secrets | APP_ID, APP_PRIVATE_KEY | Repository Settings → Secrets |
+| Environment Secrets | APP_ID, APP_PRIVATE_KEY | Repository Settings → Environments → automation |
 | Workflow File | find-new-ttb-labels.yml | `.github/workflows/` |
 | Test Workflow | Run workflow manually | Actions tab |
 
