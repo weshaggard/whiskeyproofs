@@ -1,0 +1,155 @@
+# Weekly workflow to find new bourbon and rye releases and add them to the whiskey index
+name: Find New Bourbon and Rye Releases
+
+on:
+  # Run weekly on Monday at 9 AM UTC
+  schedule:
+    - cron: '0 9 * * 1'
+
+  # Allow manual trigger
+  workflow_dispatch:
+    inputs:
+      week_range:
+        description: 'Week range description (e.g., "past week" or "March 2025")'
+        required: false
+        type: string
+        default: 'past week'
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  create-research-issue:
+    runs-on: ubuntu-latest
+    environment: automation
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set date range
+        id: dates
+        run: |
+          WEEK_RANGE="${{ github.event.inputs.week_range || 'past week' }}"
+          TODAY=$(date +%Y-%m-%d)
+          LAST_WEEK=$(date -d '7 days ago' +%Y-%m-%d)
+          echo "today=${TODAY}" >> $GITHUB_OUTPUT
+          echo "last_week=${LAST_WEEK}" >> $GITHUB_OUTPUT
+          echo "week_range=${WEEK_RANGE}" >> $GITHUB_OUTPUT
+
+      - name: Generate GitHub App Token
+        id: generate_token
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ secrets.APP_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+          repositories: ${{ github.event.repository.name }}
+
+      - name: Ensure labels exist
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ steps.generate_token.outputs.token }}
+          script: |
+            const labels = [
+              { name: 'automated', color: 'ededed', description: 'Automated by workflow' },
+              { name: 'release-research', color: '0075ca', description: 'New whiskey release research task' }
+            ];
+            for (const label of labels) {
+              try {
+                await github.rest.issues.getLabel({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  name: label.name
+                });
+              } catch (e) {
+                if (e.status === 404) {
+                  await github.rest.issues.createLabel({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    name: label.name,
+                    color: label.color,
+                    description: label.description
+                  });
+                  console.log(`Created label: ${label.name}`);
+                }
+              }
+            }
+
+      - name: Create research issue for Copilot agent
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ steps.generate_token.outputs.token }}
+          script: |
+            const today = '${{ steps.dates.outputs.today }}';
+            const lastWeek = '${{ steps.dates.outputs.last_week }}';
+            const weekRange = '${{ steps.dates.outputs.week_range }}';
+
+            const issueBody = `## Automated Weekly Release Research Task
+
+            **Date Range:** ${lastWeek} to ${today}
+            **Triggered by:** Scheduled weekly workflow
+
+            ## Task
+
+            Research new bourbon and rye whiskey releases announced in the **${weekRange}** and update the whiskey index (\`_data/whiskeyindex.csv\`) accordingly.
+
+            ## Instructions
+
+            Follow the detailed agent instructions in \`.github/agents/find-new-releases.md\` to complete this task.
+
+            ### Summary of what to do:
+
+            1. **Search for new releases** from major bourbon and rye distilleries by checking their official websites and press releases for announcements in the past week. Focus on:
+               - New limited edition batch releases (e.g., Booker's quarterly batches, E.H. Taylor Barrel Proof, etc.)
+               - New annual releases (e.g., Pappy Van Winkle, Buffalo Trace Antique Collection, etc.)
+               - New standard products added to a distillery's lineup
+               - Existing standard products where a new release year should be added to the year range
+
+            2. **For each new release found:**
+               - Collect all required fields: Name, Batch, Age, Proof, ReleaseYear, Distillery, Type
+               - Find the official product URL (distillery website preferred)
+               - Search for a TTB COLA ID in \`labels/\` directory first, then in the public TTB registry at https://ttbonline.gov/colasonline/publicSearchColasBasic.do
+               - Check if the product already exists in the CSV — if so, just update the ReleaseYear range
+
+            3. **Update \`_data/whiskeyindex.csv\`:**
+               - Add new entries for genuinely new products/batches
+               - Update ReleaseYear ranges for existing standard products (e.g., change \`1999-2024\` to \`1999-2025\`)
+               - Maintain the correct sort order (Name ascending, Batch descending)
+               - Run validation: \`python3 .github/scripts/validate_whiskey_data.py\`
+
+            4. **Create a pull request** with all changes, linking back to this issue.
+
+            ### Key distilleries to check:
+            - Buffalo Trace Distillery (Buffalo Trace, Eagle Rare, Blanton's, E.H. Taylor, Stagg, Weller, Van Winkle, W.L. Weller, George T. Stagg)
+            - Heaven Hill (Elijah Craig, Evan Williams, Larceny, Henry McKenna, Parker's Heritage)
+            - Wild Turkey (Wild Turkey, Russell's Reserve, Rare Breed)
+            - Four Roses (Four Roses Single Barrel, Four Roses Small Batch Select, Four Roses Limited)
+            - Brown-Forman (Woodford Reserve, Old Forester, Jack Daniel's)
+            - Jim Beam (Booker's, Knob Creek, Basil Hayden's, Baker's, Little Book)
+            - Maker's Mark (Maker's Mark Wood Finishing Series, Maker's Mark Cask Strength)
+            - Michter's (Michter's US 1, Michter's 10, Michter's 20, Michter's 25)
+            - Wilderness Trail, New Riff, Rabbit Hole, Barrell Craft Spirits, WhistlePig, Breckenridge
+
+            ### Data quality rules:
+            - Proof: Use whole numbers for integers (e.g., \`90\`, \`107\`); decimals only when necessary (e.g., \`94.4\`)
+            - Age: Single year value (e.g., \`7\`, \`12\`); blank if no age statement
+            - Batch: Official batch ID or year; \`standard\` for core non-limited products
+            - ReleaseYear: Single year for limited releases; year range for standard releases (e.g., \`1999-${today.substring(0,4)}\`)
+            - TTB_ID: 14-digit identifier from TTB COLA registry (leave blank if not found; validate with \`python3 .github/scripts/validate_ttb_urls.py\` after adding)
+
+            ---
+            *This issue was automatically created by the weekly release finder workflow (\`.github/workflows/find-new-releases.yml\`).*`;
+
+            const issue = await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `[Weekly] Research new bourbon and rye releases (${lastWeek} to ${today})`,
+              body: issueBody,
+              labels: ['automated', 'release-research'],
+              assignees: ['copilot']
+            });
+
+            console.log(`Created issue #${issue.data.number}: ${issue.data.html_url}`);
+            core.summary.addRaw(`## New Release Research Issue Created\n\nIssue [#${issue.data.number}](${issue.data.html_url}) has been created and assigned to @copilot.\n\nThe Copilot agent will research new bourbon and rye releases and create a PR with any updates to the whiskey index.`);
+            await core.summary.write();
