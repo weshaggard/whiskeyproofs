@@ -56,7 +56,4 @@ exclude:
   - vendor/ruby/
   - .github
   - README.md
-  - SEO_SETUP_GUIDE.md
   - AGENTS.md
-  - found_ttb_ids.json
-  - smart_update_ttb.py
