@@ -10,7 +10,8 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
+  pull-requests: write
 
 jobs:
   research-and-update:
@@ -21,100 +22,40 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          python-version: '3.x'
+          node-version: '22'
 
-      - name: Install dependencies
-        run: pip install requests beautifulsoup4
+      - name: Install GitHub Copilot CLI
+        run: npm install -g @github/copilot
 
-      - name: Research new releases
-        id: research
+      - name: Run release research agent
+        # COPILOT_GITHUB_TOKEN must be a fine-grained PAT stored in the 'automation' environment with:
+        #   - User permission:        Copilot Requests (Read)
+        #   - Repository permissions: Contents (Read/Write), Pull Requests (Read/Write), Metadata (Read)
+        # See: https://docs.github.com/en/copilot/how-tos/copilot-cli/automate-with-actions
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COPILOT_GITHUB_TOKEN: ${{ secrets.COPILOT_GITHUB_TOKEN }}  # Authenticates with the Copilot AI service
+          GH_TOKEN: ${{ secrets.COPILOT_GITHUB_TOKEN }}              # Used by gh CLI for GitHub API calls (e.g. creating PRs)
+          GITHUB_TOKEN: ${{ secrets.COPILOT_GITHUB_TOKEN }}          # Used by GitHub MCP server for repository operations
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          CI: true
+          NO_COLOR: 1
+          TERM: dumb
         run: |
-          python3 .github/scripts/research_new_releases.py \
-            --output research_results.json \
-            --verbose
-
-          # Parse all values in a single Python call to avoid repeated JSON reads
-          python3 << 'PYEOF' >> $GITHUB_OUTPUT
-          import json
-          d = json.load(open('research_results.json'))
-          print(f"has_changes={'true' if d['has_changes'] else 'false'}")
-          print(f"change_count={d['change_count']}")
-          # Use heredoc for summary to handle special characters safely
-          print(f"summary<<EOF\n{d['summary']}\nEOF")
-          PYEOF
-
-      - name: Build change list for PR body
-        id: changelist
-        if: steps.research.outputs.has_changes == 'true'
-        run: |
-          python3 << 'PYEOF' >> $GITHUB_OUTPUT
-          import json
-          d = json.load(open('research_results.json'))
-          lines = '\n'.join(f'- {c}' for c in d['changes'])
-          print(f"changes_md<<EOF\n{lines}\nEOF")
-          PYEOF
-
-      - name: Validate CSV
-        if: steps.research.outputs.has_changes == 'true'
-        run: python3 .github/scripts/validate_whiskey_data.py
-
-      - name: Generate GitHub App Token
-        id: generate_token
-        if: steps.research.outputs.has_changes == 'true'
-        uses: actions/create-github-app-token@v1
-        with:
-          app-id: ${{ secrets.APP_ID }}
-          private-key: ${{ secrets.APP_PRIVATE_KEY }}
-          repositories: ${{ github.event.repository.name }}
-
-      - name: Create Pull Request
-        if: steps.research.outputs.has_changes == 'true'
-        uses: peter-evans/create-pull-request@v7
-        with:
-          token: ${{ steps.generate_token.outputs.token }}
-          commit-message: 'Research: add new bourbon/rye releases'
-          branch: automated/new-releases-${{ github.run_id }}
-          delete-branch: true
-          title: 'New Releases: ${{ steps.research.outputs.change_count }} update(s) found'
-          body: |
-            ## Automated Weekly Release Research
-
-            This PR was automatically created by the weekly release finder workflow.
-
-            **Changes:** ${{ steps.research.outputs.change_count }}
-            **Summary:** ${{ steps.research.outputs.summary }}
-
-            ### Changes
-
-            ${{ steps.changelist.outputs.changes_md }}
-
-            ### Review Checklist
-
-            - [ ] Verify proof, age, and batch values are correct
-            - [ ] Check TTB IDs are accurate (or blank if not found)
-            - [ ] Verify product URLs are working
-
-            ---
-            *Automated by `.github/workflows/find-new-releases.yml`*
-          labels: |
-            automated
-            release-research
-
-      - name: Upload research results
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: research-results-${{ github.run_id }}
-          path: research_results.json
-          retention-days: 30
-
-      - name: No changes found
-        if: steps.research.outputs.has_changes == 'false'
-        run: |
-          echo "No new bourbon or rye releases found this week."
-          echo "Summary: ${{ steps.research.outputs.summary }}"
+          EXIT_CODE=0
+          # 30-minute timeout: research involves fetching multiple distillery sites, calling the
+          # Copilot API multiple times, editing files, and creating a PR — all of which add up.
+          timeout --foreground --signal=TERM --kill-after=30s 1800s \
+            copilot --prompt "$(cat .github/agents/find-new-releases.md)" \
+              --allow-all \
+              --autopilot \
+              --no-ask-user \
+              < /dev/null || EXIT_CODE=$?
+          if [ $EXIT_CODE -ne 0 ]; then
+            echo "Warning: Copilot agent exited with code $EXIT_CODE"
+            echo "Check the step logs above for details. A non-zero exit may indicate the agent"
+            echo "timed out, hit an API error, or could not find any new releases to add."
+            echo "See: https://docs.github.com/en/copilot/how-tos/copilot-cli/automate-with-actions"
+          fi
