@@ -27,3 +27,60 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+a
+
+LARCENY PRIVATE SINGLE BARREL
+
+JOHN E. FITZGERALD
+
+<>
+
+HAND SELECTED
+
+OC
+
+=a)
+
+7 UNCUT
+
+FINE
+
+“i
+
+BOURBON
+
+hort
+
+Posh
+
+hy
+
+WD FITZGERALD
+
+tke}
+
+— ©
+
+—O
+
+——o)
+
+——_ st
+
+-———
+
+a (CO)
+
+### Label 1
+
+LARCENY
+
+ZB
+
+%

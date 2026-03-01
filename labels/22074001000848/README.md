@@ -22,3 +22,66 @@
 
 ![Front Label](./front_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+Wo
+
+i)
+
+q
+
+\
+
+A LEGENDARY SIP
+
+ip o
+
+began t
+
+in
+
+Oth
+
+in
+
+si
+
+GOVERNMEN
+
+WARNING
+
+]
+
+N
+
+U
+
+st
+
+### Front Label
+
+\\
+
+\-Z-
+
+NG
+
+EMU
+
+GATSBY
+
+RESERVE
+
+15 YEAR OLD
+
+WHISKEY
+
+(43)
+
+SK STRENGTH
+
+istilled by Ross & Squibb Distille

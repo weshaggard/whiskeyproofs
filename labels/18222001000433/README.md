@@ -30,3 +30,186 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+—— oe) =
+
+=r =o
+
+SS
+
+——
+
+<S=s
+
+—
+
+### Front Label
+
+gTER'S GULLECS,
+
+WOODFORD RESERVE’
+
+CHOCOLATE MALTED RYE
+
+KENTUCKY STRAIGHT BOURBON WHISKEY
+
+SERIES NO.
+
+SELECTED BY
+
+750 mL
+
+45.2% ALC/VOL
+
+15 Ui
+
+Mig
+
+(30.4 PROOF)
+
+### Label 3
+
+2
+
+Rt
+
+=
+
+mUIS{EIIR
+
+ile) Ne
+
+i
+
+R
+
+A
+
+Mh
+
+Ws
+
+ie
+
+if
+
+A\| So,
+
+ial
+
+it
+
+i)
+
+Ni
+
+AHF 3
+
+a
+
+LimiteD.
+
+ELAN
+
+HI
+
+$a
+
+ty
+
+SN
+
+0
+
+4)
+
+WV
+
+7 CHOCOLATE
+
+oe
+
+jones
+
+pin
+
+AN
+
+MALTED
+
+fs
+
+RYE
+
+25
+
+lif
+
+)if
+
+maine
+
+Nita
+
+y=
+
+a
+
+EDITION
+
+\e
+
+fg
+
+aN
+
+af
+
+¢
+
+Pod IIR
+
+Ht
+
+Vil
+
+=
+
+ime
+
+a
+
+vat
+
+yi
+
+Y.
+
+i
+
+318
+
+RY
+
+i
+
+AG
+
+\
+
+i
+
+it
+
+### Label 4
+
+The art of making fine whiskays first took place on the site of the
+
+10030731
+
+Woodford Reserve Distillery, a National Historic Landmark, in 1812.

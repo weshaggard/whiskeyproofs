@@ -26,3 +26,78 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+PRODUCED BY THE WOODFORD
+
+CACRY
+
+RESERVE DISTILLERY,
+
+VERSAILLES, KENTUCKY
+
+a
+
+RESPONSIBILITY.org 700ml
+
+@
+
+——| «5
+
+—————|=)
+
+es —
+
+LL, es
+
+GOVERNMENT WARNING: (1) ACCORDING TO
+
+_—————— |)
+
+THE SURGEON GENERAL, WOMEN SHOULD
+
+=
+
+NOT DRINK ALCOHOLIC BEVERAGES DUR-
+
+ING PREGNANCY BECAUSE OF THE RISK OF
+
+pel SS)
+
+ALCOHOLIC BEVERAGES IMPAIRS YOUR
+
+BIRTH DEFECTS. (2) CONSUMPTION OF
+
+—
+
+ABILITY TO DRIVE A CAR OR OPERATE MACH-
+
+INERY, AND MAY CAUSE HEALTH PROBLEMS
+
+### Front Label
+
+yh
+
+WOODFORD RESERVE®
+
+—_
+
+——
+
+set 119.5 raaer
+
+KENTUCKY STRAIGHT BOURBON WHISKEY
+
+700mL - 59.75% ALC/VOL (119.5 PROOF)
+
+### Label 3
+
+[oo oA aya aS Sapa u sue DDT
+
+BATCH
+
+PROOF

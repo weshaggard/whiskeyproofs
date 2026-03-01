@@ -20,3 +20,48 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+eo
+
+-
+
+A
+
+panne
+
+7*
+
+\
+
+<= =
+
+Li}
+
+Chak
+
+4<
+
+Snall
+
+——
+
+Ken’ cK Y
+
+STR \IGH
+
+SKE}
+
+4 BouRBON WH!
+
+G4
+
+J
+
+47% ALC/VOL
+
+Vrvvvvvvvyyyvvevvvververy

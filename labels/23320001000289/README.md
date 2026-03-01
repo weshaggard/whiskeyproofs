@@ -24,3 +24,110 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+In 1996, a catastrophic fire destroyed the Old Heaven Hill
+
+Springs Distillery in Bardstown, KY. To continue its distilling
+
+heritage, Heaven Hill purchased the Bernheim Distillery in
+
+Louisville, KY in 1999, which included the Old Fitzgerald
+
+brand. Distilled in 1999, this special release celebrates the
+
+25th anniversary of Heaven Hill continuing the legacy of
+
+the Old Fitzgerald brand today.
+
+DISTILLED AND BOTTLED BY OLD FITZGERALD DISTILLERY, LOUISVILLE, KY DSP KY 1 BARDSTOWN, KY DSP KY3
+
+HEAVENHILLDISTILLERY.COM GOVERNMENT WARNING: (1) ACCORDINGTO
+
+THE SURGEON GENERAL, WOMEN SHOULD
+
+NOT DRINK ALCOHOLIC BEVERAGES DUR
+
+ING PREGNANCY BECAUSE OF THE RISK OF
+
+|
+
+|
+
+|
+
+BIRTH DEFECTS. (2) CONSUMPTION OF
+
+96749" 00506
+
+ALCOHOLIC BEVERAGES IMPAIRS YOUR
+
+ABILITY TO DRIVE A CAR OR OPERATE MACH
+
+750ML VT-ME 15¢ REF-IAREF 5¢  INERY, AND MAY CAUSE HEALTH PROBLEMS.
+
+### Label 1
+
+KENTUCKY 5
+
+zRa!
+
+ON WHISKEY
+
+ls
+
+as
+
+BOTTLED-IN-BOND
+
+UNDER U.S. GOVERNMENT SUPERVISION
+
+YEARS
+
+AGED
+
+### Label 3
+
+Gi
+
+ZAI
+
+BOETLED IN-BOND UNDER
+
+bs
+
+LM)”
+
+3
+
+BA
+
+NNN
+
+HE SUPERVISION OR PH
+
+—\ td
+
+Ss
+
+SON
+
+ri
+
+OVERNMENT IN INTERN
+
+tel
+
+Di
+
+Is
+
+Aga gs*
+
+EVE
+
+E-BON DED WAREHOUSE

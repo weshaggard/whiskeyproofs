@@ -22,3 +22,80 @@
 
 ![Front Label](./front_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+STRAIGHT
+
+BOURBON WHISKEY
+
+Distilled in Indiana, bottled by
+
+Abstraction Spirits, LLC, Paducah, KY
+
+Mash Bill
+
+CORN
+
+RYE
+
+BARLEY
+
+60%
+
+36%
+
+4%
+
+os |
+
+Distilled from Grain
+
+TRACTION
+
+|
+
+As
+
+PIRITS
+
+98715 00072
+
+6
+
+Batch 1 - 2025
+
+GOVERNMENT WARNING: (1) According to the Surgeon General, women should not drink
+
+alcoholic beverages during pregnancy because of the risk of birth defects. (2)
+
+Consumption of alcoholic beverages impairs your ability to drive a car or operate
+
+machinery, and may cause health problems.
+
+### Front Label
+
+tt
+
+mie
+
+“7
+
+@
+
+‘Oo
+
+cu &
+
+=
+
+WG
+
+wm. sae.
+
+_S—
+
+Ce

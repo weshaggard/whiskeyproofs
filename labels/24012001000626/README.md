@@ -31,3 +31,50 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+aan
+
+BARREL PROOF
+
+URCEN
+
+STRAT BOURBON WHISKEY
+
+Lh
+
+ae
+
+eet
+
+=>
+
+_
+
+### Label 1
+
+ESTD
+
+LARCENY
+
+| STRAIGHT BOURBON WHISKEY
+
+### Label 2
+
+BARREL PROOF
+
+126.6%
+
+BATCH NO.
+
+WHEATED BOURBON MASHBILL
+
+BS 28
+
+STOLEN BY
+
+fou ee Fibzgerald as NCAOL §

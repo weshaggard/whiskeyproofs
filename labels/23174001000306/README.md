@@ -31,3 +31,164 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+DISTILLED AND BOTTLED BY
+
+WILD TURKEY DISTILLING CO.
+
+LAWRENCEBURG, KY
+
+www.wildturkeybourbon.com
+
+GOVERNMENT WARNING: (1)
+
+ACCORDING T0 THE SURGEON
+
+GENERAL, WOMEN SHOULD NOT
+
+DRINK ALCOHOLIC BEVERAGES
+
+DURING PREGNANCY BECAUSE
+
+OF THE RISK OF BIRTH DEFECTS.
+
+(2) CONSUMPTION OF ALCOHOLIC
+
+BEVERAGES
+
+IMPAIRS YOUR
+
+ABILITY TO DRIVE A CAR OR
+
+OPERATE MACHINERY, AND MAY
+
+CAUSE HEALTH PROBLEMS.
+
+PRODUCT OF USA 750mL
+
+DRINK RESPONSIBLY
+
+CAMPARIGROUP.INFO
+
+[A-5¢, VI/ME-15¢ REFUND
+
+### Front Label
+
+WILD IURKEY
+
+KENTUCKY STRAIGHT RYE WHISKEY
+
+TRIUMPH
+
+### Label 3
+
+we
+
+~ F
+
+fe
+
+an r
+
+oS
+
+aN
+
+oe
+
+nem
+
+ae
+
+—
+
+Pes
+
+5S
+
+ae,
+
+ae
+
+omen
+
+—
+
+ad
+
+x
+
+a
+
+“a
+
+a
+
+EE
+
+ZA:
+
+eo
+
+oF
+
+ee
+
+(7) fg
+
+Se
+
+iS
+
+y
+
+ee
+
+j.
+
+£-£
+
+—
+
+Ce
+
+AVE
+
+~
+
+### Label 4
+
+CRAFTED KY, USA
+
+LS)
+
+CENCE >
+
+a
+
+MASTER'S
+
+DSP-KY-67
+
+TLD},
+
+Siblicbancl’
+
+xa
+
+Ss
+
+A
+
+— KEEP
+
+MASTER DISTILLER
+
+750 ML PROOF 104 522 ALC/VOL
+
+AGED ]Q© years

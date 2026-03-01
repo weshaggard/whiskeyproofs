@@ -21,3 +21,70 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+2e
+
+melons
+
+LITTLE BOOK”
+
+aS
+
+SDE a Hook at anherwt GE
+
+ae
+
+met
+
+Ze
+
+rp
+
+aa
+
+556
+
+Bo
+
+Mt Te ge
+
+al
+
+'4
+
+SB
+
+5
+
+SZ
+
+sa
+
+g¢
+
+oO
+
+own
+
+aa
+
+54
+
+52
+
+HLENDED STRAIGHT WHISKEY
+
+QUIT RELEASE
+
+<'9
+
+esses
+
+### Label 2
+
+yy”

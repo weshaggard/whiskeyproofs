@@ -18,3 +18,68 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+as
+
+SE
+
+IZ
+
+es
+
+a
+
+es
+
+Zt
+
+ZA
+
+x
+
+Sug
+
+ee
+
+BEI
+
+RED BUD STRAIGHT
+
+$=
+
+=
+
+te
+
+a2
+
+RYE WHISKEY
+
+=
+
+THE GOLD SERIES
+
+40% ALC BY VOL
+
+S
+
+“Y
+
+The best spirits are distilled in a round building
+
+750 ML
+
+Zs
+
+where there are no corners for the devil to hide,
+
+bx
+
+Sa
+
+je

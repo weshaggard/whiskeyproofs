@@ -18,3 +18,68 @@
 
 ![Front Label](./front_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Front Label
+
+Cy
+
+=e)
+
+a(g\
+
+WH
+
+em
+
+fs
+
+“LS —_ a
+
+—
+
+SS ar
+
+NG!
+
+ASS
+
+VEX y
+
+Se
+
+iL
+
+vA
+
+[ABEL
+
+ES
+
+SS
+
+——.
+
+—<“
+
+PREMIUM TENNESSEE BOURBON WHISKEY
+
+Y NY
+
+LI
+
+px
+
+Drath ble - | ag
+
+4AT% MENOL.
+
+t,
+
+94PROOF 750ML is)
+
+an
+
+a,

@@ -16,3 +16,40 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+>
+
+LAWS
+
+WHISKEY HOUSE
+
+°
+
+FOUR GRAIN
+
+STRAIGHT
+
+BOURBON
+
+WHISKEY
+
+Li
+
+50ml
+
+47.5% ALC/VOL
+
+Ly
+
+=F
+
+a
+
+aa
+
+id

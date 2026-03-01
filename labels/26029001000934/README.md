@@ -16,3 +16,76 @@
 
 ![Back Label](./back_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+eo Ff P&@e6
+
+= XS
+
+—
+
+SX
+
+SS
+
+=
+
+SS
+
+=S
+
+— &
+
+ZAA
+
+=
+
+SE
+
+=>
+
+="
+
+as
+
+S
+
+—
+
+a
+
+A(
+
+i \
+
+7
+
+&
+
+iia
+
+OLD PUEBLO
+
+SPIRITS
+
+GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN
+
+SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF
+
+CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
+
+BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A
+
+006605120
+
+ll
+
+DISTILLED IN KENTUCKY | BOTTLED BY SPHEREX LLC 3780 £ 44TH ST STE 116 TUCSON AZ
+
+i —.<«,y
+
+®eeo ®

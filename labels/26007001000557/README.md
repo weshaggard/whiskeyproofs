@@ -20,3 +20,104 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+J
+
+DISTILLED FROM GRAIN AND MALT
+
+BLENDED & BOTTLED BY
+
+COORS WHISKEY CO., BARDSTOWN, KY
+
+BARMEN
+
+DS
+
+AeeReee
+
+To,
+
+HONORED
+
+INSPIRING
+
+04
+
+BARMEN1873BOURBON.COM
+
+HERITAGE
+
+LEGACY
+
+tg
+
+as
+
+1873 tea
+
+V4
+
+uv
+
+i core.
+
+i.
+
+SURGEON GENERAL WOMEN SHOULD NOT DRINK ALCOHOLIC
+
+GOVERNMENT WARNING: (1) ACCORDING 10 THE
+
+BOURBON
+
+Vo
+
+hea
+
+4
+
+ay
+
+yi
+
+en
+
+BEVERAGES DURING PREGHANCY BECAUSE OF THE RISK OF
+
+A BLEND of STRAIGHT BOURBON WHISKEYS
+
+Se
+
+BIATH DEFECTS. (2) CONSUMPTION OF ALCOKOLIC
+
+Sse 7ons of Une
+
+KEN
+
+BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR
+
+rere
+
+OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
+
+———
+
+6% ALC/VOL | 92 PROOF 376ml
+
+CA CRV ME-VT 15¢ IA 5¢
+
+### Label 2
+
+it
+
+ae
+
+D
+
+-—)
+
+ar

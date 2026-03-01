@@ -20,3 +20,38 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+WILD
+
+URKEY
+
+KENTUCKY
+
+straight
+
+BOURBON
+
+whiskey
+
+B
+
+Bottled by the
+
+Austin, Nichol:
+
+is Distiling Cone)
+
+Lawrenceburg, Kentucky, U
+
+i
+
+700 mL SSRWALC V0
+
+1. (Pa
+
+Lena

@@ -18,3 +18,32 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+GLENNS CREEK
+
+“A LITTLE DIFFERENT. A LOT BETTER!”
+
+Fated | —
+
+He)
+
+”\O
+
+RICH
+
+&
+
+MOUNTAIN
+
+AGED AT LEAST|_24 [mo. 375ML
+
+a
+
+DISTILLED, AGED & BOTTLED BY GLENNS CREEK DISTILLING, LLC acy
+
+FRANKFORT, KY

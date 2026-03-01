@@ -16,3 +16,36 @@
 
 ![Back Label](./back_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+i
+
+qe)
+
+EI
+
+Ss i
+
+2
+
+(==
+
+=
+
+—'
+
+[—
+
+———
+
+®LENDERY
+
+- LIMITED RELEASE
+
+Tidy ae
+
+Al. 602% by Voll 120 Pr of

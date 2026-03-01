@@ -26,3 +26,112 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+opr,
+
+S
+
+hie
+
+EVE
+
+HRE
+
+GOVERNMENT WARNINGE (I) ACCORDING T0 THE SURGEON GE
+
+WOMEN SHOULD NO
+
+MISTILLING co
+
+COHOLIC
+
+AGES DURING PR iy
+
+4 USE OF THE RISK OF
+
+CS.) CONSUMPTION
+
+OF ALCOHOLIC B
+
+CES IMPAIRS YOUR AB
+
+TY TO DRIVEA CAR OR OPERATE MACHINERY, AND MAY
+
+So
+
+CAUSE HEALTH PROBLEMS
+
+### Front Label
+
+mel
+
+(\
+
+ae
+
+4.
+
+RN
+
+(ELLENTED)
+
+———=
+
+———=~T¥,
+
+S
+
+S
+
+C
+
+— =
+
+)
+
+g
+
+reo
+
+REY
+
+ay
+
+<
+
+5S
+
+Won
+
+ZY
+
+WV
+
+RL
+
+EAUNG
+
+WHI SkEVanR Eg
+
+### Label 2
+
+59.0%
+
+VOLUME 750 ML
+
+SELECTED BY
+
+HEAD DISTILLER
+
+FOUNDER
+
+BOTTLE NUMBER
+
+VA
+
+i

@@ -27,3 +27,54 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+KENTUCKY STRAIGHT BOURBON WHISKEY
+
+NON-CHILL FILTERED AND BARREL PROOF
+
+RUSSELES
+
+—— RESERVE ===
+
+SINGLE RICKHOUSE
+
+00000 E:
+
+### Label 2
+
+m R02 sO
+
+Oocel
+
+RES sO
+
+Oz
+
+6 =
+
+zz =O
+
+25=0
+
+CAMP NELSON C
+
+a
+
+Fee
+
+MATURED ON FLOORS 3 & 4
+
+### Label 3
+
+GENERATIONS OF CRAFT
+
+GENERATIONS OF CRAFT
+
+LAWRENCEBURG, KY
+
+LAWRENCEBURG, KY

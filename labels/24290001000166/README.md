@@ -28,3 +28,98 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+~ —<
+
+Lid
+
+= <RM
+
+wham. ws
+
+Re
+
+se SKY > se
+
+H=
+
+or
+
+QUALITY
+
+a0
+
+=
+
+- =o)
+
+STD.
+
+pase:
+
+KNOB
+
+aos
+
+X
+
+CREEK.
+
+On”
+
+SINGLE BARREL SELECT BOURBON
+
+KENTUCKY STRAIGHT BOURBON WHISKEY
+
+=—=*
+
+### Label 2
+
+aie si
+
+OR Q
+
+AVOR
+
+UALITY
+
+oO
+
+120 PROOF
+
+POeUUUCCCUOOSSOOOSOOOOOOOC CCC OO CEC C ee ee eee eer erer rrr rer ie)
+
+SINCE
+
+1992
+
+oO
+
+0% ALC VOL
+
+120 PROOF
+
+### Label 3
+
+|
+
+80686°01682
+
+### Label 4
+
+8
+
+Ss
+
+eRMa <
+
+SKY “&
+
+DISTILLING
+
+COMPANY

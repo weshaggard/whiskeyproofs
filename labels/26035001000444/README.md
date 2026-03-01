@@ -22,3 +22,98 @@
 
 ![Front Label](./front_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+202:
+
+% 2
+
+er)
+
+=
+
+al
+
+wha
+
+AC
+
+>
+
+Scotti’s Original Springs® Private Stock is a five-year
+
+aged straight bourbon whiskey, crafted with heritage and
+
+aged with intention. This release draws from a family
+
+tradition that began in 1935, when handcrafted spirits
+
+were a bold act of passion. Our five-year straight bourbon
+
+whiskey expression builds on that legacy with a mash bill
+
+of 100% California-grown corn, rye, and barley.
+
+A tribute to the past, perfected for the present. Enjoy!
+
+ois
+
+AGED AT LEAST FIVE YEARS
+
+GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON
+
+WOMEN
+
+SHOULD NOT DRINK ALCOHOLIC
+
+GENERAL,
+
+BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF
+
+BIRTH DEFECTS.
+
+(2)
+
+CONSUMPTION OF ALCOHOLIC
+
+BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR
+
+OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
+
+CA REDEMPTION VALUE
+
+IM
+
+/
+
+### Front Label
+
+SCOTTY'S
+
+ORIGINAL
+
+©)
+
+S
+
+S]
+
+PRINGS’
+
+Wie
+
+Duval Lock
+
+BOURBON WHISKEY
+
+STRAIGHT
+
+MADE IN THE USA
+
+ALC. AD% BY VOL.
+
+730 m

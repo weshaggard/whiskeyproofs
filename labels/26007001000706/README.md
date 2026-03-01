@@ -20,3 +20,178 @@
 
 ![Front Label](./front_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+LEGACY WHISKEY COMPANY
+
+a
+
+KZ
+
+is)
+
+Hi)
+
+iy
+
+“As a direct descendant of A.G. Nall, one of the
+
+Ny
+
+merican spirit’s celebrated pioneers, I suddenly ;
+
+find myself walking in the very footsteps of
+
+Hi
+
+4
+
+bourbon royalty, down a path nearly lost to time,
+
+that through some stroke of destiny, I was meant
+
+i
+
+to find, explore and build upon. As a result, the
+
+pursuit of extraordinary pours has become a
+
+personal obsession to which I am dedicated, and
+
+{ud
+
+hase with relentless passion. I take our efforts
+
+4h
+
+i
+
+very seriously, and strive to honor history’s
+
+| ‘| passionate stewards of this trade with every one
+
+‘i
+
+A \.of our expressions. After all, ours is but a
+
+; humbling journey amongst the shadows of
+
+Mt
+
+{|
+
+f
+
+i legends.”
+
+Ir
+
+—Frederick Nall Kloecker
+
+—
+
+RENAISSANCE
+
+—
+
+GOVERNMENT WARNING:
+
+Distilled in Indiana.
+
+(1) According to the Surgeon General,
+
+women should not drink alcoholic beverages
+
+Bottled by Old Louisville
+
+during pregnancy because of the risk of birth
+
+defects. (2) Consumption of alcoholic
+
+Whiskey Company in
+
+beverages impairs your ability to drive a car
+
+Louisville, Kentucky.
+
+or operate machinery, and may cause health
+
+problems.
+
+### Front Label
+
+Seka
+
+Z59)
+
+.)
+
+»
+
+WS
+
+S59
+
+OTT
+
+(©)
+
+Aw.
+
+iy
+
+)
+
+X
+
+<y
+
+iY
+
+Oy
+
+WZ
+
+\
+
+aS
+
+A-G:-NALL
+
+{EGACY WHISKEY COMPayy
+
+(
+
+ay
+
+a
+
+—___
+
+———  — STRAIGHT — ———_—
+
+BOUIRIBOM
+
+——— — WHISKEY — ————
+
+— CASK STRENGTH —
+
+———
+
+BATCH
+
+65% ACL/VOL
+
+BOTTLE #
+
+/
+
+_
+
+750 ml
+
+a

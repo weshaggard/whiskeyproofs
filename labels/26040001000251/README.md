@@ -26,3 +26,50 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+DISTILLED IN KENTUCKY. AGED, BLENDED, AND BOTTLED
+
+BY SEVEN THREE DISTILLING CO IN NEW ORLEANS, LA.
+
+### Front Label
+
+EIN
+
+NK
+
+(BARREL 905- })
+
+GS WOKON
+
+— =O
+
+2)
+
+Hing
+
+JORG
+
+LDE!
+
+nmRE
+
+### Label 2
+
+~=_—_ OF ——_
+
+SELECTED BY
+
+HEAD DISTILL ER
+
+VOLUME 750 ML
+
+100
+
+BOTTLE NUMBER
+
+ae

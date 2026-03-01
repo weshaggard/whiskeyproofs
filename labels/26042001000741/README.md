@@ -20,3 +20,86 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+Q
+
+\
+
+\
+
+if
+
+4
+
+iy
+
+it
+
+N BL
+
+a)
+
+PE
+
+\
+
+Ye
+
+0 U/R
+
+\|
+
+Y
+
+\
+
+f
+
+/
+
+LED
+
+w
+
+EY
+
+ON
+
+IN
+
+ll)
+
+9
+
+Le
+
+OL
+
+88352"14526
+
+tet OOOO ee
+
+FOUR GRAIN
+
+### Label 2
+
+ico}
+
+Zz
+
+fe}
+
+Leo)
+
+=}
+
+a
+
+ia
+
+=}

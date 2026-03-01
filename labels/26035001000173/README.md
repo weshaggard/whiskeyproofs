@@ -22,3 +22,182 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+Kee y
+
+Se5
+
+=
+
+oa
+
+Bes
+
+ie
+
+e2 =>
+
+oe Slu
+
+Saf.
+
+ae
+
+y
+
+SS
+
+Basses
+
+m2
+
+SON
+
+se
+
+PICHEST ©
+
+oa
+
+eS
+
+ae
+
+es
+
+Se!
+
+ao
+
+Sesorss
+
+Sass
+
+—Ss
+
+Sa S=
+
+a=
+
+=e=
+
+Bay
+
+2S a
+
+=2
+
+BSersez
+
+Ss
+
+eauc=2
+
+ea
+
+ess
+
+AMMUNITION
+
+Boo
+
+|
+
+eee
+
+2 2 aoe
+
+S25
+
+ss
+
+o>
+
+zs
+
+KENTUCKY STRAIGHT
+
+RYE WHISKEY
+
+Sa=S
+
+aS
+
+seu
+
+Sa2R
+
+i
+
+ees i @ ined
+
+Sur
+
+e=
+
+Zsa
+
+a=
+
+Alc 45% by vol | 90 Proof | 750mL,
+
+CA CRV
+
+### Label 2
+
+ESS
+
+ay
+
+e)
+
+(PH
+
+SSS
+
+HSS
+
+D orm
+
+SS
+
+HSS
+
+Gm
+
+SS
+
+uae
+
+ELUTE EELUEELULEOLULEOLUEOPOLEOTOLUOLOLUMEULEREOLULOPEUOLUUOPUOUOPUUL TLL TULUL ILOILO LUO
+
+*
+
+PRODUCED IN SMALL BATCHES
+
+*
+
+*
+
+ITH ZERO B
+
+VUTEC ECT DE TE EETECETCEEEEECETECEDEEee
+
+av;
+
+7
+
+Ts ™
+
+x
+
+Zs x
+
+i
+
+Ts

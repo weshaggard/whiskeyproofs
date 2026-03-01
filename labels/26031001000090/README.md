@@ -18,3 +18,74 @@
 
 ![Front Label](./front_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Front Label
+
+<= S NS
+
+74,
+
+ea
+
+XS HKiceS
+
+oF)
+
+a
+
+AE,
+
+RUWOONCE
+
+(
+
+Be
+
+gohS
+
+SSS
+
+@)
+
+LAC
+
+Seas
+
+we)
+
+ys
+
+ABEL
+
+<2
+
+= C £
+
+——
+
+PREMIUM TENNESSEE BOURBON WHISKEY
+
+~~
+
+pa
+
+A
+
+Gy.
+
+©
+
+“7% ALGIVOL.
+
+a)
+
+Y
+
+@ NS}
+
+94 PROOF ML
+
+A)

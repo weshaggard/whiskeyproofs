@@ -22,3 +22,96 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Front Label
+
+Ze
+
+MODERN ANCIENT
+
+Err
+
+lee
+
+ne
+
+¥
+
+as
+
+SS
+
+g
+
+pe
+
+Eine
+
+Vo
+
+a8
+
+ve
+
+}
+
+ne
+
+ae
+
+ne
+
+ey
+
+aa 2
+
+ay
+
+no
+
+ES
+
+Ba
+
+ae
+
+ee
+
+.@
+
+ae
+
+Ve
+
+Poe
+
+2%
+
+be
+
+pa
+
+cee
+
+a
+
+GRASS VALLEY
+
+HEIRLOOM RYE
+
+ys
+
+WHISKEY
+
+lon]
+
+63% Alc. by Vol
+
+750 mL
+
+### Label 2
+
+I

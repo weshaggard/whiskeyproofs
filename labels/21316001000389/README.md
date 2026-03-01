@@ -28,3 +28,110 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+>>
+
+LIMITED /E DITION
+
+_
+
+2\
+
+CR
+
+»; ramet
+
+ey
+
+= &
+
+Soy eS
+
+‘2
+
+QUALITY
+
+= hy
+
+STD
+
+KNOB
+
+©:
+
+CREEK
+
+>=
+
+A)
+
+KENTUCKY STRAIGHT
+
+AGED
+
+TASTING NOTES
+
+Full bodied
+
+BOURBON WHISKEY
+
+EIGHTEEN
+
+caramelized oak
+
+oS
+
+RELEASE NO/
+
+DSP/
+
+with hints of sweet
+
+KY-230
+
+18
+
+YEARS
+
+baking spices
+
+izle
+
+### Label 2
+
+CRAFTED FOR QUALITY
+
+ULL FLAVOR
+
+siNce
+
+1992
+
+100 PROOF
+
+100 PROOF
+
+B07 ALC/VOL.
+
+### Label 3
+
+OM.
+
+### Label 4
+
+®% Cp
+
+RM o
+
+KY “=x
+
+~ a
+
+DISTILLING
+
+COMPANY

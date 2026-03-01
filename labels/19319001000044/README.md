@@ -16,3 +16,100 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+le
+
+SO
+
+In 1773, three McAfee Brothers named
+
+_o MAFEE BROTHERs
+
+DISTILLED, AGED AND
+
+BOTTLED BY BUFFALO
+
+James, George and Robert left Virginia
+
+westward to explore the uncharted
+
+TRACE DISTILLERY,
+
+territory that would later be known as
+
+FRANKFORT, KY
+
+Kentucky. Traveling by canoe at first,
+
+the McAfee Company eventually
+
+IA REF 5¢ » ME/VT REF 15¢
+
+followed a native trail overland that led
+
+to the great buffalo crossing, where the
+
+BENCHMARK
+
+GOVERNMENT WARNING: (1) ACCORD-
+
+brothers surveyed the land now home
+
+ING TO THE SURGEON GENERAL, WOMEN
+
+fo the world’s most award-winning
+
+SHOULD NOT DRINK ALCOHOLIC BEVER-
+
+AGES DURING PREGNANCY BECAUSE OF
+
+distillery — Buffalo Trace Distillery. The
+
+HAN JO
+
+PICKED
+
+THE RISK OF BIRTH DEFECTS. (2) CON-
+
+surveyor marks left behind are known as
+
+SUMPTION OF ALCOHOLIC BEVERAGES
+
+benchmarks and this Kentucky Straight
+
+IMPAIRS YOUR ABILITY TO DRIVE A CAR
+
+Bourbon Whiskey honors the pioneering
+
+OR OPERATE MACHINERY, AND MAY
+
+spirit of these early American explorers.
+
+ao
+
+CAUSE HEALTH PROBLEMS.
+
+CRRon S*
+
+UU
+
+WN
+
+|
+
+AH
+
+SINGLE BARREL
+
+all
+
+00000
+
+00000
+
+ll,

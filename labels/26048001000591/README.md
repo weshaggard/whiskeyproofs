@@ -26,3 +26,58 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Front Label
+
+ESS
+
+GHtINys
+
+OG)
+
+ZS
+
+Si
+
+<<
+
+i,
+
+30h
+
+hy
+
+|
+
+&
+
+Le
+
+“HOS\
+
+\y
+
+DISTILLED & BOTTLED BY
+
+4OMING
+
+DISTILLING
+
+Co
+
+IN PINE BLUFFS, WY
+
+* 30°
+
+YEARS
+
+SHost
+
+### Label 4
+
+USS WYOMING
+
+30%

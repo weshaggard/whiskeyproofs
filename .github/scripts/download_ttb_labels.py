@@ -290,6 +290,22 @@ def download_ttb_labels(ttbid, labels_dir, skip_existing=True):
             f.write(f"### {display_name}\n\n")
             f.write(f"![{display_name}](./{img_name})\n\n")
     
+    # Extract text from label images via OCR and append to README
+    try:
+        import importlib.util
+        extract_script = Path(__file__).parent / 'extract_label_text.py'
+        if extract_script.exists():
+            spec = importlib.util.spec_from_file_location('extract_label_text', extract_script)
+            extract_module = importlib.util.module_from_spec(spec)
+            spec.loader.exec_module(extract_module)
+            result = extract_module.process_label_directory(ttbid_dir)
+            if result == 'success':
+                print(f"  ✓ OCR text extracted and added to README")
+            elif result == 'failed':
+                print(f"  ⚠️  OCR text extraction failed (tesseract may not be installed)")
+    except Exception as e:
+        print(f"  ⚠️  OCR text extraction skipped: {e}")
+    
     return 'success'
 
 def main():

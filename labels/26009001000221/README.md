@@ -24,3 +24,34 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+CACRV
+
+Wi
+
+0
+
+88004°06377
+
+1
+
+COX.000000
+
+### Front Label
+
+a
+
+STRAIGHT RYE
+
+792
+
+ny
+
+KENTUCKY STRAIGHT RYE WHISKEY
+
+50% ALC/VOL (100 PROOF)

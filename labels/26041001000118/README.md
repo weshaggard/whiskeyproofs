@@ -20,3 +20,36 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+tourRoses
+
+a
+
+BO
+
+N
+
+URBO
+
+x NTYy
+
+ICKY grpaloty
+
+“SR
+
+BON WEIS" ”
+
+® ROSES DISTILLING ‘
+
+MORE, MARYLA
+
+rv
+
+94 2¥=
+
+——

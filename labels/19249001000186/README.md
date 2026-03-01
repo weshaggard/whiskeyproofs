@@ -23,3 +23,34 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+PP eS
+
+in
+
+### Label 1
+
+w—oO JOHN E. FITZGERALD O—r
+
+LARCENY
+
+KENTUCKY STRAIGHT BOURBON WHISKEY
+
+Q
+
+;
+
+9)
+
+~
+
+B A R R F [ BATCH NP: 4120
+
+PROOF: 12
+
+p A () 0 | ALC/VOL: 24% =

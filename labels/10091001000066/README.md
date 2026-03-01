@@ -35,3 +35,80 @@
 
 ![Label 5](./label_5.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+2
+
+Fl
+
+=
+
+Fo FORM OSTLER C0, OUSVILE, KI
+
+£
+
+ENT WARUNG 1) ACCORDING 0 SURGEON
+
+- RERAES UNG Pa
+
+icra IN S00 NOT DRI ALCOHOL
+
+NN
+
+ELAS
+
+OFTHE ASK
+
+zaucouo
+
+A aS NU
+
+EAC
+
+TT aA aE AGS
+
+### Front Label
+
+FORESTER
+
+### Label 3
+
+LE
+
+beans
+
+### Label 5
+
+496
+
+°
+
+Nowiaa
+
+aun
+
+°
+
+Le
+
+2
+
+o
+
+°
+
+aan
+
+uw
+
+MITED
+
+EDITION
+
+°
+
+2 PROOF

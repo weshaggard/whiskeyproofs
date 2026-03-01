@@ -31,3 +31,52 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+Kk) O00
+
+72 0
+
+be Crtatil x
+
+(ine Hees
+
+Gp le
+
+no
+
+[ame
+
+furl. 1of-
+
+eck Mike
+
+750ML
+
+a
+
+### Label 2
+
+Page 1 of 1
+
+http:ficproprod. beam global.comfibs/$Sdownl oadxsplasi_ WV/S2a7bcf3a7d90/4692 Batch.
+
+2/3/2016
+
+### Label 3
+
+nam
+
+Jn i
+
+FO
+
+NAH
+
+ch
+
+Ie

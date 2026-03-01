@@ -29,3 +29,52 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+booker
+
+Bho Wibuy tm shea frchege Ae
+
+(es
+
+mila
+
+Satta sper tds ur fll
+
+Wy rm o lin Loan bh his
+
+eee, || == |
+
+PEN LES epens
+
+s<¢e
+
+barrel tured.
+
+cened jlo .
+
+### Label 2
+
+63.05%
+
+(126.1 PRoor)
+
+8 toe
+
+Focdas STRAIGHT BOURBON WHISKEY
+
+5620-02 Look 7a 1960-1993
+
+### Label 3
+
+l
+
+80686'01140'
+
+### Label 4
+
+»—~

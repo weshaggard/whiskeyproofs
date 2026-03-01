@@ -31,3 +31,66 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+LIMITED BOTTLE Ne CHBH8-0001
+
+A
+
+(¥)
+
+Al
+
+O0000"00000
+
+UU AE
+
+Il
+
+### Front Label
+
+80
+
+40
+
+### Label 1
+
+Sach Day
+
+UNIQUELY F
+
+yas
+
+Cc] HANDMADE
+
+ay,
+
+\
+
+CRAFTED W&
+
+J = BARRELS
+
+a se ma
+
+CQ waisney =
+
+### Label 4
+
+ih
+
+1
+
+1-1-2024 UN: Sp
+
+BARREL N°
+
+BARREL ENTRY
+
+BOTTLING DATE
+
+MASTER DISTILLER

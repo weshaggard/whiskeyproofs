@@ -20,3 +20,24 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+Est of Bisss
+
+VILD TURKEY.
+
+RARE BREED
+
+BARRELPROOF™
+
+ENTUCKY STRAIGHT
+
+yon whiskey
+
+mo
+
+—

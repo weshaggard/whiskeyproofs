@@ -23,3 +23,96 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+x Xt
+
+(,.*
+
+are.
+
+acevo] () YEARS
+
+SN
+
+>
+
+af
+
+ne.
+
+a,
+
+=
+
+&
+
+ri,
+
+AF
+
+eit
+
+Gi
+
+Se
+
+&
+
+Ww
+
+Zz
+
+“e
+
+uae
+
+dl?
+
+Ean
+
+me)
+
+cal
+
+|
+
+Sree.
+
+wit
+
+ay
+
+ha i
+
+cm SD
+
+KENTUCKY STRAIGHT
+
+BOURBON WHISKEY
+
+45% ALC/VOL
+
+### Label 2
+
+“RE" IMPORTED BY: CONNOISSEUR WINES USA PORT WASHINGTON, NY
+
+“OBTAINED FROM A PRIVATE COLLECTION"
+
+GOVERNMENT WARNING : (1) ACCORDING TO THE SURGEON GENERAL,
+
+WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING
+
+PREGNANCY BECAUSE OF THE RISKS OF BIRTH DEFECTS. (2)
+
+CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO
+
+DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH
+
+PROBLEMS.
+
+700ML

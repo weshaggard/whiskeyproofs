@@ -32,3 +32,136 @@
 
 ![Label 5](./label_5.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+me [EGS
+
+2y
+
+Sama}
+
+<° KY -
+
+buo=2ik
+
+DISTILLING
+
+cats
+
+COMPANY
+
+a3 za
+
+KNOB
+
+= wt
+
+GCA Aax~ct=
+
+qo
+
+CREEK.
+
+29
+
+ne
+
+=)
+
+cme
+
+AGED
+
+=>:
+
+KENTUCKY STRAIGHT
+
+FIFTEEN
+
+mOcwy
+
+BOURBON WHISKEY
+
+19
+
+YEARS
+
+Y=)
+
+410-Kevor:
+
+### Label 2
+
+LIMITED EDITIO
+
+Soon
+
+s
+
+o
+
+100 PROOF
+
+§
+
+g
+
+100 PROOF
+
+SOM ALCO.
+
+### Label 3
+
+Sa
+
+SRM a
+
+eo KY “5
+
+DISTILLING
+
+COMPANY
+
+### Label 4
+
+AMIUMINGIY
+
+1NOWYIT19
+
+distil.
+
+d in
+
+Umire,
+
+'D
+
+TWantitig,
+
+CREEK
+
+sMALL
+
+batch
+
+### Label 5
+
+|
+
+|
+
+|
+
+|
+
+te)
+
+80686
+
+01689
+
+2

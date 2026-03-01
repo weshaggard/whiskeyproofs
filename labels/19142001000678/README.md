@@ -26,3 +26,302 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+L)
+
+@
+
+10
+
+|
+
+Ly
+
+ayn
+
+WD)
+
+Ly
+
+(«
+
+@))
+
+\(
+
+\ SZ)
+
+V2
+
+ete! Behe
+
+BARRED: STRENGTH
+
+.IGHT BOURBON WHISKEY
+
+ALG/VOL,
+
+Se
+
+### Label 2
+
+The art and craft of mingling exquisite
+
+Bourbon from multiple recipes is something unique to
+
+Four Roses, especially as witnessed in this exceptional
+
+Limited Edition Barrel Strength release. Four of our perfectly-aged,
+
+handcrafted recipes were selected by our Master Distiller, Brent Elliott,
+
+then mingled expertly to present elegant aromas of oak, honey, red
+
+raspberries and vanilla. Complementary flavors of bright sweet fruits,
+
+cinnamon, baking spices, and mellow barrel flavors lead you to a rich,
+
+soft and lasting finish. A nuanced whiskey this uniform is hard to come
+
+by. So are good friends who can appreciate achievements this rare.
+
+Savor both, and don't forget to save just enough to share.
+
+KENTUCKY STRAIGHT BOURBON WHISKEY
+
+DISTILLED AND AGED BY FOUR ROSES DISTILLERY LLC
+
+LAWRENCEBURG, KENTUCKY-FourRosesBourbon.com
+
+750ML
+
+GOVERNMENT WARNING:
+
+(1) ACCORDING TO THE SURGEON GENERAL,
+
+WOMEN SHOULD NOT DRINK ALCOHOLIC
+
+BEVERAGES DURING PREGNANCY BECAUSE
+
+OF THE RISK OF BIRTH DEFECTS.
+
+(2) CONSUMPTION OF ALCOHOLIC BEVERAGES
+
+IMPAIRS YOUR ABILITY TO DRIVE A CAR OR
+
+OPERATE MACHINERY, AND MAY CAUSE
+
+HEALTH PROBLEMS.
+
+Sediment from the barrel may be present
+
+in this non-chill filtered Bourbon.
+
+### Label 3
+
+Sy
+
+aby
+
+SEs
+
+SSI
+
+ac
+
+Saunariate
+
+os
+
+oe
+
+ERIS SURES
+
+Sein
+
+es
+
+8
+
+ee
+
+XS
+
+“Ss
+
+St
+
+Ze
+
+SS
+
+as
+
+Ss
+
+ae
+
+Sets
+
+SOY
+
+uss
+
+SS
+
+ES
+
+<S
+
+~
+
+x“
+
+eer,
+
+we
+
+Ag
+
+x
+
+x
+
+Ras
+
+SS
+
+:
+
+tet
+
+Grace
+
+Sees
+
+“e
+
+Rees
+
+RASS
+
+—
+
+ASSES
+
+ea
+
+sie
+
+a
+
+a
+
+€
+
+SASS
+
+“
+
+~
+
+SS
+
+ASSES
+
+~
+
+aN
+
++
+
+RS
+
+SEES
+
+<
+
+na
+
+Ps
+
+4
+
+c
+
+ERS
+
+ou
+
+ED
+
+SS
+
+SESS
+
+es
+
+SS
+
+=
+
+Si
+
+RS
+
+&S
+
+ee
+
+SIAN
+
+:
+
+if
+
+AK
+
+=
+
+AT
+
+RS
+
+ss
+
+Ss
+
+nt
+
+:
+
+$
+
+NAS
+
+BSS
+
+RRSA
+
+is
+
+Ree
+
+SER
+
+SS
+
+SS
+
+SNS
+
+sS
+
+Sara
+
+—~

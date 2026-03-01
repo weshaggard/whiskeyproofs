@@ -16,3 +16,10 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 2
+
+x aGeD Z|. YEARS x AGED 21. YEARS

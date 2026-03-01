@@ -16,3 +16,66 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+—
+
+N
+
+,
+
+*
+
+>
+
+/
+
+]
+
+Wee
+
+a |
+
+\
+
+)
+
+My
+
+Pri
+
+|
+
+i
+
+7
+
+mn)
+
+ili
+
+lil
+
+—
+
+=-
+
+= ———
+
+——
+
++ STRAIGHT*
+
+=.
+
+BOURBON WHISKEY
+
+Pe)
+
+| 93 PRO
+
+ML

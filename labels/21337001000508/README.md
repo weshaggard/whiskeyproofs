@@ -30,3 +30,66 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+CUI
+
+100%
+
+FP
+
+Il
+
+|
+
+oO
+
+000
+
+un
+
+oom™o
+
+### Front Label
+
+WILD TURKEY
+
+REC).
+
+KENTUCKY STRAIGHT
+
+“BOURBON WHISKEY,
+
+### Label 2
+
+‘BARREL PROOF:
+
+MASTE
+
+000000 24
+
+" r ALC BY VOL
+
+116.8 PROOF
+
+icacececcecesee ML II,
+
+### Label 4
+
+DISTILLED AND BOTTLED BY
+
+No4
+
+116.8
+
+WILD TURKEY DISTILLING CO.
+
+CHAR :
+
+BARREL PROOF
+
+LAWRENCEBURG, KY

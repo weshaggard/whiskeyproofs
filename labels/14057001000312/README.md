@@ -35,3 +35,100 @@
 
 ![Label 5](./label_5.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+a
+
+— 2
+
+—
+
+———ife) — 2
+
+— Qo
+
+——
+
+s
+
+— N == 0
+
+—___. 6H —___.
+
+——= YW =O
+
+——=
+
+### Label 1
+
+Barrelled
+
+Bottling
+
+2014
+
+K
+
+i
+
+N [
+
+RSs
+
+® |
+
+K
+
+I
+
+AY
+
+SN
+
+i)
+
+rr,
+
+(
+
+AN
+
+KENTUCKY STRAIGHT BOURBON Wale
+
+f
+
+cy
+
+wy,
+
+4
+
+tee
+
+{)
+
+4,
+
+DISTILLED BY BROWN-FORMAN aistiens  Lovisvie, KY 75a 40.5% ALC/VOL (97 PROOF)
+
+### Label 3
+
+FIRST BOTTLED BOURBON
+
+NOSUN OA | AIELLO a | FSey
+
+### Label 4
+
+RY Boy,
+
+e
+
+AGED
+
+% YEARS =
+
+“ep por®

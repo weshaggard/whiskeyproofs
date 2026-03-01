@@ -16,3 +16,50 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+TENNESSEE STRAIGHT
+
+ES
+
+84
+
+Ee
+
+beg8
+
+ze
+
+Zee
+
+S355
+
+GEHR
+
+RYE WHISKEy
+
+—— MADE IN CHATTANOOGA / TN ——
+
+STANDARD ISSUE
+
+Gear Rye Whiskey was made for the people who
+
+keep things steady. Born in Tennessee, it's clean,
+
+consistent, and crafted to work as hard as you do.
+
+a8
+
+RELIABLE. UNDERSTATED. MADE T0 WORK
+
+BE
+
+Bs
+
+43% ALC BY VOL/ IL
+
+ii

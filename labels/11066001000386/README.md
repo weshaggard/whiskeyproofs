@@ -35,3 +35,26 @@
 
 ![Label 5](./label_5.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+BIRTHDAY
+
+BOURBON.
+
+### Front Label
+
+FORESTER,
+
+### Label 4
+
+Re
+
+WELVE
+
+### Label 5
+
+Pe

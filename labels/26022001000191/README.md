@@ -28,3 +28,46 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+ANNU,
+
+### Front Label
+
+UNBRIDLED
+
+SPIRIT
+
+KENTUCKY STRAIGHT BOURBON
+
+WHISKEY
+
+100 PROOF
+
+90% ALC/VOL, 730 mL
+
+### Label 3
+
+‘&.
+
+_ oH
+
+(
+
+### Label 4
+
+IFE
+
+Ch
+
+HOO
+
+THE Le
+
+a
+
+EE TO 4

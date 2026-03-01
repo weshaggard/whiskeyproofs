@@ -20,3 +20,42 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 3
+
+JOVUIW V
+
+1a Jay
+
+SWVIUC
+
+4
+
+@
+
+a
+
+4]
+
+DREAMS
+
+ARE BUT
+
+A MIRAGE
+
+### Label 4
+
+&
+
+133
+
+66.5%
+
+YEARS OLD
+
+PROOF
+
+ALC. BY VOL

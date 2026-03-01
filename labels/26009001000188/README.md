@@ -24,3 +24,80 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+KY-US
+
+HARDINS
+
+CREEK.
+
+Til!
+
+IN
+
+pre
+
+Pw A
+
+we
+
+Nh
+
+5
+
+“ GF
+
+S
+
+4.5% ALC/VOL.
+
+CLERMONT KY
+
+1st HSA fin
+
+AGED 8 YEARS |
+
+109 PROOF) 700 mL
+
+DSP NO. KY—230
+
+THIS WHISKEY PEAKED AT THE HIGHER END OF OUR DISTILLATION
+
+SPECTRUM. WITH ITS FLAVOR COMPOUNDS NOW DEFTLY BALANCED,
+
+THE PROFILE LEAVES A LIGHT YET LASTING IMPRESSION.
+
+### Label 2
+
+g DRINKSMART.COM
+
+ate
+
+|
+
+80686'01429
+
+### Label 3
+
+DISTILLED AND BOTTLED BY
+
+CLERMONT
+
+KENTUCKY
+
+4
+
+°
+
+t
+
+JAMES BBEAM
+
+DISTILLING CO.
+
+A WHOLE NEW WORLD BEGINS AT HARDIN'S CREEK

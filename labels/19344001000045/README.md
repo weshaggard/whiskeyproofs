@@ -20,3 +20,60 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+al \7
+
+oot
+
+oy zs
+
+SS
+
+\y
+
+ay,
+
+SS
+
+\)
+
+s
+
+ss
+
+Ss
+
+s
+
+ee,
+
+Wellem
+
+THE ORIGINAL
+
+WHEATED BOURBON
+
+SINGLE BARREL
+
+KENTUC!
+
+<Y STRAIGHT BOURBON WHISI
+
+KEY
+
+46.50% ALC BY VOL | 97 PROOF
+
+er
+
+AEE EEOC
+
+————
+
+### Label 2
+
+bo

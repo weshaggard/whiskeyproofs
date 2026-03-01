@@ -27,3 +27,54 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Front Label
+
+KENTUCKY STRAIGHT BOURBON WHISKEY
+
+RUSSELLS
+
+—— RESERVE |iGaieat
+
+SINGLE RICKHOUSE
+
+XXXXXX
+
+### Label 2
+
+mRO2 sO
+
+=RES =O
+
+=Ooc sO
+
+Soo;
+
+<0 =-
+
+CAMP NELSON E
+
+ELEg
+
+=q55=0
+
+=)
+
+MATURED ON FLOOR 5
+
+### Label 3
+
+Pr
+
+GENERATIONS OF CRAFT
+
+GENERATIONS OF CRAFT
+
+LAWRENCEBURG, KY
+
+LAWRENCEBURG, KY
+
+—

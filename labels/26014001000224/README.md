@@ -26,3 +26,50 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+py
+
+b
+
+2 4
+
+### Label 1
+
+NO YEAR ANNIVERSARY
+
+HONORING ELMER T.
+
+LEE'S FIRST
+
+SINGLE
+
+BARREL
+
+SOUR MASH
+
+i
+
+### Label 2
+
+UNCUT AND UNFILTERED
+
+S
+
+s
+
+3
+
+KENTUCKY STRAIGHT
+
+BOURBON WHISKEY
+
+% ALC BY VOL
+
+PROOF
+
+BATCH

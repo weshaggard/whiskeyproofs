@@ -24,3 +24,88 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+A\B/C
+
+Coper & Cark
+
+Et
+
+DST
+
+(E
+
+fmssrenceburgs [/V
+
+) fh
+
+ar
+
+ty
+
+Te
+
+Mow '2b \L7
+
+ie.
+
+te
+
+Es
+
+1 Borelr —_ | fa]
+
+ee
+
+oF
+
+NOW-CHLL FLTERED-750 ML
+
+S546 ALC BY VOL 12 PROOF
+
+SCAN TO LEARN MORE
+
+‘ABOUT THIS BARREL
+
+‘BOTTLED BY LATITUDE BEVERAGE CO.
+
+2
+
+IN RUMFORD, RHODE ISLAND
+
+zn
+
+ara
+
+ee, —e
+
+=
+
+=
+
+fev is oe
+
+=<
+
+### Front Label
+
+OPPEp
+
+CASK
+
+BOURBON WHISKEY
+
+CHILL FILTER
+
+alll [7 yes | Se
+
+750 ML - BARREL PROOF
+
+### Label 3
+
+S

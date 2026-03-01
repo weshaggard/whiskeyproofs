@@ -16,3 +16,60 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+ZA
+
+a ae
+
+>
+
+Pep
+
+A/C
+
+ps{-
+
+@
+
+4
+
+AS
+
+Ss
+
+S
+
+o &
+
+—=
+
+a &
+
+=.
+
+Tame ERICAN POT ST
+
+aw re
+
+Xo
+
+DISTILLED AMERICAN
+
+=5
+
+———
+
+—
+
+Kaa
+
+=
+
+¢
+
+srw?

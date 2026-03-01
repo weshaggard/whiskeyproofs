@@ -28,3 +28,44 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+re
+
+### Label 2
+
+/
+
+### Label 3
+
+=
+
+==
+
+———
+
+—
+
+=
+
+\\
+
+\
+
+”
+
+=
+
+=
+
+=
+
+=
+
+—
+
+=

@@ -20,3 +20,48 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+\VEN
+
+WEAY
+
+QUALITY HOUSE
+
+Iky
+
+REMIUM |
+
+y
+
+ODKAY
+
+ystilled from Gin
+
+|
+
+@
+
+### Label 2
+
+—
+
+SSS
+
+—S
+
+—
+
+Ss
+
+iV
+
+S
+
+BBa>
+
+VODKA

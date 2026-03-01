@@ -28,3 +28,42 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Front Label
+
+KNOBEL
+
+att
+
+——
+
+ll
+
+|
+
+|
+
+Mt
+
+### Label 2
+
+WORK HARD
+
+HANDCRAFTED
+
+PLAY FAIR
+
+BE KNOBEL
+
+SMALL BATCH
+
+### Label 3
+
+7 YEARS
+
+ANKIVERSARY EDITION
+
+1776 - 2026

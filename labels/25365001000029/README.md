@@ -16,3 +16,58 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+=zs2
+
+22
+
+eg
+
+PIN
+
+OOK
+
+a
+
++
+
+o2z
+
+==
+
+28
+
+=F
+
+Gi
+
+eb
+
+ot
+
+#3
+
+Fo
+
+ae
+
+=x
+
+22%
+
+2a
+
+200 PROOF
+
+50% ALC/VOL
+
+iz
+
+g23s
+
+3

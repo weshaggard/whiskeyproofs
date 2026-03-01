@@ -30,3 +30,174 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+MT
+
+SS
+
+LDS
+
+@)
+
+Ty,
+
+CRAFTED IN OUR HOUSE, SAVORED IN YOURS
+
+THE BOTTLE IN YOUR HAND HOLDS MORE THAN JUST A
+
+SPIRIT. IT’S ALCHEMY; WOOD, FIRE, GRAIN AND WATER
+
+TRANSFORMED INTO LIQUID GOLD, INSPIRED BY THE
+
+ALCHEMISTS OF OLD, OUR MASTER BLENDERS TAKE GOOD
+
+SPIRITS AND ELEVATE THEM TO EXTRAORDINARY USING
+
+EQUAL PARTS MASTERY AND BELIEF IN THE UNKNOWN.
+
+DON’T SETTLE FOR ORDINARY. DEFY CONVENTION AND
+
+UNLEASH YOUR SPIRIT.
+
+DISTILLED IN KENTUCKY
+
+BOTTLED BY DARK ARTS WHISKEY HOUSE
+
+DARKARTS
+
+WHISKEY.COM
+
+SPARTA, KENTUCKY
+
+GOVERNMENT WARNING: (1) According to the Surgeon General, women
+
+CA CRV
+
+should not drink alcoholic beverages during pregnancy because of the
+
+of birth defects. (2) Consumption of alcoholic beverages impairs your a
+
+ME-VT-15¢
+
+to drive a car or operate machinery, and may cause health problems.
+
+IA 5¢
+
+0
+
+### Front Label
+
+—
+
+ee
+
+—w
+
+‘y
+
+\
+
+ay,
+
+Be
+
+¢
+
+y
+
+ANY
+
+RAL,
+
+A?
+
+ti
+
+-
+
+i
+
+y
+
+Dp
+
+\
+
+@
+
+y)
+
+:
+
+z
+
+Wir
+
+==
+
+eC a
+
+—
+
+iv
+
+li
+
+IP
+
+B |
+
+vy
+
+2m,
+
+al
+
+SH
+
+©)
+
+BOTTLE NO
+
+69/420
+
+KENTUCKY STRAIGHT
+
+BOURBON WHISKEY
+
+EL anfbBbon
+
+### Label 3
+
+Ee
+
+——S
+
+—s
+
+-——
+
+to
+
+——
+
+=
+
+### Label 4
+
+X{
+
+ye
+
+Db
+
+Al
+
+1 Ss
+
+Co

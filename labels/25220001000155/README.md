@@ -22,3 +22,70 @@
 
 ![Front Label](./front_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+DOUBLE
+
+ey Wa
+
+BARRELED
+
+### Front Label
+
+int
+
+cu
+
+_—_!
+
+f=
+
+ry e¥ Pig 221
+
+|
+
+4
+
+C
+
+se
+
+Vor
+
+a
+
+come.
+
+come
+
+1
+
+Ww H
+
+I
+
+“WHISKEY.
+
+1
+
+JVPSI
+
+° _¢* TRIBUTE ¢ — ¢
+
+[ewer BARRELED
+
+[ewer BOURBON WHISKEY
+
+86 PROOF (43% ALC/VOL)
+
+BORN OF
+
+JD POETS » PIONEER® all
+
+BRONZE MX81 FOIL
+
+ROUND COUNTOUR EMBOSS

@@ -18,3 +18,66 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+=
+
+YAMHILL
+
+mAs
+
+ode
+
+oz
+
+aED>
+
+RYE
+
+246
+
+SOx
+
+y
+
+2Z
+
+Z0u7
+
+=
+
+y
+
+Y
+
+\
+
+ates
+
+—
+
+(fo
+
+YoOz
+
+ats
+
+% BY VOL.
+
+az
+
+PROOF /' ALC.
+
+\
+
+LOS
+
+50 ML
+
+iN
+
+E

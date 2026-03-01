@@ -18,3 +18,42 @@
 
 ![Back Label](./back_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+REDWOOD
+
+eo EMPIRE ™
+
+EMERALD GIANT
+
+RYE WHISKEY
+
+ges
+
+wy
+
+Qs NOLAN EM,
+
+gee
+
+o5
+
+a2
+
+Pee
+
+St MEVT15¢ >
+
+@)
+
+=a
+
+El
+
+= I
+
+i

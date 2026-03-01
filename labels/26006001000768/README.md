@@ -16,3 +16,72 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+~
+
+“
+
+=
+
+=
+
+=
+
+2
+
+”
+
+a
+
+>
+
+GREEN RIVER
+
+KENTUCKY STRAIGHT
+
+o
+
+oS
+
+“>
+
+5
+
+WHEATED
+
+=
+
+Z
+
+BOURBON
+
+sous WHISKEY «©:
+
+a
+
+oS
+
+OSP=KY=-10
+
+65% MAC, BY VOL. - SB PRICE - $0 ME
+
+~]
+
+=
+
+44
+
+Ss
+
+a]
+
+RG
+
+Bs
+
+OS

@@ -21,3 +21,90 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+es
+
+Sees
+
+aS 8
+
+Zee.
+
+Bes
+
+Be S
+
+LITTLE BOOK
+
+eal
+
+Ene
+
+BBs
+
+Exe
+
+Soe
+
+$3
+
+S00
+
+=,
+
+LEE a Hook at anherwt GE
+
+SBe
+
+Se
+
+_—2
+
+ey
+
+Sages
+
+gos
+
+Sa
+
+Lp
+
+gga
+
+aa
+
+al
+
+Mt Te ge
+
+gs
+
+2
+
+eS
+
+Sees
+
+own
+
+x 8
+
+AENTUGKY STRAIGHT BOURBON WHISKEY
+
+Engel. ft rn
+
+2010 RELEADE
+
+Mo-LBKOI4
+
+res
+
+### Label 2
+
+yy”

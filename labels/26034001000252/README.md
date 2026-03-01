@@ -26,3 +26,70 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+EETS
+
+OAKLORE
+
+: DISTILLING?
+
+BOURBON
+
+WHISKEY
+
+_ _
+
+### Label 2
+
+OAKLORE
+
+BOURBON
+
+WHISKEY
+
+### Label 3
+
+GOVERNMENT WARNING: (1) ACCORDING T0 THE SURGEON
+
+GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC
+
+= |
+
+—————
+
+—~
+
+BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF
+
+———
+
+BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC
+
+aft
+
+EI
+
+BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR
+
+[a
+
+SS ao
+
+eo
+
+—o
+
+750 ML
+
+no
+
+Sie
+
+OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
+
+Sn

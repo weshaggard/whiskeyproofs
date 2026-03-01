@@ -18,3 +18,58 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+CA CRVENiaaxe
+
+SMOOTH & RIC
+
+50ML
+
+Bo
+
+UGK
+
+o=
+
+Oo==
+
+MADE I
+
+U.S.A
+
+o_
+
+o=_
+
+o_—
+
+(/
+
+o==
+
+o™==
+
+o™
+
+o=™
+
+ORIGINAL
+
+om
+
+x
+
+5
+
+BLENDED WHISKEY
+
+32.5%
+
+PROOF
+
+ALC/VOL

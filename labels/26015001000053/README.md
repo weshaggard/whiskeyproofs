@@ -16,3 +16,60 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+>
+
+BARRELL
+
+SEAGRAS S§
+
+=
+
+=a
+
+al Oo
+
+pa
+
+RYE WHISKEY FINISHED IN MARTINIQUE RUM,
+
+MADEIRA & APRICOT BRANDY BARRELS
+
+=s>o0
+
+cask strength - 50ML
+
+3352
+
+ax@
+
+c=
+
+o=<
+
+eae
+
+Gon ==
+
+60.7”
+
+PROOF
+
+ALC/VOL
+
+eee}
+
+a7
+
+Db OF
+
+=
+
+=
+
+—

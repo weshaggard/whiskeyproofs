@@ -16,3 +16,32 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 2
+
+SUA.
+
+ame
+
+wt
+
+Te)
+
+N
+
+= po
+
+ic
+
+ore to
+
+vl
+
+i am
+
+ad
+
+4YRS

@@ -28,3 +28,120 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+eS >
+
+O =
+
+jcalea
+
+& <q RM
+
+TTREARm. 2A
+
+Re
+
+—
+
+= a
+
+QUALITY
+
+=— j=
+
+STD.
+
+bid oO
+
+pr
+
+Cer om
+
+= 4
+
+KNOB
+
+se os
+
+—_
+
+CREEK.
+
+Er
+
+He
+
+— °:
+
+CASK STRENGTH kentucky straigut
+
+Ze
+
+SINGLE BARREL SELECT BOURBON Wilskey
+
+NM re
+
+CC
+
+### Label 2
+
+DS
+
+SINGLE BARREL SELECT BOURBON
+
+—_ —«C—
+
+PRIVATELY SELECTED
+
+INF
+
+BARREL
+
+WAREHOUSE J
+
+FLOOR 5
+
+Qa. —!
+
+"« 05-01-1 1 19.4
+
+ost
+
+oe ©<04/01/2017
+
+DATE
+
+BOTTLED
+
+04/01/2025
+
+PROOF
+
+— oo
+
+ll
+
+### Label 3
+
+|
+
+80686°01076
+
+### Label 4
+
+eC
+
+< RM
+
+x
+
+se “ KY “x
+
+SINCE
+
+1992

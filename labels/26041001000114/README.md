@@ -20,3 +20,16 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+CRAFTED with CONVICTIQY
+
+WILD TURKEY
+
+KENTUCKY STRAIGHT RYE WHISKEY
+
+TRIUMPH

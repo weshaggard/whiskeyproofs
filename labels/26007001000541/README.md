@@ -16,3 +16,32 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+THE
+
+SZ
+
+so
+
+clETY™
+
+®
+
+SCAN FOR
+
+GUIDED TASTING
+
+DIFFER ENGE
+
+ANCHOR POINT
+
+BOURBON WHISKEY
+
+KENTUCKY STRAIGHT
+
+CHRIS VOSS

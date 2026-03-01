@@ -28,3 +28,100 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+Very Olde St. Nick
+
+Rare Bourbon Whiskey
+
+Very Olde Original Family Recipe
+
+Specifically Handmade and Bottled
+
+Cellar Lot No. L-10-28
+
+59.8% alc./vol.
+
+750ml
+
+VAN WINKLE
+
+The Bespoke Barrels
+
+Bottle 1 of 150
+
+Bottled By:
+
+426 Sutherland Road
+
+Olde St. Nick Distillery
+
+Bardstown, Kentucky USA
+
+### Label 1
+
+Very Olde St. Nick
+
+Rare Bourbon Whiskey
+
+Very Olde Original Family Recipe
+
+Specifically Handmade and Bottled
+
+Cellar Lot No. L-10-28
+
+### Label 3
+
+Very Very Olde & Rare
+
+15 Years Old
+
+Cask Strength 119.6 Proof
+
+### Label 4
+
+GOVERNMENT WARNING:
+
+1) ACCORDING TO THE
+
+SURGEON GENER WOM
+
+ey
+
+ahd NOT DRINK
+
+FR ae
+
+VERAGES
+
+URING
+
+E OF HE aR oF BIRIH DEFFECTS
+
+CONSUR
+
+IMPAIRS YOUR_ ABILITY
+
+ON
+
+OF
+
+ALCOHOLIC
+
+BEVERAG
+
+s
+
+OPERATE MACHINERY,
+
+HEALTH
+
+PROBLEMS.
+
+750ml
+
+DISTILLED IN KY

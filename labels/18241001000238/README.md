@@ -26,3 +26,192 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+SAAT AAGAGAAGSAAGAAGAAGAAAGGARARRR GS
+
+December 5, 1933
+
+Prohibition was repealed in the
+
+United States with the passage
+
+of the 21st Amendment to the
+
+United States Constitution.
+
+To commemorate this milestone.
+
+we created Remus Repeal Reserve.
+
+This 2018 limited edition bourbon
+
+features layers of sweet vanilla and
+
+caramel, toasted oak and bold spice.
+
+The finish is rich and bold; maple
+
+with dynamic lingering rye spice.
+
+Bl
+
+In short, Remus Repeal Reserve
+
+is the best we make. Or as George
+
+Remus himself might have said,
+
+“some damn fine giggle water”
+
+Enjoy!
+
+BI
+
+Hy ertie
+
+GISTILLED g
+
+G. REMUS
+
+DISTILLING CO.
+
+“le
+
+BIN
+
+rencesur™
+
+georgeremus.com
+
+BE LEGENDARY. SIP RESPONSIBLY.
+
+GOVERNMENT WARNING: (1) ACCORDING TO
+
+THE SURGEON GENERAL, WOMEN SHOULD
+
+PREGNANCY BECAUSE OF THE RISK OF BIRTH
+
+NOT DRINK ALCOHOLIC BEVERAGES DURING <
+
+BN
+
+DEFECTS. (2) CONSUMPTION OF ALCOHOLIC
+
+BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE
+
+A CAR OR OPERATE MACHINERY, AND MAY
+
+CAUSE HEALTH PROBLEMS.
+
+IA 5¢, VI/ME-15¢ REFUND
+
+750ML
+
+8
+
+54054
+
+00800
+
+By
+
+SS SETTLE TEETER EERE LETEETETETELESEY La
+
+### Front Label
+
+(as
+
+ee nS
+
+va
+
+REMUS
+
+REPEAL RESERVE’
+
+LN
+
+aN
+
+Q |
+
+|
+
+[Mf
+
+IN]
+
+La
+
+STRAIGHT
+
+BOURBON
+
+WHISKEY
+
+30
+
+%
+
+Alc/Vol
+
+100: |
+
+2) 15% - 2007 BOURBON (21% RYE)
+
+wo 10%
+
+& 50% - 2008 BOURBON (21% RYE)
+
+2007 BOURBON (36% RYE)
+
+SN 25% - 2008 BOURBON (36% RYE)
+
+DISTILLED
+
+NN
+
+G. REMUS DISTILLING, CO
+
+LAWRENCEBURG, IN
+
+### Label 3
+
+NA
+
+KA
+
+K2
+
+SE RE RES RI
+
+ote ER ES
+
+SR
+
+RRR SE LE ER eh EE
+
+REPEAL
+
+SERIES
+
+<8
+
+V4
+
+x 5 RE a PT SLR oR.
+
+BR PERT oT IE co ER OR ISS
+
+V
+
+4
+
+VK
+
+\4

@@ -35,3 +35,88 @@
 
 ![Label 5](./label_5.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+IMT
+
+il
+
+ii]
+
+|
+
+00000
+
+|
+
+00000
+
+|
+
+### Label 1
+
+KENTUCKY STRAIGHT BOURBON WHISKEY
+
+TRIPLE- DISTILLED IN COPPER POT STILLS,
+
+THE MASTER'S COLLECTION HONORS THE
+
+750 mL | 45.2% ALCIVOL (G04 PROOF)
+
+SPIRIT OF CRAFTSMANSHIP & INNOVATION
+
+OF OUR HISTORIC DISTILLERY SITE.
+
+Hyroved by Yaa Morne
+
+### Label 2
+
+pSTER’s COLLECT,
+
+WOODFORD RESERVE®
+
+wi
+
+Ai
+
+¥ il
+
+wey
+
+WAV AA
+
+III
+
+1838 STYLE WHITE CORN
+
+### Label 4
+
+iu
+
+a
+
+Vee
+
+Vue
+
+PTT
+
+1838 STYLE
+
+Borri No:
+
+WHITE CORN
+
+Or: — _
+
+### Label 5
+
+Bey
+
+WY
+
+USE)

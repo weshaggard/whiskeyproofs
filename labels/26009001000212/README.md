@@ -16,3 +16,36 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+— a ee &
+
+>
+
+RIFF’
+
+KENTUCKY
+
+STRAIGHT
+
+WHISKEY
+
+100 PROOF
+
+50% ALC/VOL
+
+50 ML
+
+BOTTLED IN BOND
+
+WITHOUT CHILL FILTRATION
+
+a
+
+=
+
+DSP-KY-20016

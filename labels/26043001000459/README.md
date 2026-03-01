@@ -22,3 +22,94 @@
 
 ![Front Label](./front_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+STRAIGHT
+
+GOODO/dTIMES
+
+RYE
+
+GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON
+
+GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC
+
+BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF
+
+BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC
+
+BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR
+
+OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
+
+BOTTLED BY COXS CREEK DISTILLING CO
+
+COXS CREEK, KENTUCKY, USA
+
+FIND
+
+YOUR
+
+NEXT
+
+POUR
+
+LMI.
+
+J
+
+19567
+
+12399
+
+This product is best non-chill
+
+filtered and straight from the barrel,
+
+750mL
+
+therefore char may be present.
+
+### Front Label
+
+SI] / =H |i EE
+
+STRAIGHT
+
+)
+
+J)
+
+|
+
+YEARS
+
+DISTILLED IN INDIANA
+
+RYE
+
+BARREL ress ties NCF
+
+carga RYE IgE
+
+SIN
+
+E BA
+
+ALC./VOL.
+
+BARREL
+
+PROOF
+
+OO/
+
+M1
+
+J 55.5 %
+
+LIMITED RARE RELEASE

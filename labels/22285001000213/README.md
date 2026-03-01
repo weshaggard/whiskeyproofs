@@ -30,3 +30,48 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+Il
+
+2105900314
+
+### Front Label
+
+®@
+
+WILD TURKEY
+
+KENTUCKY STRAIGHT
+
+RYE WHISKEY
+
+### Label 2
+
+‘BARREL PROOF:
+
+A UNIQUE, UNCUT BLEND OF RYE WHISKEY, CRAFTED IN SMALL BATCHES
+
+### Label 3
+
+DISTILLED AND BOTTLED BY
+
+NO4
+
+NON-CHILL
+
+112.2
+
+WILD TURKEY DISTILLING CO.
+
+CHAR
+
+FILTERED
+
+BARREL PROOF
+
+LAWRENCEBURG, KY

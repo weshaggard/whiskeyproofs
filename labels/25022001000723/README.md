@@ -26,3 +26,120 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+WHISKEY ROW SERIES
+
+1870
+
+“ORIGINAL ‘BATCH
+
+“This whisky ts distilled by us only, and we are responsible
+
+jor tts richness and fine quality. Its elegant flavor ts solely
+
+due to original fineness developed with care. There ts
+
+nothing better in the market.”
+
+GEORGE GARVIN BROWN, FOUNDER
+
+GOVERNMENT WARNING: (1) ACCORDING T0 THE SURGEON GENERAL,
+
+WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREG
+
+NANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION
+
+OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR
+
+OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
+
+DISTILLED & BOTTLED BY
+
+OLD FORESTER DISTILLING CO.
+
+I.
+
+AT re : KENTUCKY
+
+@ Tital (Caen
+
+AA,
+
+RESPONSIBILITY. org
+
+### Front Label
+
+gt BOTTLED agy,
+
+W FIR
+
+ON”
+
+ESTD
+
+1870
+
+SSX
+
+SSN
+
+SX
+
+SN
+
+Ss
+
+“
+
+\S
+
+N
+
+— KENTUCKY -
+
+KY
+
+ST, Ion
+
+T BourBON
+
+1870
+
+TE
+
+‘ORIGINAL BATCH
+
+Ue
+
+CU
+
+In 1870, George Garvin Brown crafted batches
+
+of whisky at 322 W. Main St. on Louisville’s
+
+Whiskey Row by blending three distilleries
+
+warehouses to achieve quality and consistency.
+
+Dene eee r en cscecececescccecececesenesesceseseseeeees
+
+SIZE
+
+PERCENTAGE
+
+PROOF
+
+750mL : 45% ALC/VOL : 90.0
+
+### Label 3
+
+1
+
+|
+
+a a a oe ae

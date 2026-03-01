@@ -35,3 +35,50 @@
 
 ![Label 5](./label_5.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+_——S)
+
+——— 2)
+
+——
+
+—————
+
+### Front Label
+
+S
+
+H
+
+"Bithdiy S Daouton
+
+### Label 3
+
+&
+
+eee
+
+ESTp
+
+ESTD
+
+1870
+
+1870
+
+### Label 4
+
+ye RY 80,
+
+AGED
+
+12:
+
+@, YEARS =
+
+“€p Bow”

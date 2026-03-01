@@ -26,3 +26,114 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+COLONEL E.H.
+
+TAYLOR
+
+SINGLE BARREL
+
+anon
+
+Colonel Edmund Haynes Tyo, de
+
+ded
+
+perfection; is uncompromising standards for
+
+the highest quality whiskey
+
+legendary,
+
+Accordingly the batel selected fo ths Single
+
+Barrel Bourbon Whiskey comes fom the best
+
+location ina warehouse constructed by Taya,
+
+Barrels aging inthe heart of these warehouses
+
+ae outinly evaluated to identity whiskers
+
+with the richest and most complex flavors,
+
+These select barels ae alld to age as
+
+Jong as necessary to each thee peak maturity,
+
+Each barel is then bated individually, one
+
+bare ata tne, for an uncom
+
+ad taste
+
+This Single Brel Bourbon i a tribute othe
+
+legendary Colonel EN, Tylor. - a name
+
+synonymous with “Topmost Cis” whishey
+
+WE LOVE TO HEAR FROM OUR CUSTOMERS!
+
+wv neatbounan cov
+
+‘9ee.720:3722
+
+ondorentoourso com
+
+DISTILLED, AGED AND BOTTLED BY
+
+‘OLD FASHIONED COPPER DISTILLERY
+
+FRANKFORT, KY, DSP-KY-1 13
+
+IAREF 5¢ = MEVT REF 15¢
+
+Faxonre
+
+GOVERNMENT WARNING: (1)
+
+"ACCORDING TO. THE SURGEON.
+
+GENERAL. WOMEN SHOULD NOT
+
+DRINK ALCOHOLIC BEVERAGES
+
+DURING PREGNANCY BECAUSE
+
+‘OF THE RISK OF BRT DEFECTS
+
+(2) CONSUMPTON OF ALCOHO:
+
+UC BEVERAGES IMPAIRS YOUR
+
+ABILITY TO DRE. A CAR OR
+
+‘OPERATE MACHINERY, AND MAY
+
+CRUSE HEALTH PROBLEMS,
+
+### Front Label
+
+COLONEL E.H.
+
+TAYLOR
+
+SINGLE BARREL
+
+aN
+
+SX
+
+’
+
+SV
+
+NA
+
+BOTTLED IN BOND

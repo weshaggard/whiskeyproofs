@@ -16,3 +16,46 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+50 ML
+
+EST
+
+Taud *
+
+>
+
+oS
+
+RUT
+
+—__DISTILLING (GO —
+
+1H )
+
+STRAIGHT BOURBON
+
+STRAIGHT.BOURBON WHISKEY.
+
+GRAIN-T0-GLASS ['VERY'SMALL BATCH
+
+MAS’
+
+R
+
+ao
+
+SRR
+
+=
+
+PROOF
+
+AlcByVol
+
+Qe

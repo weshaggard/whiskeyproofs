@@ -29,3 +29,56 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+booker
+
+Bho Wibuy tm shea frchege Ae
+
+(es
+
+mila
+
+Satta sper tds ur fll
+
+Wy rm o lin Loan bh his
+
+eee, || == |
+
+PEN LES epens
+
+s<¢e
+
+barrel tured.
+
+cened jlo .
+
+### Label 2
+
+63.05%
+
+Ap
+
+SGN
+
+(126.1 PRooF)
+
+19 De
+
+Fads STRAIGHT BOURBON WHISKEY
+
+520-03 Lod DISTILLER:1960-1993
+
+### Label 3
+
+l
+
+80686'01140'
+
+### Label 4
+
+»—~

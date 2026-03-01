@@ -24,3 +24,62 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+FREQUENCY
+
+CHRIS Voss
+
+Never Split. Always Share."
+
+CET
+
+©)
+
+uted st
+
+8
+
+!
+
+50081" 86802!
+
+|
+
+### Front Label
+
+#
+
+VE PROM,
+
+MUS!
+
+In
+
+xN
+
+lA
+
+2.
+
+Soro uervey,
+
+oJ reque
+
+ERICAN
+
+AGE
+
+WHISREY
+
+pounnon
+
+can
+
+TH
+
+IFFERENRE.

@@ -18,3 +18,14 @@
 
 ![Back Label](./back_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+TURKEY.
+
+WILD
+
+101

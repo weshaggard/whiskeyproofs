@@ -20,3 +20,48 @@
 
 ![Front Label](./front_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+pPENSTAY,
+
+at
+
+» WHISKEY = 6
+
+CELEBRATING LIFE’S MOMENTS
+
+THAT HAPPEN BY CHANCE
+
+@HAPPENSTANCEWHISKEY
+
+DISTILLED IN INDIANA, BOTTLED BY
+
+alii mie to, MSHI IN
+
+el =)
+
+45% ALC. BY
+
+sO
+
+GOVERNMENT WARNING: “she eS
+
+LI
+
+——
+
+BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK
+
+——2-
+
+BIRTH DEFECTS. wi an de La rata
+
+OPERATE MACHINERY, AND MAY CAUSE HEL PRL
+
+BEVERAGES IMPAIRS YOUR A
+
+ABILITY T

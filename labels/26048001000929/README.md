@@ -20,3 +20,52 @@
 
 ![Front Label](./front_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+Item: MALT WHISKY
+
+OContent: 700m!
+
+Olngredients: Malt, Water, Yeast
+
+OCountry of Origin: Japan O40% Alc. by Vol.
+
+OBottled by Tokinosumika Fuji Co., Ltd.
+
+325-5 Obuchi, Fuji, Shizuoka, Japan 417-0801
+
+Olmported by JAPAN IMPORTS NOW, LLC,
+
+9591 Irvine Center Drive, Irvine, CA, USA, 92618
+
+OGOVERNMENT WARNING:
+
+(1) ACCORDING THE SURGEON GENERAL, WOMEN SHOULD
+
+NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY
+
+BECAUSE OF THE RISK OF BIRTH DEFECTS.
+
+(2) CONSUMPTION OF ALCOHOLIC BEVERAGES
+
+IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE
+
+MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
+
+### Front Label
+
+ar
+
+FUJIKAGUYA
+
+SINGLE MALT JAPANESE WHISKY
+
+Distilled 2022 Bottled 2025
+
+it. Fuji spring
+
+ml

@@ -18,3 +18,36 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+99.24mm
+
+fo
+
+2.0217’
+
+51.352m
+
+|
+
+MU
+
+|
+
+MU
+
+|
+
+0
+
+39383
+
+01024
+
+5
+
++

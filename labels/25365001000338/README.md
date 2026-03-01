@@ -20,3 +20,90 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+CKYARN
+
+BOURBON
+
+GOOD BOURBON
+
+GOOD COMPANY.
+
+Backyard Bourbon is made for
+
+porches, not parlors... easygoing,
+
+unpretentious, and always reliable
+
+It’s the bottle you grab when the
+
+grill’s heating, the sun’s dropping, or
+
+the rain’s tapping on the patio roof.
+
+No fuss. Just good bourbon
+
+and good times
+
+And it’s there for all the little
+
+moments that make life sweeter...
+
+the clink of mismatched glasses,
+
+dog at your feet, the laughter that
+
+finally coxmes after a long week.
+
+Because the best memories are the
+
+simple ones, shared out back with
+
+good people and great bourbon
+
+od
+
+BOTTLED BY: BACKYARD
+
+BOURBON, SHELBYVILLE, KY —.
+
+DISTILLED IN INDIANA
+
+RNMENT WARNING: (I) ACCORDING TO THE SURGEON on <2
+
+GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES
+
+DURING PREGHANCY BECAUSE OF THE RISK OF BIRTH DEFECTS.
+
+(2) CONSUMPTION OF ALCOHOLIC BEVERAGES IAS OO =
+
+ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY
+
+CAUSE HEALTH PROBLEMS.
+
+oO
+
+CA CRV | IA-5¢ | ME:VT-15¢ REFUND | ENJOY RESPONSIBLY.
+
+### Label 1
+
+BACKYARD
+
+=
+
+—
+
+|
+
+i
+
+Si. ta
+
+SMALL-BATCH BOURBON WHISKEY
+
+Gn Qa)

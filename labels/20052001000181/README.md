@@ -31,3 +31,100 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+L
+
+[
+
+ri
+
+LAAT
+
+r
+
+|
+
+CRAIG.
+
+T7539
+
+UNCUT, STRAIGHT FROM THE BARREL
+
+BH OU TL CHILL UL ON
+
+134.2) GZ.12%
+
+i AIG
+
+PROOF: ALC/VOL : BATCH Ne
+
+### Label 2
+
+= ae
+
+fo 4
+
+y
+
+—_
+
+||
+
+\
+
+V/
+
+J.
+
+### Label 4
+
+ELIJAH CRAIG
+
+12 YEARS OLD
+
+NON-CHILL FILTERED
+
+DISTILLED AND BOTTLED BY THE
+
+ELIJAH CRAIG DISTILLERY CO.,
+
+BARDSTOWN, KY
+
+teneeccecsceccececceeecsecececseesesseeee
+
+VI-ME 15¢ REF-IAREF 5¢ 750ML
+
+GOVERNMENTWARNING:(1)ACCORDINGTO
+
+THE SURGEON GENERAL, WOMEN SHOULD
+
+NOT DRINK ALCOHOLIC BEVERAGES DUR
+
+ING PREGNANCY BECAUSE OF THE RISK OF
+
+BIRTH DEFECTS. (2) CONSUMPTION OF
+
+ALCOHOLIC BEVERAGES IMPAIRS YOUR
+
+ABILITY T0 DRIVE A CAR OR OPERATE MACH
+
+INERY, AND MAY CAUSE HEALTH PROBLEMS
+
+Ill
+
+|
+
+749
+
+|
+
+221
+
+|
+
+.

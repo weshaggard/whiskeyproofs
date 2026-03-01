@@ -26,3 +26,88 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Front Label
+
+OLD
+
+STEELHOUSE
+
+GOVERNMENT WARNING:
+
+mt
+
+8
+
+i
+
+a
+
+General,
+
+() According to the Surgeon
+
+women
+
+should not
+
+lid
+
+Mp)
+
+drink alcoholic beverages during
+
+I)
+
+pregnancy because of the risk of
+
+birth. defects. (2) Consumption,
+
+0
+
+it
+
+Of alcoholic beverages impairs
+
+your ability to drive a car_or
+
+000G0"000G0!
+
+‘Operate machinery, and, may
+
+‘use health problems:
+
+### Label 2
+
+CEES
+
+NESS
+
+nucser al
+
+Se
+
+### Label 3
+
+}
+
+| cl fe
+
+so
+
+_—)
+
+J
+
+a
+
+i
+
+DEBE YEARS
+
+B
+
+ABV% S2 SINGLE BARREL NO,

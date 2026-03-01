@@ -30,3 +30,156 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+<a cK § ‘SOUR MASH y Weis,
+
+Skpp
+
+eee
+
+HOME
+
+SoBe A- D-™
+
+Shenk’s Homestead Sour Mash Whiskey
+
+honors the legacy of American whiskey figure
+
+John Shenk, who in 1753 founded a distillery
+
+that was to become known as Michter’s in
+
+the 20th Century. Please join us in toasting and
+
+celebrating American Whiskey History
+
+GOVERNMENT WARNING:
+
+1) ACCORDING
+
+0 THE SURGEON GE
+
+RAL, WOMEN
+
+SHOULD NO
+
+DRINK ALCOHOLIC
+
+——_4e2)
+
+= N
+
+BEVERAGES DURING PREGNANCY BE
+
+—
+
+CAUSE OF THE RISK OF BIRTH DEFECTS.
+
+— ©
+
+2) CONSUMPTION OF ALCOHOLIC
+
+— O
+
+BEVERAGES IMPAIRS YOUR ABILITY TO
+
+-———fee)
+
+ee CD
+
+DRIVE A CAR OR OPERATE MACHINERY,
+
+ise)
+
+AND MAY CAUSE HEALTH PROBLEMS
+
+= oOo
+
+BOTTLED BY
+
+TA)
+
+ICHTERS DISTILLERY LLC
+
+QUISVILLE, KENTUCKY 40216
+
+### Front Label
+
+=~
+
+OTTLE
+
+~
+
+OF
+
+LAs
+
+Me
+
+Bet
+
+BATCH #
+
+4 dstilled and bottled in Kentucky ,
+
+### Label 2
+
+Secrek:
+
+HOMES TEAD®
+
+zly,
+
+[Dy
+
+Lh)
+
+ZN
+
+Ai
+
+YH ,
+
+“\y
+
+LAN
+
+Small Batch
+
+|
+
+Avs
+
+45-6 ALC.VOL
+
+912 PROOF
+
+-
+
+10.ML
+
+We
+
+33%
+
+ay
+
+Wea
+
+(Cr
+
+Whithey
+
+2018
+
+REEEASE
+
+Small Batch Kentucky Suny Pash Ghiskey
+
+Me MICHTER’S DISTILLERY * LOUISVILLE, KENTUCKY a

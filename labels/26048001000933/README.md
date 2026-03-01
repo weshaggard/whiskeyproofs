@@ -20,3 +20,92 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Front Label
+
+Ah AA
+
+= =>
+
+‘TOBACCO BARN
+
+um *
+
+SoS
+
+— DISTILLERY®
+
+gf
+
+“ofl!
+
+a
+
+Cir
+
+!
+
+my
+
+SINGLE BARREL
+
+DISTILLED IN MARYLAND
+
+Be
+
+=sS
+
+=
+
+STRAIGHT
+
+= =
+
+OURBON
+
+= 2
+
+- =
+
+WHISKEY
+
+of
+
+<a"
+
+mA
+
+Be
+
+(=),
+
+45% ALC. BY VOL. (90 PROOF)
+
+750 ML
+
+### Label 3
+
+ay
+
+7 We
+
+My,
+
+\
+
+M)
+
+&
+
+Gy
+
+<
+
+SS
+
+STATES OF
+
+GEorG\P

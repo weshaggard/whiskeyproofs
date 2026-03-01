@@ -20,3 +20,118 @@
 
 ![Front Label](./front_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+Black Magic
+
++
+
+NM
+
+piri ts’
+
+NED & OPERATED
+
+D By
+
+Oo
+
+VYINORITY WOMEN BY
+
+mF
+
+uo *® &
+
+¥
+
+GOVERNMENT WARNING:
+
+(1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD
+
+NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY
+
+BECAUSE OF THE RISK OF BIRTH DEFECTS.
+
+(2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS
+
+YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY,
+
+AND MAY CAUSE HEALTH PROBLEMS.
+
+BOTTLED BY AMERICAN BOURBON COMPANY,
+
+SHELBYVILLE, KY
+
+UM
+
+This product is best non-chill
+
+filtered and straight
+
+from the barrel, therefore
+
+char may be present.
+
+750 ML
+
+### Front Label
+
+So
+
+.
+
+=),
+
++
+
+ck
+
+KO
+
+&
+
+i.
+
+ALC/VOL
+
+PROOF
+
+56.5%
+
+113
+
+BARREL #]
+
+750 ML
+
+PS
+
+Pirits
+
+MEADE HONEY
+
+ELLE
+
+SINGLE BA:
+
+RYg
+
+BARREL PROOF
+
+ICKY RYE WH;
+
+KENTU
+
+FINISHED IN
+
+ISKpy-
+
+A. HONEY CAsk
+
+AGED
+
+QYEARS

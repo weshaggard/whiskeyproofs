@@ -18,3 +18,42 @@
 
 ![Back Label](./back_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+GLENNS CREEK
+
+“A LITTLE DIFFERENT. A LOT BETTER!”®™
+
+c=
+
+ao
+
+ne |\O
+
+Fated | —
+
+na\O
+
+HEIRLOOM
+
+&
+
+BLEND
+
+ca
+
+Ss
+
+AGED AT LEAST|_42_ Imo. 375ML—
+
+wT
+
+DISTILLED, AGED & BOTTLED BY GLENNS CREEK DISTILLING, LLC. fa
+
+ot
+
+FRANKFORT, KY

@@ -16,3 +16,54 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+——
+
+rs
+
+K
+
+NS i
+
+>
+
+ASHVILL
+
+N
+
+E
+
+BARREL
+
+-COMPANY-
+
+Omall Baleh
+
+=.
+
+5790%
+
+BOURBON
+
+115.80
+
+=.
+
+ALCVOL
+
+PROOF
+
+Cask Sbrenglh
+
+225
+
+ee
+
+5OML
+
+4

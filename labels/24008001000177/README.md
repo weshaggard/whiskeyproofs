@@ -28,3 +28,112 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+non=zrm
+
+LIMITED EDITION
+
+_
+
+2\
+
+ec
+
+ehMo
+
+= &
+
+ms ° KY “RR
+
+‘2
+
+QUALITY
+
+= hy
+
+STD
+
+KNOB
+
+©:
+
+CREEK
+
+>=
+
+A)
+
+KENTUCKY STRAIGHT
+
+o.=
+
+AGED
+
+TASTING NOTES
+
+Full bodied
+
+BOURBON WHISKEY
+
+EIGHTEEN
+
+caramelized oak
+
+=
+
+RELEASE NO/
+
+DSP/
+
+with hints of sweet
+
+KY-230
+
+18
+
+YEARS
+
+baking spices
+
+ele
+
+### Label 2
+
+CRAFTED FOR QUALITY
+
+ULL FLAVOR
+
+siNce
+
+1992
+
+100 PROOF
+
+100 PROOF
+
+B07 ALC/VOL.
+
+### Label 3
+
+|
+
+80686'00861
+
+3
+
+### Label 4
+
+o?_ &.
+
+=o Sk Mo re
+
+SKY “5
+
+WeatiLLis
+
+COMPANY
