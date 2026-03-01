@@ -24,6 +24,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 This isn’t just a
@@ -157,9 +159,3 @@ the belief that a rising
 tide lifts all boats.
 
 ill.
-
-### Front Label
-
-25% FOR HUMANITY
-
-TANT eC SR ET

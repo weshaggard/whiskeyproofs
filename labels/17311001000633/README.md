@@ -34,6 +34,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 PRODUCED BY THE WOODFORD RESERVE DISTILLERY, VERSAILLES, KENTUCKY
@@ -56,72 +58,10 @@ OPERATE MACHINERY AND MAY CAUSE HEALTH PROBLEMS.
 
 ### Front Label
 
-psTER Ss OOTLECT ag
-
+*"§S LOLL
+waster ©eT Ion
 WOODFORD RESERVE
-
 BATCH PROOF
-
-————
-
-———
-
+125.8 PROOF
 KENTUCKY STRAIGHT BOURBON WHISKEY
-
-62.9% ALC/VOL (125.8 PROOF] | 750mL
-
-### Label 3
-
-=
-
-—=
-
-mn
-
-uu
-
-2
-
-) L
-
-fal
-
-) (
-
-7
-
-S
-
-==
-
-=
-
-———
-
-### Label 4
-
-u
-
-lay
-
-Sv
-
-HAND-SE
-
-D BY
-
-10037181
-
-Ad a
-
-2 aTAS auvar
-
-MAS1
-
-ER DIST
-
-R
-
-Unio M
-
-nt)
+62.9% ALC/VOL (125.8 PROOF) | 750mL

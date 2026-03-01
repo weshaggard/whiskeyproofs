@@ -26,107 +26,67 @@
 
 ### Back Label
 
-~
-
-om es Ber
-
-rr
-
-a
-
-‘ey
-
-ey
-
-Tt
-
-=
-
 Nabe
-
-me Fs
 
 Contractor - MC Building LLC
 
-Windows and doors - Roadrunner Door and Glass
-
 Project Supervisor - Keith Winn
+Architect - GreenStudio Architecture
+Interior Design - Paulina b_design
+Surveying - Everett Alan Group
 
+Block Masonry - Bullnose Masonry
+Concrete - C&C Concrete
+
+Steel Erection - All Things Metal
+Electrical - High Voltage by the Orozcas
+sitework - Western Dirtworks, Veteran
+Contracting - Gecko Underground
+Framing - Probuilt Contracting
+Roofing - Revamp Roofing
+
+Plumbing - Bionicle Plumbing
+
+Windows and doors - Roadrunner Door and Glass.
 HVAC - Penguin Air
 
-Architect - GreenStudio Architecture
-
 Sprinkler system - Maximum Fire Protection
-
-Interior Design - Paulina_b_design
-
 Fireplace - Infiniti Custom Fireplaces
-
-Surveying - Everett Alan Group
 
 Painting - Design Drywall West
 
 Insulation - EMC Insulation
 
-Block Masonry - Bullnose Masonry
-
 Interior doors - Infinity Custom Doors
 
-Goncrate - C&C Concrete
-
-‘Steel Erection - All Things Metal
-
 Conerete floor polishing - King Contracting Floor
-
 Grinding
 
-Electrical -High Voltage by the Orozcos
-
 Garage doors - Southwest Garage Doors
-
-Sitework - Western Dirtworks, Veteran
-
 Cabinetry - Shamrock Cabinets
 
-Contracting - Gecko Underground
-
-Tile -B&J Tile
-
-Framing - Probuilt Contracting
+Tile - B&J Tile
 
 Countertops - Aaron ProStone Granite
 
-Roofing - Revamp Roofing
-
 Pool and Spa - ReFresh Pools
-
-Plumbing - Bionicle Plumbing
 
 Landscaping - Property Whisperer
 
 GOVERNMENT WARNING: (1} According
-
 to the Surgeon General, women should
+not drink alcoholic beverages during
+pregnancy because of the risk of birth
+defects. (2) Consumption of alcoholic
+beverages impairs your ability to drive a
+car or operate machinery, and may cause
+health problems.
 
 DISTILLED IN NORTH CAROLINA
-
-not drink alcoholic beverages during
-
 AGED FOR A MINIMUM OF 3 YEARS
 
-pregnancy because of the risk of birth
-
-defects. (2) Consumption of alcoholic
-
 BOTTLED BY LIMESTONE FARMS,
-
-beverages impairs your ability to drive a
-
 LLC. IN GEORGETOWN, KY
-
-car or operate machinery, and may cause
-
-health problems.
 
 ### Front Label
 

@@ -30,6 +30,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 SHANG EAST+WEST WITH KENTUCKY WHISKEY
@@ -72,24 +74,10 @@ FaSENe bx)
 
 ### Front Label
 
-4
-
-in
-
-ze
-
-}
-
-@ 3
-
-A
-
 EAST+WEST
-
 WHISKEY
 
 JIANG XIANG
-
 AND KENTUCKY
 
 46% ALC/VOL, 500mL

@@ -28,204 +28,87 @@
 
 ### Back Label
 
-\8)
-
-@)
-
-) f)
-
-ESTD. 2016
-
-In 2026, America’s iconic Route 66
-
-Alvar und ding
-
-linked Chicago to Los Angeles = marksit
-
-Wi Avian,
-
-a centennial celebration of its designation
-
-eu! his
-
+iba er NV sew)
+4) FY WW |
+J 5 ror. 2016 2 ili cm Yl
+In 2026, America’s iconic Route 66 - theye MotherpROadsatitaty
+linked Chicago to Los Angeles - marks its10UtHAMMIVersaty9
+a centennial celebration of its designationpinpl)20fandgits)
 enduring place:in U.S. culture and travellorewAcross the
-
-eight States it crosses, Communities aré planningrevents.that
-
-Honorgthesroad:srdeep history ands Tasting mythology trom
-
-Classic car Shows to, concerts; parades, andscentenmial markerss
-
+ight States it Crosses, COmmunities are planning events that
+; barra 1 SS ae
+Honorgthesroad:srdeep Historygandavtite mythology trom
+Classic car shows to,concertssparades; and centennial markerss
 Missourisplaysea spotlight roles Springtieldys officially
-
 recognized as the “Birthplace of Route 662; wherein 1926
-
-local businessmenshelpedechampion.the new.highway-s name,
-
-The city willgiOst the ational enteMmialekitico
-
-ffin April
-
-thri’May, featuring Conteris: parades,  histOrited
-
-similly
-
-bdiertion
-
-Sys
-
-A8SiC Car ShOWoMaT Walks, and tes festivals that spotli
-
-th
-
-Route
-
-and: itsgftturero]
-
-in touri
-
-and
-
-(GOvUiLius
-
-servatio
-
-mvanut
-
-ea
-
-d=
-
-rip
-
-vers; V
-
-SOUTL
-
-Talpevents-blend
-
-0s
-
-197
-
-prid
-
-chance
-
-Tebrate,azcentury
-
-fAmerican-adventy
-
-se"
-
-W2:W.
-
-IS
-
-“GOVERNMENT WARNING: (1) ACCORDING TOTHESURGEON
-
-GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC
-
-~ BEVERAGES DURING PREGNANCY BECAUSE OF THERISK OF
-
-BIRTH DEFECTS.
-
-(2) CONSUMPTION OF ALCOHOLIC
-
-BEVERAGES IMP!
-
-nis
-
-‘OUR ABILITY TO DRIVE A CAR OR
-
-See EEA CAUSE HEALTH PROBLEMS.
-
-Distiiédsin Indian’
-
-Bottledaby Artoft
-
-piritsWhiskey anColorado;Springs?Colorado
+local businessmenshelpedschampion,the new. highway-s name.
+alg is theNftiomanCenemmialkitkoftin April
+thri’May, featuring Concerts parades, ivetereaientions
+assic Car showsmart walks, and festivals that spotlightboth
+Route Ov orem and Le usar sue 1 a Mean d=
+sian ForRoute Goifams-and road=trip lovers, Missouri-sey
+Centenmiabevents lend nee bingeomMunity prdecinde :
+ie e Sicha a a as
+fins lta ugacude gt Bs
+WW. WEEADICT'O F TSHGEES PaTERSISLeSesGsO =v
+~ GOVERNMENT WARNING: (1) ACCORDING TOTHE SURGEON | | ie
+}.. GENERAL. WOMEN SHOULD NOT DRINK ALCOHOLIC as
+: > BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF =
+S AATEC AOR os
+BEVERAGES IMPAIRS YOUR ABILITY TO DRIVEA CAR OR =|
+OPERATE MACHINERY. AND MAY CAUSE HEALTH PROBLEMS.
+ae Distiedsin Indiand > Sees
+Bottledeby Arbofthe-Spirits Whiskey an:Colorado; Springs? Colorado<:
 
 ### Front Label
 
-cy oping
+PRON ted ele iad ON NESBA A NE BORE Sete of amy
+ee ae! UNO 1G Pi ape:
+Resi Seay bs fog HO) (NEO
 
-ARR WW
+Mes (ey ae ORL Ea
+gee e Wiliilegy- . aa
 
-4
+gee eo ROE AN T Btoe ae Rs ae
+eae Bat ee fa AMER on ane
+gee es eS Na oe ON aS de:
 
-I]
+[Pere ee Ss Ree ee ye
+ee E Sul eset ml Vine ieee tone.
 
-&
+Bee Bee sep i fo ‘
+i Preys a Be Wvoverare tates Cocos
 
-gee
+om 3s Ae? = iN
+ee a |
+na SIGs ee Se
+aa, yyy age fe
+Sc’ | he Poe EE eae
+3S : aioe fs
 
-yt
+Se
 
-4
+eer ©) Ss
 
-ao
+er SS a spears Se
 
-ODE!
+Mae er ee aie
 
-a
+AOS eegeeae Co cee ae ee 8c
 
-\
+" -
 
-TE,
+)700th rsa |
 
-1& IY
+—————————SE—E
 
-cs)
+ROUTE 66
 
-ee
+Ale.OQ % vy 10
+pv | EXAXOGICZ Gy .
 
-pea
+(420) Proof) \( G \ ele BABE’ 6) Years Old
 
-| AWK
+| | Cash Strength
 
-eee
-
-Seth
-
-ay
-
-7
-
-ay,
-
--
-
-See
-
-5s
-
-100th
-
-ROUTE 68
-
-0 %
-
-10
-
-by vol
-
-SY
-
-N
-
-By
-
-Years Old
-
-( 120 Proof)
-
-GLE
-
-BARS
-
-I
-
-Cash Pre
-
-BOTTLE # Straight Bourbon Whiskey 750 ML
+norms Straight Bourbon Whishey —ys0vi 1

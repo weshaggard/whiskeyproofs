@@ -30,6 +30,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Front Label
 
 OLD
@@ -37,58 +39,15 @@ OLD
 STEELHOUSE
 
 GOVERNMENT WARNING:
-
-mt
-
-8
-
-i
-
-a
-
-General,
-
 () According to the Surgeon
-
-women
-
-should not
-
-lid
-
-Mp)
-
+General, women’ should not
 drink alcoholic beverages during
-
-I)
-
 pregnancy because of the risk of
-
 birth. defects. (2) Consumption,
-
-0
-
-it
-
 Of alcoholic beverages impairs
-
 your ability to drive a car_or
-
-000G0"000G0!
-
 ‘Operate machinery, and, may
-
 ‘use health problems:
-
-### Label 2
-
-CEES
-
-NESS
-
-nucser al
-
-Se
 
 ### Label 3
 

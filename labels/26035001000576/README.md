@@ -32,6 +32,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Front Label
 
 (@)
@@ -54,132 +56,25 @@ FOUNDED BY
 
 ### Label 2
 
-oz
+ASWHIUNd OL+L2 3G 1SNW = “SW3T80Yd HITVIH ISNVI AV ONY
+‘ANANTH JLVUad0 YO UV V AHO OL ALTIGV UNDA SUIvdWI| SANVAAIE
+SMOHOTTY 40 NOIAWNSNOS (2) °SL93430 HIMIG 40 ¥SIY 3HL 40 3Snv93a
+AONYNSAUd SNIUNG SI9VHINIG INIOHOTTY NING LON CINCHS NAWOM
+“WHANGS NOJOUNS 3HL OL INIGHOIIV (1) *ININYVM LNAWNYAAOS
 
-Se
+NIU pamnsig Ml Lien i Hl NG ) ©
 
-40)
-
-Loa
-
-Sosa
-
-ek
-
-Odd:
-
-he
-
-Se
-
-Oe
-
-45)
-
-pu
-
-StS
-
-nas
-
-=
-
-os
-
-=
-
-ine
-
-mee 72)
-
-acc
-
-oos
-
-a)
-
--2
-
-Aa
-
-a
-
-a>we
-
-oo
-
-==—c—
-
-ao
-
-Su
-
-eg
-
-——
-
-Bae
-
-ra
-
-LO
-
-I
-
-mia
-
-fale=
-
-==
-
-S=
-
-=e
-
-aa
-
-=~
-
-=
-
-==
-
-ae
-
-—_-
-
-2a
-
-me
-
-as
-
-se
-
-aa
-
-aaos
+oooov0d1e1 © B0"Ayijiqisuodsas-mmm
+AM ‘GOOMLS3U9 ‘ANVAWO
+NO@unod S.NOSH3449F YO4 GALLO
 
 ### Label 4
 
-SSAA SSSA EOD
-
-=
-
-—
-
-Ola
-
-or
-
-m
-
-Fy
-
-OCEAN }}/ VOYAGE
-
-ol
-
-be
-
-SSA SAAT
+AAAS AASAASASASNASAS SSNS SSS SS SESS SS
+Of. O|
+Bian
+Fa, a
+meee
+obs
+AAA AAA AAAS AAAS ASS A  T S >>
+De

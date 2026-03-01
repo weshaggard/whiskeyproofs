@@ -59,19 +59,17 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
-vy)
+a 63.55% Jace
+s os wae _ ayes 30
+8 weal) (127.1 PRooF)
 
-2.
-
-63.55%
-
-(127.1 Proof)
-
-Kooba RAIGHT BOURBON WHISKEY
-
-9015-01 424 MASTER DISTILLER:19 60-1992
+ED aces G/" | KENTUCKY STRAIGHT BOURBON WHISKEY
+MR) Zab Ze_
+2015-01 MASTER DISTILLER:1960-1992
 
 ### Label 10
 
@@ -105,15 +103,16 @@ ME VT REF 15¢ * JA REF 5:
 
 ### Label 2
 
-63.55%
+a elk
 
-2
+2 ee Set Roos VoL
 
-(127.1 Proof)
+E He —_—_.,
 
-Rondnc BOURBON WHISKEY
+z a (127.1 Proof) Wa oe
 
-3015-01 Zé MASTER DISTILLER:1960-1993
+3 rere a KENTUCKY STRAIGHT BOURBON WHISKEY
+2015-01 MASTER DISTILLER:1960-1992
 
 ### Label 3
 
@@ -129,29 +128,30 @@ KENTUCKY STRAIGHT BOURBON WHISKEY
 
 ### Label 4
 
-63.55%
-
+63.55% Jace
+a a
 (127.1 Proof)
 
 KENTUCKY STRAIGHT BOURBON WHISKEY
 
-5015-01 MASTER DISTILLER:19 60-1992
+5015-01 Gogh Hooe—
+
+“Kentucky Chew”
 
 ### Label 5
 
 124-Yo00
 
 63.55%
-
 TYRS 3M0
 
-a,
-
 (127.1 Proof)
+KENTUCKY STRAIGHT BOURBON WHISKEY
 
-Kooba RAIGHT BOURBON WHISKEY
+0 Bookn floc
+SOS 01 dade MASTER DISTILLER:1960-1994
 
-9015-01 424 MASTER DISTILLER:19 60-1992
+“Maw Maw’s Batch”
 
 ### Label 6
 
@@ -184,19 +184,3 @@ Bean bbicttis, turing
 i
 
 750ML
-
-### Label 8
-
-63.55%
-
-UJ
-
-(127.1 Proof)
-
-Kooba: RAIGHT BOURBON WHISKEY
-
-9015-01 x4 MASTER DISTILLER:19 60-1992
-
-### Label 9
-
-»—~

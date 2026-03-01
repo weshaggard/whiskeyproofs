@@ -24,6 +24,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 ROCK TOWN ARKANSAS WINNERS CIRCLE
@@ -93,99 +95,3 @@ BARDSTOWN, KENTUCKY.
 50024°32595
 
 1
-
-### Front Label
-
-<t&
-
-eDITION Shy.
-
-ft
-
-ot?
-
-YE,
-
-\
-
-ROCK
-
-Py >
-
-p)
-
-ra
-
-(
-
-®
-
-*:@
-
-CNR Oo
-
-6
-
-2
-
-ary
-
-<i
-
-7 * 4.
-
-WA
-
-a Vel
-
-sh
-
-yas
-
-;
-
-:
-
-2
-
-( de a)
-
-N {
-
-:
-
-}
-
-I
-
-\)
-
-\
-
-1
-
-J
-
-sHar Wy?
-
-FFER
-
-101
-
-50.5%
-
-PROOF
-
-WINNERS CIR
-
-CLE
-
-2026
-
-ALE BY VOL
-
-KENTUCKY STRAIGHT BOURBON WHISKEY
-
-750ML
-
-AR,USA

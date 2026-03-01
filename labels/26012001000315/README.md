@@ -28,27 +28,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Back Label
-
-CACRY
-
-LTCC
-
-|
-
-WAM
-
-MIN IB
-
-ll
-
-0
-
-00000
-
-00000:
-
-(e)
+*2 image(s) excluded: text did not meet readability threshold*
 
 ### Label 1
 
@@ -79,17 +59,3 @@ ELE
 Y
 
 E
-
-### Label 3
-
-=
-
-CN
-
-2 IZ© IP IROOlF
-
-EIOOrEle| Ol] C
-
-=
-
-;

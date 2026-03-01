@@ -32,61 +32,28 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
-eS >
-
-O =
-
-jcalea
-
-& <q RM
-
-TTREARm. 2A
-
-Re
-
-—
-
-= a
-
-QUALITY
-
-=— j=
-
-STD.
-
-bid oO
-
-pr
-
-Cer om
-
-= 4
-
-KNOB
-
-se os
-
-—_
-
-CREEK.
-
-Er
-
-He
-
-— °:
+110-KCC014
 
 CASK STRENGTH kentucky straigut
+SINGLE BARREL SELECT B80URBON WHISKEY
 
-Ze
+AMINLINIM ‘INOWHYITI
 
-SINGLE BARREL SELECT BOURBON Wilskey
+LA WG
+HOLVGA TIVNS
+AAMSIHM NOGUNOE LHIIVYLS AWININAY
 
-NM re
+LOATAS TAUHUVA ATIONIS
 
-CC
+HLINIJULS WSVI
+
+Miid0 4ONy
+
+IVNIOIWUO AHL
 
 ### Label 2
 
@@ -125,23 +92,3 @@ PROOF
 — oo
 
 ll
-
-### Label 3
-
-|
-
-80686°01076
-
-### Label 4
-
-eC
-
-< RM
-
-x
-
-se “ KY “x
-
-SINCE
-
-1992

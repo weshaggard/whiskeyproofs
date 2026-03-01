@@ -30,6 +30,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 BROKEN TOP
@@ -88,40 +90,22 @@ B.R.B.
 
 ### Front Label
 
-9 MOUNT,
+WOUN7]
+.0° Aly
 
-“
-
-N
-
-5 HAYDEN
-
-co
-
+TTAY DEN
 HOMES
 
 BARREL SELECT
+S
+“S$
 
-7
+\
+©
+“ERs, gr
 
-“TERS grt
+47.5% gPpECIALTY CASK FINISy 95
 
-ALC/VOL
-
-47.5%
-
-PROOF
-
-9
-
+ALC/VOL PROOF
 GIVING SPIRIT
-
 A BLEND OF STRAIGHT BOURBON WHISKEYS
-
-### Label 3
-
-TIAYDEN
-
-i
-
-HOMES

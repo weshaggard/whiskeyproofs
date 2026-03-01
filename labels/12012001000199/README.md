@@ -32,45 +32,12 @@
 
 ### Label 1
 
-FourRoses
+tour hoses
 
-\\
+C
+CS
 
-~
-
-if
-
-v
-
-»)
-
-eS
-
-8)
-
-SS
-
-D)
-
-y)
-
-«
-
-‘
-
-.
-
-Ww
-
-\S
-
-))
-
-ig
-
-Sf
-
-a
+Z VY
 
 ease
 
@@ -78,38 +45,28 @@ BARREL STRENGTH
 
 KENTUCKY STRAIGHT BOURBON WHISKEY
 
-ALC/VOL. 52%
+ALC/VOL, 52% a
 
 ### Label 2
 
 Welcome to a delightfully subtle,
-
 yet truly complex Bourbon experience. This year’s
-
 Limited Edition Small Batch just may be our Master Distiller’s
-
 finest barrel strength creation to date, Fanciful aromas of creamy
-
 vanilla and citrus with hints of allspice, nutmeg and rich pipe tobacco
 
 greet your nose. Mellow flavors of orange peel and ripe red raspberries melt
 
 into balanced tones of dark chocolate and caramel custard. And with a long
-
 finish that enchants you with wisps of soft cedar and vanilla, you'll understand
-
 why these four Bourbons were hand selected from our 10 distinct Bourbon
-
 recipes to be married into one of the most alluring spirits we've ever made.
 
 The recipes:
-
 OBSV-17 years * OBSV-11 years * OBSK= 12 years * OESK=12 years
 
 KENTUCKY STRAIGHT BOURBON WHISKEY
-
 DISTILLED AND AGED BY FOUR ROSES DISTILLERY LLC
-
 LAWRENCEBURG, KENTUCKY * WWW.FOURROSES.US
 
 750ML
@@ -117,38 +74,17 @@ LAWRENCEBURG, KENTUCKY * WWW.FOURROSES.US
 GOVERNMENT WARNING:
 
 (1) ACCORDING TO THE SURGEON GENERAL,
-
 WOMEN SHOULD NOT DRINK ALCOHOLIC
-
-——__——__— iat
-
-——— od
-
-——aa —
-
 BEVERAGES DURING PREGNANCY BECAUSE
-
-——
-
 OF THE RISK OF BIRTH DEFECTS.
 
-eee ND
-
 (2) CONSUMPTION OF ALCOHOLIC BEVERAGES
-
-a
-
 IMPAIRS YOUR ABILITY TO DRIVE A CAR OR
-
 OPERATE MACHINERY, AND MAY CAUSE
-
 HEALTH PROBLEMS.
 
 Sediment from the barrel may be present
-
-\
-
-in this non-chill filtered Bourbon.
+‘ in this non-chill filtered Bourbon.
 
 ### Label 3
 

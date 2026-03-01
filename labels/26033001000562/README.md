@@ -30,6 +30,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 LOUISIANA'’S FIRST BOURBON MADE FROM A
@@ -87,11 +89,3 @@ LOUIS
 ANA STRAIGHT BOURBON WHISKEY
 
 — BOTTLED-IN-BOND —
-
-### Label 2
-
-OoOMoZzom
-
-=)
-
-POZO Wo

@@ -36,6 +36,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 CRAFTED FOR SUPERIOR
@@ -60,125 +62,47 @@ SOM ALCL.
 
 ### Label 2
 
-e>
+12%
 
-lus SS
-
-oo
-
-(1 aS)
-
-K
-
-Ss
-
-StF
-
-Lil.
-
-=nMNs8
-
-Ds /
-
-Y
-
-“KY ae
-
-Ball
-
-oO
-
-qin
-
-‘DISTILLING
-
-1 =
-
-sa
+SKE
 
 |
 
-rt
+|GHT
+WHI
 
-U
+ON
 
-COMPANY
+RBI
 
-1re Fis
+JURB
 
-ee
+BO
 
-paQ2Scit
+ICKY STRAI
 
-CREEK.
+NTL
 
-O22:
+| AMINININ ‘INOWHITI
 
-KENTUCKY STRAIGHT
+‘SSINHLOOMS ® JISVL NOINIdNS Nos aIL4vYD
 
-Jj
+AJVSIHM NOGUNO|
+LHOIVYLS AMININAY
 
-oes
+9349 BONY
 
-BOURBON WHISKEY
-
-12
-
-TWELVE
-
-YEARS
-
-lz
-
-p<
-
-IE
-
-aac
-
-t0-KCTO11
-
-### Label 3
-
-C
-
-fe)
-
-~
-
-= S
-
-¢RMo
-
-Zo
-
-Mo SKY 4
-
-DISTILLING
-
-COMPANY
+——= ‘IVNIDIHO @ wh —<—
 
 ### Label 4
 
-AMIUMINGIY
+AMIUMINIWY LNOWYIAT9
 
-1NOWYIT19
+Sistilleg «
+Umire in
+Wangs; ties
 
-distil.
-
-d in
-
-Umire,
-
-'D
-
-TWantitig,
-
-CREEK
-
-sMALL
-
-batch
+CRE rat batdh
 
 ### Label 5
 

@@ -35,25 +35,14 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
-aan
+ess
 
-BARREL PROOF
-
-URCEN
-
-STRAT BOURBON WHISKEY
-
-Lh
-
-ae
-
-eet
-
-=>
-
-_
+URCEN BARREL PROOF
+STRAIGHT BOURBON WHISKEY
 
 ### Label 1
 
@@ -65,16 +54,11 @@ LARCENY
 
 ### Label 2
 
-BARREL PROOF
-
-126.6%
+BARREL PROOF 12663
 
 BATCH NO.
 
-WHEATED BOURBON MASHBILL
+WHEATED BOURBON MASHBILL Bs23
 
-BS 28
-
-STOLEN BY
-
-fou ee Fibzgerald as NCAOL §
+STOLEN BY jew EGdgaald S335 ALCAMOLS
+z

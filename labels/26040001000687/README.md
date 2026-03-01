@@ -23,199 +23,68 @@
 ### Label 1
 
 ee
+BROTHERS | Y——_—_
 
-B
-
-ROTHERS 1 —_______
-
-A TRULY NEW EXPERIMENT IN
-
-AGING BOURBON WHISKEY
-
-—
-
-Wha
-
-Pike Co.KY, 1913 - The Leckie
-
-Collieries "Mine No.1 opened,
-
-supplying energy to our country
-
-during its greatest period of
-
-RI
-
-GHT
-
-rowth.
-
-It now has a new life
-
-y7
-
-jousing barrels of Americas
-
-e@\GHT
-
-greatest spirit, Kentucky Bourbon
-
-‘Whiskey.
-
-rf
-
-Challenging the traditional whis-
-
-wy
-
-ey
-
-key aging environment, our faci-
-
-4
-
-lities underground are designed
+drink alcoholic beverages
+during pregnancy. because
+Cf the risk of birth defects
+@ Consumption of alcoholic
+beverages impairs your ability
+to drive a car or operate
+‘machinery, and may cause
+health problems.
 
 COAL MINE AGED
 
-toleverage control of temperat-
-
 SMALL BATCH BOURBON
-
-ure & pressure - two important
-
-fo)
-
-f\
-
-factors in the bourbon aging pro-
-
-it
-
-cess. As our rickhouse expands,
-
-WR
-
-our expressions will continue to
-
-evolve through age & experime-
-
-niation, innovating what it means
-
-© ae
-
-tobe bourbon.
-
-(GOVERNMENT WARNING:
-
-aN
-
-() According to the Surgeon
-
-vi
-
-my
-
-|
-
-Every cask selected for our sing-
-
-General, woren should not
-
-Y
-
-ee
-
-Oa
-
-le barrel program undergoes
-
-drink alcoholic beverages
-
-jee
-
-Sha
-
-meticulous scrutiny, receiving
-
-during pregnancy. because
-
-G
-
-our undivided attention. This
-
-Cf the risk of birth defects
-
-Mi
-
-commitment to quality is palp-
-
-@ Consumption of alcoholic
-
-oad
-
-able in every sip, making each
-
-beverages impairs your ability
-
-wW
-
-bottle a testament to the artist
-
-to drive a car or operate
-
-=
-
-and craftsmanship that defines
-
-our brand.
-
-‘machinery, and may cause
-
-be ae
-
-fe
-
-health problems.
-
-Is
-
-ou
-
-mo0r
-
-TNE
-
-2a
-
-fe
-
-my
-
-1p 5:
-
-175
-
-150mL
 
 67531
 
-i.
+[rere
+
+AC/YOL,
+1.
+
+75 | 150mL
+
+(SITIES TIO Wet STRAIGHT BOURBON Massy [ ————__*
+BOTTLED BY BROTHERS WRIGHT DISTILLING CO. AFLEXKY
+
+A TRULY NEW EXPERIMENT IN
+AGING BOURBON WHISKEY
+—_—¢—
+
+Pike Co.KY, 1913 - The Leckie
+Collieries "Mine No.1 opened,
+supplying energy to our country
+during its greatest period of
+
+jowth. It now has a new life
+jousing barrels of Americas
+greatest spirit, Kentucky Bourbon
+‘Whiskey.
+
+Challenging the traditional whis-
+key aging environment, our faci-
+lities underground are designed
+toleverage control of temperat-
+ure & pressure - two important
+factors in the bourbon aging pro-
+cess. As our rickhouse expands,
+our expressions will continue to
+
+evolve through age & experime-
+niation, innovating what it means
+
+tobe bourbon.
+
+Every cask selected for our sing-
+le barrel program undergoes
+meticulous scrutiny, receiving
+our undivided attention. This
+commitment to quality is palp-
+able in every sip, making each
+bottle a testament to the artistry
+and craftsmanship that defines
 
 ‘SCAN FOR MORE
-
-KENTUCKY STRAIGHT BOURBON WHISKE
-
-YY
-
-SG Ly tlt | SONG
-
-BOTTLED BY BROTHERS WRIGI
-
-HT DISTILLING CO. AFLEXKY
-
-)
-
-,
-
-—$—_— ae

@@ -30,6 +30,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 FourRoses
@@ -133,29 +135,3 @@ SEDIMENT FROM THE BARREL MAY BE PRE
 J ih
 
 IN THIS NON-CHILL FILTERED BOURBON
-
-### Label 3
-
-—-_
-
-rN
-
-@& fo
-
-I
-
-5
-
-a
-
-?
-
-ANNIVERSARY
-
-"889
-
-5
-
-CC —tttisr
-
-202

@@ -27,75 +27,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Label 1
-
-x Xt
-
-(,.*
-
-are.
-
-acevo] () YEARS
-
-SN
-
->
-
-af
-
-ne.
-
-a,
-
-=
-
-&
-
-ri,
-
-AF
-
-eit
-
-Gi
-
-Se
-
-&
-
-Ww
-
-Zz
-
-“e
-
-uae
-
-dl?
-
-Ean
-
-me)
-
-cal
-
-|
-
-Sree.
-
-wit
-
-ay
-
-ha i
-
-cm SD
-
-KENTUCKY STRAIGHT
-
-BOURBON WHISKEY
-
-45% ALC/VOL
+*1 image(s) excluded: text did not meet readability threshold*
 
 ### Label 2
 

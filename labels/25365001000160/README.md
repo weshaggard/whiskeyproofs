@@ -88,109 +88,17 @@ DISTILLED IN IN & VT | BOTTLED BY WHISTLEPIG WHISKEY CO, BRANDENBURG, KY stevie 
 
 ### Label 1
 
-AAU CUCLLCCCLELEE on
-
-vt
-
-{yuu nt ETT
-
-wy
-
-Al
-
-co
-
-r ~
-
-S>
-
-1, My,
-
-“si
-
-SS
-
-ieee
-
-\
-
-aN
-
-we
-
-STUrttaae yy
-
-Go
-
-HI
-
-L
-
--
-
-PI
-
 EXPERIMENTAL SMALL GRAIN COLLECTION
 
-=
+AMERICAN, ais
 
-AMERICAN |
+TEEPE tia
 
-as
-
-7
-
-7
-
-= Bo
-
-Z|
-
-Wy
-
-»
-
-Vil
-
-yy
-
-|
-
-‘a
-
-'
-
-Al
-
-wJ
-
-\.
-
-i*.
-
-Vi
-
-i \ j
-
-7
-
-2
-
-rn
-
-SAL rer
-
-@ WHISTLEPIG @
-
-© FARM @
-
-=
+@ WHISTLEPIG Sa
 
 DOUBLE AMERICAN OAK AGED
 
-wT
-
-TEEPE tia
+Vee ELEY
 
 ### Label 2
 

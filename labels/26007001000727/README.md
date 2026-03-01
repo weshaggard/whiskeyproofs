@@ -22,92 +22,13 @@
 
 ### Label 1
 
-aoa
+“SWE WEOtld HITHSH 3SNV9
+AVAL ONY AHBNIHIWN SIVH3dD 40 4¥9 V IAW OL AINE
+BOA SHAM] SITWUIAIA ATOHOTTY JO NOWLEWNSNDI (Z)
+“SLI5-20 HLS 30 W514 SHL IO ISMVIGE ANNES SNBING
+SIOVYIAIO OTOHOTTY ANB JON COHS NBO THHSNSD
+NOFSHNS FHL OL SNAIHOOOY (1) “SNINUYIM LNSWINEAOS
 
-A=
-
-SMALL BATCH
-
-243s
-
-"“=z2
-
-Siae
-
-4—
-
-= o>
-
-eee
-
-"
-
-oS
-
-==
-
-swz
-
-“=
-
-ET,
-
-5
-
-==
-
-EP Et.
-
-g&
-
-gc
-
-ae
-
-[E2
-
-S28
-
-#3
-
-Ss
-
-sex
-
-2s
-
-45
-
-pe
-
-KENTUCKY
-
-G=
-
-az
-
-STRAIGHT
-
-SSSR EE
-
-RYE WHISKEY
-
-=o
-
-#320
-
-as
-
-Sew
-
-BEE
-
-SO ML
-
-}O'7 PROOF S35 S ALCL
-
-we
-
-a3
-
-=F
+Bottled by:
+Gravity Drinks
+Bardstown, KY

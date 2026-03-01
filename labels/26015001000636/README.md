@@ -90,36 +90,16 @@ therefore char may be present.
 
 ### Front Label
 
-TG
-
 TOASTED
 
-0
-
-UD
-
-AGED
-
-8&8 YEARS
-
-\/
-
-RYE
-
 DISTILLED IN INDIANA
-
 BARREL STRENGTH - NCF
 
+SINGLE BARREL
 STRAIGHT RYE WHISKEY
 
 ALC./VOL.
 
-55.5 %
-
-OOf
-
-Mm
-
-“4
+55.5% | OO/
 
 LIMITED RARE RELEASE

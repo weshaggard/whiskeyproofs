@@ -31,6 +31,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 AGED 12 YEARS
@@ -93,40 +95,19 @@ y
 
 ### Front Label
 
-Ch
-
-DAME
-
-SNe
-
-12.
-
-ENC
-
-YEARS OLD
-
-OE
-
-C(
-
-»
+qaLtiwtidt
+RELEASE
 
 TENNESSEE WHISKEY
 
 DISTILLED AND BOTTLED BY
-
 JACK DANIEL DISTILLERY
-
 LYNCHBURG, TENNESSEE, USA
-
 EST. & REG. IN 1866
 
 53.5% ALc./VoL. 107 PRoor | BAaTcH 02
 
+aSvatad
+LIMITED
+
 10053221
-
-### Label 3
-
-(0047377
-
-LL

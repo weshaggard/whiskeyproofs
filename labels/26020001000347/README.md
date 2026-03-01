@@ -76,34 +76,8 @@ health problems.
 
 BERLACHER FAMILY RESERVE
 
-=
-
-(
-
-—
-
-— 7
-
-1
-
-io
-
-&
-
-—a
-
-We ride cadenp
-
-ws
-
-“Seat
-
-ee
-
 KENTUCKY STRAIGHT BOURBON WHISKEY
-
 2025 OUTLAW RELEASE | CASK STRENGTH
-
 AGED 11 YEARS | 128.61 PROOF | 64.3% ALC/VOL | 750ML
 
 Because every sip should count

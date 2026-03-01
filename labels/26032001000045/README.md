@@ -32,21 +32,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Front Label
-
-KNOBEL
-
-att
-
-——
-
-ll
-
-|
-
-|
-
-Mt
+*3 image(s) excluded: text did not meet readability threshold*
 
 ### Label 2
 
@@ -59,11 +45,3 @@ PLAY FAIR
 BE KNOBEL
 
 SMALL BATCH
-
-### Label 3
-
-7 YEARS
-
-ANKIVERSARY EDITION
-
-1776 - 2026

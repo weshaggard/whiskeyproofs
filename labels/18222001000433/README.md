@@ -34,177 +34,33 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Back Label
-
-—— oe) =
-
-=r =o
-
-SS
-
-——
-
-<S=s
-
-—
+*1 image(s) excluded: text did not meet readability threshold*
 
 ### Front Label
 
-gTER'S GULLECS,
-
+R’S CULL
+waste ECTigy
 WOODFORD RESERVE’
-
 CHOCOLATE MALTED RYE
-
 KENTUCKY STRAIGHT BOURBON WHISKEY
-
-SERIES NO.
-
-SELECTED BY
-
-750 mL
-
-45.2% ALC/VOL
-
-15 Ui
-
-Mig
-
-(30.4 PROOF)
+sonmsxo. sauneraney | ge 296 ALG/VOL
+rom 5 Olio Morne (90.4 PROOF]
 
 ### Label 3
 
-2
-
-Rt
-
-=
-
-mUIS{EIIR
-
-ile) Ne
-
-i
-
-R
-
-A
-
-Mh
-
-Ws
-
-ie
-
-if
-
-A\| So,
-
-ial
-
-it
-
-i)
-
-Ni
-
-AHF 3
-
-a
-
-LimiteD.
-
-ELAN
-
-HI
-
-$a
-
-ty
-
-SN
-
-0
-
-4)
-
-WV
-
-7 CHOCOLATE
-
-oe
-
-jones
-
-pin
-
-AN
-
-MALTED
-
-fs
-
-RYE
-
-25
-
-lif
-
-)if
-
-maine
-
-Nita
-
-y=
-
-a
-
-EDITION
-
-\e
-
-fg
-
-aN
-
-af
-
-¢
-
-Pod IIR
-
-Ht
-
-Vil
-
-=
-
-ime
-
-a
-
-vat
-
-yi
-
-Y.
-
-i
-
-318
-
-RY
-
-i
-
-AG
-
-\
-
-i
-
-it
+fe a eee
+fp seseee? alle (2 SY SS ee ee N
+9 ala SVT
+= ANI tal ait Ara 6
+> UME ciwiveo EWAN) Be
+cg? Gy EE
+Eee aes 7 CHOCOLATE Sy treats %
+ote MALTED er 88 $
+4 eA RYE 15 M8 3
+aces (ene a
+ny te dafilig] ——eoirton aS Ss
+= Namal Ni NM laces @ =
+SS Hela Sess FN ses | NE Se .
 
 ### Label 4
 

@@ -39,137 +39,25 @@
 
 *Text extracted via OCR - may contain errors*
 
+*3 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
-BOT
-
-nia
-
-WILD TURKEY
-
-C
-
-G COMPA
-
-ANY
-
-ep
-
-Lowi
-
-A
-
-wu
-
-Wis
-
-y}
-
-a
-
-COM
-
-pI
-
-N
-
-ap )VERNME
-
-Ta
-
-NT
-
-n
-
-DIN
-
-io
-
-SUI
-
-EO
-
-NE
-
-Wl
-
-MEI
-
-LD
-
-———$—{=)
-
-LCOH
-
-OLIC
-
-=
-
-CA
-
-RY
-
-j=)
-
-GNA
-
-cr
-
-i=)
-
-Th
-
-CONSUN
-
-ON
-
-Of
-
-7
-
-BI
-
-EV
-
-El
-
-IMI
-
-AR
-
-y
-
-=O
-
-|
-
-ILITY T
-
-qi
-
-cI
-
-HIN!
-
-N
-
-A
-
-LM
-
-Pp
-
-fe}
-
-- |
-
-"7
-
-DI
-
-A
-
-750ml
+BOTTLED BY WILD TURKEY
+eISTILLING COMPANY
+' ‘Lawrenceburg, KY
+| www.wildturkeybourbon.com
+| GOVERNMENT WARNING: (1) |
+CUO —<$—
+ON —=—=S i
+DRINK ALCOHOLIC BEVERAGES -—=-—to]
+| DURING PREGNANCY BECAUSE OF F=e-NCee—tes
+THE RISK OF BIRTH DEFECTS. (2) =.5et) =o
+SghUET ag A ull =0 5°)
+ABILITY TO DRVEACRO
+OPERATE MACHINERY, AND MAY ==
+CAUSE HEALTH PROBLEMS. | —
+| PRODUCT OF USA 750mL
 
 ### Front Label
 
@@ -180,93 +68,3 @@ WILD TURKEY
 KENTUCKY STRAIGHT BOURBON WHISKEY
 
 DECADES
-
-### Label 2
-
-— MASTER'S KEEP —
-
-QA
-
-104 PROOF
-
-### Label 3
-
-we
-
-~ F
-
-fe
-
-an r
-
-oS
-
-aN
-
-oe
-
-nem
-
-ae
-
-—
-
-Pes
-
-5S
-
-ae,
-
-ae
-
-omen
-
-—
-
-ad
-
-x
-
-a
-
-“a
-
-a
-
-EE
-
-ZA:
-
-eo
-
-oF
-
-ee
-
-(7) fg
-
-Se
-
-iS
-
-y
-
-ee
-
-j.
-
-£-£
-
-—
-
-Ce
-
-AVE
-
-~
-
-### Label 5
-
-WILD TURKEY
-
-MASTER'S

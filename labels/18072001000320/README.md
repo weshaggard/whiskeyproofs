@@ -25,6 +25,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 as
@@ -104,7 +106,3 @@ Sole .
 2018 RELEASE
 
 M0-LBKOIS
-
-### Label 2
-
-yy”

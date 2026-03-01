@@ -34,19 +34,14 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Back Label
-
-Il
-
-2105900314
+*1 image(s) excluded: text did not meet readability threshold*
 
 ### Front Label
 
-®@
+WILD IURKEY
+RARE BREED
 
-WILD TURKEY
-
-KENTUCKY STRAIGHT
+— KENTUCKY STRAIGHT —
 
 RYE WHISKEY
 
@@ -55,6 +50,8 @@ RYE WHISKEY
 ‘BARREL PROOF:
 
 A UNIQUE, UNCUT BLEND OF RYE WHISKEY, CRAFTED IN SMALL BATCHES
+
+ws sy tell ws
 
 ### Label 3
 

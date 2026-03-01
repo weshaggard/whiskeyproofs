@@ -30,47 +30,18 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
-yur koses
-
-| a
-
-at }
-
-° e
-
-\\
-
-(js
-
-a
-
-AN
-
-bi
-
-(
-
-ly
-
-71)
-
-4,
-
-Lied Cer
-
 Small Batch
-
 2016 Release
 
 BARREL STRENGTH
 
-ee
+KENTUCKY STRAIGHT BOURBON WHISKEY — ae
 
-KENTUCKY STRAIGHT BOURBON WHISKEY
-
-ALC./VOL. $$%
+ALC/VOL. SS%
 
 ### Label 2
 
@@ -135,9 +106,3 @@ HEALTH PROBLEMS.
 Sediment from the barrel may be present
 
 in this non-chill filtered Bourbon,
-
-### Label 3
-
-a
-
-WED EDIFIGHISMAILE

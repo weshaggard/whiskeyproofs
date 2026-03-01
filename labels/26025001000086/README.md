@@ -72,44 +72,22 @@ ca
 
 ### Front Label
 
-ALC/VOL
+SSS E——EEEEE |
+ALC/VOL PROOF
+57% 114
 
-PROOF
-
-57%
-
-114
-
->)
-
-LAR
-
-iKIN
-
-— BOURBON Co. —
-
+=
+ats
+LARRIKIN
+— BOURBON Co.—
 KENTUCKY
-
-« IN HONOR OF
-
+* IN HONOR OF ¢
 OFFICER
-
 DANIEL NEIL ELLIS
-
 END OF WATCH: NOVEMBER 6, 2015
-
-Kentucky Straight
-
+Kentucky Pia
 Bourbon Whiskey
-
-—— AGED 8 vears a
-
-2026
-
-750ML.
-
-BOTTLE
-
-te
-
-—eeE——————EEE
+—— AGED 8 vears ay
+2026 eet BOTTLE
+a
+te we

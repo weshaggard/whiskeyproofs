@@ -204,37 +204,17 @@ ul
 
 ### Front Label
 
-Esto.
-
 REDWOOD
-
-PIRE ~~
-
-x
+MPIRE ~»
 
 SS
-
 SS
 
-SSS
-
-\\
-
-A
-
-—
-
-N
-
-\
-
-wer
+4)
 
 THE PIPE DREAM
-
-OURBON WHISKEY
-
-E
+BOURBON WHISKEY |
+Tal
 
 | NORTHERN CALIFORNIA ||!
 

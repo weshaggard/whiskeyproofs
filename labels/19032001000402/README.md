@@ -24,6 +24,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 COLONEL E.H.
@@ -105,59 +107,3 @@ MAY CAUSE HEALTH PROBLEMS.
 IA REF 5¢-ME/VT REF I5¢
 
 00.0000.00
-
-### Front Label
-
-==
-
-COLONEL E.H
-
-TAYLOR
-
-GRAIN see GODS
-
-4ND one
-
-————
-
-|
-
-SX
-
-ae,
-
-a<
-
-ay
-
-30
-
-$s
-
-AN
-
-a=
-
-Se
-
-|
-
-——_—_—
-
-\>-
-
-J
-
-———
-
-Wo
-
-zu
-
-(X
-
-[Me
-
-BOTTLED IN BOND)
-
-50% ALCIVOL {100 PROOF! 750ML

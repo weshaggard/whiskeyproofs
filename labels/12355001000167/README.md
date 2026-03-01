@@ -29,81 +29,49 @@
 
 ### Back Label
 
+STAGE
+
+KENTUCKY STRAIGHT
+BOURBON WHISKEY
+
+DISTILLED, AGED & BOTTLED BY BUFFALO
+TRACE DISTILLERY, FRANKFORT, KY + 750ML
+
+GOVERNMENT WARNING: (1) ACCORDING T0 THE SURGEON GENERAL,
+WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING
+PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMP-
+TION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A
+CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
+
 George T. Stagg was
 
 born in Kentucky on
 
-od
-
 December 19, 1835.
 
-yy
-
 Stagg built the most
-
 dominant American
 
-2
-
 distillery of the 19th
-
-ali
-
 century on the banks of the
-
 Kentucky River, during a time
-
 known as the Gilded Age of
-
 Bourbon. The Distillery
-
 survived floods, fires, droughts
-
 and even Prohibition — when it
-
 made whiskey for medicinal
-
 purposes. Today, Buffalo Trace
-
 Distillery strives to carry on the
-
-STAGE
-
 tradition of its famous forefather.
-
 Uncut and unfiltered, this robust
-
-KENTUCKY STRAIGHT
-
 bourbon whiskey ages for nearly
-
 a decade and boasts the bold
-
-BOURBON WHISKEY
-
 character that is reminiscent of
-
 the man himself.
 
-DISTILLED, AGED & BOTTLED BY BUFFALO
-
-TRACE I
-
-STILLERY, FRANKFORT, KY + 750ML
-
-GOVERNMENT WARNING: (1) ACCORDING T0 THE SURGEON GENERAL,
-
-WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING
-
-PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMP-
-
-TION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A
-
-CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
+MIN) t)
 
 t)
-
-UU)
 
 ### Label 1
 

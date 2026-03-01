@@ -32,6 +32,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 Boob
@@ -113,7 +115,3 @@ ERY, AND MAY CAUSE HEALTH PROBLEMS
 111-GBA0113
 
 ME VT REF 15¢ ¢ IA REF 5¢
-
-### Label 4
-
-»—~

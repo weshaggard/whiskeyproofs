@@ -30,6 +30,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 SAAT AAGAGAAGSAAGAAGAAGAAAGGARARRR GS
@@ -121,97 +123,3 @@ IA 5¢, VI/ME-15¢ REFUND
 By
 
 SS SETTLE TEETER EERE LETEETETETELESEY La
-
-### Front Label
-
-(as
-
-ee nS
-
-va
-
-REMUS
-
-REPEAL RESERVE’
-
-LN
-
-aN
-
-Q |
-
-|
-
-[Mf
-
-IN]
-
-La
-
-STRAIGHT
-
-BOURBON
-
-WHISKEY
-
-30
-
-%
-
-Alc/Vol
-
-100: |
-
-2) 15% - 2007 BOURBON (21% RYE)
-
-wo 10%
-
-& 50% - 2008 BOURBON (21% RYE)
-
-2007 BOURBON (36% RYE)
-
-SN 25% - 2008 BOURBON (36% RYE)
-
-DISTILLED
-
-NN
-
-G. REMUS DISTILLING, CO
-
-LAWRENCEBURG, IN
-
-### Label 3
-
-NA
-
-KA
-
-K2
-
-SE RE RES RI
-
-ote ER ES
-
-SR
-
-RRR SE LE ER eh EE
-
-REPEAL
-
-SERIES
-
-<8
-
-V4
-
-x 5 RE a PT SLR oR.
-
-BR PERT oT IE co ER OR ISS
-
-V
-
-4
-
-VK
-
-\4

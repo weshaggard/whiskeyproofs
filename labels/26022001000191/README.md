@@ -32,9 +32,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Back Label
-
-ANNU,
+*2 image(s) excluded: text did not meet readability threshold*
 
 ### Front Label
 
@@ -50,24 +48,7 @@ WHISKEY
 
 90% ALC/VOL, 730 mL
 
-### Label 3
-
-‘&.
-
-_ oH
-
-(
-
 ### Label 4
 
-IFE
-
-Ch
-
-HOO
-
-THE Le
-
-a
-
-EE TO 4
+a J a
+REE TO Live THE LIFE i yoU CHO

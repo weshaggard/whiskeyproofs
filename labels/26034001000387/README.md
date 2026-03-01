@@ -24,6 +24,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 MASH BILL
@@ -143,7 +145,3 @@ OPERATE MACHINERY, AND MAY
 a =7OOML
 
 CAUSE HEALTH PROBLEMS.
-
-### Label 2
-
-©

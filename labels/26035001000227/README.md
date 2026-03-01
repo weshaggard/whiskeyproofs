@@ -30,6 +30,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 CRAFTED IN LOUISIANA’S HOT, HUMID CLIMATE
@@ -86,24 +88,10 @@ PROBLEMS
 
 ### Front Label
 
-\STILLERIE ACADIAy,
-
-@
-
-OV
-
-CA
-
-6
-
-Ohdheated 7
-
+pisTILLER: E ACADIA4y,
+Wath
+Z 6
+(Sf
+Oh heated
 LOUIMANA STRAIGHT BOURBON WHISKEY
-
 — BOTTLED-IN-BOND —
-
-### Label 2
-
-OoOMoZzom
-
-MOZO W/o

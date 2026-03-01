@@ -80,58 +80,14 @@ char may be present.
 
 ### Front Label
 
-So
-
-.
-
-=),
-
-+
-
-ck
-
-KO
-
-&
-
-i.
-
-ALC/VOL
-
-PROOF
-
-56.5%
-
-113
-
-BARREL #]
-
-750 ML
-
-PS
-
-Pirits
-
 MEADE HONEY
+SINGLE BA
+BARREL PROOE
 
-ELLE
-
-SINGLE BA:
-
-RYg
-
-BARREL PROOF
-
-ICKY RYE WH;
-
-KENTU
-
-FINISHED IN
-
-ISKpy-
+TUCKY RYE Wj
+KENTUNISHED IN SKEY
 
 A. HONEY CAsk
 
-AGED
-
-QYEARS
+1B
+pee Ryg

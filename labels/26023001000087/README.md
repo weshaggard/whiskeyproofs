@@ -28,174 +28,33 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
-oy
-
-CEQA R OD FOROS
-
-BEFORE KENTUCKY
-
-a
-
-%
-
-THERE WAS KENTUCKE COUNTY
-
-Bourbon, America, and Kentucke all began together.
-
-Kentucke County was established in 1776 as
-
-a County of Virginia in the same year that the
-
-American Colonies declared their independence
-
-a
-
-me
-
-In part of this area, also known as the Kentucke
-
-&
-
-District, Bourbon County was created, from whic
-
+‘
+BEFORE KENTUCKY |G
+THERE WAS KENTUCKE COUNTY | j#;
+Ba
+FF | Bourbon, Ameria, nd Keatucke all began together. | 3
+Kentucke County was established in 1776 as jg
+a County of Virginia in the same year that the GS
+American Colonies declared their independence.
+$B) In part of this area, also known as the Kentucke 18%
+P
+= District, Bourbon County was created, from which
 Bourbon whiskey was named. It was sixteen years later
-
-fe
-
+3
 before Kentucky became a state. We hope you enjoy
-
-this craft whiskey that was inspired by the original
-
-Kentucke County and the whiskey that started there.
-
-e
-
-©
-
-GOVERNMENT WARNING:
-
-on
-
-XK
-
-RISK
-
-ATH
-
-i
-
-iy
-
-a
-
-&
-
-CA CRV
-
-ME/\T 1c IA 50
-
-id
-
-f
-
-tl
-
-I
-
-J
-
-50025!
-
-93930
-
-ll,
-
-rm
-
-Fae punacenemnemcs sosecenainsd
-
-### Label 1
-
-Fs Satta
-
-lalleshed
-
-[<)
-
-*17W6*
-
-&
-
-&
-
-Jc
-
-KE
-
-fe
-
-NT?
-
-ae
-
-Q
-
-gi
-
-&
-
-AGED
-
-YEARS
-
-ee
-
-i
-
-6
-
-mA
-
-KENTUCKY STRAIC
-
-: BOURBON
-
-)
-
-“WHISKEY:
-
-e
-
-750ML + 45% ALC./VOL + 90 PROOF
-
-2k
-
-5
-
-RY‘
-
-fad
-
-tC *cC
-
-250™
-
-ee
-
-NNIVERS/
-
-Ca i
-
-==
-
-ft
-
-### Label 3
-
-Qhle
-
-G
-
-PEAR
+8 this craft whiskey that was inspired by the original g
+% Kentucke County and the whiskey that started there.
+Fes
+£2 GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON
+i>. DURING PREGNANCY BECAUSE OF THE RISK OF BIATH DEFEC =
+9%] (2). CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR
+$f ABILITY TO ORIVE A CAR OR OPERATE MACHINERY. AND MAY
+gy CAUSE HEALTH PROBLEMS t
+s CA CRY
+8 ME/VT 15C 1A 5C page
+wo BOTTLED BY 15 STARSIN
+Gs 80"50025!939300 BARDSTOWN. KY 2

@@ -32,39 +32,12 @@
 
 ### Label 1
 
-Four Roses
-
-(
-
-Oy
-
-\
-
-«
-
-\)))
-
-S-
-
-@®)
-
-uy
-
-y)
-
-Ww)
-
-Smal at
-
-ease
+Fourhoses
 
 BARREL STRENGTH
 
-KENTUCKY STRAIGHT BOURBON WHISKEY
-
-q
-
-ALCVOL,
+ie, KENTUCKY STRAIGHT BOURBON WHISKEY
+q nico, i
 
 ### Label 2
 
@@ -140,12 +113,7 @@ in this nonechill filtered Bourbon,
 
 ### Label 3
 
-‘we Det
-
-w
-
-WED &D
-
-SMALL BTC
-
-cl
+Oy
+Roe
+SS
+WED ED Rise MALL EAT

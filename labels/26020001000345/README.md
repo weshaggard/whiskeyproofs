@@ -78,24 +78,6 @@ health problems.
 
 BERLACHER FAMILY RESERVE
 
-tact
-
-—=—
-
-—_—_
-
-=
-
-) ©
-
-De
-
-—aa
-
-s.
-
 KENTUCKY STRAIGHT BOURBON WHISKEY
-
 2025 RELEASE | BOTTLED IN BOND | DSP-KY 20002
-
 AGED 11 YEARS | 100 PROOF | 50% ALC/VOL | 750ML

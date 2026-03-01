@@ -28,118 +28,33 @@
 
 ### Back Label
 
-SAGAMORE.
-
 We are excited to introduce the newest offering in our line of
-
 Distillery Exclusives. The Sagamore pot still is a microcosm of
-
 Sagamore Spirit where passion for innovation and industrious
-
-whimsy drive
-
-our distillers
-
-to
-
-craft
-
-spirits
-
-that
-
-are
-
-a
-
+whimsy drive our distillers to craft spirits that are a
 reflection of our teams creativity and curiosity. This straight
-
 rye malt whiskey was distilled with grain entirely sourced in
-
 Maryland and aged in Maryland oak barrels for 7 years.
 
-404
-
-PARTNER
-
-_
-
-LOCATION
-
-QUANTITY
-
-MALTED RYE
-
-Bear Branch Malt
-
-Westminster, MD
-
-2650 lbs.
-
--
-
-J
-
-f
-
-RYE
-
-Hickory Hollow Farm
-
-Finksburg; MD
-
-1350 lbs.
-
-BARRE!
-
-Wilson Forest Products
-
-Northern MD
-
-2 Barrels
-
-GOVERNMENT WARNING: (1)
-
-AMORESPIRIT.
-
+MAA PARTNER LOCATION QUANTITY
+MALTED RYE | Bear Branch Malt Westminster, MD 2650 lbs.
+RYE Hickory Hollow Farm Finksburg; MD 1350 lbs.
+BARRELS Wilson Forest Products Northern MD 2 Barrels
+GOVERNMENT WARNING: (1) AMORESPERIT.
 ACCORDING TO THE SURGEON
-
-GLUTEN FREE 3x
-
-GENERAL, WOMEN SHOULD NOT
-
-DRINK ALCOHOLIC BEVERAGES
-
-SAVOUR OUR SPIRIT RESPONSIBLY
-
+GENERAL, WOMEN SHOULD NoT GLUTEN FREE
+DRINK ALCOHOLIC BEVERAGES SAVOUR OUR SPIRIT RESPONSIBLY
 DURING PREGNANCY BECAUSE
-
 OF THE RISK OF BIRTH
-
-DEFECTS.
-
-(2)
-
-CONSUMPTION
-
+DEFECTS. (2) CONSUMPTION
 OF ALCOHOLIC BEVERAGES
-
 IMPAIRS YOUR ABILITY TO
-
 DRIVE A CAR OR OPERATE
-
-MACHINERY,
-
-AND MAY CAUSE
-
+MACHINERY, AND MAY CAUSE
 HEALTH PROBLEMS.
 
-AIM
-
-7
-
+8 0" 50062"52124'"7
 Aged in new charred oak barrels. Distilled and bottled by
-
 Sagamore Spirit, Baltimore, Maryland.
 
 ### Label 1

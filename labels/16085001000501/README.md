@@ -20,34 +20,4 @@
 
 ## Extracted Label Text
 
-*Text extracted via OCR - may contain errors*
-
-### Label 1
-
-99.24mm
-
-fo
-
-2.0217’
-
-51.352m
-
-|
-
-MU
-
-|
-
-MU
-
-|
-
-0
-
-39383
-
-01024
-
-5
-
-+
+*No readable text could be extracted from the label images.*

@@ -33,6 +33,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 Boob
@@ -56,66 +58,6 @@ Mtiihiy from Ai 70 Ligh Geen
 =<
 
 aE Sse
-
-### Label 2
-
-Try
-
-genes
-
-as
-
-aa
-
-62.90%
-
-4-1 Q
-
-A
-
-a
-
-O11
-
-ane
-
-ae
-
-res
-
-ae:
-
-Pht.
-
-S
-
-rotted
-
-ma
-
-+4?
-
-et Be
-
-(125.8 PRooF)
-
-——
-
-se3 am
-
-Es
-
-ee
-
-Crh yl ie
-
-19 DAYS
-
-Boobs STRAIGHT BOURBON WHISKEY
-
-Barew We
-
-5025-03 Oe
 
 ### Label 3
 
@@ -152,7 +94,3 @@ ALCOHOLIC BEVERAGES IMPAIRS YOUR
 ABILITY TO DRIVE A CAR OF OPERATE MACHIN
 
 ERY, AND MAY CAUSE HEALTH PROBLEMS
-
-### Label 4
-
-»—~

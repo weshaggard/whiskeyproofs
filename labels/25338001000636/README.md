@@ -28,85 +28,41 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
-ART RPS REIN
-
-AWW.
-
+1, BiptUe © BuGND \
+7 iit Bisnue ® BLEND
 Ina continued spirit of faith and fellowship, the
-
 Archdiocese of Louisville and Log Still Distillery
-
 once again unite to craft a bourbon that celebrates
-
 the enduring bond between church and community
-
 across Kentucky and Tennessee. The Bishop’s Blend
-
 honors the friendship and shared purpose of these
-
 Catholic communities and the bishops who lead them
-
 with steadfast love and grace. Expertly composed from
-
 three traditional KY and TN mashbills, this carefully
-
 balanced bourbon reflects the artistry and devotion
-
 behind every Faithfully Crafted release. Whether
-
 enjoyed neat or in your favorite cocktail, raise a glass
-
 to The Bishop’s Blend—a symbol of faith, fellowship,
-
 and the blessings found in time well spent together.
-
-JARGHDIOGESE OF LOUISVILLE
-
-DISTILLED & BOTTLED BY
-
-GOVERNMENT WARNING:
-
-LOG STILL DISTILLERY, LLC,
-
-(I) ACCORDING 10 THE SURGEON GENERAL,
-
-GETHSEMANE, KY.
-
-WOMEN SHOULD NOT DRINK ALCOHOLIC
-
+RGHDIOGESE OF LOUISVILLE |
+ ARGHDIO OF LOUIS ¥
+OO OTLLOW He GOVERNMENT WARNING:
+LOG STILL DISTILLERY, LL
+j (1) ACCORDING 10 THE SURGEON GENERAL,
+GETHSEMANE KY WOMEN SHOULD NOT DRINK ALCOHOLIC
 BEVERAGES DURING PREGNANCY BECAUSE OF
-
-THERISK OF BIRTH DEFECTS. (2)
-
+THE RISK OF BIRTH DEFECTS. (2)
 CONSUMPTION OF ALCOHOLIC BEVERAGES
-
 IMPAIRS YOUR ABILITY TO DRIVE A CAR OR
-
 OPERATE MACHINERY, AND MAY
-
 CAUSE HEALTH PROBLEMS.
-
-ENJOY
-
-WI
-
-|
-
-MI)
-
-il
-
-50027
-
-20929
-
-ll
-
-RESPONSIBLY
-
-UG DULL DIS ULLERY |
+aot) MUTT
+LOG BILL DISTILLERY |
+\
 
 ### Front Label
 
@@ -143,9 +99,3 @@ PRODUCED BY
 ozs
 
 VA ow. f__
-
-### Label 3
-
-PPichdiocese
-
-VA Louiswille

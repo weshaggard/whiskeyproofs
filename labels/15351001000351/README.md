@@ -20,12 +20,4 @@
 
 ## Extracted Label Text
 
-*Text extracted via OCR - may contain errors*
-
-### Back Label
-
-TURKEY.
-
-WILD
-
-101
+*No readable text could be extracted from the label images.*

@@ -55,21 +55,16 @@
 
 *Text extracted via OCR - may contain errors*
 
+*3 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
-63.95%
+A eee, | 63.95% | Ace
+=ipee =) algvol | 7¥RS0MO
+By yn hf | (127.9 Proor)| 18 Days
 
-Alc/voL
-
-te de
-
-4 ES
-
-(127.9 PRooF)
-
-KENTUCKY STRAIGHT BOURBON WHISKEY
-
-016-04 MASTER DISTILLER:19 60-1992
+2 Barcw N2 KENTUCKY STRAIGHT BOURBON WHISKEY
+& 2016-04 MASTER DISTILLER:1960-1992
 
 ### Label 2
 
@@ -85,49 +80,26 @@ Rondinc BOURBON WHISKEY
 
 5016- Ol Lack 7o 1960-1993
 
-### Label 3
-
-(127.
-
-:
-
-i
-
-pie ta
-
-Le.
-
 ### Label 4
 
-63.95%
+LOZ || 63.95% | noe”
+s A LO
 
-Z
+g Ss @ __Asvol_ 7 yas OMO
+3 nS S |(127.9 Proof)! 18 ppys
 
-&y
-
-Ss
-
-(127.9 ProoF)
-
-18 Days
-
-Bondnc BOURBON WHISKEY
-
-2016- 03! dee4- ASTER DISTILLER:1960-1992
+3 Barcw ne KENTUCKY STRAIGHT BOURBON WHISKEY
+id 2016-03 Zee a
+= MASTER DISTILLER:1960-1992
 
 ### Label 5
 
-63.95%
-
-2
-
-(127.9 ORooF)
-
-ia Days
-
-Rondinc BOURBON WHISKEY
-
-3016- 06| ee MASTER DISTILLER:1960-1992
+mM PD | 5328% |e
+1 eee ao
+= ee (127.9 Roof)’ 18 Days
+3 hee at KENTUCKY STRAIGHT BOURBON WHISKEY
+2016-06 4x44
+MASTER DISTILLER:1960-1992
 
 ### Label 6
 
@@ -155,22 +127,8 @@ cened jlo .
 
 ### Label 7
 
-63.95%
+5 la 63.95% | pop”
+3 pio __S _ Iryasomo
+a Qe (127.9 PROOF)' 18 pays
 
-(127.9 ProoF)
-
-18 Days
-
-ae BOURBON WHISKEY
-
-2016- -0)5| Zork MASTER DISTILLER:1960-1992
-
-### Label 8
-
-l
-
-80686'01140'
-
-### Label 9
-
-»—~
+= <A KENTUCKY STRAIGHT BOURBON WHISKEY

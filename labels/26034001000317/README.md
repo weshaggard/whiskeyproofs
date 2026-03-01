@@ -24,6 +24,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 GOVERNMENT WARNING: (1) According to the Surgeon General, women should
@@ -95,45 +97,3 @@ oteasss
 meine
 
 Phish
-
-### Front Label
-
-PRODUCT
-
-&
-
-OF USA
-
-e@
-
-j
-
-1)
-
-=
-
-|
-
-6
-
-re,
-
-> i
-
-4)
-
-ek |
-
-3
-
-GH;
-
-BOURBON WHISKEY
-
-QED - HOON
-
-in
-
-URHUCKLEBERRY”
-
-200ML- 50.0% Alc. /Vol

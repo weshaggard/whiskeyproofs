@@ -22,84 +22,48 @@
 
 ### Label 1
 
-GOVERNMENT WARNING: (i) ACCORDING:
-
-‘TO THE SURGEON GENERAL, WOMEN
-
-‘SHOULD NOT DRINK ALCOHOLIC
-
-Mill?
-
-BEVERAGES DURING PREGNANCY
-
-BECAUSE OF THERISK OF BIRTH
-
-DEFECTS. (2) CONSUMPTION OF
-
 ‘The classic wooden mallet is a timeless
-
-ALCOHOLIC BEVERAGES IMPAIRS
-
-Millis
-
-YOUR ABILITYTO DRIVEACAROR.
-
 tool used to shape and refine raw materials
-
-OPERATE MACHINERY, AND MAY
-
 into something extraordinary. Just a5 a
+skilled craftsman wields a mallet to bring
+out the best in their materials, The
 
-skilled craftsman wields a mallet to bring,
-
-CAUSE HEALTH PROBLEMS.
-
-out the best in their materials, ‘The
-
-‘Mallet's master distillers carefully craft
-
-KM
-
-DISTILLED IN INDIANA
-
+‘Mallet’s master distillers carefully craft
 ach spirit to unleash its full porential
 
-ED tof
-
-tyes ld.
-
-BOTTLED BY:
-
-‘AMOUNT
-
-‘The Mallet's forceful strike is mirrored in
-
-ARCAS CONCEPTS LLC
-
+‘The Mallets forceful strike is mirrored in
 the bold, spicy flavor of our rye whiskey.
-
-NORTH CHARLESTON, SC
-
 ‘With a biend of traditional and innovative
+techniques, our rye whiskey is distilled in
+Indiana and is a true showstopper.
+
+jug!
+
+(oss tyes ld.
+
+Milli/,
 
 100 - 50
 
-techniques, our rye Whiskey is distilled in
-
 8 ALC'VOL
 
-Indiana and is a true showstopper.
+TRAGHT RYE
 
-/
+GOVERNMENT WARNING: (?) ACCORDING
+‘TO THE SURGEON GENERAL, WOMEN
+‘SHOULD NOT DRINK ALCOHOLIC
+BEVERAGES DURING PREGNANCY
+BECAUSE OF THERISK OF BIRTH
+DEFECTS. (2) CONSUMPTION OF
+ALCOHOLIC BEVERAGES IMPAIRS
+YOUR ABILITYTO DRIVEACAROR.
+OPERATE MACHINERY, AND MAY
+CAUSE HEALTH PROBLEMS.
 
-l
+DISTILLED IN INDIANA
+BOTTLED BY:
 
-TRAIT
+ARCAS CONCEPTS LLC
+NORTH CHARLESTON, SC
 
-tl
-
-8
-
-50013
-
-19532
+al soois | 19532

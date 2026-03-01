@@ -28,6 +28,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 WP te
@@ -86,28 +88,11 @@ CAUSE HEALTH PROBLEMS
 
 ### Front Label
 
-——=
-
+TPS
 NEW RIFF
-
-DUCT
-
 AMERICAN
-
 WHISKEY
-
 IN HARMONY WITH
-
-=r—
-
-(=A
-
 RHINEGEIST
-
-100 PROOF
-
-50% ALC/VOL
-
-750 ML
-
+100 PROOF 50% ALC/VOL 750 ML
 BARREL PROOF WITHOUT CHILL FILTRATION

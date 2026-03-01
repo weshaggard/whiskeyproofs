@@ -24,6 +24,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 DEVILS CREEK DISTILLERY
@@ -141,17 +143,3 @@ Tl
 Mammoth Lakes, California
 
 Produced in America
-
-### Label 2
-
-w=
-
-—FKri
-
-— =|
-
-[= =)
-
-Lid ==
-
-j= OO

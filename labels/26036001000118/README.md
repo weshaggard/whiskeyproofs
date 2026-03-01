@@ -44,188 +44,99 @@ PROOF
 
 ### Label 2
 
-~
-
-PA
-
-RUSH
-
-k CREEK
-
--DISs
-
-LING-—
-
 GOVERNMENT
-
-Eel Beyond the Label
-
 WARNING:
 
-ety
-
-=
-
-; 2 &
-
-(1) According to the
-
-6HI
-
+(4) According to the
 Surgeon General,
-
-CURATED BARREL STRAIGHT WHISKEY
-
 women should not
-
-ae
-
-Scan for Decoder
-
 drink alcoholic
-
 beverages during
-
-Barrel Ne
-
-Curated Whiskey—an be 4ecces Of single barrel
-
 pregnancy because of
-
-selections hand-picked from our most exceptional reserves
 
 the risk of birth defects.
 
-Curated By:
-
-MS
-
-2 ED
-
-itetr
-
-oi
-
 (2) Consumption of
-
-ARREL
-
-in Northern Illinois. Bottled uncut and unfiltered preserving
-
 alcoholic beverages
-
-2
-
-x
-
-the zac <7
-
-leg. an cerees
-
-xuances leveloped
-
 impairs your ability to
-
-RUSH CREEK.
-
-£O
-
 drive a car or operate
-
-within each individual cask. Our “Beyond the Label” experience
-
 machinery, and may
-
-STEP OUTSIDE.
-
-captures a singular moment in time that can never be
 
 cause health problems.
 
-replicated. Savor this rar
-
-e
-
-expression, where the distinct
-
-RUSHCREEKDISTILLING.COM
-
-personality of a
-
-Lath
-
-meets our uncompromising
-
-STRAIGHT
-
-commitment to
-
-Authentic craft
-
-pirit
-
-Distilled, Aged & Bottled by
+| Dill |
 
 RUSH CREEK DISTILLING
 
-: p its unaltered
-
-amhig631
-
-lal
-
-02060
-
-|
-
-|
-
 750 ML
 
+RUSHCREEKDISTILLING.COM
+
+RUSH
+
+Ob ea Beyond the Label -D1Is
+
+SEESE OL
+
+Scan for Decoder
+1
+
+RUSH CREEK.
+STEP OUTSIDE.
+
+Distilled, Aged & Bottled by
+RUSH CREEK DISTILLING
 Harvard, Illinois * USA
 
+*xCREEK
+
+LING-—
+
+STRAIGHT
+
 SPIRIT
+
+erry B
+Barrel Nickname
+
+CURATED BARREL STRAIGHT WHISKEY
+
+Curated Whiskey—an be 4ecces Of single barrel
+selections hand-picked from our most exceptional reserves
+
+in Northern Illinois. Bottled uncut and unfiltered preserving
+
+the 2c < ly al encgue nuances developed
+within each individual cask. Our “Beyond the Label” experience
+captures a singular moment in time that can never be
+replicated. Savor this rare Vig de where the distinct
+
+personality of a ee meets our uncompromising
+commitment to quality. Authentic craft spirit in its unaltered
 
 form. Experience the aL entree gocrle
 
 ### Label 3
 
-12
+AZXSIHM
+LHOIVaLS
 
-oo
+1addve
+dalvand
 
-= tT
+STE)
+D
+‘A
 
-E>
+AS
+a
 
-xin
+Ss
+S
+ww
 
-Pa
+CURATED
+BARREL
 
-=
-
-LU iy
-
-z2>
-
-ae |
-
-AQ
-
-De
-
-2
-
-4
-
-ax
-
-<A
-
-m=
-
-| =m
-
-ro
-
->a
+STRAIGHT
+WHISKEY

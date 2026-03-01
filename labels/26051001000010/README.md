@@ -24,60 +24,10 @@
 
 ### Label 1
 
-=
-
-YAMHILL
-
-mAs
-
-ode
-
-oz
-
-aED>
-
-RYE
-
-246
-
-SOx
-
-y
-
-2Z
-
-Z0u7
-
-=
-
-y
-
-Y
-
-\
-
-ates
-
-—
-
-(fo
-
-YoOz
-
-ats
-
-% BY VOL.
-
-az
+WSN NOD3XO ‘ATIHANNINOW,
+AMATIILSIG NOLHSIWE MAN
+A@ GIILLOS GNV G3TILSIG
 
 PROOF /' ALC.
 
-\
-
-LOS
-
-50 ML
-
-iN
-
-E
+60845 | 5

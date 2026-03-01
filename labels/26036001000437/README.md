@@ -38,51 +38,26 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 PRODUCED BY THE WOODFORD RESERVE
-
 DISTILLERY, VERSAILLES, KENTUCKY
 
-OO —_—=
-
-OF —
-
 GOVERNMENT WARNING: (1) ACCORDING TO THE
-
-Ol
-
-OU
-
-OT DRINK
-
-o=
-
-ALCOHOLIC BEVERAGES DURING PREGNANCY BE-
-
-<=
-
-CAUSE OF THE RISK OF BIRTH DEFECTS. (2) CON-
-
-o_——
+SURGEON GENERAL, WOMEN SHOULD NOT DRINK
+ALCOHOLIC BEVERAGES DURING ee dA
+CAUSE OF THE RISK OF BIRTH DEFECTS. (2) CO
 
 SUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS
-
-Om =
-
 YOUR ABILITY TO DRIVE A CAR OR OPERATE
-
-(SD Jo
-
-2 | —
-
 MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
 
-woodfordreserve.com
+GA CRV| () woodfordreserve.com
+RESPONSIBILITY.org
 
-HE @
-
-RESPONSIBILITY. org
+10061526
 
 ### Front Label
 
@@ -125,16 +100,6 @@ ure
 ford Re
 
 mash bil
-
-### Label 1
-
-STILLER ERI ¢«
-
-WOODFORD RESERVE
-
-a
-
-—<
 
 ### Label 4
 

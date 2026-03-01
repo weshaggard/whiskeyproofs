@@ -28,74 +28,38 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 Cooper & Cok
 
-DISTILLED IN
-
-L, Lawrenceburg
-
-frdinna, |
+asHIAW ;
+[esorencebury, Indiana |
 
 F
 
-BARRELS
-
-MINIMUM ABE
-
-I
-
-0,
-
-\
-
-10 rar 3 wither |
-
-127 PROOF +780 ML - NON CHILL FILTERED
+BARRELS I MINIMUM ABE )
+K 10 JMO por 3 wither,
+127 PROOF - 750 ML - NON CHILL FILTERED
 
 BOTTLED BY LATITUDE BEVERAGE
-
-———<)
-
 IN RUMFORD, RHODE ISLAND
-
 SOENETNN (CCG TTHESUBEH
-
-—F
-
-GERERL, WOMEN SHOULD NOT ORIN ALCHOUC
-
+GENERAL, WOMEN SHOULD NOT ORIN ALCOHOLIC
 (EVGES TANG PREAMCY BEANE OTHERS OF
-
-—
-
 RTH FECTS. (2) COMSIMTION OF wLcHOLC
-
 EVES MPS YOUR ABILITY TODRWEA CRO
-
 CPE TEACHER NOME PRES,
-
-——4
 
 ### Front Label
 
-BATCH at Oy
+BATCH Oy .
+SMALL aga BATCH
 
-BATCH
+S BOURBON WHISKEY
+Gay. [ AGED IL ALC BY VOL ]
 
-——x BOURBON WHISKEY
-
-I oo>=e a ooo"
-
-ASK
-
-[oves } [bax
-
-S
+Cask
 
 750 ML + BARREL PROOF
-
-### Label 3
-
-Li) |

@@ -30,16 +30,13 @@
 
 ### Label 1
 
-pM Sie GAN
-
-wT re
+JIM GAFFIGAN
 
 AS
 
 BEYOND THE PALE
 
 Straight Bourbon Whiskey
-
 20 Years Old
 
 ### Label 2
@@ -58,80 +55,36 @@ alc. 55  %byvol(_[I0 _ proof)
 
 13. PRESENTS
 
-2. LOVE FOOD
+2. LOVE FOOD 14. EATING OUT*
 
-14. EATING OUT*
+3. PACKAGING? 18. VEGETARIAN
 
-3. PACKAGING*
+4. GROCERY 16. STEAK N SALAD*
+ical 12, EAT HEALTHY*
 
-15. VEGETARIAN
+oa Re 18, HOT POCKETS
 
-4. GROCERY
+a FAST Paane 19. FILM DIRECTOR
 
-16. STEAK N SALAD*
+2 DELIVERY 20. DO NOTHING*
 
-STORE*
+9 canes 21. EMAIL*
 
-17, EAT HEALTHY*
+9. CINNABON* cilia
 
-5. EAT LIKE
+ia nae 23. CATHOLIC
 
-AMERICANS
+HL CAKE 24. HEAVEN
 
-18. HOT POCKETS
-
-19. FILM DIRECTOR
-
-6. FAST FOOD*
-
-7. DELIVERY
-
-20. DO NOTHING*
-
-21. EMAIL*
-
-8. CHEESE*
-
-9. CINNABON*
-
-22. WEIRD*
-
-10. DESSERT
-
-23. CATHOLIC
-
-24. HEAVEN
-
-11. CAKE
-
-12. HOLIDAYS
-
-25. JESUS, MARY
-
-AND JOSEPH
+12, HOLIDAYS ae eee
 
 *DVD only
 
-Ne
-
-er
-
-a
-
-|
-
-&
-
 Distilled in Tennessee
-
 Bottled by Fathertime Bourbon LLC in Louisville , KY
 
 GOVERNMENT WARNING: (1) According to the Surgeon General,
-
 women should not drink alcoholic beverages during pregnancy
-
 because of the risk of birth defects. (2) Consumption of
-
 alcoholic beverages impairs your ability to drive a car or
-
-Operate machinery, and may cause health problems
+operate machinery, and may cause health problems

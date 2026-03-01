@@ -113,26 +113,20 @@ IM,
 
 ### Front Label
 
-a Kk
-
-C*
-
-ave,
-
-aceon]? YEARS
-
-SS
-
-i)
-
-a
-
-z
-
-KOSS
-
+aK
+*
+f*
+ave.
+N acep] D vears
+Sea. ~~),
+=o Spnen
+SM Nation
+pee EN see
+bl sas
+EZ) .am=
+a” Y
+Wa
+KOSSD
 KENTUCKY STRAIGHT
-
 BOURBON WHISKEY
-
-47.5% ALC/VOL.
+AH ALCVOL

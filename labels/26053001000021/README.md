@@ -80,58 +80,17 @@ OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
 
 ### Front Label
 
-=
-
-—
-
 DISTILLED
-
-iy «
-
-yun iO
-
 FROM
 
+aS oe ‘a
 CORN
-
 RYE
+* * LOCATED IN *
+MALTED VERO
+BARLEY BEACH
 
-STV
+DISTILLED & BOTTLED ]
+IN U.S.A
 
-* LOCATED IN *
-
-MALTED
-
-“A,
-
-VERO
-
-BARLEY
-
-BEACH
-
-*
-
-*
-
-*
-
-~~
-
-&
-
-- 6 6UWN
-
-|
-
-DISTILLED & BOTTLED
-
-Ss
-
-24
-
-a ae
-
-a
-
-ae
+pk ge 24

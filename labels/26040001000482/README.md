@@ -28,6 +28,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 AGED IN
@@ -72,106 +74,28 @@ ERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS
 
 ### Front Label
 
-/
-
-&
-
 SADDLER
 
-KENTUC!
-
-RAIGHT
+KENTUCK rRAIGHT
 
 RYE
 
-WH!
+WH! KEY
 
-cEY
+VERY LIM! <ELEASE
 
-VERY LIM!
+SINGLE BARREL SELECT BARREL SELECT
 
-<ELEASE
+BOTTLE NO. 123.45 mero 0%
+. (o}
+1/100 2/4/2022 100.0
 
-White Uolding
+DISTILLATION DATE PROOF
 
-SINGLE BARREL SELECT
-
-BOTTLE NO.
-
-BARREL NO.
-
-4
-
-50.0%
-
-1/100
-
-DISTILLATION DATE
-
-2/4/2022
-
-P
-
-100.0
-
-setecteD BY CUSTOMER NAME HERE
+sevecteo BY CUSTOMER NAME HERE
 
 NON-CHILL FILTERED
 
-CASK S'
-
-NGTH
+CASK ST <ENGTH
 
 750mL
-
-### Label 3
-
-~/)
-
-a
-
-asyinid
-
-9202
-
-4
-
-UUTBLELY
-
-]
-
-1913) a
-
-SM
-
-RA
-
-SAD
-
-D
-
-1
-
-q
-
-RARE
-
-EST
-
-YER
-
-it}
-
-Ys
-
-|
-
-RELLASE
-
-2026
-
-S|
-
-NK
-
-Zi

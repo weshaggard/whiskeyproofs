@@ -22,16 +22,9 @@
 
 ### Label 1
 
-=e
-
-BARREL#.
-
-FILL DATE
+BARREL#. FILL DATE
 
 BARREL TYPE: AMERICAN WHITE OAK 53 GALLON
+proor 90 arc__45___ % By VoL
 
-proor 90 arc__45
-
-% BY VOL
-
-BOTTLED BY _ichnd.
+BOTTLED BY _ichnd._

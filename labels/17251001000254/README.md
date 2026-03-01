@@ -39,36 +39,24 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 very UIMITED)REL EA. |
 
 GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON
-
 GENERAL, WOMEN SHOULD NOTDRINKALCOHOLIC
-
 BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF
-
-BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC
-
+BIRTH DEFECTS. (2) CONSUMPTION OFALCOHOLIC
 BEVERAGES IMPAIRS YOUR ABILITY TO DRIVEA CAR OR
-
 OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
 
-Ih
+MIN
 
-Mh
+0°888352"130140"9
 
-0
-
-88352
-
-13014
-
-9
-
-Bottled by River City Distilled Products, St.Louis, MO
-
+Bottled by River City Distilled Products, St. Louis, MO
 MEVT REF 15¢ IA REF 5¢
 
 ### Front Label
@@ -116,12 +104,6 @@ fs QE
 6c
 
 ty.
-
-### Label 3
-
-6
-
-MMX VET
 
 ### Label 4
 

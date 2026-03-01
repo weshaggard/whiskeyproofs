@@ -30,78 +30,50 @@ TASTING NOTES
 
 Vanilla
 
-Coconut,
+Coconut, caramet
 
-caramet
+Tobacco Toasted Oak
 
-Tobacco
+Leather Brown Sugar
 
-Toasted Oak
+Fru Baking Spice
 
-CO)
-
-Leather
-
-Brown Sugar
-
-Fru
-
-Baking Spice
-
-The Terroir Collection reflects a true sense of place ~ a union between
-
+The Tertoir Collection reflects a true sense of place ~ a union between
 our estate bourbon whiskey and barrels carefully sourced from cooperages
-
 around the globe. Each barrel expression is an opportunity to taste the
-
 unique terroir, defined by is origin and environment
 
 DISTILLED, AGED, & BOTTLED BY
-
 STARLIGHT DISTILLERY * BORDEN, IN
-
 GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON
-
 GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES
-
 DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS.
-
 (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR
-
 ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY
 
 CAUSE HEALTH PROBLEMS.
 
+MEVECTAMATORASE MIE CACRY
+
 ### Front Label
 
-tae
+STARLIGHT GR DISTILLERY
 
 TERROIR COLLECTION
-
 4 Sense of Place
 
 BOURBON WHISKEY
-
 BARRELNO. 1234-56
 
-AS
-
 M10 PROOF + 55 %ALC./VOL.
-
 AGED 5 YEARS * 750ML
 
-NE
-
 SECONDARY WOOD CLASSIFICATION
-
 WOOD IDENTIFICATION:
-
 IBERIAN OAK
 
 ORIGIN OF OAK BARREL:
-
 SPAIN
 
 SELECTED BY
-
 “ACCOUNT NAME HERE”

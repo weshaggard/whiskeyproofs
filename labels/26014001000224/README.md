@@ -30,29 +30,21 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Back Label
-
-py
-
-b
-
-2 4
+*1 image(s) excluded: text did not meet readability threshold*
 
 ### Label 1
 
 NO YEAR ANNIVERSARY
 
-HONORING ELMER T.
-
-LEE'S FIRST
-
+HONORING ELMER T. LEE'S FIRST
 SINGLE
 
 BARREL
-
 SOUR MASH
 
-i
+cole
+
+C.000000
 
 ### Label 2
 

@@ -26,45 +26,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Label 1
-
-we Revofys,.
-
-oor °
-
->
-
-se
-
-%e,
-
-Y
-
-we
-
-Ie
-
-Za
-
-wn
-
-(44
-
-SS—
-
-boske)
-
->
-
-¥
-
-© Lexy sO)
-
-No
-
-we
-
-WHISKEY
+*1 image(s) excluded: text did not meet readability threshold*
 
 ### Label 2
 

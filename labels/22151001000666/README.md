@@ -29,186 +29,72 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
-—.
+SLL
 
-Sao Sees
+ill l
+GAUL 181 AY
+“SNATGOHd HLTVIH 3SNVI AVN ONY “AUINIH
+Ud W ANIUO OL ALITIGY UNA SUIVdI S39YH3
 
-oe
+908
+{|e
+QO
+Nail
 
-eSelSe
+\
 
-uo=>
+NOLLAWASNON (2) °$103490 HLHIG 40 XStH IHL 40 3SNWI98 ADNYN
 
-aon
+AQ OFTL08 ONY O3TSI0
 
-Se
+“Td INIHMO SIOVUIATE IITOHOITW NIHO 10
 
-a
+0 Woo"eWSyULIp’MMM
 
-us
+Tw gl
+1) ‘LNOWHIT)
+S10 V3 Salve
 
-—
+VIN ilvudd0
+WO NOHONTY 4
 
-==
+QINOHS NINO
 
-Sec
+“TWHINI9 NOISUNS JH! OL SNIGHOIIY (1) “ONIN VANLNAINNYSAO9
 
-——w_
+“yorq SUIAIS S,aIppoly
 
-CD oa
-
-aeSeor=
-
-=
-
-——
+7eYM SI—padoj] aa,pjnom Jayoog Aaysiym fo
+puly ay7 jsn{— Lud sty} MOU pur “UWUITY dARs Jayoog
+aueU 94} SLY, . MOOG ATLL, yards ps.uyf sty
+surureu Aq YAMOOY ACAVANVUY Sly 0} aseuroy shed
+SON FIGaaa A 2/]1781 WiDag UO]JD1IUAD 1,8 BY) SY
 
 LITTLE BOOK’
+foohet atcl ont thebed
+ents jo
+Fale fe
 
-Stoaea
+S cheap Gp Mork at an forel (E
 
-—
+tif
 
-Sal.
+andhfadedy
+“3
 
-e=
-
-|_Ne}
-
-i
-
-Soe
-
-aot
-
-ott
-
-———s
-
-LS chef Gop Mook at an hort GE
-
-Seay
-
-Soe =
-
-|_Ne}
-
-—a
-
-——O
-
-e=&
-
-Sof +2
-
-eno =S
-
-Bmteaa
-
-A
-
-4
-
-ail
-
-Sea
-
-o>
-
-Ss =
-
-—
-
-Serta
-
-copes
-
-=a =
-
-— i
-
-=>
-
-o>
-
-aotld.
-
-an
-
-aS
-
-c=
-
-su
-
-——
-
-—
-
-——— a!
-
-——_
-
-Ssot
-
-4
-
-= =
+OL. (119 PROOF)
 
 a
-
-Seon
-
-—
-
-== >—- of
-
-sae =
-
-————
-
-——
-
->)
-
-89.54 AL./VOL. (119 PROOF)
-
-S2a2uc
-
-———
-
-is
-
 BLENDED STRALGHT WHISKEYS
 
-fe LN22 h
+AC
 
-PLEASE
+h
+
+15
 
 110-LBK017
-
-### Label 2
-
-| a
-
-### Label 3
-
-=
-
-——
-
-ai. a
-
-yey
-
-PR
-
-Poy
-
-¢ freddie
-
-1.
-
-186-LBKO11

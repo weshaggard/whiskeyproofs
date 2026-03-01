@@ -24,6 +24,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 gPENSTAY,
@@ -59,11 +61,3 @@ OPERATE MACHINERY, AND MAY CAUSE HEALT HUB
 BEVERAGES IMPAIRS YOUR ABILITY
 
 DRIVE A CAR
-
-### Front Label
-
-90% ALC. BY VOL
-
-I10 PROOF
-
-750 ML

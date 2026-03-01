@@ -27,122 +27,41 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
-_
+Dene ee ay el
+tradition as other award-w Anning
 
-tradition
+Elijah Craig bottlings, this is a Barrel
+Proof, Small ney kde Bottled
+Straight from the barrel and sept
+chill filtering, the nose, taste 2
 
-lijah C
+i finish from twelve years of % C
+are preserved in their ory oa
+At Barre] Proof, water can wat
+Proof teduced to your chip. ossged
+limited bottling of Elijah See sun.
 
-Proof, Small Batch “Bourbon, Bote
+3 ACCORDING T0
 
-ch
+Se a) cE
+BT AS MING PREGHANCY BECAUSE OF THE ASK
+BIRTH OFFECTS, (2) CONSUMPTION OF ALCOHOL BEI
+WCE YOUR ALT To DANE A CAR 08 OPE
+MACHINERY, “AND MAY CAUSE HEALTH
+4 VI-ME 15¢ REF - 1A REF 5¢
+12
 
-Straight
+°S ni ae ae if)!
 
-from the barrel and without
+& | ee teal ii
+Dm
+iO "96749"47221"' 5
 
-, the nose, taste and
+Ds BOTTLED BY THE ELLAH CRAIG
+{ OSLER Oo a a an
 
-are
-
-nis
-
-from twelve years of agi
-
-At
-
-Preserved in their
-
-rrel Proof, water ca
-
-ere
-
-Proof
-
-|
-
-*
-
-reduced to your liki
-
-Enjoy this
-
-raig
-
-IARNING: (1) ACCORDING TO THE SUB-
-
-Be ERA.
-
-WOMEN SHOULD NOT
-
-OF THE RISK OF
-
-PT DEFECT
-
-$0)
-
-BEVER-
-
-4
-
-OR OPERATE
-
-PROBLEMS.
-
-ero DRIVE A CAR
-
-4%
-
-LMI
-
-Dis
-
-)
-
-D AND BOTTLED BY THE ELUAH CRAIG
-
-LERY CO, BARDSTOWN, KY 40004 750M
-
-### Front Label
-
-A ent
-
-pa
-
-ie
-
-wi
-
-.
-
-ae
-
-é
-
-as;
-
-=
-
-“<e
-
-ah
-
-is
-
-a]
-
-SRA GEE S05
-
-se
-
-Tes
-
-KENTUCKY ‘Gee see
-
-20URBON WHISKEY
-
-13+. PROOF (97. f ALC!
-
-240-4521
+YY VV vy yyyry:

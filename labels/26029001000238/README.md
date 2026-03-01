@@ -28,544 +28,56 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Label 1
-
-‘i
-
-SA
-
-Se,
-
-Senge
-
-OV
-
-oye,
-
-fe
-
-We
-
-HARE
-
-NS
-
-° HR
-
-2h
-
-a.
-
-oS
-
-Ea!
-
-x
-
-&
-
-S)
-
-~ .
-
-ty
-
-aS
-
-Uy
-
-CS)
-
-e
-
-iS
-
-ly
-
-ne
-
-wh
-
-3)
-
-£4
-
-a
-
-ie
-
-eo
-
-os
-
-a
-
-(
-
-SP
-
-€
-
-sa)
-
-pil
-
-Dio
-
-5
-
-Te
-
-Sey
-
-=
-
-th
-
-a
-
-Vo
-
-wae
-
-oon
-
-AS
-
-aS
-
-Seces
-
-ses,
-
-LE
-
-9
-
-BS
-
-soos,
-
-€
-
->
-
-4)
-
-——
-
-——
-
-oy
-
-LD!
-
->
-
-S
-
-<
-
-See
-
-eee
-
-Sy
-
-he,
-
-OVERHOLT
-
-ae
-
-rk
-
-,
-
-o
-
-N
-
-\
-
-\
-
-\
-
-N
-
-N
-
-\
-
-\
-
-Ayo
-
-tee
-
-\
-
-AN
-
-S
-
-eek
-
-&
-
-N\
-
-<
-
-)
-
-\
-
-A
-
-N
-
-.
-
-\
-
-\
-
-oe
-
-Qn
-
-W
-
-N
-
-&
-
-\\
-
-SONS
-
-WS
-
-NI
-
-QW Oy
-
-\
-
-=
-
-\
-
-WN
-
-\
-
-\
-
-\
-
-CG
-
-\
-
->
-
-ES
-
-43% ALC/VOL W.
-
-NX
-
-\
-
-\
-
-Ne
-
-Ww
-
-a
-
-WW
-
-x
-
-NY
-
-? 86 PROOF
-
-Ny
-
-oY
-
-tH
-
-Q
-
-HH Of. fe
-
-WHoA x
-
-os
-
-ae
-
-Ds
-
-s
-
-ae
-
-iN
-
-a
-
-ONS
-
-ys
-
-se Ny Ne
-
-IN
-
-ewan
+*2 image(s) excluded: text did not meet readability threshold*
 
 ### Label 2
 
 OLD
-
-—_— —
-
-o & =>
-
-ee Se SS
-
 OVERHOLT
-
-— _
-
-oe STS =
 
 FOUR YEARS OLD
 
-— ee —— ee
-
-oa =
-
-el
-
-a. oo
-
-onal eH
-
-——— ee |
-
 PENNSYLVANIA BORN,
-
-a ) SH
-
-ae S=| S])
-
-=—< coc
-
 KENTUCKY DISTILLED
-
-ao Sa =| =
-
-a ae SS
-
-ee
-
-—
-
-ws = &
-
-— — i a — — ee)
-
 In 1810, Abraham Overholt began distilling
-
-S OP HD SE
-
-SS —
-
-S=  &
-
 Rye Whiskey in Western Pennsylvania,
-
-==
-
-ae ma
-
 and Rye has been our focus ever since.
-
-a
-
-Sere Se laos
-
-> =
-
 Old Overholt is one of the oldest
-
-=e
-
-= —
-
-— —
-
-— —
-
-—— i —
-
-= _— —
-
-—s——
 
 cornerstones of American Rye Whiskey.
 
-LUI cs oS
-
-co ou = wu,
-
-eo
-
-os
-
-= —
-
-= >= «eS =
-
 NON-CHILL FILTERED
-
-(fs Se
-
 This Rye is non-chill filtered, which gives the
 
-whiskey a richer, fuller flavor. In cold temperatures
-
-the whiskey May appear cloudy ot have visible
-
-es ~ |
+whiskey a richer, fuller flavor. In cold temperatures,
+the whiskey May appear cloudy or have visible
 
 particles, which is both normal and natural.
 
-_———— a)
-
 GS) DRINKSMART.COM AMERICA 250
 
-es
+Ohare 0)
+eae
+ris e ; e'
 
-Olea)
-
-Per 1.5 Fl. 02.
-
-WN)
-
-te
-
-Average Analysis:
-
-OWN)
-
-Calories: 105; Carbs: Og;
-
-r
-
-0
-
-Protein: Og; Fat: Og
-
-)
-
-aie
-
-NOT FOR UNDERAGE
+Sty
 
 111-OOA250
 
+Per 1.5 Fl. 7.
+Average Analysis:
+Calories: 105; Carbs: Og;
+Protein: Og; Fat: Og
+
+NOT FOR UNDERAGE
 /50mL
 
-### Label 3
+MEVT REF 15¢ © IA REF 5¢ (A (RV GOVERNMENT WARNING: (1) ACCORDING 10 THE
 
-Dio
+SURGEON GENERAL, WOMEN SHOULD NOT ORINK
+ALCOHOLIC BEVERAGES DURING PREGNANCY BE-
 
-AH tue
-
-Witt
-
-e
-
-ay
-
-a
-
-Se Ht
-
-Dw
-
-of
-
-4
-
-ns
-
-Wie
-
-i
-
-ee Se
-
-Owe
-
-a
-
-Aa
-
-moO &
-
-i
-
-eZ
-
-=e
-
-=
-
-DA ky
-
-Ao
-
-tl <O px
-
-a
-
-\
-
-EY
-
-Ss
-
-=
-
-“ed
-
-i‘m
-
-La
-
-rd
-
-i"
-
-AK
-
-m4
-
-aK
-
-a
-
-a
-
-1
+CAUSE OF THE RISK OF BIRTH DEFECTS. (2) COW-
+SUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS
+YOUR ABILITY 10 DRIVE A CAR OR OPERATE MA-
+1 CHINERY, AND MAY CAUSE HEALTH PROBLEMS.

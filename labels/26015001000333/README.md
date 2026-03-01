@@ -32,155 +32,48 @@
 
 ### Back Label
 
-r
-
-in
-
-J
-
-i
-
-Z
-
-TRAY ik
-
-——
-
-IL
-
-= Ss.
-
-AL
-
-‘ey
-
-Good whiskey is like a good song. It requires no explanation
-
+Good whiskey is like a good song. It requires no explanation,
 One taste should tell you everything you need to know. No one
-
-has to tell you how to feel about it. You simply settle in & enjoy.
+has to tell you how to feel about it. You simply settle in & enjoy,
 
 For this first-of-its-kind collaboration from Buffalo Trace
-
 Distillery, Traveller brings together the collective artistry
-
 of Chris Stapleton and Master Distiller, Harlen Wheatley,
 
 Blend No. 40 is the carefully curated result of countless
-
 hours of testing & tasting, It's a completely unique combination
-
 of whiskies from award-winning distilleries and exactly what
-
 you'd expect, a premium whiskey that speaks for itself.
 
-ht bb
+hh blast
 
-HARLEN WHEATLEY
-
-MASTER DISTILLER & CO-FOUNDER
-
-MUSIC,
-
-edt
+HARLEN WHEATLEY iTS orf
+MASTER DISTILLER & CO-FOUNDER MUSICIAN
 
 PROUDLY BLENDED AND BOTTLED BY
-
 BUFFALO TRACE DISTILLERY, FRANKFORT, KENTUCKY
 
 GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL,
-
 WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREG-
 
-NANCY BECAUSE OF THE RISK OF BIRTH DEFECTS, (2) CONSUMPTION
-
-So
-
+NANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION =
 OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY 10 DRIVE A CAR
 
-¥
+OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS, \s
 
-OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS
+FPOS iT} ES.
+oll IA REF 5g
+All stati wana o MET REF 15¢
 
-HHH ES.
-
-FPO
-
-Yo
-
-IA REF 6
-
-HATTA
-
-it
-
-|
-
-00000
-
-00000
-
-l|
-
-o ME/VT REF 15¢
-
-2S
-
-ee
-
-travellerwhiskey.com
+— _ travellerwhiskey.com ——
 
 ### Front Label
 
-fs
-
-0
-
-ic)
-
-i
-
-iit
-
-i
-
-i
-
-aN
-
-]
-
-ih
-
-th
-
-iil
-
-iN
-
-i
-
-‘TRAVELLER
-
-ii
-
-i
-
-i
-
-ll
-
-ih
-
-ii
-
-ok
-
-sf
-
-ee
-
-puenen WHISKEY §=BBLEND N® 40 750m. asxacvo.
+y
+jus TRAVELLER eee
+Shem Gliiitiy init
+| eee EA ees
+Cer —gnownser BLEND N* 40 ram scum — PPOo Op EY
 
 ### Label 3
 

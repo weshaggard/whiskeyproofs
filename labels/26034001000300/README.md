@@ -70,68 +70,20 @@ L
 
 Fig il=
 
-SINGLE CASK
-
-BEAUTIFUL
+KY{eq
+singtecasK! BRE AUTIFUL
 
 AND THE
 
-at
+NO@LE CASK SRY S
 
-DAMN
+STRAIGHT BOURBON WHISKEY
 
-WiH IS &
+FROM OUR SINGLE 4 ae
 
-o“e 4
-
-a
-
-‘vel a2.
-
-9
-
-®
-
-%.
-
-VA
-
-ie
-
-CD
-
-LTA
-
-i
-
-PLE CASK.SERTES
-
-¥
-
-STRAIGHT BOURBON mS AY
-
-&
-
-FROM OUR SINGLE
-
-K-
-
-PLAYLIST - WHAT BI
-
-BOTTLE
+PLAYLIST - WHAT BI if *23
 
 ACOUSTIC ENDS ELE
+Pi
 
-Ic.
-
-an
-
-#5
-
-F}
-
-4 PROOF
-
-57.7% ALC./VOL
-
-750ML VOL
+.4 PROOF 57.7% ALC./VOL. 750h. VOL.

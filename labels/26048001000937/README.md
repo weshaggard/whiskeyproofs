@@ -58,24 +58,14 @@ MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
 
 ### Front Label
 
-cna
-
-FA
-
-an ar
+oe
+er
 
 HAVAbLYFA
-
 FUJIKAGUYA
-
 CASK STRENGTH
-
 SINGLE MALT JAPANESE WHISKY
-
-Distilled 20.22» Single Cask 2025
-
-N Ni
+Disilled 2022» Single Cask 2025
 
 Use of Mt. Fuji spring water
-
 62%Vol. 700ml

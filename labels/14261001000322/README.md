@@ -27,11 +27,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Back Label
-
-C
-
-MMXY
+*1 image(s) excluded: text did not meet readability threshold*
 
 ### Front Label
 

@@ -18,8 +18,4 @@
 
 ## Extracted Label Text
 
-*Text extracted via OCR - may contain errors*
-
-### Front Label
-
-BARDSTOWN
+*No readable text could be extracted from the label images.*

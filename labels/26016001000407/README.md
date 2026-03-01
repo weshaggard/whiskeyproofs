@@ -30,89 +30,60 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
-TO 2c
+02068 , OCOOT
 
-Oo ©
+| !
 
-MASHBILL:
+DATE PULLED:
+1-22-2026
 
-CHICKE
+-2020
 
-N(0CK
-
-95° RYE,
-
-=> —
-
-WHISKEY
-
-9°/o MALTED BARLEY
-
-Oc
-
-oOo =
-
-oi
-
-CHAR TOAST:
-
-FINISHING BARREL:
-
-oe)
-
-#3 MEDIUM
-
-NEW CHARRED AMERICAN
-
-—_——
-
-Ww
+RICKHOUSE D, ROW 23, LEVEL 2
+8
 
 WHITE OAK KELVIN CHAR #3
 
-(as
-
-PROOF:
-
 WAREHOUSE LOCATION:
 
-Oo =>
+ie
+=
+=
+= oa
+— =
+| i=
+— oes)
 
-122.9
+=| zo
+| Soe
+=| o=
+= ==
+= z=
+e|
 
-RICKHOUSE D, ROW 23, LEVEL 2
+o | 2m
+wm | oz
 
-eo =
+MASHBILL:
+95° RYE,
+BARRELED ON:
+2-
+
+CHAR TOAST:
+#3 MEDIUM
+ovR+11M0
 
 AGE:
 
-BARRELED ON:
-
-DATE PULLED:
-
-oO —
-
-ovR+11M0
-
-2-8-2020
-
-1-22-2026
-
-Ove
-
-— ce
-
-A —_)
-
-Ee O
-
-oOo =>
-
-oe O&O
-
-a. CO ©
+‘SWIT8OUd HLIVIH ISNWO AV ONY AYANIHOWW JLVu4d0
+YO VO V IAC OL ALIMIAY UNDA SUIVWI SISVYIAIG INOHOITW 40
+NOLLAWASNOD(2)’S199430 HLUIG 40 WSId FHL 40 ISNVIIE AINWNDTUd
+ONIUAG SIOVYIAIE IJNOHOITY MNIYC LON CINOHS NaWOM
+"TWUINI9 NOISUNS IHL OL SNIGHODIV (!) ‘SNINYWM LNIWNYIAOD
 
 ### Front Label
 
@@ -133,39 +104,3 @@ BARREL NO.
 61457,
 
 Ul
-
-### Label 2
-
-BZ
-
-pag
-
-—
-
-—
-
-aufaeg
-
-EST.
-
-A eLLEp PN
-
-ST.1 5
-
-EST.
-
-1856
-
-—
-
-1856
-
-ee
-
-=
-
-nC crys 7 A
-
-a(n’
-
-a

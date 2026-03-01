@@ -24,6 +24,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 LEGACY WHISKEY COMPANY
@@ -153,101 +155,3 @@ Louisville, Kentucky.
 or operate machinery, and may cause health
 
 problems.
-
-### Front Label
-
-EZ
-
-\N
-
-Z
-
-NY
-
-EZ
-
-Ni
-
-Z
-
-ZZ
-
-GZEzZ
-
->
-
-ZX
-
-LD).
-
-a
-
-—<— ‘0)).
-
-\eet
-
-~—
-
-= oy
-
-NWN
-
-1) =~
-
-e)
-
-S)
-
-K
-
-(“
-
-Keb
-
-3
-
-)
-
-Sie
-
-ANT
-
-Ay GINAILILS
-
-GRIFFIN
-
-j.EGACY WHISKEY COMPANn
-
-()
-
-nc
-
-il
-
-— STRAIGHT —
-
-BOURBON |
-
-— WHISKEY — ————
-
-— CASK STRENGTH —
-
-—
-
-BATCH
-
-65
-
-%
-
-ACL/VOL
-
-BOTTLE #
-
-/
-
-——w
-
-750 ml
-
--_

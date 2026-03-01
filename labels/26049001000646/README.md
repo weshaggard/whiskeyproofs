@@ -22,178 +22,65 @@
 
 ### Label 1
 
-ALWAYS AUTHENTIC.
+GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL,
+WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING
+PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION
+OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR
+OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
 
-JOZe
-
-ALWAYS APPROACHABLE.
-
-zo
-
-GRAIN FJ GLASS
-
-aS
-
-mECOwW
-
-<=
-
-wa
-
-wi
+GS
+GRAIN 77 GLASS
+iD
 
 We use grains sourced locally from fields within 25
-
-2GQ2ZzL0
-
-nB=
-
-bd
-
-COpea0c
-
-mMaeQoa
-
 miles of our distillery. Our craftsmen oversee each
-
-GRAIN BILL: 100% malted barley
-
-ecconrxr
-
 detail of the process from milling ofthe grain to
-
-Sie
-
-wea
-
-the fermentation, distillation and eventual bottling
-
-SERVING STYLE: Adda splash of water or an
-
-mao
-
-Wor
-
-Caacn
-
-Fon tu
-
-We are as dedicated to the contents:in this bottle
-
-CODY
-
-ice cube to bring out the big flavor. Outstanding in
-
-=e)
-
-ee]
-
+the fermentation, distillation and eventual bottling.
+We are as dedicated to the contentsin this bottle
 as we are to the people who enjoy it in their glass.
-
-classic cocktails like Rob Roy or with fresh sour.
-
-or
-
-Zoa>5
-
-ot
-
-ctor
-
-AO00nN>
 
 DISTILLED AND BOTTLED BY
 
-TASTING NOTES: Rich and earthy malt rounds
-
-QOtozgsS
-
-off with notes of toffee and dry fruit. The whiskey
-
-tang
-
-<5
-
-=S
-
-finishes with notes of molasses and oaky vanilla.
-
-Sewn t
-
 MISSISSIPRI REVER_
+DISTIEEYNG (SMPANY
 
-Soc
-
-or
-
->>
-
-DISTILERNG! COMPANY
-
-Seu
-
-2050
-
-cw
-
-kaw *
-
-Se2uui>=
-
-A>
-
-LE CLAIRE, 10WA
-
-ROAD
-
-Zo
-
-SHO
-
-=>
-
-moO
-
-Sas
-
+LE CLAIRE, 1OWA
 mrdistilling.com
-
-AMERICAN
-
-Buffalo Bill Cody was a legendary American. A classic
-
-Cm
-
-ZSoH
-
-Suu
-
-frontiersman and tireless entertainer, he was known
-
-S22205
-
-S°Or+
 
 ME, VT, MA, NY, HI, 1A, OR, CT S¢ CA, MI 10¢
 
-ow
+8 55037 00596 8
+
+DY
+
+AMERICAN
 
 MALT
 
-for being larger than life. His namesake whiskey
-
-lor do)
-
-brings a big flavor from the Midwest land where he
-
-G6S=a000
-
-Ce uLoc
-
 kK WHISKEY *
 
+S———_ FO eae
+
+ALWAYS AUTHENTIC.
+ALWAYS APPROACHABLE.
+
+bd
+
+GRAIN BILL: 100% malted barley
+
+SERVING STYLE: Adda splash of water or an
+ice cube to bring out the big flavor. Outstanding in
+classic cocktails like Rob Roy or with fresh sour.
+
+TASTING NOTES: Rich and earthy malt rounds
+off with notes of toffee and dry fruit. The whiskey
+finishes with notes of molasses and oaky vanilla.
+
+kaw *
+
+Buffalo Bill Cody was a legendary American. A classic
+frontiersman and tireless entertainer, he was known
+for being larger than life. His namesake whiskey
+brings a big flavor from the Midwest land where he
 was born. This malt whiskey is aged in used bourbon
-
 barrels and is sure to entertain just like Bill.
-
-WIM

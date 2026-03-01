@@ -25,86 +25,16 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
-es
+LITTLE BOOK’
 
-Sees
+o cele Gop Mook at an foret GE
+np flaedadly Msp and tut thabed
+tate wii Che wotld,
 
-aS 8
+Fitucio. (rm Satie ;
 
-Zee.
-
-Bes
-
-Be S
-
-LITTLE BOOK
-
-eal
-
-Ene
-
-BBs
-
-Exe
-
-Soe
-
-$3
-
-S00
-
-=,
-
-LEE a Hook at anherwt GE
-
-SBe
-
-Se
-
-_—2
-
-ey
-
-Sages
-
-gos
-
-Sa
-
-Lp
-
-gga
-
-aa
-
-al
-
-Mt Te ge
-
-gs
-
-2
-
-eS
-
-Sees
-
-own
-
-x 8
-
-AENTUGKY STRAIGHT BOURBON WHISKEY
-
-Engel. ft rn
-
-2010 RELEADE
-
-Mo-LBKOI4
-
-res
-
-### Label 2
-
-yy”
+AENTUGKY STRAIGHT BOURBON WHISKEY O19 RELEASE

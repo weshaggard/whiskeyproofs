@@ -39,39 +39,30 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
-Veet
-
-MITE RE TE ge
+very EIMITEO REL e gs |
 
 GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON
-
 GENERAL, WOMEN SHOULD NOT DRINKALCOHOLIC
-
 BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF
-
 BIRTH DEFECTS. (2) CONSUMPTION OFALCOHOLIC
-
 BEVERAGES IMPAIRS YOUR ABILITY TO DRIVEA CAR OR
-
 OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
 
+UPC FPO
+
 Bottled for Lux Row Distillers, Bardstown, KY
+MEVT REF 15¢ 1A REF 5¢. TSOML
 
-MEVT REF 15¢ 1A REF 5¢
+= y
 
-TS0ML
+a ew
 
-cr
-
-BARDSTOWN
-
-(LUX ROW}
-
-KENTUCKY, USA
-
-SEE
+BARDSTOWN KENTUCKY. USA
+seem
 
 (p00
 
@@ -79,69 +70,24 @@ SEE
 
 Poot Oath
 
-yer’ LIMITED RELe gg,
-
+yery LIMITED RELe gs
 Fentucky Straight
-
 BOURBON WHISKEY
-
 Finistied in Calvados Casks
-
 49.3% ALC/VOL | 98.6 PROOF
-
 2022 Pact No.8 MMxxi
 
-ppefel ater) Corel
+AVE, idm Win.
+woillea boll ty. ‘Ukil owokes ch beltascoehe
+Pe ee tae
+tpabenitheamutand pacy masse sanill
+ed ceneeermeer aed , an S-geae— old.
+aE \ Nccn nbehic
 
-bed.
-
-becabons, ald with
-
-va
-
-woillea boll ty.
-
-Galli
-
-‘euokes ch beltaaceteh,
-
-dali
-
-than H-
-
-feacciles
-
-5
-
-CEE eh)
-
-ee Cae nee
-
-hin Caluadas cashes,
-
-ie
-
-and
-
-frewious
-
-he
-
-a
-
-gud tefl nafosth gs
-
+‘puerta bf, Ths gud tepata one fou the agee
 This rare Pact shall never again Ge made.
 
-pact. f
-
-vate: Gf
-
-202 FZ2
-
-‘oP Oa
-
-SRT
+Del Gres Mer es
 
 ### Label 2
 
@@ -192,7 +138,3 @@ Ce
 Rie
 
 EXcLUSIVE RELEASE: MMXXIl
-
-### Label 4
-
-a

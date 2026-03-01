@@ -30,6 +30,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 PRODUCED BY THE WOODFORD RESERVE
@@ -69,23 +71,3 @@ ALCOHOLIC BEVERAGES IMPAIRS YOUR
 ABILITY TO DRIVE A CAR OR OPERATE MACH-
 
 INERY, AND MAY CAUSE HEALTH PROBLEMS
-
-### Front Label
-
-SWEET OAK BOURBON
-
-{
-
-### Label 4
-
-s
-
-ste e.
-
-fom]
-
--—
-
-21
-
-“Legs

@@ -32,6 +32,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 Locally grown whisky,
@@ -177,17 +179,3 @@ THE MAKER'S MARK DISTILLERY, INC.,
 111-SHF072
 
 STAR HILL FARM, LORETO, KY. USA.
-
-### Label 3
-
-LOCALLY
-
-ANNUAL
-
-SOURCED
-
-RELEASE
-
-### Label 4
-
-|

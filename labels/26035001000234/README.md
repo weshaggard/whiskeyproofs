@@ -30,6 +30,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 RYE WHISKEY MADE WITH 20%
@@ -82,18 +84,8 @@ wih)
 
 ### Front Label
 
-\STILLERAE ACADI4
-
-iW
-
-LON
-
-LOUIMANA STRAIGHT RYE WHISKEY
-
-— BOTTLED-IN-BOND —
-
-### Label 2
-
-OMoOZzom
-
-MOZO Wo
+piSTILLERTE ACAD 4 y.
+BB.
+LOR VEZON
+LOUINIANA STRAIGHT RYE WHISKEY
+— BOTITLED-IN-BOND —

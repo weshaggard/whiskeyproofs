@@ -28,6 +28,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 OTTON
@@ -87,55 +89,3 @@ S DRIVE A CAR OR OPERATE MACH
 AND MAY CAUSE HEALTH PROBLEMS.
 
 —
-
-### Label 1
-
-\
-
-GE
-
-ACNE
-
-{OTTON
-
-FS SINGLE BARREL
-
-BARREL PROOF
-
-\}
-
-TRAIG
-
-HI
-
-Od
-
-SE NS
-
-\s
-
-a,
-
-WHISK ;
-
-ot
-
-sf)
-
-»\
-
-\\
-
-oO
-
-i
-
-(AX
-
-55% qucVor
-
-tf
-
-110. ‘PROOF
-
-If

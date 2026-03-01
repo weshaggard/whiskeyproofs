@@ -32,52 +32,10 @@
 
 *Text extracted via OCR - may contain errors*
 
+*3 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
-N
-
-Q0o/
-
-re
-
-/o
-
-vat
-
-D
-
-U
-
-### Label 2
-
-/
-
-### Label 4
-
-=
-
-==
-
-———
-
-—
-
-=
-
-\\
-
-\
-
-”
-
-=
-
-=
-
-=
-
-=
-
-—
-
-=
+EQOY Nin py wnt
+JO“ # bY VOI
+ALY. DE VUL

@@ -93,15 +93,6 @@ a
 ### Front Label
 
 SIOUX CITY BREEDS NO ORDINARY SPIRITS.
-
-—
-
-—
-
-H
-
-ADDOCK
-
+Dim wit
 STRAIGHT RYE WHISKEY
-
-or | res
+Sioux CITY DISTILLING CO a £. 50% ALC/VOL - 750 mL |

@@ -28,6 +28,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Front Label
 
 (®)
@@ -42,144 +44,17 @@ FOUNDED BY
 
 44 ALC/VOL, (88 PROOF)
 
-### Label 2
-
-oe}:
-
-Qt
-
-ME
-
-Cl ff
-
 ### Label 3
 
-o>
+ASVHIUNd OL +12 FGISNW = “SWI18OYd HITVIH ASAD AVW ONY
+‘ANINIHOVW SILVIO YO UV V IAC OL ALTIGV UNDA SUINdINI SI9VUANIE
+INOHOIT 40 NOLAWNSNOS (2) “SLI3430 HLMd 40 ¥SId SHI 40 3snva3a
+AONWNS3Ud ONIUNG SISVAAIA aot YNIG LON CNOHS N3WOM
+“TWHSNa9 Napouns 3HL OL SNIGYOIOV (1) *SNINYWM JNIWNYIAD9
 
-Ssé=
+™ heat i Lh i iM AY) ¥)
 
-Ce)
+ooo00007g] Bio"Ayniqisuodsas: mam
 
-s:= fe
-
-=e
-
-— ee}
-
-— =
-
-=s
-
-n>
-
-a)
-
-> hu
-
-2
-
-Suis
-
-za
-
-=Zzx
-
-as
-
-— o
-
-o>
-
-o>
-
-=c
-
-Ww
-
-=s
-
--~S2S>
-
-Sows
-
-Tw
-
-ecc
-
-= 3
-
-S6E
-
-so
-
-[Ea
-
-ovusc
-
-S— Fue eceo
-
-wae
-
-a2
-
-——_
-
-255
-
-jo F68as
-
-zac
-
-"Sua
-
-en
-
-an
-
-© Beers
-
-(—3= 5 —4
-
-oz
-
-s=
-
-sea
-
-ect
-
-==
-
-—s—)
-
-S555
-
-=Ss
-
-=
-
-(= =
-
-Bun
-
-Wat
-
-i)
-
-a
-
-=
-
-—
-
-a
-
-—r
-
-=anoew
-
-a
-
-s=
-
-oo
+AY ‘GOOMLSIYD ‘ANVdWO09
+NO8uNOd S.NOSH3443F YO4 CF LLLO

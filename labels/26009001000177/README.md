@@ -28,6 +28,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 —) KY: , KY: US (
@@ -97,18 +99,6 @@ THIS WHISKEY CLIMBED TO THE MID-POINT OF OUR DISTILLATION
 SPECTRUM. WITH ITS FLAVOR COMPOUNDS NOW MORE CONCENTRATED
 
 A WELL-DEFINED AND LAYERED PROFILE TAKES SHAPE
-
-### Label 2
-
-@ DRINKSMART.COM
-
-arEC
-
-ae
-
-|
-
-80686'01428
 
 ### Label 3
 

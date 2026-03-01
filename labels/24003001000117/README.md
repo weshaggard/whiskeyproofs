@@ -31,75 +31,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Front Label
-
-MASTER'S
-
-— KEEP
-
-i
-
-AN
-
-WA
-
-\Wayjr-
-
-N S
-
-\
-
-SS
-
-»
-
-RYE WHISKEY
-
-1 Vj
-
-hy
-
-ee
-
-m
-
-Y
-
-A)
-
-ss
-
-Gpidicfant?
-
-~ ~)
-
-EB sci.
-
-aster
-
-TWN STS
-
-XX
-
-### Label 2
-
-.
-
-t
-
-———
-
-—_
-
-tate
-
-alge
-
-YE \
-
-SKE
-
-ML $4.51 ALC/VOL (109
+*2 image(s) excluded: text did not meet readability threshold*
 
 ### Label 3
 

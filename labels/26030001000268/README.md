@@ -68,94 +68,37 @@ MAY CAUSE HEALTH PROBLEMS.
 
 ### Front Label
 
-iY
+FILE EIS
 
-(9
-
-ce
-
-UL
-
-\
-
-y
-
-sao!
+N NG bee
+‘Q)) COPPER BOTTOM
 
 EXPERIMENTAL
-
 COLLECTION
-
-pee a tN
 
 EXPERIMENT: BOURBON WHISKEY
 
-MASH BILL:
+78% CORN RE
+10% RYE Y
 
-BOTTLE #
-
-75% CORN
-
-/
-
-10% RYE
-
-Ta
-
-40%
-
-80
-
-15% MALTED BARLEY
-
-ML
-
-ALC. BY VOL.
-
-PROOF
+750 40% 80
+bh MALTED BARLEY ML ALC. BY VOL. PROOF
 
 HANDCRAFTED BY:
 
-prittor,
+plite
+IED ART.
+f Ss
 
-SS
+ey OSS
 
-Ed AR?,
+A ay
+$ ry
 
-ry)
+Ng ev’
+kYXo\
+SS a
 
-mY
-
-NG
-
-te
-
-s
-
-@
-
-ox)
-
-=
-
-s25OR
-
-Sx
-
-Sibdee
-
-FL
-
-re
-
-+
-
-Si
-
-we
-
-2
-
-SSIES
-
-ie
+6)
+S283 on evi
+Sos

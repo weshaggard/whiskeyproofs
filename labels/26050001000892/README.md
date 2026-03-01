@@ -84,25 +84,19 @@ il
 
 amg STRAIGHT WHISKEY aa
 
-WIKKID
-
-SHELL.
-
-\ he
+aie
 
 1A -
 
-N
+2022 {4
 
-) EST? |
-
-2022 hs
+ve esa
 
 Ye) Yo)
 
-D1, QUoR isn just FROM THE sou™
-
-See
+"A
+{) ovt
+~/QVoR isnt just FROM THE .
 
 ### Label 3
 

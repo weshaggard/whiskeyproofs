@@ -32,123 +32,79 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
-\e"
+\
 
-__——_—__
+>
 
-Bi
+DRINK ALCOHOL'
+
+DEFECTS.
+BEVERAGES IMPA\
+
+CAUSE HEALTH PR
+IA 5¢, VI/ME-
 
 December 5, 1933
 
-AN
-
-\\e
-
-Prohibition was repealed in the
-
-United States with the passage of
-
-the 21st Amendment to the United
-
-States Constitution.
-
-To commemorate this milestone, we created
-
-Remus Repeal Reserve. This 2017
-
-\\i
-
-limited edition bourbon features a
-
-buttery toffee and honeyed
-
-\\6
-
-smoothness that leads to a bold
-
-/\e
-
-spiciness, finishing with notes of
-
-\\
-
-raisin, fig, and toffee.
-
-In short, Remus Repeal Reserve
-
-is the best we make. Or as George
-
-Remus himself might have said,
-
-“some damn fine giggle water.” Enjoy!
-
-Ne
-
-Ns
-
-NSTILLED py
-
-G. REMUS
-
 DISTILLING CO.
 
-4
-
-Aimnencenure™
-
-2
+“ahmencesure™
 
 georgeremus.com
 
 BE LEGENDARY. SIP RESPONSIBLY.
 
-4
-
 GOVERNMENT WARNING: (1) ACCORDING TO
-
 THE SURGEON GENERAL, WOMEN SHOULD NOT
 
-BEVERAGES
-
-DURING
-
-/Ne
-
-5 DRINK ALCOHOLIC
-
 PREGNANCY BECAUSE OF THE RISK OF BIRTH
-
-DEFECTS.
-
 (2) CONSUMPTION OF ALCOHOLIC
-
-BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE
 
 A CAR OR OPERATE MACHINERY, AND MAY
 
-CAUSE HEALTH PROBLEMS.
+Prohibition was repealed in the
+United States with the passage of
+the 21st Amendment to the United
+States Constitution.
 
-IA 5¢, VI/ME-15¢ REFUND
+To commemorate this milestone, we created
+Remus Repeal Reserve. This 2017
 
-750ML
+limited edition bourbon features a
+buttery toffee and honeyed
+smoothness that leads to a bold
+spiciness, finishing with notes of
+raisin, fig, and toffee.
 
-/\
+In short, Remus Repeal Reserve
+is the best we make. Or as George
+Remus himself might have said,
 
-il
+“some damn fine giggle water.” Enjoy!
 
-8
+IC = BEVERAGES — DURING
 
-62018
+IRS YOUR ABILITY TO DRIVE
 
-00024
+OBLEMS.
 
-|
+15¢REFUND 750ML
 
-Bi
+620
 
-\ EE TAEEAIEEIIEIEAIISALIAAESI ASAE tas
+rN
+
+| 9
+
+18 00024
+
+> Td TATA A AAA AAAI AAA AAT ADA AAA AAAS I
+
+~\
 
 ### Front Label
 
@@ -195,11 +151,3 @@ a 15% - 2006 BOURBON (36% RYE
 WN
 
 Wf
-
-### Label 3
-
-KO
-
-REPEAL
-
-SERIES

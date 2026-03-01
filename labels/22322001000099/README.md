@@ -32,67 +32,28 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
-Ns»
+110-GBC0110
 
-— A)
-
-mts
-
-K
-
-Lid _
-
-Y
-
-ica |
-
-> sk
-
-C=:
-
-Ketel s Lay
-
-U
-
-=-<
-
-KNOG
-
-S
-
-©):
-
-— ~
-
-=<~
-
-i
-
-a°2
-
-=
-
-CREEK
-
-a
-
-— 4
+WHISKEY
 
 KENTUCKY STRAIGHT BOURBON
 
-AGED
+AWMINLININ ‘INOWYITI
 
-INE
+YOAVTA T71NA BP ALITVNO HOS AILAVAD
 
-WHISKE)
+SUVA ININ GA9V
 
-YEARS
+AAMSTHM NOGUNOG LHIIVYLS AMININAY
+HOLVA VSS —_—_—_—_—
 
-Ele
+Midd aONy
 
-GBCO
+os «TY NID O BA ee
 
 ### Label 2
 
@@ -109,25 +70,3 @@ FULL FLAV OR
 "ae
 
 D7 ALCVOL.
-
-### Label 3
-
-oF Ra
-
-pase
-
-SKY @S
-
-SISTiLLLiE
-
-COMPANY
-
-### Label 4
-
-|
-
-0
-
-80686°03501
-
-5

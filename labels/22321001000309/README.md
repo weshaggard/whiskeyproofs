@@ -39,224 +39,73 @@
 
 *Text extracted via OCR - may contain errors*
 
+*3 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
-vs
-
-Bourbon
+LDidhiday Loubor
 
 AGED FOR OVER 12 YEARS IN NEW CHARRED OAK BARRELS
-
 This whisky is distilled by us only, and we are responsible for its richness and
-
 fine quality. Its elegant flavor is solely due to original fineness developed with
-
 care. There is nothing better in the market.
+GEORGE GARVIN BROWN, FOUNDER..............c:scsessssesseesssessseesseessnessetooessnetenee Sheet iaed * (let Cag TOI rerrreeee
 
-GEORGE GARVIN BROWN, FOUNDER
-
-GOVERNMENT WARNING:
-
-ACCORDING 10 THE SURGEON
-
-DISTILLED & BOTTLED BY
-
-GENERAL, WOMEN SHOULD
-
-it
-
-T DRINK ALCOHOLIC BEVERAGES
-
-DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS, OLD FORESTER DISTILLING CO
-
-Al
-
-|
-
-2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR AT LOUISVILLE IN KENTUCKY
-
-ILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY
-
-CAUSE HEALTH PROBLEM
-
-RESPONSIBILITY. org
+GOVERNMENT WARNING: \) ACCORDING 70 THE SURGEON — peri ten a anTTiEp AY
+GENERAL WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES (yn eroreren meri tine
+DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS.
+LET Te outa HEADER TD pespoysiuty
+CAUSE HEALTH PROBLEMS. RESPONSIBILITY. org
 
 ### Front Label
 
-N
-
-iS
-
-Ss
-
-N
+Zz
 
 Barrelled
-
-N
-
-IS
-
-N
-
-x
-
-N
-
-Ltd. Bottling
-
 2011
 
-&
-
-N
-
-IN
-
-N
-
+Ltd. Bottling
 2023
 
-<}
+ZZ
+WLLL.
+WUMLULp
 
-S
+Y
+“np
 
-SSN SO
+§
 
-DWQ
+WW ask
 
-N
+\ N N ®
+SN SS WYSs SSS
 
-IS
+VIMY
+IMME)
 
-RSS
+Yj/?
 
-N
+Vis
 
-RS
+Uy
+OZ
 
-N
+“tip
 
-SSS
+Uy,
+Uy
+“tit
 
-SS
-
-N
-
-SS
-
-SNES
-
-ISS
-
-SS
-
-SSS
-
-SS
+D
 
 N
+S WS TOS
 
-N
-
-N
-
-S
-
-Ss
-
-N
-
-N
-
-S
-
-S
-
-N
-
-N
-
-WN
-
-N
-
-N
-
-SN
-
-Sy
-
-VN
-
-SSS
-
-S
-
-N
-
-MSS
-
-Ss
-
-VN
-
-N
-
-S
-
-N
-
-S
-
-N
-
-\
-
-IS
-
-IS
-
-EW}
-
-<S
-
-<<
-
-SSAA
-
-cc
-
-SSS
-
-SOA
-
-WS
-
-EG
+WW St NAAT AAS EA
 
 KENTUCKY STRAIGHT BOURBON WHISKY
 
-LDidheday Bourbon
+LDidheday Loudon
 
 OLD FORESTER DISTILLING CO. AT LOUISVILLE IN KY 750mL 48% ALC/VOL (96 PROOF)
-
-### Label 4
-
-eannnnannanana
-
-### Label 5
-
-hy Bo,
-
-‘~
-
-AGED
-
-eo
-
-l2:
-
-@, YEARS =
-
-“ED now

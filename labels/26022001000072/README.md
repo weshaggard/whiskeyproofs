@@ -22,60 +22,30 @@
 
 ### Label 1
 
-—
+“SWI180¥d HITWSH ISN
+AVN CNY ‘AHINIHOWW SlVH4d0 YO HV ¥ JANG OL ALITISY
+YNOA SHIVA SSNVYIAIG INOHOIY 4O NOLLAWASNOS (2)
+"SLOS440 H1dId 40 4SId SHL 40 ASNVOIE AONVNOSYd ONIUNG
+SIOVYIAIS IMOHOTT ANIYG LON CINOHS NSWOM ‘TWH4N39
+NOJOYNS FHL OL SNIGHOIOV (1) *SNINYYM LNIWNY3A09
 
-N
-
-,
-
-*
-
->
-
-/
-
-]
-
-Wee
-
-a |
-
-\
-
-)
-
-My
-
-Pri
+Y
 
 |
+ee
+pao}
+2S
+<
 
-i
+me
+oS
+te
+i=)
+=)
+<=]
 
-7
+Bottled by:
 
-mn)
-
-ili
-
-lil
-
-—
-
-=-
-
-= ———
-
-——
-
-+ STRAIGHT*
-
-=.
-
-BOURBON WHISKEY
-
-Pe)
-
-| 93 PRO
-
-ML
+Gravity Drinks
+Bardstown, KY
+Distilled in Evanston, IL

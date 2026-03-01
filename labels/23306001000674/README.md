@@ -58,18 +58,6 @@ RESPONSIBILITY. org
 
 ### Front Label
 
-5OmL
-
-— SELECTED BY —
-
-MASTER DISTILLER
-
-7a
-
-Seb th
-
-=
-
-;,\ 45.2%ALC/VOL (90.4 PROOF)
-
-eaten 2
+SOmb  yasten vistitier Sol: Mell
+RIE
+(SED 45.2%ALC/VOL(90.4PROOF)

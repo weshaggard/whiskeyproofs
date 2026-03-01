@@ -34,6 +34,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 WILD TURKEY.
@@ -97,9 +99,3 @@ WILD TURKEY
 KENTUCKY STRAIGHT
 
 BOURBON WHISKEY
-
-### Label 4
-
-BOURBON
-
-NOgyunogd

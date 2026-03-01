@@ -33,31 +33,19 @@
 ### Back Label
 
 RYE WHISKEY
-
 Emerald Giant is crafted from hand selected
-
 barrels aged at least 4 years. Aging our barrels
-
 in the temperate climate of the Northern
-
 California coast allows for a slow and even
-
 extraction of flavor, producing a whiskey
-
 of exceptional balance and complexity.
 
 THE LAND OF ANCIENT GIANTS
-
 The Redwood Empire stretches from San Francisco to Humboldt
-
-Bay and on to the Oregon borden It is a sparsely populated area
-
-with often inaccessible coastline drenched in fog, rocky clifs, and
-
+Bay and on to the Oregon borden It is @ sparsely populated area
+with often inaccessile coastline drenched in jog, rocky clife, and
 steep mununtains, The region is home to majestic coastal redwoods,
-
-‘sume more than 350 feet high and 2000 years old. The grandeur
-
+‘some more than 350 fet high and 2000 years old. The grandeur
 of these old-growth groves can be experienced throughout our
 
 Northern California backyard.
@@ -65,223 +53,42 @@ Northern California backyard.
 The EMERALD GIANT
 
 Down a winding trail and along a meandering creek
-
 in the Redwood National Park rises the massive
-
 trank of Emerald Giant. Yawning high above at
-
 over 360 feet tall, it is one of the fastest-growing
+redwoods in the world, gaining over 50 cubie feet
+and more than 1,500 pounds of mass each year.
 
-yedwoods in the world, gaining over 50 cubie feet
-
-and more than 1,500 pounds of mass each year,
-
-es.
-
-=
-
-Se.
-
-wie
-
-wy
-
-Bes
-
-2225
-
-Sse:
-
-=S25
-
-Be
-
-c+)
-
-ge
-
-eS
-
-225
-
-BS.)
-
-BSce=o55
-
-SSSEee2
-
-225
-
-az
-
-es
-
-ft
-
-2225
-
-fa
-
-Se2=55
-
-=Se=
-
-=
-
-se
-
-==
-
-==
-
-225255)
-
-2505S
-
-BS
-
-@)
-
-Bash Ses
-
-SSsesS
-
-=
-
-CACRV| =
-
-=s
-
-SSocs<=
-
-et
-
-Sse
-
-BercSe
-
-SSS
-
-{|
-
-ae
-
-S=S5'
-
-S=SSSSS
-
-==
-
-BES
-
-et
-
-=<
-
-=e
-
-a
-
-2==
-
-|
-
-jean at
-
-SS:
-
-Sa==
-
-=.
-
-mn
-
-‘00070!
+Q) |gezeeee: 2EEE2 CACRVI =
+SE SE MIT |
+2 wl
+*E |Bcceeegs al alls 1718!000701!5|)
 
 ### Front Label
 
 REDWOOD
 
-oo EMPIRE os
-
-CK
-
-\A
-
-e
-
-Hes.
-
-LO
-
-aX
-
-=
-
-(
-
-EAN}
-
-We
-
-EF
-
-\\\
-
-ai
-
-it
-
-|
-
-gi
-
-are on the worl
-
-‘Most people
-
-i
-
 JOHN MUIR
 
-‘not in it
+PIRE wo
+
+NOT 0zoozIy ganLrLyT
 
 THE EMERALD GIANT
 
 RYE WHISKEY
 
-Wal | NORTHERN CALIFORNIA foun
+mI
+i
+
+Wl | NORTHERN CALIFORNIA |guin
 
 ### Label 3
 
-2 Wo,
-
-A RANGE OF WHISKEYS
-
-ay
-
-*
-
-INSPIRED BY THE GREAT REDWOODS
-
-x ESTD.&
-
-THE EMERALD GIANT
-
-= MMXY =
-
-GPS: 41
-
-0020 - 124.
-
-0050
-
-OF NORTHERN CALIFORNIA.
-
-se
-
-360 FT TALL
-
-785 YEARS OLD
-
-ee.
+Wo
+RA = = :
+A RANGE OF WHISKEYS at tes ___ THE EMERALD GIANT _
+INSPIRED BY THE GREAT REDWOODS Pee GPS: 41.20020 - 124.00050
+OP NORTHERN CALIFORNIA. es * 360 FT TALL - 785 YEARS OLD
+O50 - 8m ee Ano ULU
+trav

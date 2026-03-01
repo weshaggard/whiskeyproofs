@@ -26,78 +26,26 @@
 
 ### Back Label
 
-AMERICA
-
 GOVERNMENT WARNING: (1) ACCORDING TO THE
-
 SURGEON GENERAL, WOMEN SHOULD NOT DRINK
-
 ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE
-
 OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF
-
 ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE
-
 A CAR OR OPERATE MACHINERY, AND MAY CAUSE
-
-HEALTH PROBLEMS
-
+HEALTH PROBLEMS.
 Produced, Blended & Bottled by
-
-The Distillery at Lambertville
-
-—
-
->>
-
-5 S Main St. Lambertville, NJ 08530
-
-os >
-
-SOss
-
-+ ee
-
-ay!
-
-* ay
-
-AN
-
-in
-
-rr a
-
-ec
-
-e
-
-oS
-
-56
-
-4
-
-+
-
-+
+The Distillery at Lambertville ESN
+5 S Main St. Lambertville, NJ 08530 BES
++ Nya \ +
++ PPSNOSNY
+RUNS
+=a
+MUL ) +
 
 ### Front Label
 
--MERICA
-
-200
-
-= ae AP
-
 BOURBON
-
 WHISKEY
-
-Es ES
-
-43 %ALC/VOL 750ML
-
+| MASHTBILL 7% Coen | 184 Rye | WH Mated Bacey
 HANDCRAFTED - EXCLUSIVE RELEASE
-
-SMALL BATCH UN-CHILLFILTERED
+43 %ALC/VOL 750ML SMALL BATCH UN-CHILLFILTERED

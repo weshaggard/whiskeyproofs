@@ -59,17 +59,13 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
-63.55%
-
-a
-
-(127.1 Proof)
-
-KENTUCKY STRAIGHT BOURBON WHISKEY
-
-2015-01 MASTER DISTILLER:1960-1992
+& yyy | 63.55% lace
+: (127.1 bao) | 77RS 30
+A ree KENTUCKY STRAIGHT BOURBON WHISKEY
 
 ### Front Label
 
@@ -115,25 +111,27 @@ ME VT REF 15¢ * JA REF 5:
 
 ### Label 2
 
-63.55%
+. —£ 2 63.55% | pce
+2 Dae KENTUCKY STRAIGHT BOURBON WHISKEY
+2015-01! 24-4.
 
-(127.1 Proof)
-
-Kooba: RAIGHT BOURBON WHISKEY
-
-9015-01 4x4 MASTER DISTILLER:19 60-1992
+MASTER DISTILLER:1960-1992
 
 ### Label 3
 
-63.55%
-
-|
-
-(127.1 Proof)
+63.55% Jace
+imam) TYRS 3M0
 
 KENTUCKY STRAIGHT BOURBON WHISKEY
 
-5015-01 MASTER DISTILLER:1960-1992
+3015 Ol MASTER DISTILLER: 1960-1992
+
+=)
+A
+=|
+<=
+&
+=
 
 ### Label 4
 
@@ -173,24 +171,42 @@ i
 
 ### Label 6
 
-63.55%
-
-(127.1 Proof)
-
-Rood RAIGHT BOURBON WHISKEY
-
-‘5015-01 Garé MASTER DISTILLER: 1960-1992
-
-### Label 7
-
-63.55%
-
-(127.1 Proof)
+63.55% Jace
+ania) TYRS 3M0
 
 KENTUCKY STRAIGHT BOURBON WHISKEY
 
-5015-01 MASTER DISTILLER:1960-1992
+5015-01 Gee 2
 
-### Label 9
+=
+g
+3
+a
+3
+=
+a
+=
+s
+=
+2
+Fel
 
-»—~
+### Label 7
+
+63.55% Jace
+asia) TYRS 3MO
+
+KENTUCKY STRAIGHT BOURBON WHISKEY
+
+Bookv floc
+5015-01 MASTER DISTILLER:1960- 1992
+
+s
+8
+£
+=
+5
+8
+2
+2
+iz

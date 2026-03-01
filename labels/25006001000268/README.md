@@ -24,110 +24,33 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
-3) McAFEE?s Go
+cc McAFEE’s qq,
 
 ENCHMARK
 
-OLD "f
+OLD "f BRAND
 
-BRAND
+MASH
+SErETES
 
-ee? CHs,
+=I
+i=}
+o
+“a
 
+eRD CAs,
 KENTUCKY STRAIGHT
-
 BOURBON WHISKEY
+29 OS”
 
-SI9 OS”
+unos
+
+KENTUCKY
+HS VW
 
 DISTILLED & AGED AT BUFFALO TRACE DISTILLERY, FRANKFORT, KY
-
-10% ALC BY VOL (80 PROOF) - 1.75 LITERS
-
-‘Cez.ceateo
-
-### Label 2
-
-BS
-
-———
-
-Ss.
-
-Ss
-
-==
-
-os
-
-i
-
-os
-
-ARS
-
-Sse
-
-A
-
-Fey
-
-Z McAFEE’s cy»
-
-==
-
-Of==
-
-SS
-
-Se,
-
-S
-
-= £
-
-———
-
-Ne
-
-—
-
-BENCHMARK.
-
-2
-
-‘SOLEAGENTSAZE!
-
-RAC CO.
-
-=a
-
-Bs:
-
-az
-
-OLD Ne
-
-BRAND
-
-NEW OF
-
-RLEANS, LA
-
-EJ
-
-is
-
-1-661
-
-WENT
-
-REF 15¢
-
-SS
-
-\AREF
-
-56
+40% ALC BY VOL (80 PROOF) - 1.75 LITERS

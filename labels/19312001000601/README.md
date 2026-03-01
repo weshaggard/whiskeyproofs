@@ -33,6 +33,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 booker
@@ -59,24 +61,9 @@ cened jlo .
 
 ### Label 2
 
-SO:
+H fe, 63.05% XXXKXKHK
+= 3 aan
+= pareve = _| KENTUCKY STRAIGHT BOURBON WHISKEY
+2020-0] | AeA _
 
-63 =e
-
-(126.1 Roof oa
-
-19 De
-
-Boob STRAIGHT BOURBON WHISKEY
-
-5620-01 Boob DISTILLER:1960-1993
-
-### Label 3
-
-l
-
-80686'01140'
-
-### Label 4
-
-»—~
+MASTER DISTILLER:1960~1992

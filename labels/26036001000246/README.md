@@ -28,6 +28,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 SHORT PATH DISTILLERY’S 3RD ANNUAL NO MAN’S HANDS
@@ -91,33 +93,3 @@ DISTILLED FROM GRAIN
 XN
 
 w,
-
-### Label 3
-
-0
-
-vO
-
-=o
-
-ar, )
-
-m U
-
-<a
-
-x D>
-
-e>
-
-q{«
-
-o*
-
-=
-
-Wr
-
-O2
-
-Ta

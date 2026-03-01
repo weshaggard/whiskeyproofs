@@ -36,97 +36,40 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
-i
-
-~ LIBERTY RESERVE
-
-|
-
-— DOUBLE OAK FINISH —
-
-|
-
-Our Liberty Reserve is a tribute to 250 years of our Nations independence,
-
-|
-
-courage, stength and resilience. We honor the bravery, dedication and
-
-sacrifices of the men, women and patriots who answered the cal of dutyin
-
+- LIBERTY RESERVE
+| — DOUBLE OAK FINISH —
+| Our Liberty Reserve isa tribute to 250 years of our Nations independence, |
+| courage, strength and resilience. We honor the bravery, dedication and |
+| sacrifices of the men, women and patriots who answered the call of dutyin |
 time of war and peace to protect our great Nation.
-
-A perfect balance of 10-year Kentucky Straight Bourbon and 6-year four
-
-|
-
-grain bourbon, beautifully finished in medium-plus toasted American |
-
-White Ozk barrels. This special double oak fourgrain bourbon whiskey
-
-delivers a complex, fulkbodied, rich flavor that is certainly a
-
-Sip to Remember®.
-
-|
-
-|
-
-Four Branches is the only spirits company founded by veterans of the
-
-Ammy, Navy, Air Force and Marines. With over 100 years of combined
-
-service, we embarked on a mission to honor the special people in our
-
-fives and are committed to supporting veteran, military and first
-
-responder communities. We allocate 2 portion of oursales to various
-
-|
-
+| Aperec balance of 10-year Kentucky Straight Bourbon and 6-year four |
+| grain bourbon, beautifully finished in medium-plus toasted American |
+White Oak bares. This special double cak fourgrain bourbon whiskey
+| delivers a complex, fultbodied, rich flavor that is certainly a
+| Sipto Remember |
+| |
+Four Branches is the only spirits company founded by veterans of the |
+| Amy, Navy, Air Force and Marines. With over 100 years of combined
+| vervice, we embarked ona mission tohonorthe special people in our |
+| fives and are committed to supporting veteran, military and fit |
+| responder communities Weallocte2 portion ofoursalestovarious
 non-profit organizations.
-
-|
-
-|
-
-Betled by Four Branches Sain
-
-0. Bardstown, KY. Distlled in KY
-
-CORAL,
-
-WOMEN SHOULD NO
-
-aly DING 10 Tt
-
-NANCY BECAUSE
-
-f THE RAK
-
-pat 0
-
-ALCOHOLIC BEVERAG
-
-ARS YOUR AALITY
-
-AGR OR
-
-OPERATE
-
-AND NAY GSE aN PROBLENS,
-
-CACRY ve
-
-54. CA MHOGNY,CTIAMA,(O-5¢
-
-SAMUEL,
-
-0009
-
-84514
+| |
+SERVE HONORABLY
+DRINK HONORABLY’
+| Bottled by Four Branches Spits Co., Bardstown, KY. Disted in KY. |
+GOVERNMENT WARNIKG: il HCCORDING TO THE SURGEON GEER,
+| WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREG
+| NANCY BECAUSE OF THE RI OF BIRTH DEFECTS # CONSUMPTIBN OF
+ALCOHOLIC BEVERAGES IMPARS YOUR ABILITY 10 DRNEA GR OR
+OPERATE MACHINERY, AND NAY CAUSE HEALTH PROBLEMS, |
+| CAG vewresccumocinctacse |
+eee
+| gn 60009'84514— 5 |
 
 ### Label 1
 
@@ -143,32 +86,6 @@ HAND-CRAFTED WITH 4 GRAINS* —
 LIBERTY RESERVE
 
 Kentucky Straight Bourbon Whiskey
-
-### Label 4
-
-2il x
-
-cxeas
-
-Lo
-
-xm y
-
-x mie
-
-250 YEARS”
-
-s
-
-of AMERICAN INDEPENDENCE
-
-«4%
-
-wy ot
-
-Cel CL 7
-
-Mb tt
 
 ### Label 5
 

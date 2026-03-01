@@ -42,6 +42,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*4 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 NACRE
@@ -76,12 +78,6 @@ Maysville, KY
 
 edition
 
-### Label 1
-
-ONRBON WHISKEY
-
-AGED 9 ven
-
 ### Label 2
 
 60% Corn | 20% Rye | 15%
@@ -93,13 +89,3 @@ alted Barley | 5% Choc Barley
 FOUR
 
 &
-
-### Label 3
-
-ALC/ VOL proor ()
-
-BOTILE NP
-
--90%/100 oO”
-
-of

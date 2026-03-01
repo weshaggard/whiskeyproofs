@@ -80,24 +80,17 @@ INERY, AND MAY CAUSE HEALTH PROBLEMS
 
 ### Front Label
 
-yh
+ane = POTTECT gy
 
 WOODFORD RESERVE®
 
-—_
-
-——
-
-set 119.5 raaer
+marek 1 1 Q,5 raves
 
 KENTUCKY STRAIGHT BOURBON WHISKEY
-
 700mL - 59.75% ALC/VOL (119.5 PROOF)
 
 ### Label 3
 
-[oo oA aya aS Sapa u sue DDT
-
-BATCH
-
-PROOF
+[a iy ANAM ATA WON GFA RHA op anon GS soa a anno TDD
+BATCH 8
+PROOF 3

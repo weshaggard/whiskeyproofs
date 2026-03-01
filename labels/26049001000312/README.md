@@ -24,29 +24,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Label 1
-
-IA
-
-aor
-
-aT E
-
-iis.
-
-t ALO BY VOL
-
-2
-
-=) }
-
-hy py .Q PROOF ) 25B *
-
-—
-
-_ BARREL PROOF J
-
-—— ie
+*1 image(s) excluded: text did not meet readability threshold*
 
 ### Label 2
 

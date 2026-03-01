@@ -34,47 +34,32 @@
 
 Evan
 
-Williams
+Williams.
 
 BOTTLED-IN-BOND
 
 DISTILLED AND BOTTLED BY
-
 ‘OLD EVAN WILLIAMS DISTILLERY
-
 LOUISVILLE, KY D.S.P. KY-1
-
 BARDSTOWN, KY D.S.P. KY-31
 
 GOVERNMENT WARNING: (1) ACCORDINGTO THE
-
 ‘SURGEON GENERAL, WOMEN SHOULD NOT DRINK
 
 ALCOHOLIC BEVERAGES DURING PREGNANCY BE-
 
 CAUSE OF THE RISK OF BIRTH DEFECTS. (2) CON-
-
 ‘SUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS
 
 YOUR ABILITY TO DRIVE A CAR OR OPERATE MA-
-
 CHINERY, AND MAY CAUSE HEALTH PROBLEMS.
 
-8
+wos
 
-|
+0 NN96749"021370 "8
+\VIME 15¢ REFA REF 5¢
 
-|
-
-|
-
-0
-
-96749"021
-
-6
-
-\VE-ME 15¢ REF-IA REF ¢
+000-0000
 
 ### Label 1
 
@@ -180,84 +165,9 @@ Bottled under U.S. Gov't Supervision + 50% Alc./Vol.
 
 ### Label 3
 
-Since
+NOISIAUAdNS LNAWNUFAOD ‘S"0
+UHGNN GNO@ NI GATLLOG
 
-73S)
+NOISIAWAdNS LNAWNUFAOD “S01
 
-ae
-
-go
-
-wa
-
-ae
-
-gs
-
-bia)
-
-aa
-
-2
-
-Zz
-
-Se
-
-Zz Mm
-
-aa
-
-Oe
-
-az
-
-Za
-
-az
-
-Oe
-
-Za
-
-a=
-
-28
-
-ss
-
-28
-
-eS
-
-Ne
-
-NA4
-
-az
-
-BS
-
-ie
-
-sao
-
-az
-
-20
-
-Lhe}
-
-20,
-
-ie)
-
-Sead
-
-fyeace
-
-100
-
-]
-
-Moet
+YAGNA GNO@ NI GATLLOG

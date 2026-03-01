@@ -31,6 +31,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 r-.!}6vUL- —_oe
@@ -93,22 +95,10 @@ DISTILLERY, BARDSTOWN, KY 40004 © 2022
 
 DOUBLE BARRELED BLEND
 
-KENTUCKY ST
-
-GI
-
-WHISK E
+bis STZKIGH
+WHI S K EB
 
 67% KENTUCKY STRAIGHT BOURBON WHISKEY AGED 13 YEARS
 
 33% KENTUCKY STRAIGHT BOURBON WHISKEY AGED 15 YEARS
-
-ALC/VO! 62.5% PROO! |25
-
-### Label 3
-
-Sen
-
-Cig
-
-ae WD
+ALC/VO!I 42.54 PROOF [25

@@ -26,238 +26,50 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Label 1
-
-CoO
-
-qm
-
-w>
-
-\
-
-ewewence
-
-_
-
-\
-
-\
-
-i
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-KING
-
-\
-
-| feil
-
-\
-
-\
-
-\
-
-\
-
-GEORGE Il Ill
-
-\
-
-\
-
-\
-
-\
-
-\
-
-ONDER's RESe™
-
-\
-
-\
-
-Reeo | 1] | Years
-
-\
-
-4
-
-\\’
-
-50% ABV 100 PROOF
-
-750ML
-
-iru
-
-aw
-
-\
-
-aS
-
-Ws
+*1 image(s) excluded: text did not meet readability threshold*
 
 ### Label 2
 
-WAM
+LDDD
 
-\\S
-
-\
-
-RR ee ANC
-
-AY
-
-\\
-
-CRecrenee
-
-\\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
+Ax xy
 
 "THIS FOUNDER'S RESERVE STANDS AS THE PINNACLE OF OUR CRAFT,
-
-\
-
 CREATED TO HONOR GEORGE - MY BIG BROTHER, MY ROLE MODEL, AND THE
-
-\
-
 MAN WHO PUT FAMILY ABOVE ALL ELSE. IN OUR YOUTH, GEORGE SACRIFICED
-
-\
-
 HIS OWN DREAMS TO GUIDE AND PROTECT ME, WALKING BESIDE ME THROUGH
-
 HARDSHIPS WE NEVER CHOSE, BUT ALWAYS FACED TOGETHER.
 
-\
-
 LIKE THE DECADE-LONG PATIENCE IN THESE RARE BARRELS, HIS STRENGTH
-
-\
-
-\
-
 AND DEVOTION SHAPED THE MAN 1 AM TODAY. THIS BOURBON IS MORE THAN
-
 A SPIRIT - IT IS A TOAST TO RESILIENCE, BROTHERHOOD, AND THE
-
-\
-
-\
-
 UNWAVERING BOND THAT DEFINES US. EVERY POUR CARRIES THE WARMTH OF
-
-\
-
 SHARED JOURNEY AND INVITES ALL WHO RAISE A GLASS TO PAY HOMAGE.
 
-\
-
-\
-
-\
+LDODDDDDDDDDDDDDASD ADSL
+: AZ,
 
 MIKE FRAZIER, FOUNDER
 
-\
-
 Teme
 
-\
-
-\
-
-\
-
-\
-
 BOTTLED BY REVERENCE ENTERPRISES LLC. & FLIGHT SPIRITS
-
 HENDERSONVILLE, TN 37075
 
-\
-
-\
-
 GOVERNMENT WARNING
-
 (1) ACCORDING TO THE SURGEON GENERAL WOMEN SHOULD NOT DRINK ALCOHOLIC
-
-\
-
-\
-
 BEVERAGES DURING PREGNANCY BECAUSE OF THE RISKS OF BIRTH DEFECTS.
-
-\
-
 (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR
 
-\
-
-OPERATE MACHINERY AND MAY CAUSE HEALTH PROBLEMS.
-
-\
-
-WN
-
-\\
-
-\S
-
-Sih
-
-a
-
-\\
+\\ OPERATE MACHINERY AND MAY CAUSE HEALTH PROBLEMS.
+nh :
+7 lil'g3970 "99713 IM \\
 
 \
 
-\
+A, oO
 
-\\)
+\v
+NII
 
-<<
-
-NY
-
-Wnnrnrnnininiiii
+gga

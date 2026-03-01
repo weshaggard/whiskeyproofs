@@ -32,76 +32,30 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
-
-QS cRMa &
-
-rrr zB
-
-2s
 
 KY
 
-am
+REL |
+HISKEY
 
-~z
+TUCH
 
-|
+E ORIGINAL
+CLERMONT, KEN
 
-bade
-
-= A
-
-ily:
-
-yD
+‘THE
 
 DISTILLING
-
-2
-
-B
-
 COMPANY
 
-Oca =
+AN
 
-ye
-
-KN
-
-~
-
-4:
-
->)
-
-Se
-
-ic
-
-nas:
-
-ay
-
-=y
-
-K
-
-a
-
-On=?
-
-=
-
-=
+CR
 
 SINGLE BARREL SELECT RYE
-
-Fe
-
-oe IR
-
 KENTUCKY STRAIGHT RYE WHISKEY
 
 ### Label 2
@@ -147,63 +101,17 @@ aa
 ### Label 3
 
 GOVERNMENTWARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD
-
 NOT DRINK ALCONOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF
-
-"
-
-BIRTH DEFECTS. (2) CONSUMPTION OF ALCOMOLIC BEVERAGES IMPAIRS
-
-y
-
-OUR ABIL
-
+BIRTH DEFECTS. (2) CONSUMPTION OF ALCONOLIC BEVERAGES IMPAIRS YOUR ABIL
 ITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
 
-Per 1.5 fl. oz. - Average A
+Per 1.5 fl. oz. - Average Ai Calories 140.0, C ites 0.0g, Protein Og, Fat Og
+750 ml. | 57.5% ALC./VOL. ME.VT REF 15¢ + 1A REF 5¢
+DISTILLED AND ED BY
 
-Calories 140.0, C
-
-tes 0.09, PI
-
-in 0g, Fat 0g
-
-750 ml. | 57.5% ALC./VOL.
-
-ME
-
-REF 15¢ + IA REF S¢
-
-DISTILLED AND
-
-ED BY
-
-KNOB CREEK
-
-LLING COMPANY,
+KNOB CREEK DISTILLING COMPANY,
 
 CLERMONT, KENTUCKY
 
 WWW.KNOBCREEK.COM
-
 WWW.DRINKSMART.COM
-
-### Label 4
-
-C
-
-fe)
-
-~
-
-= S
-
-¢RMo
-
-Zo
-
-Mo SKY 4
-
-DISTILLING
-
-COMPANY

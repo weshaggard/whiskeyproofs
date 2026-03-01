@@ -32,6 +32,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 >>
@@ -117,21 +119,3 @@ siNce
 100 PROOF
 
 B07 ALC/VOL.
-
-### Label 3
-
-OM.
-
-### Label 4
-
-®% Cp
-
-RM o
-
-KY “=x
-
-~ a
-
-DISTILLING
-
-COMPANY

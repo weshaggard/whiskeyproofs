@@ -34,6 +34,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 <a cK § ‘SOUR MASH y Weis,
@@ -130,56 +132,19 @@ BATCH #
 
 ### Label 2
 
-Secrek:
-
-HOMES TEAD®
-
-zly,
-
-[Dy
-
-Lh)
-
-ZN
-
-Ai
-
-YH ,
-
-“\y
-
-LAN
-
-Small Batch
-
-|
-
-Avs
-
-45-6 ALC.VOL
-
-912 PROOF
-
--
-
-10.ML
-
-We
-
-33%
-
-ay
-
-Wea
-
-(Cr
-
-Whithey
-
+Pac UR MASH me
+cKY SO W,
+ex USK py:
+Spek. j
+H-O- MeE Se TE AyD ®
+ey ns
+Kas es
+Small |S) vs 4.6A10.V01
+O12 PROOF € Ce) so
+c 2) py is ©
+Sse
+Whiskey
 2018
-
-REEEASE
-
+RELEASE
 Small Batch Kentucky Suny Pash Ghiskey
-
 Me MICHTER’S DISTILLERY * LOUISVILLE, KENTUCKY a

@@ -39,15 +39,17 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Front Label
 
-‘CRARTED sees STEVICTI oy
+GRAFTED with CONVICT gy
 
 WILD TURKEY.
 
 KENTUCKY STRAIGHT BOURBON WHISKEY
 
-AGE "We EARS
+AGED ] 7 f YEARS
 
 ### Label 1
 

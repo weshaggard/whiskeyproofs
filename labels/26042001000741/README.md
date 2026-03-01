@@ -24,82 +24,27 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
-Q
-
 \
+Wh
+\ N 4 an
+AY \Z
+\ | 7 /
+SY j
+Wadd
+PENELOPE
+\B\o u/R BON
+\/|) a /
+nN
+]
+(anna RGn STRAIGHT BOURBON WHISKEY ‘BOTTLED BY PENELOPE BOURBON
+WHEATED BOURBON, BOTTLING COMPANY INST. LOUIS, MO.
+375 ML WHIRATERT ME/VTREFISCIA REF 5¢
+| — 7 — savin sa wn 1 accani To
+NON-CHILL FILTERED Hk SURGEON GENERAL WOMEN SHOULD NOT
+cele I ee
 
-\
-
-if
-
-4
-
-iy
-
-it
-
-N BL
-
-a)
-
-PE
-
-\
-
-Ye
-
-0 U/R
-
-\|
-
-Y
-
-\
-
-f
-
-/
-
-LED
-
-w
-
-EY
-
-ON
-
-IN
-
-ll)
-
-9
-
-Le
-
-OL
-
-88352"14526
-
-tet OOOO ee
-
-FOUR GRAIN
-
-### Label 2
-
-ico}
-
-Zz
-
-fe}
-
-Leo)
-
-=}
-
-a
-
-ia
-
-=}
+———————_ FOUR GRAIN EEL

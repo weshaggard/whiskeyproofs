@@ -28,6 +28,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 CASK STRENGTH
@@ -73,39 +75,3 @@ BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY
 TO DRIVEA CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
 
 KOSHER
-
-### Front Label
-
-‘SINGLE BARREL:
-
-Message Up To 45 Characters
-
-129.43
-
-18-0280
-
-7
-
-64.72%
-
-750
-
-PROOF
-
-BARRELED ON
-
-02/14/18
-
-BARREL NO.
-
-AGE
-
-ALC/VOL
-
-ML
-
-### Label 4
-
-60
-
-OH

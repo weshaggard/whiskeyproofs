@@ -28,59 +28,24 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
-KY-US
+KY: US
 
 HARDINS
 
-CREEK.
+© oo
 
-Til!
-
-IN
-
-pre
-
-Pw A
-
-we
-
-Nh
-
-5
-
-“ GF
-
-S
-
-4.5% ALC/VOL.
-
-CLERMONT KY
-
-1st HSA fin
-
-AGED 8 YEARS |
-
-109 PROOF) 700 mL
-
-DSP NO. KY—230
+SASH ALGO CLERMONT KY
+09 PROOF) 70 apna 8 HERG
 
 THIS WHISKEY PEAKED AT THE HIGHER END OF OUR DISTILLATION
-
 SPECTRUM. WITH ITS FLAVOR COMPOUNDS NOW DEFTLY BALANCED,
-
 THE PROFILE LEAVES A LIGHT YET LASTING IMPRESSION.
 
-### Label 2
-
-g DRINKSMART.COM
-
-ate
-
-|
-
-80686'01429
+AGED 8 YEARS |
 
 ### Label 3
 

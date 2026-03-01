@@ -32,6 +32,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Front Label
 
 (2)
@@ -54,164 +56,23 @@ FOUNDED BY
 
 ### Label 2
 
-ss
-
-se
-
-Bs
-
-ray
-
-Ss
-
-ss
-
-EE
-
-batt
-
-Ee
-
-aa
-
-n>
-
-a
-
-Z<a
-
-2362
-
-525
-
-SH Pas
-
-aac
-
-aS
-
-Sse
-
-eats
-
-S83
-
-gs
-
-esp
-
-So
-
-ees
-
-ss
-
-So
-
-ene
-
-BB
-
-an
-
-2o8
-
-Sea
-
-Ssu
-
-a
-
-=a
-
-eo5_
-
-ee
-
-Zea
-
-i)
-
-Pesss
-
-s2z=cm
-
-sGa2
-
-VSaaa
-
-mos
-
-Bon
-
-382
-
-Se3Su
-
-=82a
-
-ea
-
-LO
-
-e2a
-
-Qe
-
-25635
-
-geeex
-
-=O
-
-=
-
-25550
-
-2e=
-
-WER
-
-=~
-
-ste
-
-FS
-
-et
-
-Za
-
-Saco
-
-—=._
-
-ea
-
-g=
-
-BEas
+ASVHIUNd OL+12 IG LSAW — “SWIT80Ud HLIVSH ASN AVW ONY
+‘AHANIHOWW SUVUSd0 YO UV V AAMC OL ALTIGY UNDA SUNWI SB9VeaS
+‘SMOHOTTV 40 NOLdWNSNOO (2) ’S193430 HLUIG 40 YSIY 3HL 40 ASNVIa
+AONYNDSUd ONIUNG SIOVUIARG ITICHOTTV YNING LON CINOHS NAWOM
+3HL OL SNIGUOISY (L) ‘SNINUWM LNJWNYIA09
+
+cooog007a1 ‘MMM
+AM ‘COOMLS3YD ‘ANVAWOD
+NO@uNOd S.NOSHI444r YO4 GF1LLO8
 
 ### Label 4
 
-SSAA SSSA EOD
-
-=
-
-—
-
-Ola
-
-or
-
-m
-
-Fy
-
-OCEAN }}/ VOYAGE
-
-ol
-
-be
-
-SSA SAAT
+AAAS AASAASASASNASAS SSNS SSS SS SESS SS
+Of. O|
+Bian
+Fa, a
+meee
+obs
+AAA AAA AAAS AAAS ASS A  T S >>
+De

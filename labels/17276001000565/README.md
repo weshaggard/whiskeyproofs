@@ -37,6 +37,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 booker
@@ -88,13 +90,3 @@ BATCH N2
 KENTUCKY STRAIGHT BOURBON WHISKEY
 
 2018-04. MASTER DISTILLER:1960-1993
-
-### Label 4
-
-l
-
-80686'01140'
-
-### Label 5
-
-»—~

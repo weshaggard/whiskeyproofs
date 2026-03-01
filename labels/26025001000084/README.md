@@ -29,34 +29,22 @@
 ### Back Label
 
 Larrikin (n): Australian slang. person who disregards convention; a maverick.
-
 Lariknism was reaction to rules imposed by Bish officials onthe young
-
 country of usta Our whiskey reflect this bod sprit of good-natured
-
 ireverece, and lies on character, not ceremony.
 
-‘Weare Larrikin Bourbon Co. Veteran Owned. Veteran Distilled.
+Weare Larkin Bourbon Co. Veteran Owned Veteran Distilled.
 
 Katie Keeley, Co-Founder
 
 GOVERNMENT WARNING:
 
-1 Acadag ite SryenEaeral wonen soul ot dink acabol:
+{crag Sener rome sl at ike
+ing pregnancy because of hk det
 
-tow
+(2) Consumption acon eboveageslnpas you ayo vee
 
-neta
-
-alcoh
-
-ane because atheist
-
-ems comet
-
-‘aor operate machinery, and may cause he
-
-alesis ayaa:
+‘ar or operate machinery, and may cause heath pol
 
 ### Front Label
 

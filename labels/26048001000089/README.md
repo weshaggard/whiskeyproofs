@@ -28,6 +28,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 UNLUGh
@@ -109,11 +111,3 @@ INLOC
 SMALL BATCH
 
 44% ALC. BY VOL
-
-### Label 2
-
-EB Loa
-
-TY )
-
-8 PROOF

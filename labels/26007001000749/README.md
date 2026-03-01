@@ -22,72 +22,20 @@
 
 ### Label 1
 
-24226
-
-Ses
-
-re
-
-> ul
-
-Byes
-
-Q
-
-#25
-
-eo
-
-esas
-
-og
-
-SHORTBARREL
-
-==
-
-Sx
-
-ALC 46% BY VOL| GOML | 92 PROOF
-
-eer
-
-eR
-
-FOUR GRAIN
-
-KENTUCKY STRAIGHT
-
-S8=s
-
-Seu cd
-
-BOURBON WHISKEY
-
-&eS<B
-
-(CORM - RYE » WHEAT - MALTED BARLEY
+‘SWATH HITWFH 3ST"
+AYN ONY MANIHOWA SIVH3ED WO wD ¥ BAH OL AlIaY
+WDA SHIVA SIQVHAAIA ANOHOTTY 40 NOMLAWISNOD (7)
+“SLIRA0 HLERE 4D NSPE SHL JO ISMVIRS ADNVNSSed SMA
+SIQVUSNIA ATOHOTTY YEO LON CUNOKS NANOM WHANSD
+NOSIUNS FHL OL SNICHOOOY (0 *ONINYYIM LNSINNRA0S
 
 i
+a
+38
+A
+3
+3
 
-52k
-
-ex
-
-cae
-
-o =
-
-|
-
-a&
-
-ew
-
-Ss5e8
-
-RG
-
-6
-
-2s
+Bottled by:
+Gravity Drinks
+Bardstown, KY

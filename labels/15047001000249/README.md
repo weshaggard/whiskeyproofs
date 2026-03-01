@@ -39,185 +39,19 @@
 
 *Text extracted via OCR - may contain errors*
 
+*3 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 OLD FORESTIER
 
 AGED FOR OVER 12 YEARS IN OAK CASKS
 
-ee OY
-
-_—————)
-
-—
-
-Lr he
-
-———— T
-
-### Label 1
-
->
-
-N
-
-Barrelled
-
-x
-
-N
-
-S
-
-N
-
-N
-
-N
-
-Ltd. Bottling
-
-2003
-
-S
-
-N
-
-S
-
-)
-
-N
-
-2015
-
-KS
-
-iS.
-
-KS
-
-S
-
-\
-
-ro
-
-ESSE
-
-PIMA
-
->
-
-SSS
-
-SX
-
-Sr
-
-<<
-
-Sx
-
-SS
-
-PAX
-
-N
-
-N
-
-a)
-
-N
-
-i)
-
-N
-
-SS
-
-N
-
-N
-
-\
-
-¢
-
-MSS
-
-Ss
-
-NSS
-
-N
-
-Si
-
-S
-
-iS
-
-N
-
-SS
-
-N
-
-N
-
-N
-
-SS
-
-\
-
-KS
-
-S
-
-N
-
-\
-
-Ss
-
-aX S)
-
-Evy
-
-ESS EECEEREEREAY
-
-Ss
-
-ENN
-
-Eoeendy
-
-NY
-
-TAS
-
-\
-
-KENTUCKY STRAIGHT BOURBON WHISKY
-
-DISTILLED BY BROWN-FORMAN DISTILLERS CO. LOUISVILLE, KY 750mL 50% ALC/VOL (100 PROOF)
-
-### Label 3
-
-RY Boy,
-
-e
-
-AGED
-
-% YEARS =
-
-“ep por®
+Zaher
 
 ### Label 5
+
+ESEECHOH
 
 FIRST BOTTLED BOURBON
 

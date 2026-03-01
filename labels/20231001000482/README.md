@@ -29,6 +29,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 EAGLE RARE
@@ -58,17 +60,8 @@ BRIARCLIFF MANOR, NEW YORK
 ### Label 2
 
 DOUBLE
-
-i
-
+C
 VERY
-
-are
-
-KENTUCKY STRAIGHT BOURBON WHISKEY
-
-45% ALC/VOL (90 PROOF)
-
-### Label 3
-
-ACQUIRED FROM A PRIVATE COLLECTION
+ave
+xINTUCKY STRAICHT BOURBON WHI
+{eaLC-VOL GOFROOM

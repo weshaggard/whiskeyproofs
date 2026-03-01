@@ -33,55 +33,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Label 1
-
-ee
-
-— oN
-
-REMUS
-
-REPEAL RESERVE
-
-NIN
-
-WWI
-
-Q |
-
-l <
-
-7 |
-
-INMZTN
-
-DaN
-
-STRAIGHT
-
-BOURBON
-
-WHISKEY
-
-AW,
-
-94: |
-
-2 50% - 2005 BOURBON (21% RYE)
-
-= 35% - 2006 BOURBON (21% RYE)
-
-a 15% - 2006 BOURBON (36% RYE)
-
-DISTILLED BY
-
-WN
-
-G. REMUS DISTILLING, CO.,
-
-LAWRENCEBURG, IN
-
-WV
+*3 image(s) excluded: text did not meet readability threshold*
 
 ### Label 2
 
@@ -196,39 +148,3 @@ L
 S
 
 2 NY tas
-
-### Label 3
-
-KY
-
-REPEAL
-
-SERIES
-
-### Label 4
-
-om
-
-=
-
-1 |
-
-_
-
-Ww)
-
-1]
-
-BS
-
-P|
-
-~~
-
-Li
-
-~,
-
-é
-
-te

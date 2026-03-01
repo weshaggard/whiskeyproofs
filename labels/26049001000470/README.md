@@ -22,182 +22,63 @@
 
 ### Label 1
 
-ALWAYS AUTHENTIC.
+GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL,
+WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING
+PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION
+OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR
+OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
 
-JOZe
-
-ALWAYS APPROACHABLE.
-
-zo
-
-GRAIN F7 GLass
-
-aS
-
-mECOwW
-
-<=
-
-wa
-
-wi
+Cc
+GRAIN 77 GLASS
+0
 
 We use grains sourced locally from fields within 25
-
-Zz
-
-ZmazLo
-
-nB=
-
-mMaeQoa
-
-Coe0a
-
 miles of our distillery. Our craftsmen oversee each
-
-GRAIN BILL:,70% corn,;20% wheat,10% barley
-
-ecconrxr
-
 detail of the process from milling of the grain to
-
-Sie
-
-mWeas
-
 the fermentation, distillation and eventual.bottling.
-
-SERVING)STYLE: Add a splash of water or
-
-mUmMmoOoawW
-
-Wor
-
-Cotacn
-
-Fon tu
-
 We are as dedicated to the contents in this bottle
-
-CODY
-
-an ice cube to bring out the big flavor. Outstanding in classic
-
-=e)
-
-ae ee]
-
 as we are to the people who enjoy it in their glass.
-
-cocktails like an Old Fashioned or a Julep.
-
-or
-
-Zoa>5
-
-ot
-
-caw et
-
-A00n>
 
 DISTILLED AND BOTTLED BY
 
-TASTING NOTES: Bold vanilla and caramel soar
-
-QOtozgsS
-
-out of this high-proof bourbon.
-
-tang
-
-esa
-
-22
-
-Sewnt
-
 MISSISSIPPI RIVER
 
-ale
-
-or
-
-W>>
-
 DISTILING @MPANY
-
-Seu
-
-2050
-
-cw
-
-SES)
-
-e2uui>
-
 LE CLAIRE, IOWA
-
-as
-
-ROAD
-
-Buffalo Bill Cody lived life large. Born just a mile
-
-=>
-
-moO
-
-Sas
 
 mrdistilling.com
 
-SINGLE
-
-ZSoH
-
-OAuw
-
-BARREL
-
-from our distillery, we honor his legend with
-
-a
-
-S°Or+
-
-ont
-
 ME, VT, MA, NY, HI, 1A, OR, CT S¢ CA, MI 10¢
 
-a BIG whiskey. This limited wheated bourbon
+gue 8
 
-ow
+8 °"55037°0050
 
-is hand-selected one barrel at a time.
+CODY
+ROAD
 
-lor do)
-
-GS=a000
-
-acu
-
-BOURBON
-
-Bottled at a barrel proof of 105, we encourage
-
-you to live life large the Cody Road way.
+SINGLE BARREL
 
 STRAIGHT BOURBON WHISKEY
-
-8 °"55037°00509"" 8
-
-il
-
-105 PROOF
-
 52.5% ALC BY VOL
 
-750 ML
+ALWAYS AUTHENTIC.
+ALWAYS APPROACHABLE.
+
+ED
+
+GRAIN BILL:,70% corn,;20% wheat,10% barley
+SERVING)STYLE: Add a splash of water or
+an ice cube to bring out the big flavor. Outstanding in classic
+cocktails like an Old Fashioned or a Julep.
+TASTING NOTES: Bold vanilla and caramel soar
+out of this high-proof bourbon.
+
+5)
+
+Buffalo Bill Cody lived life large. Born just a mile
+from our distillery, we honor his legend with
+a BIG whiskey. This limited wheated bourbon
+is hand-selected one barrel at a time.
+Bottled at a barrel proof of 105, we encourage
+you to live life large the Cody Road way.

@@ -24,80 +24,21 @@
 
 ### Front Label
 
-Kk
-
-4
-
-is
-
-ca (
-
 FOUNDED
-
-PORTLAND
-
 IN 2004
-
-OREGON
-
-|
-
-ST
-
-a i
-
-7 kh
-
-€é
-
-wi
-
-SH
-
-a:
-
-))*
-
-J
 
 PREMIUM
 
-QUALITY
-
-b }
-
-Gi lll (A
-
-iy)
-
-|
-
-nl
-
-;
-
 OREGON YELLOW DENT
 
-E
+Weeveuverevevee
 
-=
+CORN WHISKEY
 
-—~
-
-‘CORN WHISKEY
-
-80 PROOF * 40% ALC/VOL * 750 ML
-
-F
-
+80 PROOF * 40% ALC/VOL * 750 ML E
 FERMENTED, DISTILLED, AND AGED BY
 
-EW DEAL DISTILLERY
-
-=
-
-IN PORTLAND, OREGON : LAD)
+NEW DEAL DISTILLERY q
+LE, INPORTLAND, OREGON = Ol);
 
 VVVVVVVYVYVVVVVYVVYVYVYVVYVVYVVVVVYYVYYYVYTYY YY
-
-IE

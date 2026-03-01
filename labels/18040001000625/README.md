@@ -42,99 +42,34 @@
 
 *Text extracted via OCR - may contain errors*
 
+*4 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
-@ TOASTED BARREL FINISH,
-
 KENTUCKY STRAIGHT
-
-US*
-
 BOURBON WHISKEY
 
-We are proud to offer this special release
-
+We are proud to offer this special release |
 of our Toasted Barrel Finish Kentucky
-
 Straight Bourbon. After full maturation in
-
 a hand-selected charred white oak barrel,
-
-we finish our US*1 Bourbon in a new,
-
+we finish our USX1 Bourbon in a new
 barrel that has been toasted to our exacting
-
 specifications. At peak flavor, it is further
-
 mellowed by our signature filtration.
 
 GOVERNMENT WARNING: (1) ACCORDING TO THE
-
 ‘SURGEON GENERAL, WOMEN SHOULD NOT DRINK
-
 ALCOHOLIC BEVERAGES DURING PREGNANCY
-
 BECAUSE OF THE RISK OF BIRTH DEFECTS. (2)
-
 GONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS
-
 YOUR ABILITY TO DRIVE A CAR OR OPERATE
-
-=
-
--—
-
 MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
-
 BOTTLED BY
+CHTER'S DISTILLERY LLC
+LOUISVILLE, KENTUCKY 40216
 
-ICHTER'S DISTILLERY LLC
-
-JISVILLE, KENTUCKY 40216
-
-### Front Label
-
-oS
-
-4) OS
-
-ee
-
-*
-
-so
-
-er
-
-aul
-
-EST.
-
-E2
-
-ge
-
-1753
-
-et, US*1
-
-at ong
-
-tp:
-
-o
-
-A,
-
-“My
-
-IGHT B
-
-“ey
-
-Sy
-
-S7harc vor. ©
+US* @ TOASTED BARREL FINISH,
 
 ### Label 1
 
@@ -143,9 +78,3 @@ TOASTED BARREL FINISH
 KENTUCKY STRAIGHT
 
 BOURBON WHISKEY
-
-### Label 3
-
-Michter’s
-
-é Batch N®.

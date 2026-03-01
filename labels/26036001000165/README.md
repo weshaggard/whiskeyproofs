@@ -33,103 +33,37 @@ KOVAL
 SINGLE BARREL
 
 WHISKEY
+100% Lye
 
-100% Bye
+sone mn
 
-we ug
+PYF 50m 80 Proof
 
-4 HC
+V@
+40% Alc by Vol. WU
 
-40% Alc. by Vol.
-
-a
-
-hy
-
-7 750ML 80 Proof
-
-WG
-
-—S——"
-
-=Z2
-
-ial, Se
+bard Weed LU
 
 ### Label 2
 
 At Koval, true excellence means more than what's in the glass.
-
-It's a commitment to how our spirits are made, how the land is
-
+It's a commitment to how our pris a ‘made, how the land is
 treated, and the footprint we leave in bringing each bottle to
-
-Wu. We source organic, regenerative grains from local farmers,
-
-‘Viewing sustainability not just as a production standard, but as
-
-sibility to
-
-th. Our sme
-
-jatch, single barrel
-
-wie
-
-are produced wit
-
-i
-
-‘unique mas
-
-s
-
-iH
-
-vik
-
-s, utilizing only th
-
-heart cut of the distillate, creating
-
-E
-
-er
-
-brighter, more r
-
-i
-
-pfined spirit,
-
-that reflects our uncompromising
-
-dication to quality,
-
+you. We source organic, regenerative grains from local farmers,
+viewing Sia a just as a production standard, but as
+a espansihaty to the Ci smal bah single barrel
+whiskeys are produced with unique mashbills, eilbieg only the
+heart cut of the distillate, creating iH brighter, more nt ined spirit
+that reflects our uncompromising dedication to quality.
 BARREL N°
 
-Barcode
-
-QR
-
-DISTILLED AND BOTTLED BY KOVAL INC. CHICAGO, IL 60613,
-
+QR Barcode
+DISTILLED AND BOTTLED BY KOVAL INC. CHICAGO, IL 60613, e
 CERTIFIED ORGANIC by Midwest Organic Services Association
-
-e
-
-istilled from Organic Grains*
-
+Distilled from Organic Grains* [ )
 ‘Mashbill: 100% Rye*
-
 GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL,
-
-RAGES DURING
-
-PRE AAN EAS: OF AN OF IHC
-
-(@ CONSUMPTION
-
+WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING
+PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION
 OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR
-
 OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.

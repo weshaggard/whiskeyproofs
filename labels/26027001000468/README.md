@@ -24,84 +24,34 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 So here it is, finally. Our daily pour that more can enjoy.
-
 Four years ago, when we started this venture, the whole
-
 point was to get here.
 
 Complex and firm enough to take neat but priced at a point
-
-that you won’t feel guilty mixing. You should find this
-
+that you won't feel guilty mixing. You should find this
 expression to be unrivaled in value when considering the
-
 drinkability at proof.
 
 - Will and Jackson
-
-Find out
-
-inl
-
-Limited
-
-more about
-
-¢& releases, picks
-
-us
-
-and merch
-
-Oni
-
-al
-
-i
-
+rindo OSE sama
+more about ;' eae releases, picks
+us asin it] and merch
+Ofna
 Single Barrel | Aged At Least Two Years
-
 Distilled in Texas and Bottled by Shire Distilling, LLC | Houston, TX for:
-
-BLUE BOLT SPIRITS, LLG
-
+BLUE BOLT SPIRITS, LLC
 GOVERNMENT WARNING:
-
-(1) ACCORDING TO THE SURGEON
-
+ee | ill | | | | |
 GENERAL, WOMEN SHOULD NOT DRINK
-
 ALCOHOLIC BEVERAGES DURING
-
 PREGNANCY BECAUSE OF THE RISK OF
-
-ALCOHOLIC BEVERAGES IMPAIRS YOUR
-
 BIRTH DEFECTS. (2) CONSUMPTION OF
-
-|
-
+ALCOHOLIC BEVERAGES IMPAIRS YOUR
 ABILITY TO DRIVE A CAR OR OPERATE
-
-|
-
 MACHINERY, AND MAY CAUSE HEALTH
-
-198715223538
-
-PROBLEMS.
-
-### Front Label
-
-BLUE
-
-BOURBON WHISKEY
-
-53.5% Alc./Vol.
-
-750ml
-
-107 Proof
+AND MAY C: 198715223538

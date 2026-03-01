@@ -28,6 +28,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 =
@@ -104,74 +106,22 @@ Black-
 
 ### Front Label
 
-—
+gyYNDICA :
 
-gyYNDICA
-
-PISTILLER®
-
+Oates |
 SINGLE BARREL
-
-BOURBON |
-
+BOURBON
 WHISKEY
 
 PRIVATE
-
 SELECTION
 
-PROOF
+PROOF 100
 
-100
+borne 20420
+parnLe no. 1072560
 
-Lor Mo
-
-20420
-
-DARRLE NO.
-
-1012560
-
-‘AoED
-
-57 youre
-
-Auer voL. 50%
+‘AoED 5.7 youre
+ALE BY VOL. 50%
 
 750ml
-
-=
-
-=
-
-CS
-
-ae
-
-=
-
-—
-
-=e
-
-=
-
-### Label 3
-
-=
-
-or
-
-—-—
-
-~
-
-—~
-
-~
-
-=
-
--
-
-af

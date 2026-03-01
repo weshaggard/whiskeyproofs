@@ -29,25 +29,18 @@
 ### Label 1
 
 x **
-
-ave.
-
+*
+are
 acev]9 YEARS
-
-Es
-
-aS
-
-x
-
-"es
-
-KOSSD
-
+eS SF] Yo Nee
+= Fem
+Ge ayy
+<% om ee
+Z _ wae a
+B, p=
+KOS
 KENTUCKY STRAIGHT
-
 BOURBON WHISKEY
-
 ALC.45% BY/VOL.
 
 ### Label 2

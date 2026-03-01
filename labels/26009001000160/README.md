@@ -28,83 +28,22 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 KY-US
 
-HARDINS:
+HARDINS
 
-CREEK
+© op»
 
-=
-
-IN
-
-y \
-
-ay
-
-A
-
-qi
-
-By
-
-i als
-
-\ ae |
-
-5
-
-—t,
-
-x
-
-Sg)
-
-a.
-
-S
-
-ny
-
-y
-
-fay
-
-{5 7
-
-CLERMONT KY
-
-AGED 8 YEAR
-
-M54 AL VOL
-
-DSP NO. KY-230
-
-1st 04} Bion
-
-109 PROOF) 700 mL
+544 ALVOL CLERMONTIY
+acer GJ ves aaum (Ye) sonowr-no ORD
 
 THIS WHISKEY BLOOMED AT THE LOWER END OF OUR DISTILLATION
-
-SPECTRUM. WITH ABUNDANT FLAVOR COMPOUNDS
-
-A RICH AND LUSH PROFILE FLOURISHES
-
-### Label 2
-
-@ DRINKSMART.COM
-
-£10)
-
-u
-
-is
-
-|
-
-80686°01427
+SPECTRUM. WITH ABUNDANT FLAVOR COMPOUNDS,
+A RICH AND LUSH PROFILE FLOURISHES.
 
 ### Label 3
 

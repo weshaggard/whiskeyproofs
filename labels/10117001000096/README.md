@@ -31,6 +31,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 {
@@ -149,62 +151,8 @@ ABLITY TO ORWE A ca. OR
 
 _—
 
-### Label 1
-
-\COLONEL E.H.
-
-TAYLOR
-
-OLD FASHIONED
-
-‘SOUR MASH
-
-an
-
-S| |
-
-By
-
-a |
-
-iA
-
-TTLED IN BOND}
-
 ### Label 3
 
-qu
-
-cs
-
-MERCER
-
-Tee Tet Oo
-
-AM
-
-IRON Tore TT
-
-suum
-
-a
-
-Si limesaze
-
-ES
-
-eRe
-
-Te
-
-i
-
-i,
-
-ji
-
-ee
-
-au
-
-=r
+2m oS 7pm GCL eg
+5 ee ee SESE ERC CU ea eeteeenecenmmnentene =
+‘Fp amracnreoscrrsenoscnasoruacaccniml fmm ES ami om cscESteCoNcEMM |

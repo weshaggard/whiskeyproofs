@@ -29,45 +29,21 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
-_
+Hes eon Bogs barte my dabd botd
 
-SORT;
-
-LIMITED
-
-EDITION
-
-,
-
-VER
-
-seaners
-
-/
-
-Bookn
-
-ithe fut Lorohus fourbor. Svarite!
+ihe fut Cooks fourbor. Scart
 
 We tbhate oth demise good
-
-Achebe. Achese hes <fireuob
-
-prurbor tomut
-
-pA teway
-
-Cad Ltd Ud.
-
-fe t—
+Ahaha. Schose thes causal
 
 THE ORIGINAL SMALL BATCH BOURBON
-
 KENTUCKY STRAIGHT BOURBON WHISKEY
 
-750 mL | 6£35% ALC /VOL. | 128.5 PROOF
+750 mL | 6£35% ALCG./VOL. | 158.5 PROOF
 
 ### Label 2
 

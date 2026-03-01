@@ -52,28 +52,11 @@ machinery, and may cause health problems.
 
 ### Front Label
 
-CURATED
-
+CoRATED
 BARREL
-
 PROJECT
 
-BOURBON WHISKEY
+?-YBAR STRAIGHT
+BOURBON WHISKBY
 
-7-YBAR STRAIGHT
-
-\\
-
-“HE CONTROL
-
-LoS
-
-re,
-
-go ca
-
-Var
-
-a
-
-EA
+“He CONTROL

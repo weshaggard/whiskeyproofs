@@ -82,164 +82,58 @@ WWW.HOLLERHORN.COM
 
 ### Front Label
 
-uj
-
-il
-
-|
-
-Bi,
-
-|
-
-&
-
-Pot
-
-y ieee | oe
-
-dei
-
-i?
-
-Sr
-
-id
-
-rn
-
-a4
-
-By,
-
-AC)
-
-=,
-
-a
-
-he
-
-Raat
-
-je:
-
-tid
-
-aN
-
-Ley
-
-8g
-
-he
-
-ge
-
-é
-
-NEL}
-
-se
-
-ee:
-
-ipl
-
-pili
-
-7
-
-ie
-
-bis
-
-<j
-
-any
-
-a
-
-i
-
-AIR
-
-Tete
-
-MG
-
-2
-
-1G
-
-4
-
-g tals
-
-ei
-
-a
-
-i
-
-d
-
-ir
-
-|
-
-|
-
-i
-
-SPIRIT
-
-YP Es
-
-HOLLERHORN
-
-BOURBO
-
-WHISKEY
-
-FEATURED ARTIST:
-
-BARREL
-
-YPE:
-
-HARRY GOLD
-
-CHAR #3 & #4
-
-SPIRIT SOURCE:
-
-SPIRIT
-
-SOCIETY
-
-HOLLERHORN DISTILLING
-
-WILDERNESS TRAIL
-
-53% atc/vor
-
-750 mL
-
-106 PROOF
+| | | debby SGI
+mimo
+i f Hep — a
+ee. cae 8c ae
+He ae "YL
+al Pin WEA. |
+aeet ae"
+ee eere
+cae ee eae
+ee ek |
+ce paces sf pee ‘ pores ee | a
+i a aceite
+Fe oe ae eae eames Sl
+Ser Vt Eee
+TT ort hee 7
+wt (A HEROe ah Nee wy pa
+Ta aia
+SS Deg -
+AG SYA TSS tah, Se
+Cretan UE
+pe ey
+4 AY Te '* st 4
+We 4 7] AP en
+| ihe
+(| (erst a ,
+> W/ al
+ee te
+Po tf ft
+Yd 4 i
+SPIRIT TYPE: HOLLERHORN
+BOURBON WHISKEY FEATURED ARTIST:
+BARREL TYPE: HARRY GOLD
+CHAR #3 a #4
+/))
+SPIRIT SOURCE: SPIRIT m SOCIETY
+HOLLERHORN DISTILLING C)
+WILDERNESS TRAIL 53% atc/vor 750 mL 106 PRooF
 
 ### Label 2
 
-©
-
-©
+Pao
 
 HOLLERHORN
-
-HOLLERHORN
-
-DISTILLING
 
 DISTILLING
 
 ineioep pir tl in The LEX
+
+©
+
+HOLLERHORN
+
+DISTILLING
+
+D=Agq A=

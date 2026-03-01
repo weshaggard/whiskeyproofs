@@ -24,88 +24,29 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Front Label
 
-Ah AA
-
-= =>
-
+A MA
 ‘TOBACCO BARN
-
-um *
-
-SoS
-
-— DISTILLERY®
-
-gf
-
-“ofl!
-
-a
-
-Cir
-
-!
-
-my
-
-SINGLE BARREL
-
-DISTILLED IN MARYLAND
-
-Be
-
-=sS
-
-=
-
-STRAIGHT
-
-= =
-
-OURBON
-
-= 2
-
-- =
-
-WHISKEY
-
-of
-
-<a"
-
-mA
-
-Be
-
-(=),
-
-45% ALC. BY VOL. (90 PROOF)
+—— DISTILLERY"
 
 750 ML
 
-### Label 3
+SINGLE BARREL
+DISTILLED IN MARYLAND
+Rie
+STRAIGHT
+WHISKEY
+ee
 
-ay
+BOURBON
 
-7 We
+45% ALC. BY VOL. (90 PROOF)
 
-My,
+SUVAA XI§ NVH[ daOW Adoy €100¢-dW-dSd
+NV900) NVIS ‘YATIULSIG CW GOOMATIOY
+00] 40 0O[ XAdNON TILLOG AUITILSIC] NUVG ODDVEO J,
 
-\
-
-M)
-
-&
-
-Gy
-
-<
-
-SS
-
-STATES OF
-
-GEorG\P
+10 SZ { 6] ‘AdaWaN TawUg Ad CYILLOG ANY GATILSIG

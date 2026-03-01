@@ -26,88 +26,33 @@
 
 ### Front Label
 
+eee
 GRAIN TO BOTTLE SPIRITS SUSTAINABLY DISTILLED IN CHICAGO
-
-NON-CHILL FILTERED
-
-MILLET 49%
-
-HAND CRAFTED
+5 NON-CHILL FILTERED BSS
+coRN 51% HAND CRAFTED
 
 ### Label 2
 
 At Koval, true excellence means more than what's in the glass.
-
 It's a commitment to how our spirits are made, how the land is.
-
 treated, and the footprint we leave in bringing each bottle to
-
-Wu. We source organic, regenerative grains from local farmers,
-
+you. We source organic, regenerative grains trom local farmers,
 ‘Viewing sustainability not just as a production standard, but as
-
-sponsibility to
-
-th. Our sme
-
-jatch, single barr
-
-wi
-
-‘eys are produced wit
-
-i
-
-unique mas
-
-s
-
-iH
-
-vi
-
-s, utilizing only the
-
-heart cut of the distillate, creating
-
-E
-
-Je
-
-brighter, more
-
-a ined spirit
-
-that reflects our uncompromising
-
-\dication to qui
-
+a espansihaty to the Cite smal bah single barrel
+whiskeys are produced with unique mashbills, utilizing only the
+heart cut of the distillate, creating iH brighter, more mi ined spirit
+that reflects our uncompromising dedication to quality.
 BARREL N°
 
-QR
+QR Barcode
 
-Barcode
+D/STLED AND SOLED BY KOVALINC.CHCAGO, ones @)
+CERTIFIED ORGANK by Midwest Oroanic Series Assocation
+Distiled from Organic Grains" e@
+Masti Com, ile
 
-DISTILLED AND BOTTLED BY KOVAL INC. CHICAGO, IL 60613
-
-CERTIFIED ORGANIC by Midwest Organic Services Association
-
-e
-
-Distilled from Organic Grains*
-
-e
-
-Mashbill: Corn’, Millet*
-
-GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL,
-
-\GES_ DURING
-
-PREAH OF HAN OF THEE.)
-
-CONSUMPTION
-
-OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR
-
-OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
+GOVERNMENT WARNING: () ACCORDING TO THE SURGEON GENERAL
+WOMEN SHOULD NOT DRINK ALCOHOLIC. BEVERAGES. DURING
+PREGNANCY BECAUSE OFTHERISKOF BIRTH DEFECTS.) CONSUNPTION
+OF ALCOHOL BEVERAGES IMPARS YOUR ABLTY 0 DRIVE A CAR OR
+OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS,

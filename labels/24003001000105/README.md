@@ -30,6 +30,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Front Label
 
 MASTER'S
@@ -117,16 +119,6 @@ LEO BY WILD TURKEY DISTILLING CO, LAWRENCEBURG KY
 \
 
 \)
-
-### Label 2
-
-MASTER'S .
-
-F STRAIGHT WH
-
-= . -
-
-—
 
 ### Label 3
 

@@ -28,9 +28,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Back Label
-
-~~
+*1 image(s) excluded: text did not meet readability threshold*
 
 ### Front Label
 
@@ -521,11 +519,7 @@ YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHIN-
 ### Label 3
 
 CASK STRENGTH
-
 AGED 8 YEARS
-
 CRAFTED BY HAND IN THE
-
 GRANITE STATE
-
-Ge AGED TO PERFECTION Go
+GED AGED TO PERFECTION Goes

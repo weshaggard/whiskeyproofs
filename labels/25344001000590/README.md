@@ -28,69 +28,34 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 TEARS %
-
 THE LEFT
 
-a
-
 Crafted with soft American wheat and the smooth
-
-|
-
-EO)
-
 charm of a sunset, this bourbon is gentle, warm, and
-
 proud enough to salute the flag, hold the door, and
-
-vars
-
 still upset exactly the right people.
-
-1)
-
-ae
 
 Cheers to liberty, grit, and doing things our way.
 
 GOVERNMENT WARNING: (1) ACCORDING
-
-- MADE IN AMERICA -
-
 TO THE SURGEON GENERAL, WOMEN
-
-BOTTLED BY TOTL CO, BARDSTOWN, KY
-
-SHOULD
-
-NOT
-
-DRINK ALCOHOLIC
-
-BEVERAGES
-
-DURING
-
-PREGNANCY
-
+SHOULD NOT DRINK ALCOHOLIC
+BEVERAGES DURING — PREGNANCY
 BECAUSE OF THE RISK OF BIRTH DEFECTS.
-
-(2)
-
-CONSUMPTION
-
-OF ALCOHOLIC
-
-BEVERAGES IMPAIRS YOUR ABILITY TO
-
+(2) CONSUMPTION OF ALCOHOLIC
+BEVERAGES IMPAIRS YOUR ABILITY 10
 DRIVE A CAR OR OPERATE MACHINERY,
-
 AND MAY CAUSE HEALTH PROBLEMS.
 
-wn
+- MADE IN AMERICA -
+BOTTLED BY TOTL CO, BARDSTOWN, KY
+
+810020 89094
 
 ### Label 1
 
@@ -115,15 +80,3 @@ PROOF
 PROOF
 
 Fle
-
-### Label 3
-
-ANEET 7,
-
-~
-
-ikke FS
-
-> @. 408
-
-Ne resp Ze

@@ -30,6 +30,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 FROM GRAIN TO BARREL AND STRAIGHT

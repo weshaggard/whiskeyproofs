@@ -30,6 +30,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 ENTUCKY STRAIGHT BOURBON WHISKEY
@@ -285,7 +287,3 @@ mee
 0
 
 46% ALC./VOL. 750ML
-
-### Label 3
-
-IT |

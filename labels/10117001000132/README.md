@@ -31,6 +31,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 —
@@ -153,68 +155,12 @@ CAUSE HEATH” ROBLES
 
 TAYLOR
 
-|
+_ SMALL BATCH
 
-SMALL BATCH
+TAYLOR JR.
 
-ll
-
-baer
-
-ane
-
-f
-
-)
-
-||
-
-SX
-
-||
-
-||
-
-|
-
-|
-
-|
-
-||
-
-||
-
-|
-
-|
-
-||
-
-||
-
-||
-
-SNE
-
-|
-
-|
-
-i]
-
-[A
+Zina
 
 BOTTLED IN BOND
 
 | 50% ALC/VOL [100 PROOF] 750ML
-
-### Label 3
-
-elitay
-
-Pye
-
-ga
-
-TIN

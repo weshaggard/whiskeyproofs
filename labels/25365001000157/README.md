@@ -52,82 +52,37 @@ cn
 
 ### Label 2
 
-BOXER
-
 There are many legends behind the name
-
 Boxer Bourbon.
-
 Some speak of a brave Boxer dog, Max,
-
-who paved the first barrel from a
-
-raging fire...
+: who saved the first barrel from a
+i raging fire...
 
 Others tell of a pugilist, Ben
-
-"Brickhouse"
-
-johnson, toasting his
-
+Pee aon toasting his
 victories after a fight with his
 
-loyal dog, Jack...
+i loyal dog, Jack...
 
 Or a dog named Snacks who guarded the
-
 barrels from thieves and bandits, bringing
-
-luck to every bate!
+luck to every batch...
 
 Whatever the tale, they all celebrate the
-
 pillars that-define évery pour-of
+Boxer Bourbon,
 
-Boxer Bourbon.
+BOTTLED BY: BOXER BOURBON, SHELBYVILLE, KY
+DISTILLED IN KENTUCKY
+GOVERNMENT WARNING: (I) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK
+_ ALCOHOLIC BEVERAGES DURING PREGHANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2)
+CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY T0 DRIVE A CAR OR OPERATE
 
-devotion. loyally
+MACHINERY, AND MAY CAUSE HEALTH PROBLEMS. :
 
-Diadilion.
+Ny}
 
-BOTTLED BY:
+"5006697835 "1 Jame Py y,
+uesvescremo ft i
 
-R BOURBO!
-
-LB
-
-ILLE,
-
-ILLED IN
-
-TU
-
-Chan alt La IN
-
-GENERAL WOMEN SHOULD 4 DRINK
-
-ES DURING Bat NANCY Hse
-
-OF THE RISK.
-
-(2)
-
-COST DF LR BEG IMPAIRS YOUR ABILITY 10 TRIE AKG OPERATE
-
-MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
-
-v)
-
-8
-
-50066 © 97835
-
-CACRV | IA-5¢
-
-ME* VE-5¢ REFUND
-
-4
-
-SIP
-
-RESPONSIBLY
+SIP RESPONSIBLY. a SAS

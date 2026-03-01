@@ -24,39 +24,9 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Label 1
-
-1776
-
-wi
-
-i
+*1 image(s) excluded: text did not meet readability threshold*
 
 ### Label 2
-
-Lh
-
-Ni
-
-ia
-
-AA
-
-406.
-
-LN
-
-Ve)
-
-@ay in
-
-Pts
-
-a0
-
-See
-
-(@
 
 “BORN WITH THE REPUBLIC”
 
@@ -65,47 +35,18 @@ Established in 1780 during the American Revolution, the Pepper family whiskey le
 the earliest days of Kentucky distilling. Known as “Old 1776” by Colonel James E. Pepper, this
 
 whiskey is distilled at the Old Pepper Distillery (DSP-KY-5) using limestone-filtered well water
+and a historic mash bill of 100% Rye, then matured in new charred American oak barrels.
 
-and a historic mash bill of 100% Rye, then matured in new charred American oak barrels
-
-GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON
-
-Learn more at www.JamesEPepper.com
-
+GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON Learn more at www.JamesEPepper.com
 GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC
 
 BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF
-
-=i
-
-BIRTH DEFECTS.
-
-(2) CONSUMPTION OF ALCOHOLIC
-
-=
+BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC
+7 136211"59609
 
 BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR
-
-iS
-
-|
-
-|
-
-36211
-
-|
-
-|
-
-59609
-
-|
-
-|
-
-|
-
-OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS
-
 DISTILLED & BOTTLED BY JAMES PEPPER DISTILLING CO., LEXINGTON, KENTUCKY + AGED OVER 3 YEARS
+
+50ML
+
+OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.

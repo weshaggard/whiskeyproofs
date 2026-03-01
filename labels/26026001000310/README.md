@@ -34,15 +34,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Label 1
-
-TEN-PIN
-
-\
-
-“10: ;
-
-rene ALCIVOL 2 oa
+*2 image(s) excluded: text did not meet readability threshold*
 
 ### Label 2
 
@@ -83,9 +75,3 @@ DRIVE A CAR OR OPERATE MACHINERY,
 AND MAY CAUSE HEALTH PROBLEMS
 
 111-TT1012
-
-### Label 4
-
-KY OUS
-
-AY S

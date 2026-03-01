@@ -34,89 +34,17 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
-
-5
-
-L
-
-(
-
-r
-
-'
-
-|
-
-l
-
-i
-
-t
-
-r
-
-\
-
-a=,
-
-r
-
-|
-
-I
-
-_
-
-f
-
-IK
-
-\
-
-=
-
-a4.
-
-==:
-
-G.
-
-‘S739 -
-
-in TOASTED NEW OAK BARRELS
-
-OUR SMALL BATCH BOURBON FINISHED
-
-FATHER of BOURBON
-
-PROOF 47% ALC / VOL =!
-
-### Label 2
-
-= ae
-
-fo 4
-
-y
-
-—_
-
-||
-
-\
-
-V/
-
-J.
-
-### Label 3
-
-i
 
 TOASTED BARREL
 
-Tr
+OUR SMALL BATCH BOURBON FINISHED
+in TOASTED NEW OAK BARRELS
+
+| FATHER of BOURBON
+PROOF 47% ALC / VOL Siam |:
 
 ### Label 4
 

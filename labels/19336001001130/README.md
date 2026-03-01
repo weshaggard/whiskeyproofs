@@ -24,27 +24,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Label 1
-
-MSKENNA
-
-,
-
-BOURBON
-
-WHISKEY
-
-SOUR
-
-mast”
-
-EST.
-
-1855
-
-750ml
-
-fi im
+*1 image(s) excluded: text did not meet readability threshold*
 
 ### Label 2
 

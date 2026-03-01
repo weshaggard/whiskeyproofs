@@ -30,6 +30,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 PRODUCED BY THE WOODFORD RESERVE DISTILLERY
@@ -64,22 +66,8 @@ INERY, AND MAY CAUSE HEALTH PROBLEMS
 
 ### Front Label
 
-,sTER’s eR ELEG Fy 5
-
+eee ECT ia,
 WOODFORD RESERVE
-
-—"
-
-——
-
-mrt 119.8 maw
-
+BATCH 119.8 PROOF
 KENTUCKY STRAIGHT BOURBON WHISKEY
-
 750mL - 59.9% ALC/VOL (119.8 PROOF)
-
-### Label 3
-
-BATCH
-
-PROOF

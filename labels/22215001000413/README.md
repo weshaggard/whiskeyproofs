@@ -25,43 +25,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Label 1
-
-wv
-
-WHISKEY
-
-sot
-
-ENG) Ms
-
-6P/
-
-4,
-
-at
-
-2
-
-ity
-
--Rye Whiskey:
-
-BLEN
-
-Ba
-
-ig
-
-C
-
-FI
-
-i
-
-C./VOL
-
-100 PROOF
+*1 image(s) excluded: text did not meet readability threshold*
 
 ### Label 2
 

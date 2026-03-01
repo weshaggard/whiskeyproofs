@@ -28,147 +28,57 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
-<> KENTUCKY SE
+-@ KENTUCKY SENATOR BOURBON" <>
+Tew
 
-NATOR BOURBON” <>
+JIM _BUNNING (31307) WAS A FORTE IN
+ROTH BASHIALE AND POLITICS, BOR IN
+SOUTHGATE KENTUCKY. HE EARNED
+Puce IN Tite MAJOR TEAGLt BASE
+HANLOF PaMit ANDSERVED a YEARS IN AE
+US'HOUSE AND TWO THR TE CS
+SENATE ONE OF JUST 35 PPTCHRS EW
+Thigrok\ 0 ‘THROW A PERPDCT. CaM
+BENNING BROUGHT THe suMe TENSITY
+SND TIERCE INDEPENDENCE To CAPITOL
+MLL!'IN' soon, HE HELPED eStannist
+SHPTHMIBE is "NATIONAL. ‘BOURDON
+HeRMAGE MONTH, SOLIDIPYING us
+LEGACY AS {CHAMPION OF KENTUCKY
+Navive SPIRIT A'STAUNCHE DEFENDEOF
+scat Disc vt
 
-Tem
+VETEIEANS AND PNTUCH jo}
+NAILTS. BLAMING NEVER
 
-RELEASE #17:
-
-JIN BENNING
-
-:
-
-WAS A FORCE ry
-
-BOTH BASEBALL AND POLITICS, BORN IN
-
-SOUTHGATE
-
-KENTUCKY, HE EARNED A
-
-PLACE IN THE MAIOR LEAGUE. BASEUALL
-
-~
-
-HALLOF FAME ANDSERVED ta YEARSIN THE
-
-US. HOUSE AND TWO TERMS IN THE US.
-
-SENATE. ONE OF JUST 35 PITCHERS IN MLS
-
-ad
-
-HISTORY TO TIROW. A. PERFECT GAME
-
-fans
-
-BUNNING BROUGHT THE SAMI
-
-NACITY
-
-AND FIERCE INDEPENDENCE ‘TO. CAPITOL
-
-HLL
-
-TN. 2007. Hk
-
-HELPED. ESTABLISH
-
-HERITAGE,
-
-SEPTEMBEL
-
-Month,
-
-as
-
-NATIONAL,
-
-BOURBON
-
-SOLIDIFYING
-
-HS
-
-NATIVE SPIRIT, A STAUNCH DEFENDER OF
-
-LEGACY AS A CHAMPION OF KENTUCKY'S
-
-FISCAL,
-
-DISCIPLINE
-
-VETERANS AND_KENTUCKS
-
-13]
-
-Values.
-
-TWUNNING
-
-NEVER
-
-ACKED. DOWN” FROM
-
-:
-
-CHALLENGE,
+RACKED BOWS FROM
+CHALLENGE
 
 for more info, scan or visit:
-
 www-kysenatorbourbon.com
 
-Borrien ay
-
-BaRosTOWN BOURBON COMPANY
-
-SINGLE BARREL
+SSS SE Sy
+SINGLEBARREL Saaasrowe Have cnrany
 
 ROSTOWN, KY FOR
 
-DISTILLED & AGED IN KY
+DISTILLED & AGED IN KY KENTUCKY SEMATOR SPIRITS, LLC,
+Ee
 
-KENTUCKY SEMATOR SPIRITS, LLC.
-
-GOVERNMENT WARNING: (1
-
-According to the Surgeon General,
+GOVERNMENT WARNING: (1) According to the Surgeon General,
 
 women should not drink alcoholic beverages during pregnancy because
 
-of the risk of birth defects.
+of the risk of birth defects. (2) Consumption of alcoholic beverages
 
-2
+impairs your ability to drive car or operate machinery, and may cause
+health problems.
 
-5
-
-Consumption of alcoholic beverages
-
-impairs your ability to drivea car or operate machinery, and may cause
-
-h
-
-Ith problems.
-
-f
-
-Fe
-
-—
-
-50M
-
-I,
-
-=
-
-ay
-
-MB My
+UNS
 
 ### Front Label
 
@@ -197,25 +107,3 @@ AGE
 BOTTLE
 
 ta
-
-### Label 3
-
-—t —
-
-=
-
-rhs
-
-“Se
-
-| t
-
-= L£9es
-
-*o=
-
-ai =
-
-SEC
-
-co >

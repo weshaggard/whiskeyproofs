@@ -32,6 +32,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 KUKO
@@ -98,98 +100,16 @@ o
 
 ili
 
-### Front Label
-
-Fi
-
-\
-
-aN
-
-ii
-
-~~
-
-A
-
-Y,
-
-yy
-
-hi
-
-si
-
-¥
-
-+
-
-y
-
-7
-
-o~—_
-
-eo
-
-a=
-
-3
-
-= Ye
-
-a
-
-SA
-
-oe Srey
-
-~S
-
-(
-
-(we
-
-KS wN
-
-SS
-
-c—. Yad
-
-KENTUCKY STRAIGHT BOURBON WHISKEY
-
-### Label 3
-
-,
-
-1220
-
-60%
-
-YEARS OLD
-
-PROOF
-
-ALC. BY VOL
-
 ### Label 4
 
-JIVGIW V
+JIVUIN V
 
-Ld 4av
+ind 4av
 
-SAV Ia
-
-cr
-
-@
-
-42
-
+SAV Ia0
+CF
+4]
 CHOP
-
 WOOD
-
 CARRY
-
 WATER

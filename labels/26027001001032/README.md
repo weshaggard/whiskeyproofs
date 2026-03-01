@@ -26,99 +26,48 @@
 
 ### Back Label
 
-; a al
-
-7. ee.
-
 NORTHWEST HEIRLOOM
-
-forms the
-
-heart
-
-Produced and bottled by
-
-Second Chance Spirits Inc
-
-RYE
+RYE. forms the heart
 
 of this whiskey,
-
-Prosser, WA 99350 * 509.627.5000
-
 AGED EIGHT YEARS in charred
-
-or
-
-BOOKWALTER WINERY, LLC
-
 American oak for depth & spice.
 
-}
-
 A ruby port barrel finish imparts
-
-NOVELDISTILLING.COM
-
-i
-
 layered fruit and a graceful,
-
-y
-
 lingering finish.
-
-GOVERNMENT WARNING:
-
-(1) ACCORDING TO THE SURGEON
 
 At 115 PROOF, it balances
 
-GENERAL, WOMEN SHOULD NOT
-
 power with finesse.
 
-DRINK ALCOHOLIC BEVERAGES
-
-Whether
-
-a
-
-DURING PREGNANCY BECAUSE
-
-|
-
-marking
-
-special
-
-OF THE RISK OF BIRTH DEFECTS.
-
-|
-
+Whether marking a_ special
 occasion or unwinding during a
-
-(2) CONSUMPTION OF ALCOHOLIC
-
 quiet evening, our rye stands as
-
-BEVERAGES IMPAIRS YOUR ABILITY
-
-TO DRIVE ACAR OR OPERATE
-
 the ideal choice for any moment.
 
+BaSS~_ OSES
+
+Produced and bottled by
+Second Chance Spirits Inc
+Prosser, WA 99350 * 509.627.5000
+
+for
+
+BOOKWALTER WINERY, LLC
+NOVELDISTILLING.COM
+
+GOVERNMENT WARNING:
+(1) ACCORDING TO THE SURGEON
+GENERAL, WOMEN SHOULD NOT
+DRINK ALCOHOLIC BEVERAGES
+DURING PREGNANCY BECAUSE
+OF THE RISK OF BIRTH DEFECTS.
+(2) CONSUMPTION OF ALCOHOLIC
+BEVERAGES IMPAIRS YOUR ABILITY
+TO DRIVE ACAR OR OPERATE
 MACHINERY, AND MAY CAUSE
-
-|
-
-|
-
-BP OSES
-
 HEALTH PROBLEMS.
-
-Wd
 
 ### Front Label
 

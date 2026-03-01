@@ -39,6 +39,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*3 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 B
@@ -83,192 +85,27 @@ RESPONSIBILITY. org
 
 ### Front Label
 
-SS
+> .
+Barrelled NaN \ Ltd. Bottling
+2011 S i y 2022
+<< SIO
 
-N
+Z
 
-S
+ZZ
 
-N
-
-N
-
-Barrelled
-
-IS
-
-N
-
-N
-
-Ss
-
-N
-
-Ltd. Botiling
-
-2011
-
-\’
+Uy
+ZZ
 
 S
+\ Wa Ss N aa
+SAN “rant rama TSEC ean’ Nas “ea
 
-N
-
-N
-
-N
-
-S
-
-2022
-
-so
-
-SSN
-
-SOT
-
-Ss
-
-IW
-
-N
-
-N
-
-S
-
-SSS
-
-N
-
-SS
-
-SS
-
-“S
-
-IN
-
-WS
-
-¥
-
-SS
-
-NS
-
-SN
-
-N
-
-SS
-
-N
-
-S
-
-N
-
-N
-
-N
-
-~
-
-Ss
-
-N
-
-SS
-
-N
-
-N
-
-SN
-
-N
-
-RSS
-
-SS
-
-N
-
-Ny
-
-SS
-
-N
-
-N
-
-N
-
-s
-
-SS
-
-N
-
-E<\9
-
-<<<
-
-ESS\ESAG
-
-SSN
-
-<<<
-
-ES
-
-WN
-
-SSI Wh ASK
+N S
+WSs WSs
 
 KENTUCKY STRAIGHT BOURBON WHISKY
 
 Bidhday Loubon
 
 OLD FORESTER DISTILLING CO. AT LOUISVILLE IN KY 750mL 48% ALC/VOL (96 PROOF)
-
-### Label 3
-
-&
-
-eee
-
-ESTp
-
-ESTD
-
-1870
-
-1870
-
-### Label 4
-
-roe Bo,
-
-AGED
-
-Il :
-
-@, YEARS =
-
-fp Bot
-
-### Label 5
-
-be FT
-
-i
-
-bf
-
-|
-
-mgaaanananaba

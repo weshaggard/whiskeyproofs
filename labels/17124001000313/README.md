@@ -116,7 +116,7 @@ IA REF
 
 ### Label 1
 
->)
+)
 
 COLONEL E.H.
 
@@ -124,202 +124,18 @@ TAYLOR
 
 FOUR GRAIN
 
-4ND ONY
+ASN 3AISNIDNOD ANY 43AISNIOX3 NI S| 13GV7 MO1734 SIHL
 
-iN
+“ar YOVAVL
 
-(nee
+lake)
 
-7:
-
-e<
-
-oN
-
-26
-
-ge
-
-NY
-
-O-
-
-N
-
-sat ie
-
-i)
-
-i
-
-7S
-
-N>
-
-oy
-
-Le
-
-Fe
-
-Te)
-
-XY
-
-BOTTLED IN BOND
-
-50% ALC/VOL [100 PROOF] 750ML
+eee ay
 
 ### Label 2
 
-e
-
-2)
-
-Lexe
-
-(AAU)
-
-res
-
-iD
-
-Y
-
-it
-
-ft
-
-13
-
-Sie!
-
-E00
-
-SUE MSE NTS OS
-
-com
-
-PASE ES]
-
-7
-
-Le
-
-cg
-
-Bgacadoesdaaae
-
-:
-
-Babes
-
-au
-
-ig
-
-ccatgy
-
-eat
-
-Yow
-
-tat
-
-rags
-
-tpaseaead
-
-gua
-
-54
-
-si
-
-doabanévaradanéndednancsecede.
-
-doevenaeebsnddadéeéraedndeceaeasenasanceacecec,
-
-docecbavdbcbancacececscucechcucucuchchcecucecuchcuceescycncuCDcecncecedsdndnceasseeancnd
-
-)
-
-ZosachcvEysacadversrcrdyersrdcrards sacra dacnerersacdyersadecyersesecrsrsacacrersecnendy
-
-i
-
-Poses yEDTASEYeosacVersnsacrarsyEacrsyersacedyersacecrarsedrersosacred
-
-io)
-
-<3
-
-tated:
-
-dosvcacesud
-
-oo
-
-fiat
-
-z
-
-i
-
-ts
-
-oat
-
-pate
-
-sosesese:
-
-pad
-
-et,
-
-tats
-
-S
-
-Vee
-
-pittstststatetss a sabencncncucn coca vocevececeecececsasases eadvandedy.
-
-Seocb ds
-
-&
-
-eC
-
-teks
-
-E cacuascavacueseevaceseucocneugcaene Shchshe le civtsbelceetsocschchand ebcecus escneae aga
-
-i
-
-ra
-
-iu
-
-ack
-
-q
-
-Te
-
-NL
-
-a
-
-Key
-
-fi
-
-SCLC EL ES
-
-OTT
-
-ra
-
-INS
+oS ee S09 N09 MMe SMMC Ui) XN NTMI) TEINS STEEN STON ETA A A MMM nad
+MS SEEGER EEG EE CEG GEE EEE EERE GEE IEG EEE GGT IY 6 lpg i/ : Nie Soec brea re cbse casa cb roce cura cararo dace Sysscpebcacuasc esse ocacboocoe acer bce C tay ole Rema ag
+Be SSE CCNA ABA SEE SARE DREEE EERO BESS SS. Bn PES SBASEERAASE Cesc catatoccacscotetc cuca datac ec acatee see ncacecseey a
+LSS SERRA SSSA ASSASSIN AMSG OUST 7 AMS SGT G SS SATIIUIS IO TSTON ATES SOHO ESO MISEIESSY “Em”
+>A AEA SI Ts A ATT > 1) TE A TE SOR eC UNS

@@ -28,94 +28,18 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Label 1
-
-SIRDAVIS
-
-J
-
-N
-
-E
-
-I
-
-f
-
-GOVERNMENT WARNING:
-
-0
-
-K
-
-l
-
-I
-
-iH
-
-i
-
-0
-
-ILITY
-
-i
-
-Bl
-
-0
-
-WU
-
-CACAV] VI ME 15¢/IA Sp ° S1”?? Sherer"
-
-— |
-
-|
-
-### Label 2
-
-[|
-
-TOO
-
-~
-
-_
-
-5
-
-a
-
-.
-
-My,
-
-0 U
-
-oe
-
-i
-
-ms
+*2 image(s) excluded: text did not meet readability threshold*
 
 ### Label 3
 
 a
 
-7 — >
-
-CASK STRENGTH
+ws
 
 SIRDAVIS
 
-RYE WHISKY FINISHED
-
 CASK STRENGTH
 
-IN SHERRY CASKS
-
-ws
-
-—
+CASK STRENGTH .
+RYE WHISKY FINISHED |
+IN SHERRY CASKS .

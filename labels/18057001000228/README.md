@@ -35,66 +35,16 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Back Label
-
-=o
-
-—o
-
-i
-
-——
-
-——t=}
+*3 image(s) excluded: text did not meet readability threshold*
 
 ### Front Label
 
-Bo ee
-
-Ltd. Bottling
-
-eel oe
-
-&
-
-«
-
-‘
-
-|
-
-‘0
-
+Barrelled OL i? Ltd. Bottling
+2006 @ nF 2018
 —
 
-|
-
-y
-
-\
-
-STE
-
-=
-
-A
-
-ae ek
-
-SS
-
-Ay STRAIGHT Goud WHISKY
-
-Loudon
-
-so DISTILLING £0, elleclay.
-
-LEINKY 750mL 50.54 Al
-
-LG/VOL (101 PROOF)
-
-### Label 3
-
-~NO@UNOG G3ILLOd LSal4d FHL
-
-THE FIRST BOTTLED BOURBON™
+a ma \ 4 “4
+~ min S | tr
+KENTUCKY STRAIGHT BOURBON WHISKY
+Siithday Dourlon
+OLD FORESTER DISTILLING CO. AT LOUISVILLE IN KY 750ml 50.5% ALC/VOL (IO! PROOF).

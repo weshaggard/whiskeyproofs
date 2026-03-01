@@ -48,53 +48,7 @@ ANDY
 
 DANCER
 
-2.
-
-— yy"
-
-peg he
-
-~—
-
-as
-
-is
-
-4-
-
-t-
-
-¥
-
-Le
-
-«&
-
-uA
-
-bc/
-
-fy
-
-“i
-
-=
-
-i)
-
-Pe.
-
-Aw
-
-—
-
-we Tae
-
-ae
-
-Se
-
-“Limited Small Batch Release’
+“Limited S Small Batch Release *
 
 BARREL AGED OVER TWO YEARS
 
@@ -103,27 +57,9 @@ Pennsylvania Straight
 RYE
 
 WHISKEY
+Batch#____ Release#
+45% 90 750 ml
+Alc./Vol Proof Vol
 
-Batch #
-
-————
-
-Release #
-
-———_—__—
-
-45%
-
-90
-
-750 ml
-
-Ale./Vol
-
-Vol
-
-Proof
-
-Distilled and Bottled by New Castle Union Station Craft Distillery Inc
-
-334 FE. Washington St. New Castle, PA 16101
+Distilled and Bottled by New Castle Union Station Craft Distillery Inc.
+334 E. Washington St. New Castle, PA 16101

@@ -25,6 +25,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 GOVERNMENT WARNING: (1) ACCORDING T0 THE SURGEON GENERAL
@@ -90,29 +92,3 @@ www.drinksmart.com
 110-LBK0112
 
 KENTUCKY STRAIGHT BOURBON WHISKEY | 58.05% ALC./VOL. (116! PROOF)
-
-### Label 2
-
-RE 8
-
-THE
-
-a Ss
-
-ZN
-
-f-——SN
-
-—=|
-
-E—— |, \Sa,
-
-(=-— } A
-
-e 7
-
-—
-
-S
-
-INFINITE

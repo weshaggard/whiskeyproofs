@@ -30,6 +30,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 COLONEL E.H.
@@ -120,20 +122,13 @@ CRUSE HEALTH PROBLEMS,
 
 ### Front Label
 
-COLONEL E.H.
-
+a.
 TAYLOR
-
-SINGLE BARREL
-
-aN
-
-SX
-
-’
-
-SV
-
-NA
-
-BOTTLED IN BOND
+| SINGLE BARREL
+= =| | NG || esse |
+iq aN ay UNO | year ’ |
+| BBN ENA: |
+| "as NED: a ae
+| ——_ I NA ’ B vena EAM
+OIE
+orev sowo

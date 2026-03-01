@@ -32,25 +32,17 @@
 
 ### Front Label
 
-ye
-
-Wy
-
 EXPERTLY
-
 CRAFTED
-
-AN
-
-SINCE
-
-1855
 
 WILD TURKEY
 
 — KENTUCKY SPIRIT—
 
 KENTUCKY STRAIGHT BOURBON WHISKEY
+
+SINCE
+1855
 
 ### Label 2
 
@@ -108,14 +100,12 @@ MACHINERY, AND MAY CAUSE HEALTH PROBLEMS
 
 ### Label 3
 
-WILD
-
-Sepoees
-
+_ BOLD —
 GENUINE
+TRUE
 
 SINGLE BARREL
 
-_ pismnuine cor
-
+: aes ee enesen ENA
+_ pismnuine ea
 WRENCEBURG, KY —

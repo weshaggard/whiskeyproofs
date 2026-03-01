@@ -33,6 +33,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 Boob
@@ -142,7 +144,3 @@ ALCOHOLIC BEVERAGES IMPAIRS YOUR
 ABILITY TO DRIVE A CAR OF OPERATE MACHIN
 
 ERY, AND MAY CAUSE HEALTH PROBLEMS
-
-### Label 4
-
-»—~

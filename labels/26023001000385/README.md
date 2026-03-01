@@ -26,66 +26,41 @@
 
 ### Back Label
 
-———
-
 THE STORY OF
 
 REV. GEORGE C. HADDOCK
 
 Knownas the fighting preacher,
-
 Reverend Haddock raged against the
-
 temptation of sin in the booming riverfront
-
 town of Sioux City. One fateful night
-
 in 1886, a single shot rang out—
-
-f
-
 securing his place in local history.
-
 His bold, unwavering spirit
 
 lives on in our Haddock Whiskey.
 
-F) stay
-
 SiodEity
-
 DISTILLING COMPANY
 
-CURIOUS
-
-F.  SCANFORHADDOCK’S
-
 313 PERRY ST,
-
-FULLSTORY.
-
 SIOUX CITY, IA 51103
 
-DISTILLED in WYOMING
-
 MATURED, BLENDED, and BOTTLED by SIOUX CITY DISTILLING CO in SIOUX CITY, IA
-
-‘VEAME 15¢ REF | IA REF 5¢
-
-‘SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF
+DISTILLED in WYOMING ‘VEAME 15¢ REF | IA REF 5¢
 
 GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN
-
+‘SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF
 THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES
-
 IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY
-
 CAUSE HEALTH PROBLEMS.
 
 alMsootetseqosl le
 
-(ES
-
 ### Front Label
 
+SIOUX CITY BREEDS NO ORDINARY SPIRITS.
+
 AMERICAN WHISKEY
+
+SIOUX CITY DISTILLING CO 50% ALC/VOL - 750 mL

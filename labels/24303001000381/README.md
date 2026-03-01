@@ -39,97 +39,47 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
-yery U!
-
-WP EpWe aay ot
-
-GOVERNMENT WARNING: (1) ACCORDING T0 THE SURGEON
-
+——————
+ery LIMITED RELE gg,
+GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON
 GENERAL, WOMEN SHOULD NOTORINKALCOHOLIC
-
 BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF
-
-BIRTH DEFECTS. (2) CONSUMPTION OFALCOHOLIC
-
-BEVERAGES IMPAIRS YOUR ABILITY TO DRIVEACAR OR
-
+BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC
+P BEVERAGES IMPAIRS YOURABILITYTODRIVEACAROR © <
 OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
-
-a
-
 Bottled by Lux Row Distillers, St. Louis, MO
-
 MEVTREF 1c 1AREFS¢ CACRV. 750M
-
+a 4
 {LUX ROW
-
-BARDSTOWN
-
-DISTILLERS:
-
-KENTUCKY, USA
-
-ta
-
-‘Cae
-
-Hdd
+DARDS TOWN -Q>RISTILLERSHENTUCHTLUSA
+PAU SAO eae os ITS EY
+Wifes eed si Bt tr BR ae RM: toga 22 CULAR SO yea are ee
 
 ### Front Label
 
-|
-
-p
-
-Oath
-
-|
-
-very LIMITED RELE gg,
-
-Keatucky Straight Hourhon Hiskey
-
-Finished in Muejo Tequila: Harrels
-
-49.3% ALC/VOL | 98.6 PROOF
-
-2028 Pact No LT] meow
-
-weld bred ryed bousbons
-
-and one fenhed
-
-eee 14% Prot
-
-pe hauls snsad bom te
-
-Fithed in ae
-
-Mes bend us imbued witha
-
-7 begun with Me warnith
-
-ee a
-
-Uidligwiica.
-
-CLE 7
-
-This rare nay sha(Cnever again be made.
-
-pact: fj
-
-pate: J
-
-225 |
-
-ey
-
-o
-
-EN
+| Ptood Oath
+Plot Oath
+| Sontaiby Stiaight Bourhin idhey.
+| Finished in Aaejo Tequila, Harrels
+TADBGALCIVOL 1 98.6 PROOF ||
+2025 Pact No.l! MMxxv
+1 hanacilal aint sell Maclay heals
+» aE TITS 7
+| Fiche n Mepotigule hauls socrd fom He
+macau is Und tind wth
+| itn nhl, Keg ith oronitel
+eared nil isa withyhn
+| ze seed,
+| Uidligwiica. EET
+| This rare Pact sfiall'tever again be made.
+pees Poe enmicra)
+; re
+_ g
+| SY C/ winix.xn
 
 ### Label 3
 
@@ -186,11 +136,3 @@ ERIE
 »
 
 g
-
-### Label 4
-
-MMXAY
-
-### Label 5
-
-ee

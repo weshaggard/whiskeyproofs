@@ -58,14 +58,13 @@ MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
 
 ### Front Label
 
-ar
-
+mL
+a ra
+BL
 FUJIKAGUYA
-
 SINGLE MALT JAPANESE WHISKY
-
-Distilled 2022 Bottled 2025
-
-it. Fuji spring
-
-ml
+‘ Distilled 2022» Bottled 2025
+AN NSE soar cess
+«OS tee,
+Use of Mt. Fuji spring water x
+40%Vol. 700ml

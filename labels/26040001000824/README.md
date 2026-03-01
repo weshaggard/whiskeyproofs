@@ -22,114 +22,39 @@
 
 ### Label 1
 
-Fo.
+y Se ~—
+é ta, 5
+Keeping the see \ J [ AN
 
-4
-
-Oy
-
-y,
-
-Zz
-
-ty
-
-yy
-
-PY,
-
-Ait.
-
-oo 2
-
-Vie
-
-Es
-
-N
-
->To
-
-Keeping the
-
-po
-
-My
-
-oo
-
->
-
-x
-
-AF
-
-Ls
-
-TA
-
-ee}
-
-SPIRITS
-
-lone
-
-loyrras
-
-of Armenia
-
-AIN
-
-T=
+TROY, PA
 
 Mountain
 
-Noun
-
-Ox
-
-=-T
-
-(FS
-
 WILD
 
-= 0
+SPIRITS RRME .
+of Armenia | | V ‘AIN
+
+BOTTLED BY
+
+ARMENIA MOUNTAIN SPIRITS LLC,
 
 COVER CROP
 
-LG
-
-DISTILLED IN
-
-"STRAIGHT BOURBON WHISKEY’
-
-DE
+DISTILLED IN "STRAIGHT BOURBON WHISKEY’
 
 KENTUCKY
 
-xe}
+AGED 4+ YEARS 96 750 | 48%
 
-Co
+PROOF ALC by VOL
 
-De
+General, women should not drink alcoholic beverages
 
->
+during pregnancy because of the risk of birth defects.
+ability to drive a car or operate machinery, and may cause
 
-AGED 4+ YEARS
+(2) Consumption of alcoholic beverages impairs your
+health problems.
 
-(Ss Oo; P=]
-
-96
-
-50
-
-48%
-
-(0) 5s Qos
-
-PROOF
-
-ML
-
-ALC by VOL
+GOVERNMENT WARNING: (1) According to the Surgeon

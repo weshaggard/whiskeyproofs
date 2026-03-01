@@ -22,54 +22,31 @@
 
 ### Label 1
 
-ZA
+"SWI180Ud HINWSH ASO
+AVIN CNV AYANIHOWW SLVH3ad0 YO YVO V SAIC OL ALMIGY
+UNOA SUIVAINI SIOVYIAIG IMOHOTT 40 NOLLdWASNOD (2)
 
-a ae
+“SLOS43G HLYI 40 MSIY SH 40 SSNVOSE AONVNDAd ONIYNG
+SIOVYSAIS ONOHOTT ANIUG LON CINOHS NAWOM “IWYINI9
+NOJOUNS JHL OL ONIGHOIOY (1) *ONINYWM LNAWNYIA0D
 
->
+sri
 
-Pep
+<i
+= (On
 
-A/C
-
-ps{-
-
-@
-
-4
-
-AS
-
-Ss
-
-S
-
-o &
-
-—=
-
-a &
-
-=.
-
-Tame ERICAN POT ST
-
-aw re
-
-Xo
-
-DISTILLED AMERICAN
-
-=5
-
-———
+x
+Ke
+isl
+POT DistiLeD AMERICAN ©
 
 —
 
-Kaa
+I
+4 \
+Trin tERICAN Pot ST
 
-=
+Bottled by:
+Gravity Drinks
 
-¢
-
-srw?
+Bardstown, KY

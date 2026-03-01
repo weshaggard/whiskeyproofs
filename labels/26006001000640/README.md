@@ -28,86 +28,37 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Back Label
-
-Se ey
-
-— 7 a
-
-=
-
-i
-
-~ en
-
-e
-
->; BO
-
-——
-
-——_
+*2 image(s) excluded: text did not meet readability threshold*
 
 ### Front Label
 
-——————— |
-
-Introducing Anchor Point—because every mave starts
-
-SCAN FOR
-
-with an anchor, honoring the people, principles, and
-
-ANCHOR
-
-GUIDED TASTING +
-
-rane
-
-Moments that keep us grounded 28 we grow. in
-
-business and In if, your anchor point brings clarity
-
-when things get nots, alignment when paths diverge,
-
-THEDIFFERENCEBOURBON.COM
-
-and tality when pressure's on. I's the truth you
-
-POINT
-
+Introducing Anchor Plnt—-because every nave stats
+wi an anchor, honoring the peaple, principles, and
+moments that keen us grounded 2s we grow. In
+business and nie, your anchor pont brings clay
+when things get nosy, alignment when paths diverge,
+and stably when pressure’s on. Ir the truth you
+Tetum i. The relationships you rely on. The place you
 stand before your next step. This
 
-Tetum i. The relationships you rely on. The place you
-
-bottie is for those who know that
+bottie ts for these wha know that
 
 the only way ta scale something
+‘yeal1s to stay grounded in what
 
-KENTUCKY STRAIGHT
-
-(yeal..'s to stay grounded in what
-
-94
-
-BOURBON WHISKEY
-
-41%
-
-—s'
-
-maltrs most.
-
-FIVE
-
-2026
-
-750ML
-
-—=s|
-
-—=7
+imaters mos.
 
 cHRIs voss
 
-Jo |
+ANCHOR
+POINT
+
+KENTUCKY STRAIGHT
+94 BOURBON WHISKEY | 47%
+
+FIVE 2026 750ML
+
+SCAN FOR
+GUIDED TASTING +
+
+THEDIFFERENCEBOURBON.COM

@@ -42,6 +42,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*4 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 GOVERNMENT WARNING: (1) ACCORDING TO
@@ -100,42 +102,8 @@ satisfying reward for any whiskey enthusiast.
 
 0
 
-### Front Label
-
-WILD TURKEY
-
-RY
-
-EY
-
 ### Label 3
 
-y
-
-» ©
-
-RYE
-
-iO!
-
-1Ol
-
-3Ad
-
-“BS
-
-Sam
-
-### Label 4
-
-—S
-
-Sen
-
-S
-
-YY
-
-### Label 6
-
-BOLD « GENUINE e TRUE
+GRAFTED WITH CONVICTION: AGEDLONGER =——<“<‘<CS*;‘ié<‘<i<CS:;S*S*CM NM TST aos
+6 RYE !IOl Ol] AAY )
+a a a 2g

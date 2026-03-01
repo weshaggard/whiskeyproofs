@@ -34,6 +34,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*3 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 WILD TURKEY
@@ -87,15 +89,3 @@ Ee
 0
 
 00000"00000
-
-### Front Label
-
-WI LD TURKEY
-
-KENTUCKY STRAIGHT
-
-RYE WHISKEY.
-
-### Label 4
-
-RYE

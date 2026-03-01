@@ -35,51 +35,19 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
-L
-
-[
-
-ri
-
-LAAT
-
-r
-
-|
-
-CRAIG.
-
-T7539
+BARREL PROOF
 
 UNCUT, STRAIGHT FROM THE BARREL
 
-BH OU TL CHILL UL ON
+WITHOUT CHILL FILTRATION
 
-134.2) GZ.12%
+134.2! GF.12 | ANY
 
-i AIG
-
-PROOF: ALC/VOL : BATCH Ne
-
-### Label 2
-
-= ae
-
-fo 4
-
-y
-
-—_
-
-||
-
-\
-
-V/
-
-J.
+PROOF: ALC/VOL :BATCH®: |
 
 ### Label 4
 

@@ -34,35 +34,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Back Label
-
-CUI
-
-100%
-
-FP
-
-Il
-
-|
-
-oO
-
-000
-
-un
-
-oom™o
-
-### Front Label
-
-WILD TURKEY
-
-REC).
-
-KENTUCKY STRAIGHT
-
-“BOURBON WHISKEY,
+*2 image(s) excluded: text did not meet readability threshold*
 
 ### Label 2
 

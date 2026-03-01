@@ -29,6 +29,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 Bee LL
@@ -126,23 +128,3 @@ OLD FASHIONED COPPER DISTILLERY
 STRAIGHT KENTUCKY
 
 BOURBON WHISKEY
-
-### Label 2
-
-¢ ESTABLISHED 1870 «
-
-BOTTLED
-
-ay
-
-00% ALC/VOL (100 PROOF)
-
-C “ps
-
-BOTTLED| FALL 2024 |
-
-yf Ry i iF \(4
-
-PRODUCT OF KENTUCKY
-
-IN BOND

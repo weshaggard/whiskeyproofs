@@ -33,6 +33,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 booker
@@ -72,13 +74,3 @@ SGN
 Fads STRAIGHT BOURBON WHISKEY
 
 520-03 Lod DISTILLER:1960-1993
-
-### Label 3
-
-l
-
-80686'01140'
-
-### Label 4
-
-»—~

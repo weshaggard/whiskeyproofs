@@ -31,6 +31,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 COLONEL E.H.
@@ -145,74 +147,16 @@ CAUSE REAL" PROBLENS
 
 ### Label 1
 
+"a
 COLONEL E.H.
 
 TAYLOR
 
+WAREHOUSE
 TORNADO SURVIVING
 
-WAREHOUSE
-
-4ND ONY’
-
-—$
-
-1
-
-|
-
-SX
-
-|
-
-|
-
-Ee o&
-
-|
-
-|
-
-|
-
-e<
-
-|
-
-25
-
-|
-
-NR
-
-Mt
-
-N'Y
-
-mm —!
-
-|
-
-|
-
-N>-
-
-|
-
-(es
-
-|
-
-|
-
-X/
-
-Wy Oo
+BOURBON/WHISKEY
 
 BOTTLED IN BOND
 
 (50% ALC/VOL [100 PROOF] 750ML
-
-### Label 3
-
-eee

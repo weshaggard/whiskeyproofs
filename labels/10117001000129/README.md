@@ -31,6 +31,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 COLONEL E.H.
@@ -133,39 +135,13 @@ TAYLOR
 
 SINGLE BARREL
 
-4ND oN
+TAYLOR JR.
 
-SX
+‘OLD FASHIONED COPPER DISTILLERY.
 
-em Oo
+ale
 
-2
-
-aN
-
-26
-
-ex
-
-'
-
-“at
-
-© Ng
-
-Ny Ot
-
-mm —!
-
-aN
-
-N>
-
-WW Oo
-
-X/
-
-~
+E
 
 BOTTLED IN BOND
 

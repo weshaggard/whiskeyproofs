@@ -26,152 +26,53 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
-
-oe
-
-Be
-
-LW
 
 ay
 
-winter
-
-<>
-
-£931. 4
-
-i)
+| 23rd. ¢
 
 season in the
 
-ES
+Ba "Senki" a SN
 
-24 “Sekki”
+oyele of seasons Sa
+) MA
 
-Japan's distinctive
-
-‘cycle of seasons
-
-|
-
-ar
-
-THE AKKESHI Single Malt Whisky 2025
-
-55% ALC by VOL 700m
-
+| THE AKKESHI Single Malt Whisky 2025
+55% ALC by VOL 700ml
 GOVERNMENT WARNING:
-
 (1) According to the Surgeon General, women
-
 ‘should not drink alcoholic beverages during
-
 pregnaney because of the risk of birth defects.
 
-‘of alcoholic:
-
+Consumption of alcoholic beverages impairs
 your ability to drive a car operate machinery,
-
-and may cause health problems.
+| and may cause health problems.
 
 IMPORTED BY :Tokiwa Imports
-
 Sausalito, CA www.tokiwaimports.com
-
 PRODUCED BY :Akkeshi Distillery
 
 4-109-2, Miyazono, Akkeshi-cho,
-
 Akkeshi-gun, Hokkaido 088-1124 Japan
 
 CA CRV
 
-AN
+aN
 
-\ HACER
-
-4
+(HACCR
+Ye
 
 area eanm
+z01-003838
 
-WN
-
-mimeo 1003838
-
-_
-
-### Front Label
-
-UU
-
-2®
-
-}
-
-3E
-
-ml
-
-madst
-
-|
-
-|
-
-DaR
-
-73
-
-KESHI
-
-tas
-
-|
-
-| Single Malt
-
-|
-
-ee
-
-| Japanese Whisky.
-
-®
-
-fi
-
+—=
 =
+—
+—
+—=>=
 
-7 |
-
-$
-
-HOKKAIDO:
-
-AX
-
-AKKESHE
-
-DISTILLERY:
-
-by VOL 700m
-
-SO%ALC
-
-fo) Bottled
-
-‘Matured
-
-Distilled,
-
-LO 25 s
-
-Bottled
-
-“Shokan” season
-
-inJapan
-
-¢ AAA “The Cold intensities”
+734793618

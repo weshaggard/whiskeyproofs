@@ -96,18 +96,11 @@ cause health problems.
 
 ### Front Label
 
-ro
-
-ah
-
 AGED | [ years
 
 1893
 
-(lebting Om
+(rx
+bbe Cit Gack
 
-+
-
-hig Gosh
-
-BSS
+DSP-KY-20002

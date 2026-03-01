@@ -24,41 +24,11 @@
 
 ### Front Label
 
-Cy
+Con
 
-=e)
-
-a(g\
-
-WH
-
-em
-
-fs
-
-“LS —_ a
-
-—
-
-SS ar
-
-NG!
-
-ASS
-
-VEX y
-
-Se
-
-iL
-
-vA
-
-[ABEL
-
-ES
-
-SS
+BLAC ieee)
+Ee Cy Tapel.
+Sea
 
 ——.
 
@@ -66,20 +36,5 @@ SS
 
 PREMIUM TENNESSEE BOURBON WHISKEY
 
-Y NY
-
-LI
-
-px
-
-Drath ble - | ag
-
-4AT% MENOL.
-
-t,
-
-94PROOF 750ML is)
-
-an
-
-a,
+mG
+r 94 PROOF 750ML is)

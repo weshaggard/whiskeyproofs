@@ -28,125 +28,37 @@
 
 ### Label 1
 
-Kee y
+W “SWATGON HLTVGH 3SNV9 AVW CNY AXSNIKDWW SIVYR40 -— WrOo"NomsrMuTuTexTEp “
+YO UD V IAUO OL ALTIGV UNDA SdIvalNl S3OVUIAIE IMOHODTV
 
-Se5
+40 WOUAWNSNOD (2) "S1o3430-HIG 40 NStd 3AL 40 aSn\038 VSN S3SSHNNAL TTIAHSYN Ee
 
-=
+JONYNS dd ONIANC SIVUVTE SOHO WNYC LON CTNCHS NAWOM NOWNAWWY AB CHILOG $=
 
-oa
-
-Bes
-
-ie
-
-e2 =>
-
-oe Slu
-
-Saf.
-
-ae
-
-y
-
-SS
-
-Basses
-
-m2
-
-SON
-
-se
-
-PICHEST ©
-
-oa
-
-eS
-
-ae
-
-es
-
-Se!
-
-ao
-
-Sesorss
-
-Sass
-
-—Ss
-
-Sa S=
-
-a=
-
-=e=
-
-Bay
-
-2S a
-
-=2
-
-BSersez
-
-Ss
-
-eauc=2
-
-ea
-
-ess
-
-AMMUNITION
-
-Boo
-
-|
-
-eee
-
-2 2 aoe
-
-S25
-
-ss
-
-o>
-
-zs
-
-KENTUCKY STRAIGHT
-
-RYE WHISKEY
-
-Sa=S
-
-aS
-
-seu
-
-Sa2R
-
-i
-
-ees i @ ined
-
-Sur
-
-e=
-
-Zsa
-
-a=
+“TWHHN9:NOOUNS 3HL OL ONIOYODDV (1) -ONINAVM LNGWNY3K09 MONEY NOY ON TUSK. SS
 
 Alc 45% by vol | 90 Proof | 750mL,
 
-CA CRV
+:
+0
+Ae
+a
+ce
+» bi
+=
+:
+
+Zz
+<
+EJ
+am
+<
+=
+*
+
+hjinuabuy uvs1sauy 2 YlOM PAVE] yum
+paysiuty 2 paby “pappisid
+VOINAWY /o LIYIdS ANUL AML S
 
 ### Label 2
 

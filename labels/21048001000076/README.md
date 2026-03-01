@@ -39,46 +39,10 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Back Label
-
-_——S)
-
-——— 2)
-
-——
-
-—————
+*4 image(s) excluded: text did not meet readability threshold*
 
 ### Front Label
 
-S
-
-H
-
-"Bithdiy S Daouton
-
-### Label 3
-
-&
-
-eee
-
-ESTp
-
-ESTD
-
-1870
-
-1870
-
-### Label 4
-
-ye RY 80,
-
-AGED
-
-12:
-
-@, YEARS =
-
-“€p Bow”
+FORESTER
+Lidhday Bowbon
+OLD FORESTER DISTILLING GO. AT LOUISVILLEIN KY 750mL 52% ALC/VOL (104 PROOF)

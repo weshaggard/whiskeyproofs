@@ -34,6 +34,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*3 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 FROM GRAIN TO BARREL AND STRAIGHT
@@ -69,9 +71,3 @@ RESPONSIBILITY. org
 |
 
 82184°00210'
-
-### Label 5
-
-Le BA p
-
-J745°

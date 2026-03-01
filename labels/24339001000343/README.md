@@ -74,24 +74,15 @@ IAREE S¢ MEAT 15¢ 7 5OML
 
 ### Front Label
 
-as |
+ET
 
 COLONEL €E.H.
 
-1
+TAYLOR
+Oe |
 
-TAYLOR,
+KENTUCKY STRAIGHT BOURBON WHISKEY
 
-plemusge sounc,
+Bor ALCwol. — BOTTLED IN BOND —_'00 Peooy
 
-|
-
-|
-
-KENTUCKY hee BOURBON WHISKEY |
-
-boxe .ovou = BOTTLED IN-BOND — 10
-
-| ee!
-
-100 | PROOF |
+Le

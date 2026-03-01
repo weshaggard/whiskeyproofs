@@ -39,33 +39,16 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Label 1
-
-63.35% | pce
-
-(ia oh eta
-
-|
-
-2017
-
-“MASTER DISTILLER: 1960-1992
+*3 image(s) excluded: text did not meet readability threshold*
 
 ### Label 2
 
-63.35%
-
-(126.7 Proof)
-
-we
-
-1Day
-
-Barcw NE
-
-KENTUCKY STRAIGHT BOURBON WHISKEY
-
-2017-07 het Zr<—.
+5 i 63.35% | pace
+ee | _ __ ayes ono
+= Cughey (126.7 Proot)' 4 pay
+2 KENTUCKY STRAIGHT BOURBON WHISKEY
+2 Boob. Hoe
+2017-07 MASTER DISTILLER:1960-1992
 
 ### Label 3
 
@@ -90,13 +73,3 @@ s<¢e
 barrel tured.
 
 cened jlo .
-
-### Label 4
-
-l
-
-80686'01140'
-
-### Label 5
-
-»—~

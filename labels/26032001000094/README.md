@@ -30,58 +30,28 @@
 
 RYE WHISKEY
 
-Distilled in Indiana, bottled by
-
-NA
-
-NI
-
-Abstraction Spirits, LLC
-
+WO Distilled in Indiana, bottled by
+Ny Abstraction Spirits, LLC
 Paducah, Kentucky
-
 Mash Bill
 
-CORN
-
-0%
-
-TRACTION
-
-|
-
-4A
-
-'S
-
-PIRITS
-
-60012" 97959
+space il
 
 Batch #1 - 2025
 
 GOVERNMENT WARNING: (1) According to the Surgeon General, women should not drink
-
 alcoholic beverages during pregnancy because of the risk of birth defects. (2)
-
 Consumption of alcoholic beverages impairs your ability to drive a car or operate
-
 machinery, and may cause health problems.
 
 ### Front Label
 
-TRACTION
-
-ABS
+ABGIRACTION
 
 PIRITS
 
-“Se.
-
-“\
-
-—
-
-MEMORYE OF TE
+MEMORYE OF FIRE
 
 RYE WHISKEY, 750ML
+
+% ALC./VOL. PROOF AGED

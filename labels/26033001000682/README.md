@@ -26,90 +26,38 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
-VINYOATIVO
-
-ok
-
-SHTHUNV SO'l
-
-os
-
-ITAXXWW
-
-Oo N I N N V W
-
-YM oOo |. W
-
-K 6
-
-4 Yu on L ad V
-
-‘syseo Yeo [[y-puosas ut pasy *[[ys yod 1addoo uojjes-oog e Sutsn ‘etusosTeN
-
-"euy eyUeg UT Jaysey qoy Aq 3506 ‘raquiajdag paj[ystp pue pazyuUswisay
-
+VINYOATIVO « SHTHONV SOT x IAXXWI
+9 NINN V W 101 NW Ka 1 Y OM LUV
+‘syseo Yeo [[y-puosas ut pasy *{jys 30d szoddoo uojjes-oo¢ ev Sutsn *eruIOsITeD
+"euy eyUeg UT Jaysey qoy Aq 3503 ‘raquiajdag pay[ustp pue poyuswIay
 ‘paforg uterg Ideyoeyay, Aq powurey adr AInjuad> pue uO. WOOTITOP]
 
-=>
+H M
+IdVHOVHGL
 
-a=
+I
 
-oo
+S
 
-be
+[PA AQ “ITV %GG
+AAY % NYWOODO
 
-AZO
+V WON
+NYdaadow
 
-py PS
+LNAHIONV
 
-HO
-
-wie
-
-Og
-
-ah tg
-
-pry (71
-
-A
-
-is
-
-He
-
-ZP
-
-ns ine tik
-
-Ze
-
-wre “t
-
-HZ
-
-[7
+‘TU OGL
+A a@ WF
 
 GOVERNMENT WARNING: (1) According to the Surgeon General, women
-
 should not drink alcoholic beverages during pregnancy because of the risk of birth
-
 defects. (2) Consumption of alcoholic beverages impairs your ability to drive
-
 a car or operate machinery, and may cause health problems.
 
-DIS TILL E D
-
-FROM
-
-G RAIN
-
-Bottled by Spirits Daddy Redwood Valley, GCA
-
-### Label 2
-
-wH
-
-25907"S0503
+DIS T ILLE D FROM GRATIN
+Bottled by Spirits Daddy Redwood Valley, GA

@@ -28,6 +28,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 AGED IN
@@ -90,122 +92,26 @@ sll
 
 ### Front Label
 
-es
+‘SADDLER
 
-Le
-
-A
-
-oA
-
-[7
-
-=)
-
--
-
-Z
-
-(
-
-—
-
-SS
-
-SADDLER
-
-KENTUC
-
-(EEE
+KENTUC) (EEE
 
 BOURBON
+wh @
 
-WH._
-
-_
-
-VERY LE! 2
-
-ELEA* |
+VERY LE! 2 SELEAS
 
 LIMITED RELEASE
 
-BOTTLE NO.
-
-BARREL NO.
-
-ALC/VO
-
-50.0%
-
-1/100
-
-DISTILLATION DATE
-
-2/4/2022
-
-PROOF
-
-100.0
+BOTTLE NO. BARREL NO. mee 0%
+. (0)
+1/100 2/4/2022 700.0
+DISTILLATION DATE PROOF
 
 sevecteo BY CUSTOMER NAME HERE
 
 NON-CHILL FILTERED
 
-CASK ©
-
-ING TE!
+CASK © ING TE!
 
 750mL
-
-### Label 3
-
-~/)
-
-a
-
-asyinid
-
-9202
-
-4
-
-UUTBLELY
-
-]
-
-1913) a
-
-SM
-
-RA
-
-SAD
-
-D
-
-1
-
-q
-
-RARE
-
-EST
-
-YER
-
-it}
-
-Ys
-
-|
-
-RELLASE
-
-2026
-
-S|
-
-NK
-
-Zi

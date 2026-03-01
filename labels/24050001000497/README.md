@@ -35,27 +35,15 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 LIMITED BOTTLE Ne CHBH8-0001
-
-A
-
-(¥)
-
-Al
-
-O0000"00000
-
-UU AE
-
-Il
-
-### Front Label
-
-80
-
-40
+UNUM
+80% FPO
+MUTT
+0 *"O0000"00000"" o
 
 ### Label 1
 
@@ -81,16 +69,6 @@ CQ waisney =
 
 ### Label 4
 
-ih
+1 1 1-1-2024 Oh:
 
-1
-
-1-1-2024 UN: Sp
-
-BARREL N°
-
-BARREL ENTRY
-
-BOTTLING DATE
-
-MASTER DISTILLER
+BARREL N° BARREL ENTRY BOTTLING DATE MASTER DISTILLER

@@ -26,133 +26,35 @@
 
 ### Label 1
 
-<€D EDIT),
-
-Maker's
-
-At Maker’, M:
-
-202
-
-6
-
-, hand.
-
-Otate every
-
-very lab
-
-P every bo
-
-SEAS
-
-ON
-
-Gust like
-
-e, hand-cut
-
-Meticuloy 1
-
-48e our whi
-
-Ss ne) and
-
-emorative b
-
-ottle
-
-e
-
-untless ho
-
-Sky to taste
-
-This comm
-
-ership an
-
-Sw) Mark:
-
-0 detaj]
-
-celebrates ©
-
-ur
-
-P
-
-KENTUCKY STRAIGHT BOURBON WHISKY
-
-1S What it
-
-Wave
-
-attention
-
-full of cheers-
-
-€s to be the
-
-'S Passion Thi
-
-a season
-
-best,
-
-9 &
-
-me LE DDL DIE INI TIE INE NTE NNN SAIN IB BIE
-
-"CIOS OS a
-
-RTNER
-
-Recognizing the
-
-OOS DOS
-
-ooo oD PA
-
-Cation a
-
-4nd the
-
-°“Ommitment hat 7
-
-EW
-
-nd the
-
-of the
-
-We
-
-Comm ni
-
-this team
-
-re brin:
-
-y e€marka b] e
-
-Proud Pp
-
-'§ Our b
-
-TS to th
-
-Season, as
-
-ergi™
-
-SRANDSon OF BILL & MARGIE
-
+9 At Maker’, Mark, we hand-rotate every
+[ barrel, hand-dip every bottle, hand-cut
+every labe] (Gust like this ne) ang
+meticulously 4ge our Whisky to taste,
+Countless hours of hard Work, attention
+ED EDIT), "y ® to detail ang meWavering passion This
+ws 26 Srv) iswhat it takes to he the best,
+N
+v 20 HISKY
+NW
+SEASON ; Fo cnr eunse RE)...
+sve bottle UCK 90 @
+emorative He and KENT DIDODODIDOIADA Recognizing the dedication and the
+4s comm artners: DDODODOO °“Ommitment that Makes thi, team
+Thi our Pp neers. 9DOe :
+Jebrates full of ¢! VOODOO and the Sommunity remarkable,
+& aseason 909099 ™ ron egret ger See
+ak id ER Proud Partners to the, 4 Dodgers,
+?
+?? N
+5) p) ? ? UD PART SRANDSon OF BILL & MARGIE
+?
+,@ @ PRO of the
+OL.
+% ALC./V
+Ip 750 mL * 45% 7
 ™
-
-750 mL ° 45% ALC./VOL.
-
-{10-AZNO1E2
+162
+110-AZNO
 
 ### Label 2
 

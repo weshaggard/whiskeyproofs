@@ -26,135 +26,28 @@
 
 ### Label 1
 
-Neca hows will my headalone
-
-HERITAGE SINCE
-
-1847
-
-STEP BACK:
-
-MEVTREF 15¢ A REFS¢ CA CRV
-
-{nto the Roaring 1920's with
-
-pIsTILLel
-
-D AT THE ROSS & SQUIBB DISTILLERY
-
-Remus 100% Malted Rye
-
-GOVERNMENT WARNING:
-
-()
-
-ead? A sappose tt wil be
-
-ACCORDING TO THE SURGEON
-
-KING OF THE
-
-Whiskey, an award-winning
-
-Reos8
-
-tt
-
-cen
-
-GENERAL, WOMEN SHOULD NOT
-
-whiskey inspired by George
-
-DRINK ALCOHOLIC BEVERAGES
-
-BOOTLEGGERS
-
-Remus, “King of the
-
-HERITAGE SINCE 1847
-
-DURING PREGNANCY BECAUSE OF
-
-REMUS
-
-Bootleggers”. Known for his
-
-THE RISK OF BIRTH DEFECTS. (2)
-
-George Remus, circa 1920
-
-CONSUMPTION OF ALCOHOLIC
-
-lavish parties, opulent lifestyle,
-
-{} sore ay wea. we, st.ous, wo [>
-
-100% MALTED RYE WHISKEY
-
-and cunning legal mind, Remus
-
-DISTILLED 1N INDIANA
-
-BEVERAGES IMPAIRS YOUR ABILITY
-
-‘Master Distiller lan Stirsman
-
-DISTILLER’S VAULT
-
-turned Prohibition into his own
-
-TO DRIVE A CAR OR OPERATE
-
-Selected b
-
-personal goldmine. We
-
-LOK)
-
-MACHINERY, AND MAY CAUSE
-
-meticulously blends tradition with
-
-Ne
-
-%
-
-ps
-
-HEALTH PROBLEMS.
-
-innovation to create a whiskey that
-
-continue to honor that legacy
-
-‘1
-
-ie
-
-Ohio Liquor
-
-today by raising the bar
-
-Xo
-
-Be Legendary. Sip Responsibly.
-
-pushes the boundaries of flavor,
-
-Oy
-
-with each new release.
-
-Get)
-
-‘aroma, and timeless elegance.
-
-TOOML
-
-ane
-
-AGED YEARS
+_— .  —
+
+HMw will my headitine HERITAGE SINCE 1847 —sTEP bck —— —
+evra ew nerse CA CRV J “5 Wan Lie; [s/ pigtituED ATTHE ROSS & SQUIB DISTiLLemy 4] Im the Roaring 20th Soe
+GOVERNMENT WARNING: (1) } a ea Rese BSgquib
+ACCORDING TO THE SURGEON KING OF THE iste, an award-winning misTHTCERY
+GENERAL WOMEN SHOULD NOT ( whiskey inspired by George JJ _'SUWT™T*_
+DRINK ALCOHOLIC BeveRaces || BOOTLEGGERS Remus, “King of the HERITAGE SINCE 1847
+
+d DURING PREGNANCY BECAUSE OF Ce pe 4 Bootleggers”. Known for his | era
+THE RISK OF BIRTH DEFECTS. (2) joorge Hemme, circe. jonny MAITEN DYE WHICKEY lavish parties, opulent lifestyle,
+CONSUMPTION OF ALcoHOLiC ff 100% MALTED RYE WHISKEY aadcufming egatindencrees POT Lee wc. sc Anu, HO
+BEVERAGES IMPAIRS YOUR ABILITY OO . :.
+PE DHHE Meenieaiteod ‘Master Distiller lan Stirsman DISTILLER’S VAULT ‘turned Prohibition into his own _—
+MACHINERY, AND MAY CAUSE |} meticulously blends tradition with Selected b - personal goldmine. We ereeio}
+: ; ch continue to honor tha legacy Raz
+
+HEALTH PROBLEMS innovation to create a whiskey that "2 Ohio Liquor Xk Lettre Bare
+paar ushes the boundaries of flavor, today by raising the bar Oras
+Be Legendary sip Responsibly. |] P : ra with each new release 925
+
+‘aroma, and timeless elegance. AGED YEARS. esa ten ane
 
 ### Label 2
 

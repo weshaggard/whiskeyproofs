@@ -35,6 +35,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*3 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 eae:
@@ -126,115 +128,3 @@ YOUR ABILITY TO DRIVE A CAR OR OPERATE MA-
 CHINERY, AND MAY CAUSE HEALTH PROBLEMS. 0
 
 88004°02144
-
-### Front Label
-
--
-
-a ty
-
-a
-
-i
-
-Ss
-
-Rare
-
-CF
-
-| KENTUCKY STRAIGHT
-
-BOURBON WHISKEY
-
-### Label 2
-
-4
-
-e ESTABLISHED 1857 ¢
-
-50.5% ALC/VOL (101 PROOF)
-
-a
-
-A |
-
-BOTTLED
-
-FALL 2
-
-7)
-
-17
-
-PRODUCT OF KENTUCKY
-
-ARS OL
-
-### Label 4
-
-how
-
-Co (
-
-—————
-
-Ces
-
-ial
-
-Wh
-
-a
-
-GSE
-
-© ¢
-
-Lo eEC
-
-Ee
-
-‘ont
-
-Fs
-
-Ux
-
-Pi eX
-
-ootica ea!
-
-ene
-
-66 Fe
-
-&
-
-Ce
-
-4
-
-Z
-
-¢
-
-yv
-
-“
-
-Bint t
-
-rn,
-
-very
-
-ul iy
-
-—_
-
-ae
-
->)
-
-\<K<

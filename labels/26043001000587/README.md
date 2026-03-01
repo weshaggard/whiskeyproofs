@@ -26,84 +26,34 @@
 
 ### Label 1
 
-Koopers Barrel Reserve Bourbon is a
+Koopers Barrel Reserve Bourbon is a GOVERNMENT WARNING: (1) ACCORDING 10
+remarkable four grain blend of unique THE SURGEON GENERAL, WOMEN SHOULD
 
-GOVERNMENT WARNING: (1} ACCORDING T0
-
-THE SURGEON GENERAL, WOMEN SHOULD
-
-remarkable four grain blend of unique
-
-Straight Bourbon Whiskeys,
-
-NOT DRINK ALCOHOLIC BEVERAGES DURING
-
+Straight Bourbon Whiskeys, NOT DRINK ALCOHOLIC BEVERAGES DURING
 PREGNANCY BECAUSE OF THE RISK OF BIRTH
 
-thoughtfully matured, carefully
+Prenat oy DEFECTS. (2) CONSUMPTION OF ALCOHOLIC
 
-DEFECTS. (2) CONSUMPTION OF ALCOHOLIC
+mame dsp cmallibatches: anc bore dae BEVERAGES IMPAIRS YOUR ABILITY 0 DRIVE
+barrel strength in Ledbetter, Texas. A CAR OR OPERATE MACHINERY. AND MAY
+Y CAUSE HEALTH PROBLEMS.
+Seg Le fooge CASK STRENGTH BLEND OF
 
-married in small batches, and bottled at
-
-BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE
-
-barrel strength in Ledbetter, Texas.
-
-A CAR OR OPERATE MACHINERY, AND MAY
-
-CAUSE HEALTH PROBLEMS.
-
-BEE
-
-CASK STRENGTH BLEND OF
-
-MASTER BLENDER
-
-STRAIGHT BOURBON WHISKEYS
+MASTER BLENDER STRAIGHT BOURBON WHISKEYS
 
 AGED, BLENDED AND BOTTLED BY
-
 KOOPER FAMILY WHISKEY CO.
-
-|
-
-|
-
-l
-
 LEDBETTER, TX. DSP-TX-20041
-
-Ml
-
-64903
-
-0019
-
-8
 
 »
 
-58 % ALC. BY VOL.
-
-116 PROOF
-
-750 ML
+58 % ALC. BY VOL. 116 PROOF 750 ML
 
 ### Label 2
 
-ye
+ca a cee
 
-Ne,
+a pA a iam
 
-t ey”
-
-Ml
-
-wy
-
-PRODUCT OF TEXAS
-
-PRODUCT OF TEXAS
-
-PRODUCT OF TEXAS
+i i Me Za
+PRODUCT OF TEXAS PRODUCT OF TEXAS PRODUCT OF TEXAS

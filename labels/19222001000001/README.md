@@ -30,9 +30,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Back Label
-
-Plantons
+*1 image(s) excluded: text did not meet readability threshold*
 
 ### Front Label
 

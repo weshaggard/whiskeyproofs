@@ -30,6 +30,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 TERF]
@@ -129,15 +131,3 @@ BOURBON WHISKEY
 TOASTED DOUBLE OAK BARREL
 
 BARREL STRENGTH
-
-### Label 2
-
-H
-
-DISTILLER’S
-
-PIONEER’S
-
-SPIRIT
-
-HE MORBON

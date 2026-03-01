@@ -22,18 +22,51 @@
 
 ### Label 1
 
-=
+“SWI1d0¥d HIIWSH ASNVO
+AVN CNY AYANIHOWW JiVd4d0 YO YVO V JAINC OL ALNay
+UYNOA SUIVdINI SINVYIAIG INOHOIW 4O NOLLAWASNOD (2)
+"S104450 HLUIG 40 YSIY FHL 40 SSNVIIG AINYNOFYd ONIN
+S3OVUIAIS OMOHOITV MNIUG LON CINOHS N3WOM “TWH3N39
+NOJOYNS JHL OL ONIGHOIOV (1) “SNINYWM LNAIWNYSA09
 
-KINGS COUNTY DISTILLERY
+fo |
 
-peated bourbon
+&
 
-bourbon whiskey
+rs
+a
+faa ~
+sg
+a a
+AB Oo
+wn >
+H
+=) DN
+> Q
+2389
+(@) ()
+a ae
+ide}
+S O
+a is
+SG =
 
-45% alcohol by volume, 50m1l
+ae
+ome.
+QU
+Med
+os
+a
+CTO
+®@ Q
+yuyu
+od
+ae)
+QA,
 
-2
+Bottled by:
 
-Bz
+Gravity Drinks
+Bardstown, KY
 
-Cs
+Distilled in Brooklyn, NY

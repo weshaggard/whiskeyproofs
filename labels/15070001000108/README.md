@@ -39,23 +39,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Back Label
-
-IMT
-
-il
-
-ii]
-
-|
-
-00000
-
-|
-
-00000
-
-|
+*2 image(s) excluded: text did not meet readability threshold*
 
 ### Label 1
 
@@ -112,11 +96,3 @@ Borri No:
 WHITE CORN
 
 Or: — _
-
-### Label 5
-
-Bey
-
-WY
-
-USE)

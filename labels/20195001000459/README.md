@@ -32,13 +32,12 @@
 TRIFECTA
 
 AMERICAN
-
 SINGLE MALT
 
-AGED ATLEAST 4 YEARS
+WHISKEY
+AGED AT LEAST 4 YEARS
 
 DISTILLED AND BOTTLED BY
-
 LAKE COUNTRY LIBARE DISTILLING, LLC
 
 WACONIA, MN
@@ -46,67 +45,35 @@ WACONIA, MN
 DISTILLED FROM GRAIN
 
 GOVERNMENT WARNING: {|} ACCORDING TO
-
 THE SURGEON GENERAL, WOMEN SHOULD
-
 NOT DRINK ALCOHOLIC BEVERAGES DURING
-
 PREGNANCY BECAUSE OF THE RISK OF BIRTH
-
 DEFECTS. (2) CONSUMPTION OF ALCOHOLIC
-
 BEVERAGES IMPAIRS YOUR ABILITY TO
-
 DRIVE A CAR OR OPERATE MACHINERY. AND
-
 MAY CAUSE HEALTH PROBLEMS.
 
-8
-
-56004°00560
-
-8
+8 °"56004'00560
 
 ### Front Label
 
-_ we
-
-MINN
-
-USA
-
-——
-
-—
+MINN USA
 
 TRIFECTA
 
 AMERICAN
-
 SINGLE MALT
 
 WHISKEY
-
 SPIRITS OF DISCOVERY
 
 With three different malts aged in oak barrels from three family-owned cooperages
-
 in Minnesota, Trifecta is a truly distinctive American Single Malt Whiskey.
-
 Incredibly smooth and sweet, Trifecta offers flavors of dried orange peel and spice,
-
 honey, and dark fruits with a hint of vanilla and dark chocolate.
 
 Private Reserve
 
-59:2
-
-% ALCOHOL BY VOLUME (
-
-118.4
-
-PROOF)
+59:2 % ALCOHOL BY VOLUME (__118.4 _ PROOF)
 
 750ML
-
-> —@

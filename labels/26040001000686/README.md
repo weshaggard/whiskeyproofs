@@ -22,194 +22,80 @@
 
 ### Label 1
 
-BROTH
-
-NG beeen TRULY N
-
-EXPERIMENT IN
-
-AGING
-
-B
-
-BON WHISKEY
-
-—————
-
 Kestrve
 
+AGE |Blend of 3yr and 4yr
+MASH |]e9c-12w-8R-11MB
+
+GOVERNMENT WARNING:
+() According to the Surgeon
+General, women should not
+drink alcoholic beverages
+during pregnancy because
+of the risk of birth defects
+(2) Consumption of alcoholic
+beverages impairs your ability
+to drive a car or operate
+machinery, and may cause
+health problems.
+
+67531 00726
+
+WRIGHT =
+
+CSCTVE
+
+OAL MINE AGED
+
+SMALL BATCH FOUR GRAIN BOURBON
+
+TOLUME
+
+104-5 | 52.25 | 150m
+
+——=————
+
+KENTUCKY STRAIGHT BOURBON WHISKEY
+BOTTLED BY BROTHERS WRIGHT DISTILLING CO. AFLEX,KY
+=O
+
+A TRULY N EXPERIMENT IN
+AGING Bt tBON WHISKEY
+= ————__
+
 Pike Co. KY, 1913 - The Leckie
-
-Collieries Mine No.1
-
-opened,
-
+Collieries Mine No.1 opened,
 supplying energy to our country
-
 during its greatest period of
-
-growth.
-
-It now has a new life
-
-WHIGRT
-
+growth. It now has a new life
 housing barrels of Americas
-
-2\GHT
-
 greatest spirit, Kentucky Bourbon
 
 Whiskey.
 
-SN
-
-SCHVE
-
 Challenging the traditional whis-
-
 key aging environment, our faci-
-
 lities underground are designed
-
-OAL MINE AGED
-
 to leverage control of temperat-
-
-|
-
-SMALL BATCH FOUR GRAIN BOURBON
-
 ure & pressure - two important
-
-Hi
-
 factors in the bourbon aging pro-
-
-Xt
-
-cess. As our rickhouse expands
-
-*
-
+cess. As our rickhouse expands,
 our expressions will continue to
 
 evolve through age & experime-
-
-vi
-
-LS
-
-_—
 
 ntation, innovating what it means
 
 to be bourbon.
 
-GOVERNMENT WARNING:
-
-U
-
-() According to the Surgeon
-
-h)
-
-fe
-
 Our Reserve blend pays homage
-
-General, women should not
-
-2y
-
 to the intricacy and beauty of a
-
-drink alcoholic beverages
-
-a
-
-7)
-
 four grain mash bill. Through the
-
-during pregnancy because
-
-of the risk of birth defects
-
 art of blending, we have created
-
-‘
-
 an ever evolving series that conti-
-
-(2) Consumption of alcoholic
-
-J
-
-\
-
 nually explores the flavors achie-
-
-beverages impairs your ability
-
 vable from the four staple grains
-
-to drive a car or operate
-
-he
-
-tat
-
-of bourbon - corn, wheat.
-
-rye
-
-machinery, and may cause
-
-a
-
-av
-
-Al
-
+of bourbon - corn, wheat, rye
 & barley.
 
-health problems.
-
-site
-
-.
-
-=n Cae
-
-Re
-
-oO
-
-%
-
-a
-
-PROOF
-
-ALC/VOL
-
-VOLUME
-
-hI
-
-1045 | S225 | 150m
-
-Ly
-
-67531
-
-00726
-
 SCAN FOR MORE
-
-KENTUCKY STRAIGHT BOURBON
-
-BOTTLED BY BROTHERS WRIGHT DISTILLING CO. AFLEX,KY
-
-——=————

@@ -26,83 +26,36 @@
 
 ### Back Label
 
-i
-
-LT MT NE
-
+SS ae ———
+—=
+: “LS
+ES SERENE
 PRODUCT DISCLOSURE
-
-a a
-
-DISTILLED IN
-
-Kentucky
-
-GASK #
-
-1925
-
-MASH BILL:
-
-BO 7 Cor
-
-26% RYE
-
-47:
-
-Malted Be
-
-a bee,
-
-GASK FILLED: Afoyv 26 5 2O\0
-
-FINISHING BARREL: ———
-
-BATCH SIZE:
-
-4. Barre
-
-BOTTLED BY: WortlA Why slice Socte
-
-is
-
-BOTTLING DATE:
-
-2.
-
-2026
-
-BOTTLE PROOF:
-
-PROOF
-
-JOP
-
-BOTTLE VOLUNE: 2S°O ter/
-
-oo 6
-
-~
-
-—
-
-—_—
-
-[aur 22
-
-—
-
+i ES A 7
+W777
+DISTILLED IN : Kentucky
+CASK # LQA2S
+MASH BILL: @O 7% Cor
+26 7. RYE
+¥ 7. Malted Barly
+GASK FILLED: Afoyv 26 2O\0
+FINISHING BARREL: ——————
+BATCH SIZE: 41 Borne
+mea see EI ANE NEA,
+BOTTLED BY: worlaA Ver sleg Soczte
+BOTTLING DATE: cx 2026
+a el / Yf2O26 __
+BOTTLE PROOF: PROOF /OFP
+eee sar: co
+BOTTLE VOLUME: 2S°O cer/
+ooo 5
+= =
 GOVERNMENT WARNING: (1) According to the Surgeon General,
-
 women should not drink alcoholic beverages during pregnancy
-
 because of the risk of birth defects. (2) Consumption of alcoholic
-
 beverages impairs your ability to drive a car or operate machinery,
-
 and may cause health problems.
-
-ee SS PES FE
+ee a SS PES FE
 
 ### Front Label
 
@@ -112,44 +65,7 @@ WHISK¢Y
 
 RESEARCH LABORATORY
 
-"2,
-
-Se,
-
-)
-
-i
-
-q
-
-\S
-
-OL
-
-1
-
-cA \
-
-<5
-
-Oe. \;
-
-\/
-
-/N
-
-Y
-
-4
-
-a
-
-\/
-
-=/
-
-= AGED © YEARS oY, aceivol =
-
+= AGED 6 YEARS Oy, ALCIVOL E=
 AUTHENTICITY - HONESTY - INNOVATION - TRANSPARENCY
 
 STRAIGHT BOURBON WHISKEY

@@ -26,36 +26,14 @@
 
 ### Label 1
 
-— =
-
-Sy 3
-
-NY
-
-/
-
-(ya
-
-AL;
-
-RAS
-
-=\\
-
-WF £2
-
-Fi oe
-
-C=
-
-IY
-
 \
 
 TRYE HARVES
 
-RYE
+\ BOURBON COMPANY Y/
+We EST. 2024 AZ
 
+RYE
 WHISKEY
 
 ### Label 2

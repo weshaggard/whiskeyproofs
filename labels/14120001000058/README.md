@@ -141,57 +141,11 @@ TAYLOR
 
 CURED OAK
 
-4ND on
+TAYLOR JR.
 
-iN
+ERS ¥ Ee Ga SABE LoS: END Ee GEES Wr ABE: COE COLES VE , ERS
 
-OY -
-
-6
-
-& <
-
-aN
-
-|
-
-a
-
-y
-
-iil
-
-9°
-
-i
-
-tf
-
-i;
-
-Le
-
-S NY
-
-NG
-
-PS
-
-els
-
-oN
-
-3
-
-(wy
-
-Cz
-
-\ /
-
-- »
-
-I.
+Fels
 
 BOTTLED IN BOND
 
@@ -199,112 +153,9 @@ BOTTLED IN BOND
 
 ### Label 3
 
-=
-
-Y
-
-i
-
-ray
-
-Gaye
-
-RI
-
-ie]
-
-i
-
-EEE ND
-
-(nove
-
-WAL
-
-a
-
-&@
-
-sb
-
-a
-
-5
-
-gbdaaadasbene!
-
-5
-
-ebdaaadaahaad
-
-i
-
-Te TSATR CET
-
-5
-
-<i
-
-<5
-
-advdadededadrdndndededndadecrdededrdscudndedvdadedednardadedudedrdecudndndrendesnsndvande.
-
-desieauiatecacacecveds
-
-dushaban asnsusnsaosuceanducnavencasyensucuaueneaniuceryeacad
-
-ederdodeered
-
-ot)
-
-ederdderdned.
-
-chicos
-
-><:
-
-LuSosodesndbsadhdetedysysodndedhdrsydy ded ses dedaden sydd doedndddadedecedysrsesadadndr.
-
-es
-
-aeabAicuss deca cnegaese seuss ducaeas cgesauAA duds abcecueuee tur auaa cuca auch ees aeandy
-
-ee)
-
-Crowd
-
-s
-
-sodededds
-
-sadeeedds
-
-eodncusnen codec,
-
-deeasacesncednae sede,
-
-Sieh
-
-Ss
-
-aR cece snercraase dees,
-
-ay
-
-roan =
-
-rash
-
-ie
-
-on Me eC
-
-K
-
-Ba Pit bathe
-
-ICO ES hs NE
-
-ee
-
-BS
+Ga TUCO See A Se aT a ae eS SIT (Cy NSU UN 2 ea UT SESS ESB) A ST a <4
+ats Eb adbdddadsdddndodedhdadosrdrdodddededesrdndndedrdndd cedndrdosudrandodd sadnandnsrdrdedod " Po dudbdedosudbdacesodudosadosnsoca cece duaodacosysecadesecuaodudosudgucesocudodudgsudgeud’ Qi be
+fem)lo chaser cecadhcnas cca chasenencadhauabcucads coasauen caches anencndaceanenebcadnaeanatended Y  Wecbes dacs cack cnc du cbes cuca cnchcnes deck decncu ancy doasduatcncbcs cuencnabducbescbencncycndtogel(asyy
+Bopp rsicosusucndacednescuseaysussducn cose dysyd cosh cedndecocscyduancnadydncscuemeseayducnced| — Be pesbesdhcbsn deca dhandhescbabsysndndnsndesndysn sh dycndosnseeochensndbandndnduescusbsychdnd Ghee)
+ee DE EdEdSrASrdyErsoayEddsrGrerdoeasosyEdcdcnddsedyersosyErcasuardednerseerercrsnGrdy f Ldbde chad doch sucodddocucherddchsncrdrddsecday coed cocodndncucbagencdovcocdddcuchercnedoseos him ={
+ma SATII SS Re ES SER SA PCL TTT AU 7 AIM; NES aU) SUT WSs SUT HWS NN SI ITT Bes

@@ -35,6 +35,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 Bu Boubon
@@ -71,145 +73,21 @@ DRIVE A CAR OR OPERATE MACHINERY, AND MAY
 
 RESPONSIBILITY. org
 
-### Front Label
-
-S
-
-SJ
-
-Barrelled
-
-N
-
-Ltd. Bottling
-
-2010
-
-N
-
-Is
-
-S
-
-S
-
-2020
-
-<<<
-
-S
-
-NO SO
-
-IQ
-
-~S
-
-SN
-
-S
-
-WSS
-
-SS
-
-N
-
-SS
-
-WSS
-
-SS
-
-SS
-
-SSITw
-
-WS
-
-Ss
-
-RS
-
-N
-
-S
-
-SS
-
-N
-
-N
-
-S
-
-N
-
-SSS
-
-SS
-
-SJ
-
-SSS
-
-SS
-
-N
-
-\
-
-S
-
-S
-
-S
-
-iS
-
-N
-
-E\¥
-
-I<
-
-S\N
-
-SSS
-
-SSN
-
-pc
-
-SVK
-
-SN
-
-SSS
-
-SS
-
-KENTUCKY STRAIGHT BOURBON WHISKY
-
-LDidhiday Loudbon
-
-OLD FORESTER DISTILLING CO. AT LOUISVILLE IN KY 750mL 49% ALC/VOL (98 PROOF)
-
 ### Label 3
 
 ohY Boy,
+AGED
 
-cm
+10
 
-@ AGED
+YEARS
+Vv
+"ep pot
 
-- 10:
+>
 
-%, YEARS
-
-Ped
-
-"Ep aot”
+1 B
+~ lel %
 
 ### Label 4
 

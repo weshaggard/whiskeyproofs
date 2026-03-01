@@ -27,6 +27,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 AGED 12 YEARS
@@ -94,55 +96,3 @@ NM)
 10050872
 
 JACKDANIELS.COM
-
-### Front Label
-
-} ! i
-
-| i
-
-Ch
-
-DAM
-
-S
-
-12.
-
-ENC
-
-YEARS OLD
-
-OE
-
-|
-
-C(
-
-»»
-
-|
-
-TENNESSEE WHISKEY:
-
-|
-
-|
-
-DISTILLED AND BOTTLED BY
-
-|
-
-JACK DANIEL DISTILLERY
-
-LYNCHBURG, TENNESSEE, USA
-
-EST. & REG. IN 1866
-
-53.5% ALC./VOL. 107 PRooF | BATCH O1
-
-|
-
-10050873
-
-|

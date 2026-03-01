@@ -28,6 +28,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Front Label
 
 =
@@ -50,118 +52,12 @@ FOUNDED EY
 
 ### Label 3
 
-o>
+ASVHIUNd OL+L2 3G ISNW = “SWI18OUd HITVIH ISNVI AV ONY
+Pl AMINIHOVW JIVUsd0 YO Uv VIAMO OL ALNIGY UNOA SUVAWI S3DVUIAIS
 
-eo
+oy pcg LIAN SV NY) 1) Oy wOOLOurGd > Lay 8
 
-i)
+poo000078) B4o"Ayniqisuodsas: MMM pl |
 
-ea
-
-eH
-
-fe a]
-
-ot
-
-SsS=
-
-Cit {Oo}
-
-ogt
-
-dO}
-
-on
-
-pa fo]
-
-onw
-
-23
-
-ous
-
-8a
-
-as
-
-=e
-
-eco
-
-=
-
-n#t§ =>
-
-oSowo
-
-Lu
-
-Ww2
-
-cc
-
-se
-
-oo
-
-an
-
->a
-
-Sa5
-
-SzS
-
-oe
-
-2or
-
-aw
-
-4
-
-Sow
-
-isn
-
-essa
-
-o=
-
-25
-
-=
-
-(S)
-
-Ss
-
-=O
-
-— hs
-
-S535
-
-==o
-
-—l
-
-ss
-
-==
-
-—r
-
-a
-
-=n@—
-
-G2eu
-
-a4se
-
-Bs5
-
-ao=
+AM ‘GOOMIS3UD ‘ANVANOD
+NOS4NOd S.NOSH3343F YO4 OF1LLOG

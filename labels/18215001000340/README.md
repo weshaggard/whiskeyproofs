@@ -39,31 +39,23 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
-yervt
-
-GOVERNMENT VAAN: (1) ACCORDING TO THE SURGEON
-
-GENERAL, WOMEN SHOULDNOTDRINKALCOHOLIC
-
+(\4
+yen LIMITED Rete gs
+GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON
+GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC
 BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF
-
 BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC
-
-BEVERAGES IMPAIRS YOUR ABILITY TO DRIVEA CAR OR
-
+}> BEVERAGES IMPAIRS YOURABILITYTODRIVEACAROR — <|
 OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
-
 Bottled for Lux Row Distillers, Bardstown, KY
-
-MEVT REF 18¢ 1A REF 5¢
-
-FAMILY OWNED
-
-TOxt0W)
-
-y
+MEVT REF 15¢ 1A REF S¢
+pet —
+moar LUX ROW eg
+FANIU OWNED Room, us TentucktoUsa
 
 ### Front Label
 
@@ -129,66 +121,32 @@ TEN
 
 ### Label 3
 
-y »
-
 THE
 
-|
-
-pe
-
-i
-
-Plood Oath
-
-TT
+ATT
+That every batch of Blood Oath is the
+undertaking of one man ~ a student of
+both Bourbon and Science. Loyal to.no
+onc family, favoring no one distillery
 
 STS
 
-That every batch of Blood Oath isthe
-
-undertaking of one man ~ a student of
-
-both Bourbon and Science. Loyal to no
-
-one family, favoring no one distillery
-
 and bound by no one philosophy ~ this
-
-Bourbon connoisseur has one goal in
-
-mind — to seek out Bourbons rare and
-
+Bourbon connoisstur has one goal in
+mind ~ to seck out Bourbons rare and
 wonderful, famous and forgotten. Then
-
-Pa
 
 bottle them in combinations previously
 
-unimagined for alucky few. Not to cater
-
 to anyone's loyalties, he has sworn to
-
 never reveal where he finds his Bourbon,
-
 but only to promise to choose and make
-
 the best he knows. Loose lips never
 
-tasted something so special
-
-ov 4p
-
-ve
-
-CE
-
-Riis
+tasted something so special,
 
 ExcLUSIVE RELEASE: MMXIX
 
-### Label 4
+Plood Oath
 
-&
-
-MMXIX
+unimagined for a lucky few. Not to eater

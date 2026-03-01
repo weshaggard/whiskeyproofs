@@ -29,47 +29,24 @@
 
 ### Back Label
 
-See
+a
 
-Parker Beam started practicing his family’s erat at Heaven Hill in
-
-960. In the subsequent year,
-
-i¢ has elevated the work of Master
-
+Parker Beam started practicing his family’s craft at Heaven Hill in
+1960. In the subsequent years, he has elevated the work of Master
 Distiller to an art form. In honor of his Golden 50th Anniversary,
-
 Parker hand-selected barrels of Bourbon from each
-
 of his five decades and married them together for a
-
-rare and unique whiskey experience —a fitting
-
-—
-
+rare and unique whiskey experience— a fiting
 tribute to 50 years of Bourbon making,
 
-S—F
-
-_—3
-
 ‘GOVERNMENT WARNING: (1) ACCORDING TOTHE SURGEON GENERAL,
-
 ‘WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREG-
-
 NANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION.
-
-| ———9
-
 OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR
-
 OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
 
 DISTILLED IN KENTUCKY. BOTTLED BY OLD HEAVEN HILL
-
-‘SPRINGS DISTILLERY, BARDSTOWN, KY 40004 © 2009
-
-750 ML.
+SPRINGS DISTILLERY, BARDSTOWN, KY 40004. © 2009 750 ML
 
 ### Front Label
 

@@ -28,39 +28,20 @@
 
 ### Back Label
 
-Wo
-
-i)
-
-q
-
-\
-
-A LEGENDARY SIP
-
-ip o
-
-began t
-
-in
-
-Oth
-
-in
-
-si
-
-GOVERNMEN
-
-WARNING
-
-]
-
-N
-
-U
-
-st
+Y
+Ay (( >)\ ’)
+\\ Cha G
+\\ : UY,
+S A LEGENDARY SIP q
+ee ea ets
+Crafted with the finest 15-year-old reserves, this
+imited edition, cask strength straight bourbon
+eee
+oe i A ae ‘the ie ate ing
+Others nalahe Batts a is ve ty
+In any case, one thing is for sure — it's a
+Cee beer
+N 1A S¢, VI/ME-15¢ REFUND 4
 
 ### Front Label
 

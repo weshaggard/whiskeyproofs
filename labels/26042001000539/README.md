@@ -69,43 +69,26 @@ oe
 ### Front Label
 
 CE. Be — CR eae ae
-
-nt
-
-ae.
-
-ys!
-
-Se
-
+|
+| |
+“‘Tneient
+S44 {
+) ca
+, EY
+oe
+) Mt) (
+| yy |
+le ime EA
+| 9 |
+V4 ) © |
+Kentucky Straight
 ®
-
-Kentucky Stra
-
-Ml
-
-igh
-
-a=
-
-t
-
-Bourbon Whiskey
-
-Carefully distilled along the banks
-
+- Bourbon Whiskey
+Carefully distilled along the banks |
 of the Kentucky River according
-
 to the finest old traditions.
-
-ALC. 40% BY VOL. (80 PROOF)
-
-WE LOVE TO HEAR FROM OUR CUSTOMERS!
-
-1-866-729-3722 www.bourbonwhiskey.com
-
-eee. ee ee ae ee Oe ee
-
-E-MAIL: age@bourbonwhiskey.com
-
-04.9444.01
+) ALC. 40% BY VOL. (80 PROOF) (
+| WE LOVE TO HEAR FROM OUR CUSTOMERS!
+) 1-866-729-3722 www.bourbonwhiskey.com {
+E-MAIL: age@bourbonwhiskey.com onan |
+ee a ee a, ern Saige tte ameee

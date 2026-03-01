@@ -64,78 +64,34 @@ OH PLEASE RECYCLE - 1A-5C ME/VT-15¢
 
 ### Label 1
 
-a ren” 8, —
-
+a ot —
 sll
-
-“GREEN’
 
 THE PRIDE OF OWENSBORO, KY
 
-RIVER
+TOASTED
+DOUBLE OAK
 
 KENTUCKY STRAIGHT
 
-2 BOURBON 2
+o BOURBON ,
+WHISKEY
 
-SEN
+FINISHED IN NEW
 
-TOASTED | SAK BARRELS
+4 é
+o &
 
-FINIS!
-
-a
-
-o
-
-4
-
-Se ALC. TV VOL.
-
-Oro, «
-
-w
+S$ ALE ay vo L. 4
+®oRo, Ke™
 
 375ML
 
 ### Label 3
 
-=>
-
-Deg
-
-m4
-
-nA
-
-1 om
-
-Ke
-
-a3)
-
-mH —
-
-ZZ
-
-O BATCH NO. 001 Fae
-
-miter
-
-oN
-
-a
-
-57.55%
-
-375ML_ ) PB es
-
-m2) 05P-KY-1
-
-| TOASTED DOUBLE 10
-
-mz
-
-4298
-
-ALC. BY VOL
+we
+OED ake
+zor ( TOASTED DOUBLE OAK maa ver O BAICH NO. 001 (==
+<m mois a= 57.55% >
+ey D § P - K \- | 0 mz ky auc. BY VoL | 375M. ) See
+ZO My

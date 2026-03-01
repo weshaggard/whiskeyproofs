@@ -31,9 +31,13 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Front Label
 
 KENTUCKY STRAIGHT BOURBON WHISKEY
+
+NON-CHILL FILTERED AND BARRE PROOE
 
 RUSSELLS
 
@@ -41,40 +45,19 @@ RUSSELLS
 
 SINGLE RICKHOUSE
 
-XXXXXX
-
 ### Label 2
 
-mRO2 sO
+Tent
 
-=RES =O
+= See sO
 
-=Ooc sO
+AES
 
-Soo;
+= 9535
 
-<0 =-
+=a5550
+CAMP NELSON E StF
 
-CAMP NELSON E
+MATURED ON FLOOR 5 —P
 
-ELEg
-
-=q55=0
-
-=)
-
-MATURED ON FLOOR 5
-
-### Label 3
-
-Pr
-
-GENERATIONS OF CRAFT
-
-GENERATIONS OF CRAFT
-
-LAWRENCEBURG, KY
-
-LAWRENCEBURG, KY
-
-—
+o

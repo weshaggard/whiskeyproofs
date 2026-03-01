@@ -32,147 +32,42 @@
 
 ### Back Label
 
-=
+, ren h generation
 
--
+j EE Colon a stint sich ae
+Se Diss phon for his 45» years of er
+. falling indstry Hand-sclected by Parker 5
 
-S Heri
+\ IyeatO hasbeen ine in ok barrelssince —— ‘
+seth atl ha been drawn Yros the barrel 2ze
 
-tage Collection isat
+P Angin proof. ‘This distinctive syle ol Ce
+ec, Tasty fsa tly exon ae =" E
+Blah PENCE Bese eno d with ' z= fg
+TaN UG c2soxer A TD as ee
+wg SD eT vai ara TE Ot
+hg et FISK OF inTH eFECTS, (2) cONSUMP >,
 
-r
+AAMAS Pans youR au To AVE ACR 5
 
-to
-
-eration.
-
-eR
-
-Dist
-
-let, Patker Beam, fo
-
-ars ¢
-
-of ser
-
-ice 0
-
-‘
-
-eB industry. Hand
-
-p:
-
-uke
-
-"himself, this
-
-k
-
-edi
-
-ON has been a0
-
-gin «
-
-barrel
-
-°
-
-NaS been q
-
-n fre
-
-ba
-
-==
-
-Angie P00
-
-his dis;
-
-=
-
-his}
-
-otters a trul
-
-—
-
-ON expe
-
-Mlence —h,
-
-est enjoyed
-
-dy
-
-sf
-
-Mater,
-
-Meu
-
-ey
-
-Hoy
-
-WARNING: AT) AC
-
-DIN
-
-—
-
-MD NoT oa
-
-Nl
-
-Oy
-
-nit
-
-EOF THE pg
-
-RTH
-
-1)
-
-ae
-
-Bevea
-
-IMPs
-
-at}
-
-Ua
-
-MACHINERY. 4
-
-ve
-
-FEN Boren gy ou
-
-DHE
+rere aS UR ener
+SPM vane S ;
 
 ### Front Label
 
-PASk stRENg#E
+c
 
-Z
+ASk srrENG?H
+. //
 
-KENTUCKY sarc
+KENTUCKY syfAicat d
 
-U
+Mt atl
 
-y
+dawiso
+HIsKEY
 
-COM 4
-
-WHIisKEY
-
-| Me /v0.de3-7 rot AD
+| Alcor d3-7 proof ja
 
 ### Label 3
 

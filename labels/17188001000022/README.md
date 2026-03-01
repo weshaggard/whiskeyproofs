@@ -25,66 +25,20 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
-2e
+LITTLE BOOK™
+LS cteefd Fie Mook at an hore GE
+a Wa
+ELD,
+Salieft
 
-melons
+BLENDED STRAIGHT WHISKEY cans, (1286 poo QOL? RELEASE
 
-LITTLE BOOK”
+drinksmart.com
 
-aS
+As an 8" Generation Beam, FREDDIE NOE
 
-SDE a Hook at anherwt GE
-
-ae
-
-met
-
-Ze
-
-rp
-
-aa
-
-556
-
-Bo
-
-Mt Te ge
-
-al
-
-'4
-
-SB
-
-5
-
-SZ
-
-sa
-
-g¢
-
-oO
-
-own
-
-aa
-
-54
-
-52
-
-HLENDED STRAIGHT WHISKEY
-
-QUIT RELEASE
-
-<'9
-
-esses
-
-### Label 2
-
-yy”
+to his GRANDADDY BOOKER by

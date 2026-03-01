@@ -136,20 +136,18 @@ Ih
 
 ### Label 2
 
+OUR PURSUIT
+
 Our story began with a microphone that created the #1 whiskey
+podeast, Bourbon Pursuit. We learned everything through thousands
+of hours of candid conversations with industry experts. This
+opportunity led us to partner with world-class distilleries and create
+
+award-winning whiskeys to share with you. Enjoy this pursuit.
 
 FOUNDERS
 
-podeast, Bourbon Pursuit. We learned everything through thousands
-
-KS CECIL
-
-of hours of candid conversations with industry experts. This
-
-opportunity led us to partner with world-class distilleries and create
-
-AC —
+as
+Be
 
 KENNY COLEMAN
-
-award-winning whiskeys to share with you. Enjoy this pursuit.

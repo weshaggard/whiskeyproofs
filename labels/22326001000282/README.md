@@ -31,6 +31,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 KENTUCKY STRAIGHT BOURBON WHISKEY
@@ -45,34 +47,12 @@ SINGLE RICKHOUSE
 
 ### Label 2
 
-—_<
+INCATED TO
+‘CH CURRENT
+eT aT |
 
-Fu =
-
-ao)
-
-ue =)
-
-£0 =
-
-6250
-
-ce]
-
-MASTER DISTILLERS
-
-MATURED ON FLOORS 4&5
+dda"do0do
 
 CAMP NELSON F
 
-=O
-
-### Label 3
-
-GENERATIONS OF CRAFT
-
-GENERATIONS OF CRAFT
-
-LAWRENCEBURG, KY
-
-LAWRENCEBURG, KY
+MASTER DISTILLERS MATURED ON FLOORS 4&5

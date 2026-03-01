@@ -26,129 +26,68 @@
 
 ### Label 1
 
-xs
+4
 
-kK
+ING: (1) ACCORDING 10 THE SURGEON GENERAL,
+DRINK ALCOHOLIC: BEVERAGES DURING PREGNANCY
+OF BIRTH DEFECTS, (2) CONSUMPTION. OF
 
-Ss
+S IMPAIRS YOUR-ABILITY 10 DRIVE A CAR OR
 
-Seu Ss
-
-BSS
-
-S
-
-——
-
-Bes
-
-Z
-
-SS NO
-
-SS
-
-Bee =
-
-Wy
-
-ih
-
-i)
-
-ASS
-
-aS
-
-Se=25
-
-2a22Ss
-
-se
-
-RU ar
-
-PIGHEST Se,
-
-SoS
-
-a=
-
-Sa
-
-oN ag
-
-SsSefaea
-
-Se
-
-an
-
-see
-
-ESRe
-
-SS
-
-aS
-
-==
-
-ina!
-
-S-=2
-
-S=s=2
-
-=f
-
-i)
-
-=s
-
-fe eal or Se
-
-=as
-
-AMMUNITION
-
-SSa2
-
-ssss
-
-S25
+AMMUNI TION.
 
 KENTUCKY STRAIGHT RYE WHISKEY
-
 PINISHED IN PINOT NOIR BARRELS
-
-23
 
 CRAFTED IN SMALL BATCHES by
 
-Se
-
-een
-
 AMMUNITION DISTILLERY, KY., USA
 
-SS
+OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
 
-Bottle No.
+GOVERNMENT WARNING: (1) AC
+WOMEN SHOULD NO
+BECAUSE OF THE RIS
+ALCOHOLIC BEVERAG
 
-0107
+Distilled, Aged & Finished
+with Hard Work & American Ingenuity
 
-Alc 45% by vol
+BOTTLED BY AMMUNITION
 
-750mL
+DISTILLED IN-KENTUCKY
 
-ry -
+Bottle No. Ale 45% by vol
+0107 90 Proof Libis
 
-ES
+wt
+0
+bead
+ex
+x
+=
+re
+>
+[-
+=
+ex
+b=!
+A,
+nN
+fa
+D
+ec
+Es
+ba
+=
+E
 
-90 Proof
+> WASHVILLE, TENNESSEE, USA
+>» drinkammunition.com
 
-CACRV og
+cy
+_—
+oOo
 
 ### Label 2
 

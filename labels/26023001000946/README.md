@@ -26,64 +26,33 @@
 
 ### Label 1
 
-MUSTA
-
-N
-
-—RESERVE ——
-
-KENTUCKY
-
-STRAIGHT BOURBON
-
-WHISKEY
-
-|
-
-116.6 PROOF
-
-58.3% ALC/VOL
-
-### Label 2
-
 MUSTANG
 
 ——RESERVE——
 
-For generations, St. Mar.
+KENTUCKY
+STRAIGHT BOURBON
+WHISKEY
 
-aret Mary
+116.6 PROOF 58.38% ALC/VOL
 
-Ss
+### Label 2
 
-sha’
-
-MA
-
-ue
-
-mila
-
+——RESERVE——
+For generations, St. Margaret Mary
+has been shaped by shared _
+traditions and meaningful moments.
+Mustang Reserve honors that spirit
+with a limited edition premium bourbon,
 70% CORN / 18% RYE/ 12% MALTED BARLEY
-
 DISTILLED IN KENTUCKY
-
 BOTTLED BY
-
 OLD LOUISVILLE WHISKEY Co.
-
 LOUISVILLE, KY
-
 750 ML
-
 GOVERNMENT WARNING: (1) According to the
-
 Surgeon General, women should not drink alcoholic
-
 beverages during pregnancy because of the risk of
-
 birth defects. (2) Consumption of alcoholic beverages
-
 impairs your ability to drive a car or operate machinery,
-
 and may cause health problems.

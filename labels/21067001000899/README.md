@@ -30,6 +30,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 JU.
@@ -62,24 +64,18 @@ KENTUCKY eae oe Alaa
 
 ### Label 2
 
-our Bourbons in this beautifully layered Limited Edition re
+Four Bourbons in this beautifully layered Limited Edition relee
 
-t delicate sweet aromas of ripe berries, light floral notes a
+esent delicate sweet aromas of ripe berries, light floral notes an
 
-of rich, warm oak. Bright fruit flavors of plum and orange peel, an d
+delicate spice lead to a finish that is long and smooth with lingering
 
-delicate spice lead to a finish that is long and smooth with ingering
+~ touches of vanilla cream and dark chocolate. Savor every sip.
 
-: touches of vanilla cream and dark chocolate. Savor every sip.
-
-uN
-
-£1] 10a v
+$1/ |O%av
 
 KENTUCKY STRAIGHT BOURBON WHISKEY
-
 DISTILLED AND AGED BY FOUR ROSES DISTILLERY LLC
-
 LAWRENCEBURG, KENTUCKY » FourRosesBourbon.com
 
 750ML
@@ -87,51 +83,16 @@ LAWRENCEBURG, KENTUCKY » FourRosesBourbon.com
 GOVERNMENT WARNING:
 
 (4) ACCORDING TO THE SURGEON GENERAL,
-
-aot
-
 WOMEN SHOULD NOT DRINK ALCOHOLIC
-
-—_SSsD
-
-_——— 7)
 
 BEVERAGES DURING PREGNANCY BECAUSE
 
-Sal
-
-SS |
-
 OF THE RISK OF BIRTH DEFECTS.
 
-—S—= 1)
-
-(2) CONSUMPTION OF ALCOHOLIC BEVERAGES
-
-ee
-
-le
-
-OPERATE MACHINERY, AND MAY CAUSE
-
-IMPAIRS YOUR ABILITY TO DRIVE A CAR OR
-
-aromas
-
-SS
-
-Ee (}
-
+~____ (2) CONSUMPTION OF ALCOHOLIC BEVERAGES.
+____ IMPAIRS YOUR ABILITY TO DRIVE A CAR OR
+~ OPERATE MACHINERY, AND MAY CAUSE
 HEALTH PROBLEMS.
 
 Sediment from the barrel may be present
-
-in this non-chill hen ue ;
-
-### Label 3
-
-dit
-
-Il Batch
-
-— 2021-—
+in this non-chill filtered Bourbon.

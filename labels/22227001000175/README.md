@@ -36,6 +36,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 >>
@@ -122,52 +124,23 @@ siNce
 
 B07 ALC/VOL.
 
-### Label 3
-
-OM.
-
-### Label 4
-
-8
-
-Ss
-
-eRMa <
-
-SKY “&
-
-DISTILLING
-
-COMPANY
-
 ### Label 5
 
-cant fend okt
-
-¢
-
-tgom
-
-dg honse.
-
-fry fhe lake.
-
-<0
-
-ont
-
-wide
-
-st
-
-oe
-
-eS
-
-ue
-
-ay
-
-te
-
+tia Booker
+i hk you CW f fi
+; af {he rdikhouse,
+; of: 2m fry fhe lake.
+oa
+gaa : Petes (
+aan io) ae i
+ry ae Pm se
+os (i
+4 =
+WAN Se NL Sige Gard ese ee one
+Vers Mey. ae a ae ae
+Bey its wae. ee ee: Sic Sa Aaa
+ey | Ne ey
+: Ae peti a Ue a cae 3) Bes fm be
+t: cs diy “ BURNET love ea Mae hapa eA OL
+(Eee AR oe a Say Nes RRO amare &)
 186-KCQ011

@@ -26,114 +26,27 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Back Label
-
-» @e
-
-oe @°®
-
-@ ®
-
-see 8
-
-@°
-
-s@
-
-@®
-
-@°
-
-*@
-
-ee
-
-2#@
-
-@.°
-
-\
+*1 image(s) excluded: text did not meet readability threshold*
 
 ### Label 1
 
-NORDIC BERRY
-
 The long summer days and cool nights in northern
-
 climates concentrates the flavors of berries like
-
 nothing else. We've captured them in drinkable form
-
 to use in cosmos, gimlets, and lemon drops martinis.
-
-LINGONBERRY, RASPBERRY, AND BLACK
-
-CURRANT FLAVORED VODKA
-
-750 mi
-
-44% Alc by Vol
-
-DISTILLED FROM
-
-NEUTRAL GRAIN SPIRITS
-
-d and bottled by
-
-kre
-
-ery
-
-525 6.
-
-aki
-
-Dulu
-
-M
-
-N 55802
-
-i
-
-| 53054 l 4
-
-www. vigee
-
-ery.com
-
+LINGONBERRY, RASPBERRY, AND BLACK ALU /Z
+CURRANT FLAVORED VODKA :
+750 ml 44% Alc by Vol qin eB
+DISTILLED FROM = :
+NEUTRAL GRAIN SPIRITS OU! JL
+Distilled and bottled by ( 1)
+Vikre Distillery 3 $
+525 S. Lake Ave
+Duluth, MN 55802 Ww Paw |
+eee Me Mee ww Vikrecistillery.com ,"TINNECONY
 GOVERNMENT WARNING:
-
-(1) ACCORDING TO THE SU
-
-DN GENERAL, WOME!
-
-|OULD NOT
-
-DRINK ALC
-
-OLIC BEV!
-
-S DURING PREGNA\
-
-OF
-
-THE RISK
-
-BIRTH D
-
-S.¢
-
-CONSUMPTION ¢
-
-A
-
-4OLIC
-
-BEVER)
-
-IMPAIRS YOUR ABILITY TO DRIVE A CAR OR O}
-
-‘ATE
-
+(1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT
+DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF
+THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC
+BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE
 MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.

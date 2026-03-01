@@ -24,6 +24,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 CKYARN
@@ -89,21 +91,3 @@ CAUSE HEALTH PROBLEMS.
 oO
 
 CA CRV | IA-5¢ | ME:VT-15¢ REFUND | ENJOY RESPONSIBLY.
-
-### Label 1
-
-BACKYARD
-
-=
-
-—
-
-|
-
-i
-
-Si. ta
-
-SMALL-BATCH BOURBON WHISKEY
-
-Gn Qa)

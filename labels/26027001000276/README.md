@@ -28,192 +28,54 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Back Label
-
-on
-
-“THE PREAMBLE"
-
-a
-
-109 Proof
-
-Aged 10 Years & 9 Months
-
-54.5% Alc/Vol
-
-Re
-
-Bottle #
-
-of 178
-
-i
+*2 image(s) excluded: text did not meet readability threshold*
 
 ### Front Label
 
-=~
+According to the Surgeon General, women
 
-S12
+)
 
-ge
+should not drink alcoholic beverages during pregnancy because of the risk
+of birth defects. (2) Consumption of alcoholic beverages impairs your
 
-S2
+ability to drive a car or operate machinery, and may cause health problems.
+Bottled by DMY Bottling Co. in Bardstown, KY
 
-25
-
-——'
-
-<=
-
-.
-
-a
-
-qo
-
-X¢
-
-e2
-
-gs
-
-At old Lore
-
-Whiskey Company,
-
-every barrel isa
-
-J
-
-chapter ina living
-
-i
-
-legend. We
-
-Se
-
-hand-select
-
-g
-
-7
-
-oN
-
-extraordinary single
-
-barrels, allowing
-
-time and nature to
-
-shape each one into
-
-=
-
-its own distinct tale.
-
-eZ
-
-From charred oak
-
-=o
-
-staves to the final
-
-26
-
-a
-
-Sx
-
-Sa
-
-Za
-
-pour, every release
-
-=e
-
-gs
-
-gH
-
-carries the soul of
-
-aus
-
-<a
-
-f
-
-ay
-
-its journey—bold,
-
-Sous
-
-ais
-
-unfiltered, and
-
-Zuf
-
-roo
-
-23
-
-S35
-
-%
-
-unforgettable. Our
-
-$2.5
-
-aa
-
-CoO
-
-fi P
-
-craft is guided by
-
-one promise: to
-
-preserve the
+GOVERNMENT WARNING: (1)
+Distilled in Kentucky
 
 Kentucky Straight
-
-whiskey’s truth and
-
-let its story speak in
-
 Bourbon Whiskey
 
->
+Single Barrel Barrel Strength
+
+At Old Lore
+Whiskey Company,
+every barrel isa
+chapter ina living
+legend. We
+hand-select
+extraordinary single
+barrels, allowing
+time and nature to
+shape each one into
+its own distinct tale.
+From charred oak
+staves to the final
+pour, every release
+carries the soul of
+its journey—bold,
+unfiltered, and
+unforgettable. Our
+craft is guided by
+one promise: to
+preserve the
+whiskey’s truth and
+
+\ let its story speak in
 
 every sip.
-
 SAE
 
-Single Barrel
-
-Barrel Strength
-
 750 ml
-
-### Label 3
-
-&
-
-&
-
-@
-
-on
-
-e
-
-S

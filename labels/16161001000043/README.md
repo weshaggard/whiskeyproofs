@@ -55,6 +55,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*4 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 booker
@@ -79,75 +81,33 @@ barrel tured.
 
 cened jlo .
 
-### Label 2
-
-63.35%
-
-Dee
-
-(126.7 PRoor)
-
-(ae
-
-Boob STRAIGHT BOURBON WHISKEY
-
-5016-07 Book: DISTILLER:1960-1993
-
-### Label 3
-
-63.35%
-
-IE
-
-(126.7 Roof)
-
-1Day
-
-Bondi BOURBON WHISKEY
-
-9017- Ol food: DISTILLER:1960-1993
-
 ### Label 4
 
-200000
+E as 63.35% AGE __
+! (oar m T
+ES ace KENTUCKY STRAIGHT BOURBON WHISKEY
 
-63.35%
-
-AGE
-
-6YRs 2Mo
-
-(126.7 ProoF)
-
-DAY.
-
-KENTUCKY STRAIGHT BOURBON WHISKEY
-
-S017- 02:
-
-MASTER DISTILLER:1960-1992
+2017 ()2| Beebe Zee
 
 ### Label 5
 
-63 ie %
+REE | 63.35% | nce"
+Ree ALC/VoL
+See Fame ineae ORS eNO.
+5 dat, (126.7 rooF)! 7 pay
+E jen __| KENTUCKYSTRAIGHT BOURBON WHISKEY
 
-(126.7 qr
-
-Rondinc seth cae
-
-5017- 03! Gee4- MASTER DISTILLER:1960-1992
+2017-03 MASTER DISTILLER:1960-1992
 
 ### Label 6
 
-63.35%
+8 63.35% Jace
+. bs Ale|vol {Sans
+2 =, ORF Doar\| OYRS 2M0
 
-( 126.7 ProoF)
-
-1Day
-
-Fond BOURBON WHISKEY
-
-5017- (04! Zoe MASTER DISTILLER:1960-1992
+= Le R (126.7 PROOF)’ 4 pay
+SD sarc KENTUCKY STRAIGHT BOURBON WHISKEY
+2017-04 MASTER DISTILLER:1960-1992
 
 ### Label 7
 
@@ -160,13 +120,3 @@ Fond BOURBON WHISKEY
 Rondinc BOURBON WHISKEY
 
 3017- -0)5| Borde MASTER DISTILLER:1960-1992
-
-### Label 8
-
-l
-
-80686'01140'
-
-### Label 9
-
-»—~

@@ -28,16 +28,8 @@
 
 ### Back Label
 
-&
-
-RB
-
-PARADDH
-
 Paradox lives in the tension between tradition and exploration. Distilled by
-
 trusted hands beyond Texas, selected for harmonic balance and depth, then set
-
 down in Lubbock to rest and mature, this Straight Bourbon reflects both where
 
 it began and where it finished
@@ -47,30 +39,18 @@ Copper Widow founders Jennifer and Scott Thompson began their journey
 together in West Texas, then explored the wider world learning about life
 
 and whiskey. Copper Widow is their homecoming—where their experience
-
 is put to work.
 
-Some journeys are about discovery...
-
+Some journeys are about discovery.
 The important journeys end where they began.
 
 Distilled in Statesville, NC 28625,
 
 Blended and Bottled for Copper Widow
-
 by Drop of the Creator Spirits
-
-i
-
 Houston, Texas 77096
 
-Il
-
-015
-
-148
-
-|
+8 60015 14880 3)
 
 ### Front Label
 

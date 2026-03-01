@@ -24,90 +24,22 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
-ui
+GOVERNMENT WARNING: eh ACCORDING TO THE SURGEON GENERAI i
 
-oat |
+PWOIMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES bees ite
 
-Vi
-
-ye
-
-il
-
-GOVERNMENT WARNING: (
-
-(1) ACCORDING TO THE SURGEON GENERAI
-
-ot oe NOT DRINK
-
-A
-
-gaps oes bees ite
-
-q
-
-i
-
-ALCOMOLIC BEVERAGES INPARS.
-
-ti ABILITY TO ORE A CAR
-
+BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUI
+ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE a CAR
 TOPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
-
-Nisit us at
-
-Western-Whiskey.com
 
 4
 
-|
-
-|
-
+Visit us at
+Western-Whiskey.com
 HONEY PEPPER
 
-92884"00110'
-
 CONTAINS CARAMEL COLOR.
-
-i
-
-oa
-
-fi
-
-EE
-
-### Front Label
-
-SS
-
-pear.
-
-Vy
-
-HONEY PEPPE.
-
-pate
-
-EY
-
-, R
-
-fl
-
-pred
-
-su
-
-if
-
-pas?
-
-"a
-
-C. BY VOL. 60PROOF 750M
-
-2

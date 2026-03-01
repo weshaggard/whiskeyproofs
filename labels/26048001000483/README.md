@@ -25,35 +25,19 @@
 ### Back Label
 
 REDWOOD
-
-eo EMPIRE ™
+= EMPIRE™
 
 EMERALD GIANT
-
 RYE WHISKEY
 
-ges
+CUSTLED MCHLFORNA ON,
+ENTCKY
+SOTLEDBYREDWCODEPREDSTLLNG,
+‘OHVER PARKA
 
-wy
+TREES
+FOR THE
 
-Qs NOLAN EM,
+Qrs
 
-gee
-
-o5
-
-a2
-
-Pee
-
-St MEVT15¢ >
-
-@)
-
-=a
-
-El
-
-= I
-
-i
+St MEVT IS Ly

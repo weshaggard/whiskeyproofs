@@ -24,112 +24,45 @@
 
 ### Back Label
 
-oe
+erusrogyer) AoTTeA poompoy Appecy stitdg Aq popog
+‘suuatqoid yyeay osneo Avur pur
+AJOUTYILUL 9]v19d0 10 Ted B DALIP 0} AjTIGe INOA
+sTeduit saseioAoq ooyooye Jo uonduunsuory (Z) ‘saJop
+Yq JO YS oy} JO asnevooq AouvUSaId SULINP SaseIIAIq
+POYOoTR YULIp JOU pynoys USWUOM ‘Te1IUIF) UOISING
 
-MODERN
+auf 01 Surp1099V (1) :NINWVM .LNAWNYAAOD
 
-on
+| | |
 
-ane
+Ue Sey O
 
->
+A community blend of savory Buttonwillow & minerally
+Ozark blue corns with Admiral Maltings California barley in
+old oak casks for articulate
+DIS TILLED
 
-ANCIENT
+flavor
+GRAIN
 
-On
+heirloom — grain
 
-Oy
+FROM
 
-. blue
+al Sp
+a re
+ewe P| aces"
+Tp) FS
 
-ON
+aa) Jo © | <a x
+a3 3 & = ms
+— @) O & ~
+a = o Aas
+O DO O = aa
+OZ | ywZbhR |
+aH es
 
-")
+DP WY -
 
-(0
-
-7
-
-> OO
-
-|
-
-blend
-
-|
-
-x
-
-hte
-
-D
-
-NIN
-
-a
-
-ZB
-
-=
-
-—— a!
-
-RX
-
-On
-
-2 TU
-
-Wf@Se
-
-NS
-
-\S
-
-es |!
-
-© gy
-
-HEIRLOOM BLUE
-
-|
-
-ee | |
-
-es |!
-
-mE
-
-CORN
-
-&
-
-SLOW
-
-es | ~--
-
-MALTED BARLEY
-
-reed © Ae
-
-BLENDED
-
-WHISKEY
-
-Z
-
-a 3
-
-Alc.
-
-Vol.
-
-x
-
-mL
-
-50%
-
-by
-
-720
+a <i nen odd
+GZoOsanx

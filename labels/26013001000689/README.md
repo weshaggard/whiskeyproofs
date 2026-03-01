@@ -30,112 +30,67 @@
 
 ### Back Label
 
-“est EY
-
-—)
-
-a
-
+et GKEY cant
+CWnIsKe
+LIE
+es)
 Raise a glass to Whiskey Charlie.
-
 The smooth, sweet wheated bourbon made
-
 for those who know that life's best moments
-
-are spent with family and friends. It's a toast to
-
+are spent with family and friends. It’s a toast to
 laughter that lingers, stories that get better
-
 with age, and nights that never seem to end.
-
-Whiskey Charlie isn't about fancy talk or
-
-tasting notes. It's about good company,
-
+Whiskey Charlie isn’t about fancy talk or
+tasting notes. It's about good company, |
 better stories, and the kind of unapologetic
-
 fun that never goes out of style. It's about
-
 not taking yourself too seriously, except
-
 when it comes to good bourbon.
-
 Here's to more stories, more laughs,
-
 and more pours. Because some things
-
-really do get better with time,
-
+really do get better with time.
 HERE'S TO AGING. NOT MATURING.
-
 DISTILLED BY: BARDSTOWN BOURBON COMPANY, DSP-KY-20037, BARDSTOWN, KY
-
 ‘BOTTLED BY: BLUEGRASS BOTTLING, STANFORD, KY, DSP-KY-20075
-
 GOVERNMENT WARNING: (1) According to the Surgeon
-
 General, women should not drink alcoholic beverages
-
 during pregnancy because of the risk of birth defects.
-
 (2) Consumption of alcoholic beverages impairs your
-
 ability to drive a car or operate machinery, and may
-
 cause health problems.
 
 ### Front Label
 
-in SE)
+“Wil IE
+THAR 1975
+>>
+\'
+WAS
+Ve:
 
-St.
-
-Sark
-
-CW
-
-G
-
-\
-
-CP
-
+S33
 BOTTLED IN BOND
-
-si
-
-E BARREL HIGH WHEAT BOURBON
-
+SINGLE BARREL HIGH WHEAT BOURBON
 KENTUCKY STRAIGHT BOURBON WHISKEY
-
 1) save conn - aan wear - Qf e% MALTED BARLEY
 
-mc.BYVL9O %
-
-750ML
-
-Poor \OO
+ma 100
 
 ### Label 2
 
-=f
+AMONG
+TALAVUOONVH
 
-rm —
+INUISIY
 
-=5
+aNOd
+NIOTULG
 
-yes
+BOTTLED In
+BOND
 
-wr
+SINGLE BARREL
+RESERVE
 
-Sa
-
-ms
-
-zz
-
-25
-
-=
-
-=f
+HANDCRAFTED
+IN KENTUCKY

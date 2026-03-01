@@ -26,6 +26,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 Sagem %
@@ -65,43 +67,3 @@ MI
 |
 
 ll
-
-### Front Label
-
-all TBS,
-
-ou
-
->
-
-AY)
-
-Z
-
-4
-
-fe
-
-)
-
-)
-
-i)
-
-#,
-
-(<
-
-Ge -
-
-SY
-
-i)
-
-bi
-
-VINTNER’S
-
-FINISH
-
-41% ALC. BY VOL. roa PROOF | 750 ML

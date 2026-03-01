@@ -33,6 +33,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 booker
@@ -59,22 +61,14 @@ cened jlo .
 
 ### Label 2
 
-63.05%
+63.05% 7000
+VoL sano
+(126.1 PRoor) phseio
 
-(126.1 PRoor)
+19 Days
 
-8 toe
+KENTUCKY STRAIGHT BOURBON WHISKEY
 
-Focdas STRAIGHT BOURBON WHISKEY
+a 5020-02 Gorden Poe
 
-5620-02 Look 7a 1960-1993
-
-### Label 3
-
-l
-
-80686'01140'
-
-### Label 4
-
-»—~
+Boston Batch”

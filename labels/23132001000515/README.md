@@ -43,91 +43,27 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Label 1
-
-ANGELS ENVY
-
-WW
-
-Pdr ask
-
-i}
-
-)
-
-ip \
-
-|
-
-A
-
-i
-
-\
-
-if
-
-Mt
-
-A
-
-|
+*2 image(s) excluded: text did not meet readability threshold*
 
 ### Label 2
 
 | KENTUCKY STRAIGHT BOURBON WHISKEY jis 8
-
 FINISHED IN PORT WINE BARRELS
 
-[bcs svcncra urson
-
-lave
-
-| ie |
-
-te |
-
-= ee aE
+leccask STRENGTH 50uRsON Sell
 
 ### Label 3
 
-wi
+4 >»
+Tata ASS Canes Env) — om
 
-a al
+Pee > 3 CASK STR ——
 
-um
+f qi GLX vated Srna AV nERTA RTT [
 
-(iin
+TUTE TINGE Dy see AGT
 
-‘i
-
-IN
-
-ae LL iff
-
-C ANGELS ENVY") —
-
-2023 CASK STRENGTH
-
-KENTUCKY STRAIGHT BOURBON WHISKEY
-
-fa
-
-id
-
-Bi
-
-~ FINISHED IN PORT WINE BARRELS
-
-yen mii
-
-Be
-
-ise
-
-Maly
-
-8141043097
+CY
 
 ### Label 4
 
@@ -151,100 +87,8 @@ DRINK RESPONSIBLY. RESPONSIBLEDRINKING.ORG | ANGELSENVY.COM
 
 IRS ME/VTI5¢
 
-### Label 5
-
-a
-
-SN
-
-TL
-
-—
-
-OZ
-
-OO
-
-Ss
-
-S
-
-bye
-
-gs AY
-
-®
-
-A\ \
-
-—— |
-
-if
-
-{i
-
-Uh
-
-a
-
-|
-
-———
-
-\Y
-
-AN ||
-
-¢
-
-|
-
-7
-
-ZZ
-
-'
-
-Z,
-
-W
-
-SS
-
-Y
-
-Y
-
-=
-
-{
-
-&
-
-q
-
-alia
-
-——
-
 ### Label 6
 
-jAINGEVS £
+i=
 
-<<>>
-
-K
-
-ENTUCKY STRAIGHT BOURBON WHISKEY FINISHED IN PORT WINE BARRELS
-
-GEN
-
-N
-
-Yi
-
-S
-
-md
-
-|
+KENTUCKY STRAIGHT BOURBON WHISKEY FINISHED IN PORT EATS BARRELS

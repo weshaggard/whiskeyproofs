@@ -31,6 +31,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 (
@@ -114,53 +116,3 @@ ABILITY. TO. DAVE CAR OR
 CPERUTE MACHINERY, AND AY
 
 CAUSE "HEALTH PROBLEMS =)
-
-### Label 1
-
-—-
-
-—
-
-COLONEL E. H.!
-
-TAYLOR
-
-| TORNADO | SURVIVING
-
-WAREHOUSE C
-
-| 3
-
-|
-
-SX
-
-“|
-
-|
-
-|
-
-N
-
-|
-
-|
-
-|
-
-—
-
-SS
-
-mS
-
-hi
-
-S
-
-\BOTTLED IN BOND
-
-### Label 2
-
-eee

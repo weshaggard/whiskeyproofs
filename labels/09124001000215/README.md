@@ -39,24 +39,18 @@
 
 *Text extracted via OCR - may contain errors*
 
+*3 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
-es
-
 DISTILLED BY BROWN-FORMAN DISTILLERS
-
 COMPANY, LOUISVILLE, KENTUCKY
 
 GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON
-
 GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC
-
 BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK
-
 OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC
-
 BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR
-
 ‘OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
 
 ### Front Label
@@ -67,44 +61,4 @@ FORESTER
 
 KENTUCKY STRAIGHT BOURBON WHIS
 
-750 ML
-
-### Label 3
-
-AO LED 29, 05
-
-BIRTHDAY
-
-BOURBON,
-
-ie)
-
-“og
-
-OO
-
-### Label 4
-
-toigt
-
-Lier)
-
-### Label 5
-
-o*
-
-Ls, oS
-
-<S
-
-ose
-
-Bz
-
-=
-
-oS
-
-Qo
-
-iss
+USO AIDS Dome Ne

@@ -26,6 +26,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 STRAIGHT
@@ -75,27 +77,3 @@ alcoholic beverages during pregnancy because of the risk of birth defects. (2)
 Consumption of alcoholic beverages impairs your ability to drive a car or operate
 
 machinery, and may cause health problems.
-
-### Front Label
-
-tt
-
-mie
-
-“7
-
-@
-
-‘Oo
-
-cu &
-
-=
-
-WG
-
-wm. sae.
-
-_S—
-
-Ce

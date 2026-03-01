@@ -28,39 +28,18 @@
 
 ### Front Label
 
-(G,
-
-yh
-
-~
-
 FOUNDER'S
-
 WHITE
 
-Olteaged Coin Ofhishey
-
-———
-
-E&V
-
-————
+Oleaged Con Offldahey
 
 — HERITAGE DISTILLERS —
-
 MADE FROM HICKORY KING HEIRLOOM CORN
 
 100 PROOF - 50% ALC. BY VOL. 750 ML
-
 COLUMBUS, OHIO
 
 ### Label 2
-
-=
-
-29
-
-<4
 
 E&V Heritage Distillers is dedicated to the
 
@@ -71,7 +50,6 @@ bottle contains 100% Hickory King Corn, an
 1800s heirloom varietal prized for its rich oil
 
 content and savory complexity. Unfiltered
-
 and unapologetic.
 
 Batch No:
@@ -89,15 +67,13 @@ of the risk of birth defects. (2) Consumption
 of alcoholic beverages impairs your ability to
 
 drive a car or operate machinery, and may
-
 cause health problems.
 
 DISTILLED AND BOTTLED BY ECHO SPIRITS DISTILLING CO.
-
 ‘985 W 6TH AVE, COLUMBUS, OH 43212
 
 100 PROO!
 
-50%
+50% Al
 
 3Y VOL. 750 ML

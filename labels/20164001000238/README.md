@@ -39,67 +39,32 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
-=o
-
-GENERAL, | WOMENS
-
-(ONOTORIKALCORDLI
-
-pl eo aL a
-
-‘OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
-
-‘Bottled for Lux Row Distillers, Bardstown, KY
-
-MEVT REF 15¢ 1A REFS.
-
-{LU
-
-FAWILY OWNED
-
-az
+pa ikee
+GENERAL, WOMEN DHOTORMKALODNOUIC
+ee ue FALCONOLE
+» IEVERAGES INP YOUPABLIT TOUR EA CANO ei
+‘OPERATE MACHINERY AND MAY CAUSE HEALTH PROBLEMS,
+‘Bote for Lux Row isles, Bardstown, KY
+i EVI EF 15 ARE
+(ux Row) ———_.
+(Gear emmy WENTOCKY. USA
 
 ### Front Label
 
-Pood Oath
-
-ve
-
-av LIMITED RELegg,
-
-—— fate taight ——
-
+| Pood Oath
+fatty tight ——
 BOURBON WHISKEY
-
-Finished in Sauternes Garrils
-
-49.3% ALC/VOL | 98.6 PROOF | 750M
-
-2021
-
-i 7 MMXXI
-
-4
-
-| ay eae
-
-an 5 -geas-clittathas baw
-
-z
-
-He Pcsdbaua:
-
-a
-
-epothoage!
-
-Fs rare Pact sal iever again He mad
-
-2: Df
-
-MM.X.X.1.
+|| Finistied in Sauternes Harrels
+2 Pact No.7
+fesiploin taal yl, |
+if pienso sca old
+a nya am
+Gaelic!
+Fhis rare Pant stialCaever again Ge made,
 
 ### Label 3
 
@@ -144,12 +109,6 @@ a
 XX
 
 EXCLUSIVE RELEASE: MMXXI
-
-### Label 4
-
-é
-
-MMXXI
 
 ### Label 5
 

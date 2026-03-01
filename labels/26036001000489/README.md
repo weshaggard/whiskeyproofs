@@ -30,78 +30,50 @@ TASTING NOTES
 
 Vania
 
-Coconut,
+Coconut, caramel
 
-caramel
+Tobacco Toasted Oak
 
-Tobacco
+Leather Brown Sugar
 
-Toasted Oak
+Fru Baking Spice
 
-LO
-
-Leather
-
-Brown Sugar
-
-Fru
-
-Baking Spice
-
-The Terroir Collection reflects a true sense of place ~ a union between
-
+The Tertoir Collection reflects «true sense of place ~ a union between
 our estate bourbon whiskey and barrels carefully sourced from cooperages
-
 around the globe. Each barrel expression is an opportunity to taste the
-
 unique terroir, defined by is origin and environment.
 
 DISTILLED, AGED, & BOTTLED BY
-
 STARLIGHT DISTILLERY * BORDEN, IN
-
 GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON
-
 GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES
-
 DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS.
-
 (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR
 
 ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY
-
 CAUSE HEALTH PROBLEMS.
+
+MEVECTARNYORASe MOE CACRV
 
 ### Front Label
 
-==
+STARLIGHT hy DISTILLERY
 
 TERROIR COLLECTION
-
 Ht Suse of, Place
 
 BOURBON WHISKEY
-
 BARRELNO. 1234-56
 
-AS
-
 110 PROOF + 55 %ALC,/VOL.
-
 AGED 5 YEARS * 750ML
 
-\NE
-
 SECONDARY WOOD CLASSIFICATION
-
 WOOD IDENTIFICATION:
-
 GERMAN OAK
 
+ORIGIN OF OAK BARREL:
 GERMANY
 
-ORIGIN OF OAK BARREL:
-
 SELECTED BY
-
 “ACCOUNT NAME HERE”

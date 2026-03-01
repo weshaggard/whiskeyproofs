@@ -39,76 +39,28 @@
 
 *Text extracted via OCR - may contain errors*
 
+*3 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
-2
+EARS
 
-Fl
+FO! FORM OSTLER C0, OUSVILE, KI
+OVERNMENT WARNE) ACCORDNG TO TE SURGEON
+SENTRA WOMEN SHOULO NET ORIN ALCDOUC
+_ RVERAGES URN REE BECAUSE OF THE SK
 
-=
+RTH Dees) CONSUMETION CE ALCOONE
+VACHS IPARS YOUR ABUT TUDRNVER RO
+DPERATE HACCONERY, AND MAY CAUSE HEALTH PROBLEMS.
 
-Fo FORM OSTLER C0, OUSVILE, KI
-
-£
-
-ENT WARUNG 1) ACCORDING 0 SURGEON
-
-- RERAES UNG Pa
-
-icra IN S00 NOT DRI ALCOHOL
-
-NN
-
-ELAS
-
-OFTHE ASK
-
-zaucouo
-
-A aS NU
-
-EAC
-
-TT aA aE AGS
-
-### Front Label
-
-FORESTER
-
-### Label 3
-
-LE
-
-beans
+AGED IN OAK OVER 12¥
 
 ### Label 5
 
-496
-
-°
-
+004 $6
 Nowiaa
-
 aun
-
-°
-
-Le
-
-2
-
-o
-
-°
-
-aan
-
-uw
-
-MITED
-
+uMITED
 EDITION
-
-°
-
 2 PROOF

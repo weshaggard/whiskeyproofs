@@ -33,6 +33,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 booker
@@ -59,26 +61,9 @@ cened jlo .
 
 ### Label 2
 
-Ge
+mm Oe st 62.35% | ace
+ey mene. | __| eyns amo
+2 pL’ (124.7 ORooF)' 3 Days
 
-iit
-
-62.35%
-
-(124.7 PRoor)
-
-2 aaa
-
-Bobs STRAIGHT BOURBON WHISKEY
-
-5019- 04 Looker: DISTILLER:1960-1993
-
-### Label 3
-
-l
-
-80686'01140'
-
-### Label 4
-
-»—~
+= awe == f= | KENTUCKY STRAIGHT BOURBON WHISKEY
+& 2019-04. MASTER DISTILLER:1960-1992

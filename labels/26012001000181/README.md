@@ -26,6 +26,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 HEAVEN HILL
@@ -315,7 +317,3 @@ DISTILLED AND BOTTLED BY HEAVEN HILL DISTILLERY, BARDSTOWN, KY 40004
 ey.
 
 HEAVENHILLDISTILLERY.coM,
-
-### Label 2
-
-Wy

@@ -24,104 +24,52 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
-
-GOVERNMENT WARNING:
-
-IN 1818...
-
-(1) ACCORDING T0 THE SURGEON
-
-_———
-
-acl)
-
-General Andrew Jackson and Governor Isaac Shelby
-
-GENERAL, WOMEN SHOULD NOT
-
-_——
-
-(
-
-DRINK ALCOHOLIC BEVERAGES
 
 DISTILLED & AGED BY THE JACKSON PU
 
-ASE DISTILLERY®
-
-secured the Jackson Purchase as the final land parcel to
-
-DURING PREGNANCY BECAUSE OF
-
-=<
-
 HI
 
-MAN, KY
-
-make up the Commonwealth of Kentucky. As a
-
-THE RISK OF BIRTH DEFECTS.
-
-ee
-
-SS,
-
-seventh-generation Kentucky distiller, I came to the
-
-(2 CONSUMPTION OF ALCOHOLIC
-
 BOTTLED BY
-
-MASTER DISTILLER
-
-MASTER DISTILLER
-
-Jackson Purchase area to make whiskey because of the
-
-BEVERAGES IMPAIRS YOUR
-
-==:
-
-—==5
-
-117.8
-
-\CHASE
-
-58.9%
-
-rich western Kentucky grain belt, limestone-rich water,
-
-ABILITY TO DRIVE A CAR OR
-
-Arey PUR
-
-v4
-
-CRAIG BEAM
-
-and the perfect climate for aging bourbon whiskey.
-
-PROOF
-
+JACKSON PURCHASE
+DISTILLERY
 BARDSTOWN, KY
 
-C-~
+MAN, KY
+MASTER DISTILLER
+Caen
 
 CRAIG BEAM
 
-ALC/VOL
+MASTER DISTILLER
+CRAIG BEAM
 
 KENTUCKY BOURBON
+HALL OF FAME® 12025
 
-OPERATE MACHINERY, AND MAY
+IN 1818...
 
-HALL OF FAME® | 2025
-
+General Andrew Jackson and Governor Isaac Shelby
+secured the Jackson Purchase as the final land parcel to
+make up the Commonwealth of Kentucky. As a
+seventh-generation Kentucky distiller, I came to the
+Jackson Purchase area to make whiskey because of the
+rich western Kentucky grain belt, limestone-rich water,
+and the perfect climate for aging bourbon whiskey.
 JacksonPurchaseBourbon.com
 
-CAUSE HEALTH PROBLEMS.
+GOVERNMENT WARNING:
 
-750 ML
+(1) ACCORDING T0 THE SURGEON
+GENERAL, WOMEN SHOULD NOT
+DRINK ALCOHOLIC BEVERAGES
+DURING PREGNANCY BECAUSE OF
+THE RISK OF BIRTH DEFECTS.
+
+(2 CONSUMPTION OF ALCOHOLIC
+BEVERAGES IMPAIRS YOUR
+ABILITY TO DRIVE A CAR OR
+OPERATE MACHINERY, AND MAY
+CAUSE HEALTH PROBLEMS.

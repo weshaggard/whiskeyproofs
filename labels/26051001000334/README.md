@@ -77,49 +77,16 @@ CASHBUTTEDISTILLERY.COM
 ### Front Label
 
 CASH BUTTE
-
 DISTILLERY
-
-oa
-
-SS
-
-Mode
-
--
-
-ears;
-
->
-
-Yao
-
-Pl
-
-=
-
-pm
-
-=
-
-ae
-
-an
-
-wet
-
+5 ee ol See
+en 2] | ER Boece
+pee? Coy he es
+pe ro Ze wee ; ee es 2) . Mia ov =
+RY ee Was oe
+Tiina ae SOT:
 BOURBON
-
 WHISKEY
-
-BARREL #
-
-BATCH #
-
-ALC/VOL._ 78.572 _
-
-PROOF #_7Z
-
+BARREL # __ ss BATCH #_ ses
+ALC/VOL._78-576_ proor#_@Z____
 750ML
-
 3.275” x 3.7683”

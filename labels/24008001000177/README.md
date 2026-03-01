@@ -32,75 +32,79 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Label 1
+*2 image(s) excluded: text did not meet readability threshold*
 
-non=zrm
+### Label 1
 
 LIMITED EDITION
 
-_
+CREEK.
 
-2\
+KENTUCKY STRAIGHT AGED TASTING NOTES:
+BOURBON WHISKEY Full bodied,
+Sfocdcle bck book phd Bh i Vedeods do cnssten tas asiacha nae ada ta T 8 EIGHTEEN caramelized oak
 
-ec
-
-ehMo
-
-= &
-
-ms ° KY “RR
-
-‘2
+110-KCQ012
 
 QUALITY
+STD.
 
-= hy
+Ne <A
 
-STD
+AGED EIGHTEEN YEARS
 
-KNOB
+CRAFTED FOR QUALITY & FULL FLAVOR
 
-©:
-
-CREEK
-
->=
-
-A)
-
-KENTUCKY STRAIGHT
-
-o.=
-
-AGED
-
-TASTING NOTES
-
-Full bodied
-
-BOURBON WHISKEY
-
-EIGHTEEN
-
-caramelized oak
-
+>
+Lut
+=
+”n
+=
+=
+=
+o
+[==]
+a
+>
+o
+[~=)
+—
+=
+oo
+=
+ce
+=
+nn
+>
+=
+ao
+>
+=
+=
+bad
 =
 
-RELEASE NO/
+cO
+——
 
-DSP/
+RELEASE NO/ with hints of sweet
 
-with hints of sweet
+YEARS baking spices.
 
-KY-230
+KNOB CREEK
 
-18
+CLERMONT, KENTUCKY
 
-YEARS
-
-baking spices
-
-ele
+a
+o
+=I
+<4
+2)
+=|
+A
+<
+a
+n
 
 ### Label 2
 
@@ -117,23 +121,3 @@ siNce
 100 PROOF
 
 B07 ALC/VOL.
-
-### Label 3
-
-|
-
-80686'00861
-
-3
-
-### Label 4
-
-o?_ &.
-
-=o Sk Mo re
-
-SKY “5
-
-WeatiLLis
-
-COMPANY

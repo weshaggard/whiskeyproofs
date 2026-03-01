@@ -32,31 +32,13 @@
 
 ### Label 1
 
-FourRoses is
-
-Or?
-
-(©)
-
-ys is
-
-©)
-
-S)
-
-Wie
-
+a (A)
+—n
+Kidd Cen
 Small Batch
-
-2015 Release
-
 BARREL STRENGTH
-
 KENTUCKY STRAIGHT BOURBON WHISKEY
-
-a
-
-ALC/VOL. 55.9%
+4 ALC/VOL, 55.9% al
 
 ### Label 2
 

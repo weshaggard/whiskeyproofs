@@ -46,23 +46,12 @@ Straight Bourbon Whiskey
 
 ### Label 1
 
-4@
-
-AU
-
--
-
-TRA
-
-THE
-
-A
-
-ON
-
-to.
-
-«i
+7,
+Ae A) 4
+re. " a q
+STRAIGE a sme 1
+ SARREL BOURBON
+“>. JOURBON
 
 ### Label 3
 

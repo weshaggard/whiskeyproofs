@@ -28,6 +28,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 CASK STRENGTH
@@ -79,23 +81,3 @@ BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY 9
 TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS
 
 KOSHER
-
-### Front Label
-
-“CASK STRENGTH:
-
-750 ML» DISTILLED IN COLUMBUS, OH. USA
-
-001
-
-12550 |
-
-BATCH NO.
-
-| 42.75%
-
-### Label 4
-
-60
-
-OH

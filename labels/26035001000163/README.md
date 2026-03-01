@@ -29,125 +29,49 @@
 
 ### Label 1
 
-are y
+W “SWATGON HLTVGH 3SNV0 AVW CNY AGNEW SIVYz40 — WrOo"NorsrnuTurex Trp “
+YO UD V IAUC OL ALTIGY UNDA SuivalNl S3OVUIASE JMOHODTY
 
-Se5
+40 NOUAWNSNOD (2) "SIo3430-HIG 40 NStd 3HL 40 Sn\O38 VSN S3SSHNNAL TTIAHSYN Ee
 
-=
+JONYNS Add SNIANC SISVUVTE SOHO YNINC LON CTNCHS NAWOM NOWNAWWY AB CHILOG $=
 
-oa
+“TAIN9: NOROANS 3HL OL ONIOYODDY (1) -ONINVM LNGWNYSKO9 MONEY NOY ON TUSK. SS
 
-Bes
-
-in >
-
-en =>
-
-SeSlu
-
-Saf.
-
-ae
-
-Basses
-
-m2
-
-A\S
-
-se
-
-ey
-
-> 2
-
-oa
-
-Se
-
-cae
-
-Ss
-
-A=
-
-:
-
-SH)
-
-=
-
-Sesorss
-
-Sass
-
-S55
-
-SS =
-
-aS
-
-=z=eo=
-
-Bay
-
-Sso
-
-=2
-
-B2Sserasz
-
-Ss
-
-eau 52
-
-ea
-
-ess
-
-AMMUNITION
-
-Boo
-
-|
-
-i ss
-
-= a aoe
-
-S=s
-
-ss
-
-o>
-
-zs
-
-KENTUCKY STRAIGHT
-
-BOURBON WHISKEY
-
-Sa=S
-
-seu
-
-BSa
-
-i
-
-ees i @ ined
-
-Sur
-
-Soz
-
-4
-
-Zsa
+[UNITION.
 
 Alc 45% by vol | 90 Proof | 750mL,
 
-CA CRV
+ys
+ia
+Ne
+0)
+Z
+:
+:
+Q
+pa
+
+2
+v
+:
+Bs
+H
+0)
+by
+=
+0
+fs
+|
+Z
+Ee
+Hs
+
+AM
+
+hjinuabuy uvs1sauy 2 ALO PAVE] yq1Mm
+paysiuty 2 paby “papjisid
+VOINAWY /o LIYIdS ANUL AML 3
 
 ### Label 2
 

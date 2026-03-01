@@ -28,6 +28,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 MOUNTATY
@@ -80,18 +82,10 @@ Salt Lake City Utah
 
 ### Front Label
 
-fe
-
-w
-
 MOUNTAIYyN
 
 SUMMIT
 
-in
-
 NON CHILL FILTERED
 
 750 ML | 47% ALC./VOL. | 94 PROOF
-
-—

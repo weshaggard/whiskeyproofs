@@ -24,40 +24,23 @@
 
 THE WHISKEY
 
-LENDER
-
-—
-
-Y
+LENDERY
 
 The Whiskey Blendery is an award-winning
-
 craft distillery, locally owned and operated
-
 by our family in North Texas, dedicated to
-
 rare and exceptional whiskey. We believe
-
 our bottles hold the power to create
-
-connections,
-
-inspire conversations
-
-that
-
+connections, inspire conversations that
 matter, and leave a lasting impact on our
 
 community. We hope you enjoy every drop
-
 and intentionally share it with those who
-
 make your life a little richer.
 
 THEWHISKEYBLENDERY.COM
 
 GOVERNMENT WARNING:
-
 (1) ACCORDING TO THE SURGEON
 
 GENERAL, WOMEN SHOULD NOT
@@ -66,26 +49,13 @@ DRINK ALCOHOLIC BEVERAGES
 
 DURING PREGNANCY BECAUSE
 
-OF THE RISK OF BIRTH DEFECTS,
+OF THE RISK OF BIRTH DEFECTS, ‘ll )
 
-(2) CONSUMPTION OF ALCOHOLIC.
-
-BEVERAGES
-
-IMPAIRS
-
-YOUR
-
+(2) CONSUMPTION OF ALCOHOLIC
+BEVERAGES IMPAIRS YOUR
 ABILITY TO DRIVE A CAR OR
-
-Ih
-
 OPERATE MACHINERY, AND MAY
 
-a
-
-375mI
-
-CAUSE HEALTH PROBLEMS.
+CAUSE HEALTH PROBLEMS. 375ml
 
 HAND BOTTLED BY THE WHISKEY BLENDERY, OAK POINT, TX

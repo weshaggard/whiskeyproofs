@@ -42,6 +42,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*4 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 TOASTED] BARREL FINISH
@@ -86,124 +88,17 @@ MICHTER'S DISTILLERY LLC.
 
 LOUISVILLE, KENTUCKY 40216
 
-### Front Label
-
-We so
-
-Proof / 43 __% Alc/Vol *
-
-### Label 1
-
-jyret § P
-
-Lu
-
-WT,
-
-4p R
-
-&
-
-<A
-
-Q.
-
-1 WD
-
-a
-
-US*1
-
-1753
-
-Aa
-
-a
-
-Ry
-
-7)
-
-BARR
-
-SOUR MSs
-
-50 ML
-
-### Label 3
-
-: Michter’s
-
-Ben:
-
 ### Label 5
 
-f
+ae
 
-g
+ree
 
-g
+ep
+Saal
 
-i]
+* * * a * *
 
-B
-
-i
-
-|
-
-Hy
-
-Hl
-
-|
-
-Hy
-
-H
-
-H
-
-&
-
-a
-
-#
-
-:
-
-|
-
-|
-
-5
-
-|
-
-i
-
-e
-
-w
-
-]
-
-|
-
-a
-
-|
-
-8
-
-5
-
-%
-
-4
-
-y
-
-|
-
-4
+a aot
+oe TEE
+litnttenneensas eee

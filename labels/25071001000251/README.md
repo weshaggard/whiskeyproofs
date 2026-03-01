@@ -27,11 +27,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Back Label
-
-Sa Ys
-
-ZSSINGS
+*1 image(s) excluded: text did not meet readability threshold*
 
 ### Label 1
 

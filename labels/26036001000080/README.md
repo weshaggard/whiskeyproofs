@@ -30,143 +30,39 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
-®_
-
-D
-
-Dv
-
-E]
-
-~— WHEATED -BOURB N-
-
-‘om N
-
-RAISED WN.
-
-sa
-
-RRS
-
-EMPHIS
-
--
-
-val)
-
-ick
-
-i
-
-sa
-
-oft. wien what tle ihto the ‘spotlight as the
-
-f amous
-
-‘Memphis \ climate pull:
-
-every hidden
-
-a
-
-nuance. forward. Notes ‘of Yipe pe
-
-ooding Cara:
-
-mel, and a flash of apricot riding shotgun with’
-
-cin
-
-On the). palate,
-
-whe
-
-rows it
-
-mamons
-
-weigh
-
-und in all the:
-
-nt
-
-toffee that
-
-sticks, pastry sweetness with a little erit,
-
-ha
-
-zelnut note thatrolls into a raw, h
-
--Soaked
-
-ish, Blue Note W heated Jarinks smoot.
-
-ever
-
-ys
-
-imid note. A bourbon with Southern
-
-and a sto
-
-to tell.
-
-WENOTEBOURBON.COM
-
-aul
-
-ay
-
-“ BLUENOTEBOURBON
-
-BR DIS LLI G
-
--¢, O; MP
-
-me
-
-‘ASE RECYC
-
-DISTILLED |
-
-ENTUCKY. 1N0 BOTTLED BY BR DSTIING COMPANY, MEMPHIS, TENNESSEE
-
-19\\
-
-GOVERNMENT WARNIN
-
-ls
-
-aa)
-
-{I} ACCORDING T0 THE SURGEON seen
-
-MEN: SHOULD. Aor 5
-
-DRINK ALCOHOLIC: BEVERAGES DURING: PREGNANCY ‘BECAUSE OF
-
-THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION.
-
-COHOLIC:
-
-~ BEVERAGES IMPAIRS YOUR ABILITY TO ORIVE A CARO IPERATE =
-
-ACHINERY, AND MAY CAUSE bio:
-
-a te ae Nem ce
-
-=
-
-=
-
-=
-
-ee ae
+: BLUE NOTE
+HEATED BOURBON
+OR, ed ecto IRORIIN EA N RAISED IN. Yt i fuse On
+KENTUCKY | SOMEMPHISS. WITH SOUL
+.\Soft-winter wheat steps into the spotlight as the
+\SNingamous “Memphis \ cyimate\ pulig every hidden _
+». nuance forward. Notes of ripe peach, brooding cara-.)
+-\mel, and a flash of apricot riding shotgun with'cin- z
+\. Mamonspice, On the. palate; the. wheat\throws its
+-\ weight around in all the right ways: toffee that
+_ sticks, pastry sweetness with a little erit, anda has
+= zelnut note thatrolls into a raw, honey soaked
+_ ‘finish, Blue Note Wheated drinks smooth but never ~
+\ plays a timid note, A bourbon with Southern swagger
+gag a BtBey Hoteles: | /5/)\ Vn AD
+- BLUENOTEBOURBON.COM J. Ne Ba
+/ (OBLUENOTEBOURBON ~~ eTH TING. | SOO
+ea he BR. DISTILLING “PLEASE RECYCLE, |
+|| DISTILLED IN KENTUCKY. AND BOTTLED BY B.R. DISTILING COMPANY, MEMPHIS, TENNESSEE
+ie Nase 1 AA Baas SDS SAG eee ee h eae ey
+Pr UNO Dt ee Wes ey WANN oT). BE) anea\ssime) \ Avi
+‘GOVERNMENT WARNING! SN SIE AC ENS NY
+/ (I) ACCORDING T0 THE SURGEON GENERAL, WOMEN SHOULD NOT - AY
+~ DRINK ALCOHOLIC: BEVERAGES DURING PREGNANCY BECAUSE OF ey
+_ THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF: ALCOHOLIC: - &
+“BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE = =<
+~~ NACHINERY, AND MAY CAUSE HEALTH PROBLEMS. fe
+“AREESC - ME/VT IS =| SREP WN Na
+eae Ny eA LA ONE
 
 ### Front Label
 

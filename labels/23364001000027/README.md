@@ -30,93 +30,35 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Front Label
 
 MASTER'S
-
-Pe neer —
-
-ANA EO
-
-a
-
-T
-
-}
-
-BATCH N@:
-
-0001
+nee —
 
 AGED:
 
-Ld
+17 year wasten ousticien
+Location haweence burs, Kentucky usA
 
-‘7
-
-Chyers
-
-ee
-
-MASTER
-
-DISTILLER
-
-Lecanan haweence bur. Kentucky usA
-
-+ tell oa
-
-DISTANCE:
-
-_ 00 miles |
-
-1
-
-Weed.
+DISTANCE: _ God miles |
 
 NOTES:
 
-Caramel vanilla spice [wea] sone
+ae nilla, ace! wa] Sone
+wi subtle oak, Lnish no3) Wood
 
-wi subtle ocak. Banish
+BATCH N®@:
+0002 clin
 
-NOS
-
-Wood
-
-os
-
-cr)
+Nel Wood
 
 LIMITED EDITION
 
-ageP
-
-a
-
-TT
-
 CRAFTED IN KENTUCKY, USA
 
-A\\~
-
-gear? »
-
-ee ae
-
-Sent
-
-750 ML
-
-ALC(VOL 43.4
-
-04.8 PRO
-
-aS
-
-### Label 2
-
-eRneTet Ad CENT
+TSE ML ALC/VOL 43.42 84.8 PROOF
 
 ### Label 3
 

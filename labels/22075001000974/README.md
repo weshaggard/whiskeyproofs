@@ -31,91 +31,28 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 DISTILLED AND BOTTLED BY
+WILD TURKEY DISTILLING CO.
+LAWRENCEBURG, KY
 
-wil
+www.wildturkeybourbon.com
+GOVERNMENT WARNING: (1) [im
+ACCORDING TO THE SURGEON ————
+GENERAL, WOMEN SHOULD NOT —=Seee—t=
+DRINK ALCOHOLIC BEVERAGES F>=ety-te—tey
+DURING PREGNANCY BECAUSE F=¥-g-ee— ted
+OF THE RISK OF BIRTH DEFECTS. =i eam
+(2) CONSUMPTION OF ALCOHOLIC F=f i hademetes
+BEVERAGES IMPAIRS YOUR = §raae=—eb—
+ABILITY TO ORVEA CARO? =)
+OPERATE MACHINERY, AND MAY ees
+CAUSE HEALTH PROBLEMS. — =
 
-LD
-
-RKEY
-
-NG CO
-
-¥
-
-LAWREN
-
-www.wildi
-
-roon.com
-
-GOVERNM
-
-IN
-
-o
-
-ACCORDIN
-
-E SURGEON
-
-GENERA’
-
-MEN SHOULD NOT
-
-———— O
-
-—O
-
-DRINK ALCOHOLIC BEVERAGES
-
-J
-
-Oo —_2
-
-DURING PRE
-
-BECAUSE
-
-ee
-
-F THE
-
-DEFECTS.
-
-on
-
-=
-
-N OF ALCOHOLIC
-
-) CONSU
-
-|EVERAGES
-
-AIR
-
-YOUR
-
-ur
-
-TO OR
-
-‘AR OR
-
-OPERA
-
-TE MACHINE
-
-D MAY
-
-CAUSE HEALTH
-
-PRODUCT
-
-USA 750mL
+PRODUCT OF USA 750mL
 
 ### Front Label
 
@@ -128,79 +65,3 @@ A BLEND OF KENTUCKY STRAIGHT BOURBO
 AND RYE WHISKIES FINISHED IN RYE CASK
 
 UNFORGOTTEN
-
-### Label 4
-
-we
-
-~ F
-
-fe
-
-an r
-
-oS
-
-aN
-
-oe
-
-nem
-
-ae
-
-—
-
-Pes
-
-5S
-
-ae,
-
-ae
-
-omen
-
-—
-
-ad
-
-x
-
-a
-
-“a
-
-a
-
-EE
-
-ZA:
-
-eo
-
-oF
-
-ee
-
-(7) fg
-
-Se
-
-iS
-
-y
-
-ee
-
-j.
-
-£-£
-
-—
-
-Ce
-
-AVE
-
-~

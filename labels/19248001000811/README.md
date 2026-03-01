@@ -28,6 +28,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 °
@@ -115,7 +117,3 @@ nl
 Ie qu
 
 0
-
-### Label 3
-
-RYE

@@ -24,110 +24,38 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
-ee ae
-
-a
-
-4
-
-b
-
-% x,
-
-.
+Gy
 
 KRAMPUS RYE IS A 100% RYE WHISKEY
 
 BOTTLED IN BOND, DISTILLED AND AGED
 
-TOTHE STRICT STANDARDS OF THE ACT.
+‘TOTHE STRICT STANDARDS OF THE ACT.
 
-‘SPICY, STRUCTURED, AND
+SPICY, STRUCTURED, AND
 
 UNCOMPROMISING, IT DRINKS DRY WITH
-
 DEEP RYE CHARACTER, A FIRM BACKBONE,
-
-AND A FINISH THAT LINGERS—WITH A HINT
+AND AFINISH THAT LINGERS—WITH A HINT
 
 OF SOMETHING SLIGHTLY SINISTER.
 
 GOVERNMENT WARNING: (1) According
-
-——
-
 tothe Surgeon General, women should
-
-not drink alcholic beverages during
-
-pregnancy becouse ofthe risk of birth
-
-—
-
+nat drink ckohlic beverages during
+pregnancy because ofthe risk of bith
 defects. (2) Consumption of alcoholic
-
-beverages impairs your ability to drive
-
-© cr of operate machinery, ond may
-
+beverages impr your ability to dive
+4 car of operate machinery, and may
 couse health problems,
 
 DISTILLED & BOTTLED BY:
-
 (CHUCKANUT BAY DISTILLERY
-
 DSP-WA- 21010
-
 3311 CORNWALL AVE,
-
 BELLINGHAM, WA.
-
 e225
-
-‘
-
-$
-
-XK
-
-~S
-
-### Front Label
-
-Sean za
-
-400% RY
-
-peaey
-
-( ”
-
-~)
-
-gS er
-
-50'
-
-Sey
-
-100
-
-e
-
-X
-
-Cy)
-
-730
-
-25.4
-
-ML
-
-eon TLED IN So
-
-FLOZ
-
-CoH

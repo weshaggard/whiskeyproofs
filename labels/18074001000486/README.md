@@ -30,6 +30,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 LY)
@@ -109,13 +111,3 @@ HEALTH PROBLEMS.
 Sediment from the barrel may be present
 
 in this non-chill filtered Bourbon,
-
-### Label 3
-
-a
-
-TH
-
-1888
-
-2018

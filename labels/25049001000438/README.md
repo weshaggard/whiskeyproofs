@@ -27,6 +27,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 BOOKER'S® KENTUCKY STRAIGHT BOURBON WHISKEY
@@ -64,7 +66,3 @@ ABILITY TO DRIVE A CAR OF OPERATE MACHIN
 l
 
 ERY, AND MAY CAUSE HEALTH PROBLEMS
-
-### Label 4
-
-»—~

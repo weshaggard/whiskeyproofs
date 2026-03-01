@@ -31,6 +31,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 a
@@ -81,6 +83,5 @@ a (CO)
 
 LARCENY
 
-ZB
-
-%
+Pine
+NEE RIN AA eee

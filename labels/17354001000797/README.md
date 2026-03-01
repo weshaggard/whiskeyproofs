@@ -34,6 +34,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 <a cK § ‘SOUR MASH y Weis,
@@ -130,52 +132,12 @@ BATCH #
 
 ### Label 1
 
-oo
-
-SOUR MASH Wise.
-
-HOMESTEAD®
-
-12
-
-TY)
-
-ZN
-
-“a
-
 Small Batch
-
-Z)\
-
-©
-
-AN
-
-+
-
-49.6% ALC.VOL
-
 91.2 PROOF
 
-41s
-
-T50ML
-
-‘ye
-
-Vy
-
-Wee
-
-(Cr
-
-ereticehy Whitt,
-
-2018
+ereticehy Bhi?
 
 RELEASE
 
 Small Bateh Kentucky Suuy Mash Ghiskry
-
-We MICHTER’S DISTILLERY * LOUISVILLE, KENTUCKY ol
+Nz MICHTER’S DISTILLERY * LOUISVILLE, KENTUCKY ol

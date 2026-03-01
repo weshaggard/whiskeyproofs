@@ -34,6 +34,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 HI
@@ -140,96 +142,22 @@ ee (IIS.ZPROOF) 750M
 
 CASTLE & KEY
 
-IISH SERIES
+~ Wy MBoeoringe Mig at
+Gig! $ytablished ise MET Aallininge Pidioe,, |
+|
 
-we ee eat
-
-CASK Fl
-
-1
-
-Fale: 153
-
-—
-
-br
-
-LIE
-
-‘Yo
-
-a
-
-= aa
-
-as
-
-d
-
-E
-
-AY sets
-
-\e
-
-es
-
-)
-
-ae= Se
-
-5%
-
-bu
-
-2, ee
-
-| ; apt grtablizhed in 67
-
-daltixging Bed iiirse
-
-~uvee EXPERIMENTAL es
+craves EXPERIMENTAL
 
 KENTUCKY STRAIGHT RYE WHISKEY FINISHED IN:
 
 CHERRY LIQUEUR CASKS
 
-CASK STRENGTH |
-
-———
-
 NO ARTIFICIAL FLAVORING AGENTS
 
-|
+| 750M
 
-TOML
+CASK STRENGTH |
 
 | sreMALCNOL, |
 
 | m2 PROOF |
-
-### Label 3
-
-as
-
-st
-
-a
-
-a
-
-is
-
-P- KY:
-
-iiss
-
--
-
-e
-
-a
-
-### Label 4
-
-er

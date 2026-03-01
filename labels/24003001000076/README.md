@@ -31,67 +31,20 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Front Label
 
 | MASTER'S
-
-— KEEP —
-
-wc ww
-
-»
-
-(ee
-
-A>)
-
-(C
-
-WY
-
-W
-
-17
-
-SN
-
-iy
-
-Uy
-
-SS
-
-SS
-
-VAS
-
-/44/%
-
-Fl |=
-
-ws
-
-MWS
-
-ta
-
-7)
-
-Uhte fist
-
-Ay
-
-NS roe
-
-~|
-
-ee
-
-ANS
-
-~
-
-wt
+“a KEEP —
+TIN \W Was
+(Wa War
+Z INS BOTTLED IN BOND
+VA
+AY. Ns SSS tat om HATER
+SNS ese) sa
+WSS
+a KSISES :
 
 ### Label 2
 
@@ -128,13 +81,3 @@ beverages impairs your ability to
 drive a car or operate machinery,
 
 and may cause health problems.
-
-### Label 3
-
-—_—
-
-AGE
-
-cA
-
-M | ALC/VOL SOT | (1e8

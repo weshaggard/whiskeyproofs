@@ -26,6 +26,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 REIMPORTED BY: CONNOISSEUR WINES USA PORT WASHINGTON, NY
@@ -45,7 +47,3 @@ CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO
 DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH
 
 PROBLEMS.
-
-### Label 1
-
-oY

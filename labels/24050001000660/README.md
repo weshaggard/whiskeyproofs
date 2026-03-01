@@ -30,6 +30,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 VIBRANT. BRIGHT. UNIQUE
@@ -127,15 +129,3 @@ five Son
 BARREL STRENGTH
 
 KENTUCKY STRAIGHT BOURBON WHISKEY
-
-### Label 3
-
-4 MITE
-
-20
-
-IA
-
-os
-
-D710

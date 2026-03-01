@@ -30,6 +30,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 ADVENTURE, CREATIVITY
@@ -72,56 +74,12 @@ AUINIVMUINY, 250000
 
 ### Front Label
 
-Ww,
+* BARREL SEEKERS
 
-a ec
+Aceog YEARS
 
-H I S K E Y
-
-Texted
-
-YPS
-
-i
-
-« * BARREL SEEKERS - SEEKERS
-
-Acep fyvears
-
-STRAIGHT BOURBON WHISKEY
+see Byesss
 
 SINGLE BARREL
-
-BARREL #
-
-ALC/VOL
-
-PROOF
-
-BOTTLE #
-
-S44
-
-60%
-
-120
-
-O37
-
-|
-
-==
-
-=~
-
-ee
-
-### Label 3
-
-FOUND BY
-
-John Johnson
-
-\L
-
-As
+BARREL # Seer AE PROOF | BOTTLE #
+yo es

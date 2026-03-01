@@ -18,8 +18,4 @@
 
 ## Extracted Label Text
 
-*Text extracted via OCR - may contain errors*
-
-### Label 2
-
-x aGeD Z|. YEARS x AGED 21. YEARS
+*No readable text could be extracted from the label images.*

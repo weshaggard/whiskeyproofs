@@ -37,24 +37,4 @@
 
 ## Extracted Label Text
 
-*Text extracted via OCR - may contain errors*
-
-### Back Label
-
-BIRTHDAY
-
-BOURBON.
-
-### Front Label
-
-FORESTER,
-
-### Label 4
-
-Re
-
-WELVE
-
-### Label 5
-
-Pe
+*No readable text could be extracted from the label images.*

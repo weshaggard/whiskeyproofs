@@ -26,196 +26,66 @@
 
 ### Back Label
 
-sreameneraree:
+sreegrerarco
 
-PINenET <n SEOF AER:
+3y: INSERT BOTTLE SHOP HERE
+60% CORN / 36% RYE / aE.
+4% MALT BARLEY GE’ LORS
 
-60% CORN / 36% RYE /
-
-4% MALT BARLEY
-
-GE: LOYRS
-
-2016 |
-
-TNDIANA
-
-fad —
+TION Y else LP J
+INDIANA , |
 
 The Single Cask Playlist Series is our most personal work yet, a
-
 solitary barrel drawn from our most celebrated award-winning
-
 stocks and chosen by instinct, experience, and taste rather than
-
 formula. Each release is curated by our founder or a trusted
-
 partner, selected not to conform but to stand alone. The cover art
-
 and the expression in your hand are part of a larger collection of
-
 artist and genre inspired selections, each tied to a distinct mood
-
 and moment in music. These barrels are not blended to just please
-
 a crowd but bottled to capture electricity, depth, and character.
-
 As the whiskey opens, so does the sound, revealing layers that
-
 refuse to stay quiet. A companion playlist awaits each expression
-
 by scanning the QR code below, an invitation from The Beautiful
-
 and The Damned to pour slowly, listen deeply and stay a while.
 
-or
+Ses THIS PRODUCT IS NOT
+<, AFFILIATED WITH, ENDORSED
 
-ee
+4 BY, OR CONNECTED TO ANY
 
-Ae,
+a INDIVIDUAL OR ESTATE.
 
-THIS PRODUCT IS NOT
-
-rh
-
-AFFILIATED WITH, ENDORSED
-
-nh
-
-a0
-
-BY, OR CONNECTED TO ANY
-
-Ob
-
-o
-
-“i
-
-INDIVIDUAL OR ESTATE.
-
-rai
-
-ES
-
-BOTTLED BY
-
-ale
-
-fs
+es BOTTLED BY
 
 LOST GENERATION BOTTLING,
-
-AS?
-
 BLOOMINGTION INDIANA
-
-GOVERNMENT WARNING: (I) ACCORDING TO THE SURGEON
-
-GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES
-
-DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS,
-
-(2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR
-
-ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY
-
-|
-
-CAUSE HEALTH PROBLEMS.
-
-I
 
 0009"80759
 
+GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES
+DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS,
+(2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR
+
+ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY
+CAUSE HEALTH PROBLEMS.
+
 BEAUTIFULDAMNEDWHISKEY.COM
+
+GOVERNMENT WARNING: () ACCORDNG TO THE SURGEON
+3 lg
 
 ### Front Label
 
-ee
+STRAIGHT BOURBON=W
 
-bie
+PULLED FROM OUR SINGLE-CA‘
 
-I
+PLAYLIST - A SOLITARY BARREL
 
-—S
-
-r
-
-1g
-
-HOE
-
-H
-
-GEA
-
-|
-
-ails
-
--
-
-be |
-
-u
-
-ll
-
-J
-
-~™
-
-_
-
-—
-
-_
-
-\ |
-
-I
-
-Dy
-
-EY
-
-STRAIGHT BOURB .N w
-
-Cc,
-
-PUL LED FROM OUR SINGLE:
-
-SK
-
-Cc
-
-PLAYLIST - A SOLITARY BAR
-
-}
-
-i
-
-WIRE
-
-D TO TURN
-
-SIMPLE MOME
-
-:
-
-7
-
-is
-
-07
-
+WIRED TO TURN SIMPLE MOMENTS
 INTO TECHNICOLOR.
 
-115.4 PROOF
-
-57.7% ALC./VOL.
-
-750ML VOL.
+115.4 PROOF 57.7% ALC./VOL. 750ML VOL.
 
 Ne OS

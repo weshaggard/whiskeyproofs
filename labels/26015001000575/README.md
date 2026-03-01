@@ -30,6 +30,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 SHANG EAST+WEST WITH SCOTCH WHISKY
@@ -66,22 +68,9 @@ ESSENCE XJ
 
 ### Front Label
 
-4
-
-TA
-
-}
-
-a
-
-f;
-
 EAST+WEST
-
 WHISKEY
 
 JIANG XIANG AND
-
 BLENDED MALT SCOTCH
-
 50% ALC/VOL, 500mL

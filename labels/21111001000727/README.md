@@ -36,172 +36,74 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
-iN
-
-LIMITED EDIT 1 O N  cimmmmmmmmmnn
-
-: C=
+LI MUTED EDU TU O Ni  cimmmmmmmm
 
 TASTING NOTES: Aromas of
-
-' Lhd s
-
 heavy caramel and toasted
-
 oak with hints of sweet
-
-i=
-
 vanilla, coconut and light
-
-rl
-
-‘—_
-
-* [ated
-
-leather
-
-The palate is
-
+leather. The palate is
 smooth with rich charred
-
-+ Ltd
-
 oak paired with vanilla
-
-' —
-
-KNOB:
-
 and caramel. The finish
 
-is warm with a touch of
-
-~
-
-brown spice
-
-|
-
-CREEK.
-
-: Lud
-
-:C5&
+brown spice.
+(@) p
 
 KENTUCKY STRAIGHT
+15 AGED BOURBON WHISKEY
 
-i — 3
+SMALL BATCA exc
+NE e <A
 
-AGED
-
-~ Gs
-
-BOURBON WHISKEY
-
-FIFTEEN
-
-=
-
-tok
-
-RELEASE No/ KCOO2
-
-psp) KY-230
+KENTUCKY STRAIGHT BOURBON WHISKEY
 
 19
 
-YEARS
+AGED FIFTEEN YEARS
 
-S|
+FIFTEEN * \,
+YEARS _RELEASE NO/ KC002 DSP/ KY-230°
 
-= \-- 1S)
+a
+<q
+4
+_
+2]
+=
+i
+°
+|
+io]
+B
+
+KNOB CREEK.
+
+CLERMONT, KENTUCKY
+
+110-KCV014
 
 ### Label 2
 
 LIMITED EDITION
 
-ae
-
-nu
-
-00 PROOE
-
-3
-
-is)
-
-S
-
 100 PROOF
 
-S07 ALCNOL
+100 PROOF
+FIM ALD
 
-a
-
-2
-
-=
-
-### Label 3
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-BRS a a
-
-0)
-
-80686
-
-03504
-
-6
+410-KCVO12 —
 
 ### Label 4
 
-AMIUMINGIY
+AMIUMINIWY LNOWYIAT9
 
-1NOWYIT19
+Sistilleg «
+Umire in
+Wangs; ties
 
-distil.
-
-d in
-
-Umire,
-
-'D
-
-TWantitig,
-
-CREEK
-
-sMALL
-
-batch
-
-### Label 5
-
-Cp
-
-eM
-
-°“ KY “=
-
-DISTILLING
-
-COMPANY
+CRE rat batdh

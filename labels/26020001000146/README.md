@@ -28,6 +28,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 -—— .KLUKF-
@@ -135,23 +137,3 @@ DISTILLED In
 PROOF rsom | ABs KG
 
 fr
-
-### Label 3
-
-lila aE En ES
-
-—
-
-202 1
-
-Nest
-
-~
-
-WHISKEY™~
-
-SS
-
-OMPANY
-
-\

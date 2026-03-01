@@ -28,19 +28,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Back Label
-
-CACRV
-
-Wi
-
-0
-
-88004°06377
-
-1
-
-COX.000000
+*2 image(s) excluded: text did not meet readability threshold*
 
 ### Front Label
 

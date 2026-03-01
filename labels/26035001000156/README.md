@@ -24,146 +24,52 @@
 
 ### Label 1
 
-are y
+W “SWATGON HLTVGH 3SNV9 AVW CNY AXSNIKDWW SIVYR40 -— WrOo"NomsrMuTuTexTEp “
+YO UD V IAUO OL ALTIGV UNDA SdIvalNl S3OVUIAIE IMOHODTV
 
-Se5
+40 WOUAWNSNOD (2) "S1o3430-HIG 40 NStd 3AL 40 aSn\038 VSN S3SSHNNAL TTIAHSYN =
 
-=
+JONYNS 4d ONIANC SIVUAATE STOHOOIW YNINC LON CINGHS NAWOM NOWNAWWY AB CHLLOG $=
 
-oa
+“TWHHN9:NOOUNS 3HL OL ONIOYODDV (1) -ONINAVM LNGWNY3K09 MONEY NOY ON CATS. SS
 
-Bes
+ON.
 
-in >
-
-e2 =>
-
-oe Slu
-
-Saf.
-
-ae
-
-\S
-
-AwsaBsssSs
-
-m2
-
-\
-
-se
-
-sce
-
-ey
-
-eS 7
-
-oa
-
-eS
-
-ae
-
-es
-
-iS
-
-:
-
-A arene ORE
-
-Se!
-
-=a
-
-Sesorss
-
-Szas
-
-——
-
-=g
-
-a ae
-
-Sa S=
-
-Bes
-
-=z=o=
-
-say
-
-s—
-
-=2
-
-BaSevwsez
-
-Ss
-
-eauc=2
-
-ea
-
-ess
-
-AMMUNITION
-
-= ya
-
-|
-
-eee
-
-2 2 aoe
-
-S25
-
-ss
-
-o>
-
-zs
-
-7-4
-
-KENTUCKY STRAIGHT
-
-BOURBON WHISKEY
-
-Sa=S
+>
 
 CRAFTED IN SMALL BATCHES by
 
-——i—s en]
-
-BSa
-
-===}
-
-AMMUNITION DISTILLERY, KY., USA
-
-—
-
-Sur
+AMMUNITION DISTILLERY, KY
 
 Bottle No.
 
-So=
+ys
+ia
+Ne
+0)
+Z
+:
+:
+Q
+pa
 
-0107
+2
+v
+:
+Bs
+H
+0)
+by
+3
+0
+fs
+|
+Z
+Ee
+Hs
 
-Alc 45% by vol
+AM
 
-750mL
-
-—
-
-2s2
-
-90 Proof
-
-CA CRV
+hjinuabuy uvs1sauy 2 YlOM PAVE] yum
+paysiuty 2 paby “pappisid
+VOINAWY /o LIYIdS ANUL AML 3

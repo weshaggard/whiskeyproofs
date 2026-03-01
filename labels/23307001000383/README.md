@@ -38,6 +38,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 yer -Y
@@ -78,132 +80,57 @@ com
 
 Prlood Oath
 
-yerv LIMITED RELE gg
-
-ees
-
-Cabernet Franc & Merlot Casks
+Kentucky Straight Hourhion Whiskey
+Fuistiedin
+Cabernet France & Merlot Casks
 
 49.3% ALC/VOL | 98.6 PROOF
 
-2024 Pact No.10 oaxxiy
-
-Z
-
-ain of howell bud ye
-
-ai il
-
-thed. bawesben each cony
-
-habs
-
-th
-
+2 Pact ENDL. wera
+A maitifaluniineptze wll bad yed boubons
+end one finished baubon each. complementing the
 thew inthe, owe 10" eddiin pact Iu honsavil thes
-
-double finish,
-
-daable-digit mileilens, we've achiveds
-
-ie
-
-Thefessifih was perfected in baber
-
-.
-
-Meck,
-
-OTe
-
-:
-
-nd
-
-mua
-
-i and,
-
-we Merlo
-
-baucla mililng Ue deiticet tei
-
-with undettonisyf vanille, cocoa, and aniit, Jan
-
-7
-
-itaf ud iene foul
-
+toablcdegitrmtiter, wwe ve aché vedw da es
+Thefistifimih wae piped in babe
+bastcls inbusng tee lor a he
+Lhe feppe. nd feriih was wfened in Meabel
+beucls milling Me incl laale gf ued sere d
+ep VEEN NOTES EY
 This rare Pact shall never again fe made.
 
-pact: JO
+eu Mir Eo
 
-DATE:
-
-19
-
-20.2
+EX
+oP O45
+S ¢
+ded g
+‘2 7
+NAS
+ERTS M.M.XXLV.
 
 ### Label 3
 
-THE
-
-Plood Oath
-
-Al
-
-is
-
-a
+pieod Oat
 
 That every batch of Blood Oath is the
-
 undertaking of one man ~ a student of
-
-both Bourbon and Science. Loyal to no
-
+both Bourbon and Science. Loyal to1n0
 one family, favoring no one distillery
-
 and bound by no one philosophy ~ this
-
-Bourbon connoisscur has one goal in
-
-mind ~ to seek out Bourbons rare and
-
+Bourbon connoisseur has one goal in
+mind — to seck out Bourbons rare and
 wonderful, famous and forgotten. Then
-
 bottle them in combinations previously
-
 unimagined fora lucky few. Not to cater
-
 to anyone's loyalties, he has sworn to
-
 never reveal where he finds his Bourbon,
-
 but only to promise to choose and make
-
-the best he knows, Loose lips never
+the best he knows. Loose lips never
 
 tasted something so special.
 
-Op»
-
-3
-
-eR TE
-
 EXCLUSIVE RELEASE: MMXXIV
-
-### Label 4
-
-MAXXTY
 
 ### Label 5
 
-Ay
-
-VERY LIMITED RELEASE
-
-NEVER TO BE MADE AGAIN
-
-oy
+VERY LIMITED RELEASE NEVER TO BE MADE AGAIN

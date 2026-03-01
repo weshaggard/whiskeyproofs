@@ -39,206 +39,38 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 AGED FOR OVER 12 YEARS IN OAK CASKS
 
 ### Front Label
 
-N
-
-N
-
-RS
-
-Barrelled
-
-S
-
-\
-
-N
-
-N
-
-Ltd. Bottling
-
-2001
-
-N
-
-N
-
-N
-
-N
-
-N
-
-2013
-
-S
-
-NS
-
-S$
-
-N
-
-<<
-
-ES.)
-
-SN
-
-\
-
-AQ
-
-iS
-
-N
-
-INL
-
-S
-
-<<
-
-Sy
-
-Y
-
-SN
-
-SS
-
-SV
-
-N
-
-N
-
-N
-
-N
-
-S)
-
-S
-
-N
-
-\
-
-N
-
-N
-
-N
-
-S
-
-SL
-
-\
-
-SN
-
-N
-
-S\N
-
-ws
-
-S
-
-N
-
-N
-
-X
-
-KS
-
-N
-
-N
-
-N
-
-N
-
-\
-
-Y
-
-RS
-
-\
-
-N
-
-S
-
-iS
-
-S
-
-iS
-
-N
-
-<9
-
-Sj
-
-WH “as
-
-SN
-
-SIO
-
-<<
-
-EA
-
-WEL “WH
-
-\
+Ss) N N
+OQ) NA ;
+Barrelled NaI NTN \ Ltd. Bottling
+Ni Ni Ni
+2001 NS) NUN \ 2013
+N NOT TAA TAA
+SX N x
+wn N SNK (Ov
+N N
+SS N
+YS N N
+N N N
+\ wS S S
+\ S \ S Ss NY
+As Wo TSE TNR SAAN WOH Way
 
 KENTUCKY STRAIGHT BOURBON WHISKY
 
-Poor
+Bourton
 
-DISTILLED BY BROWN-FORMAN DISTILLERS
-
-LOUISVILLE, KY 750mL EOC
+DISTILLED BY BROWN-FORMAN DISTILLERS C0. LOUISVILLE, KY 750mL [EQAOAIMCEO Ian
 
 ### Label 4
 
 FIRST BOTTLED BOURBON
 
 NOSUNOd GATLLOG LSal4
-
-### Label 5
-
-ORY Boy
-
-AGED
-
-@
-
-~
-
-12
-
--
-
-t
-
-YEARS
-
->
-
-76, DB ot®

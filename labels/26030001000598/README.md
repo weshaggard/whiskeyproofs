@@ -26,42 +26,27 @@
 
 ### Back Label
 
-DSP-WV-21034
-
-Est. DOD
+EST. 2023 DSP-WV-21034
 
 ome
+
+cUNSET DISTILLING Co
 
 BOURBON
 
 HAND-FINISHED AND BOTTLED IN THE APPALACHIAN
-
 MOUNTAINS, OUR BOURBON EMBODIES THE DEEP MYSTERY
-
 OF TWILIGHT SETTLING OVER THE MOUNTAINS.
 
 RICH, FULL-BODIED, AND LUXURIOUSLY SMOOTH, EACH SIP
-
 REVEALS THE ESSENCE OF DUSK-LIKE THE LAST EMBERS OF
-
 DAYLIGHT GIVING WAY TO THE VELVET EMBRACE OF NIGHT.
-
 THIS IS DUSK’S CROWN JEWEL.
 
 GOVERNMENT WARNING: (1) According to the Surgeon
-
 General, women should not drink alcoholic beverages during
-
-a
-
-_eS
-
-—
-
 pregnancy because of the risk of birth defects. (2) Consumption
-
 of alcoholic beverages impairs your ability to drive a car or
-
 operate machinery, and may cause health problems.
 
 Distilled in NC. Bottled by Sunset Distilling Co., Yellow Spring, WV

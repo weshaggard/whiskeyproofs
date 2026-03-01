@@ -31,6 +31,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 KENTUCKY STRAIGHT BOURBON WHISKEY
@@ -89,68 +91,30 @@ LOUISVILLE, KENTUCKY 40216
 
 a
 
-### Front Label
-
-iN
-
 ### Label 4
 
-A00Ud
+KENTUCKY STRAIGHT
 
+.| BOURBON WHISKEY
+
+{Gone 7G Pe PYM}
+
+A00Ud
 SOL
 
 cl
 
-BA
-
-om
-
-aZz
-
-we
-
-Zr
-
-Sa
-
-= 4
-
-iz
-
-ae
-
-ane)
-
-“4
-
-108
+distilled and bottled in Kentucky}
 
 PROOF
 
-sai!
-
-ON
-
-a=
-
-ase
-
-34
-
-ne)
-
-aie
-
-5 4
-
-ae)
-
-Ze
-
-Mee
-
-/\p
-
 108
 
+AAXSIHA NO@UNO" |
+
+LHSIVELS AYON.LNAY
+
+108
 PROOF
+
+/\?

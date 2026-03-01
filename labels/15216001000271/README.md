@@ -35,6 +35,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 booker
@@ -58,22 +60,6 @@ s<¢e
 barrel tured.
 
 cened jlo .
-
-### Label 2
-
-63.55%
-
-Alc/voL
-
-(127.1 PRooF)
-
-KENTUCKY STRAIGHT BOURBON WHISKEY
-
-016-04 MASTER DISTILLER:19 60-1992
-
-### Label 3
-
-»—~
 
 ### Label 4
 

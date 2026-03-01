@@ -110,12 +110,9 @@ oe
 
 ### Front Label
 
-j\
+THE UNTAMED AMERICAN SPIRIT
 
 WAR PONY
+BLENDED en plese
 
-BLENDED Renan.
-
-/
-
-|
+40% ALC/VOL | 80 Proof

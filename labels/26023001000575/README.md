@@ -30,6 +30,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 GOVERNMENT WARNING:(1)ACCORDINGTO
@@ -59,25 +61,3 @@ DSP-KY-31 BARDSTOWN, KY
 TS0ML
 
 AMIN
-
-### Front Label
-
-wy il
-
-as
-
-ne
-
-fd
-
-Fore)
-
-earunal
-
-cmt, i
-
-HEAVEN HILL
-
-DEATSVILLE
-
-=i

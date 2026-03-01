@@ -153,21 +153,14 @@ ALC/VOL
 ### Label 3
 
 AMOQINAY
-
 NMOLSCUVa
-
-NI dddV ¥
-
-qa 1Tdddvd
-
-“CATTILSIC
+NI adv ¥
+aa Tauuva
+‘CATIILSIG
 
 DISTILLED,
-
 BARRELED
-
 & AGED IN
-
 BARDSTOWN
 
 KENTUCKY

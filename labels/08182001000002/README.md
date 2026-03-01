@@ -31,200 +31,35 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
-A OT ee SS,
-
-Se
-
-ee
-
-kD
-
-Ic
-
-AR
-
-7)
-
-e
-
-af
-
-+i
-
-es
-
-48
-
-ol
-
-3
-
-We are proud to offer you our rare
-
-25 Year-Old Single Barrel Straight Rye
-
-Whiskey.
-
-In the Michter’s tradition
-
-hailing
-
-from one of America’s first
-
-aetliecs this whiskey is made from
-
-highest quality American Rye and aged
-
-i
-
-for 25 years in a hand-selected charred
-
-white oak barrel until it meets
-
-our
-
-exceptional quality standards. It is then
-
-D further mellowed by our
-
-tai
-
-nie
-
-(fF
-
-signature
-
-filtration.
-
-GOVERNMENT WARNI
-
-) ACCORDING TO TH
-
-ier
-
-SURGEON GENERAL, WOMEN SHOULD NOT DRINK
-
-Bal
-
-ALCOHOLIC BEVERAC
-
-DURING PREGNANCY BE-
-
-—s)
-
-CAUSE OF THE RISK OF BIRTH DEFECTS. (2) CON
-
-=.
-
-SUMPTION OF ALCOHOLIC BEI
-
-RAGES Mi
-
-IRS
-
-YOUR ABILITY TO DRIVE A CAR OR OPERATE Ni
-
-ACH
-
-NERY, AND MAY CAUSE HEALTH PROBLEMS,
-
-=~
-
-si
-
-BOTTLED BY
-
-if
-
-MICHTER'S AMERICAN WHISKEY CO.
-
-\
-
-BARDSTOWN, KENTUCKY 40004
-
-il
-
-mil
-
-### Label 1
-
-Soopers
-
-1
-
-=
-
-ess eRe o/y,
-
-ba
-
-we
-
-cigs
-
-wt
-
-&
-
-&.
-
-aes
-
-cH
-
-Be (
-
-ie
-
-dr.
-
-2
-
-(OZ
-
-———a
-
-a4
-
-(hi
-
-= Ss
-
-——
-
-Ss
-
-&
-
-SS
-
-%
-
-¥.
-
-fas
-
-$
-
-Pe
-
-“vy
-
-in
-
-pee
-
-Seah
-
-### Label 2
-
-Michter’s
-
-Bottle
-
-of
-
-Barrel N°
+SE a Ae ae
+eS Lae eer Tem
+ae “pC YRS. SINGLE BARREL @
+im 7,30. STRAICHT RYE
+i 4. OD. STRAIGHT RYE @
+ig We are proud to offer you our rare
+BI 25 Year-Old Single Barrel Straight Rye ig
+i Whiskey. In the Michter’s tradition
+WM bailing from one of America’s first
+} distillers, this whiskey is made from (am
+Wi highest quality American Rye and aged Jb
+Hey for 25 years in a hand-selected charred Wa
+Oe sitcod tact wil wach our
+§@ exceptional quality standards. It is then fi
+i) further mellowed by our 7.
+Mf signature filtration. =—'f
+\ GOVERNMENT WARNING: (1) ACCORDING TO THE =——=2 hie
+Hi ‘SURGEON GENERAL. WOMEN SHOULD NOT DRINK Fe iia
+2 ALCOHOLIC BEVERAGES DURING PREGNANCY BE- =s 4
+si MS CAUSE OF THE RISK OF BIRTH DEFECTS. (2) CON- Jiu st,
+Bie SUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS -——J a)
+fff YOUR ABILITY TO DRIVE ACAR OR OPERATE MACH- == Gaus
+fie NERY, AND MAY CAUSE HEALTH PROBLEMS. = eA te
+As BOTTLED BY ——
+fis MICHTER'S AMERICAN WHISKEY CO. es: y
+i BARDSTOWN, KENTUCKY 40004 f
+ae allt aan SHR: eM tai
+fog wel

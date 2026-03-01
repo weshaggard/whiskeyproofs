@@ -28,69 +28,31 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
-A\B/C
-
+NE Wiy,
+<\ mmms &
+—
+& spi Rit?
 Coper & Cark
 
-Et
-
-DST
-
-(E
-
-fmssrenceburgs [/V
-
-) fh
-
-ar
-
-ty
-
-Te
-
-Mow '2b \L7
-
-ie.
-
-te
-
-Es
-
-1 Borelr —_ | fa]
-
-ee
-
-oF
-
-NOW-CHLL FLTERED-750 ML
-
-S546 ALC BY VOL 12 PROOF
-
-SCAN TO LEARN MORE
-
-‘ABOUT THIS BARREL
-
-‘BOTTLED BY LATITUDE BEVERAGE CO.
-
-2
-
-IN RUMFORD, RHODE ISLAND
-
-zn
-
-ara
-
-ee, —e
-
-=
-
-=
-
-fev is oe
-
-=<
+—sase EN
+{ Lewenecbgs | SEAT
+Sa =) Ses
+Mon 2b || 7 i fe 4
+‘waTC STE me oa tobe,
+YBoretr | PREY
+SECA Mumm SoavTOLEARN WORE
+coy
+‘BOTTLED BY LATITUDE BEVERAGE CO. ——————°
+IN RUMFORD, RHODE ISLAND —-
+ho =§$4
+cana $9
+Ca
+ta oe ——=
+CS  ————
 
 ### Front Label
 
@@ -105,7 +67,3 @@ CHILL FILTER
 alll [7 yes | Se
 
 750 ML - BARREL PROOF
-
-### Label 3
-
-S

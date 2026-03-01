@@ -36,6 +36,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 MADE In
@@ -144,34 +146,6 @@ PLEASE SIP RESPONSIBLY
 
 r
 
-### Label 1
-
-a
-
-MP
-
-eZ
-
-CER.
-
-Si
-
-Sama
-
-mm
-
-&
-
-ys ne
-
-ft
-
-age Te
-
-Rum Barrel Jo
-
-he Ano
-
 ### Label 2
 
 Aged 6 Years
@@ -206,34 +180,15 @@ the USA
 
 ### Label 3
 
-FRIENDS
-
-PEIRCE
-
-MILL
-
-kk &
-
+FRIENDSor
+kkk
 A portion of the proceeds
-
 from the sale of Peirce Mill
-
 Rum Barrel Finished Rye
-
 Whiskey will support the
-
 Friends of Peirce Mill, who
-
 work with the National
-
 Park Service to restore
-
 and interpret
-
 Washington's last
-
 working gristmill.
-
-### Label 5
-
-| Mi inate YY POZA LV |

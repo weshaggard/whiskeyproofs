@@ -30,27 +30,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Label 1
-
-EETS
-
-OAKLORE
-
-: DISTILLING?
-
-BOURBON
-
-WHISKEY
-
-_ _
-
-### Label 2
-
-OAKLORE
-
-BOURBON
-
-WHISKEY
+*2 image(s) excluded: text did not meet readability threshold*
 
 ### Label 3
 

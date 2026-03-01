@@ -36,6 +36,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 ne)
@@ -122,54 +124,12 @@ g
 
 SOM ALCO.
 
-### Label 3
-
-|
-
-|
-
-|
-
-|
-
-te)
-
-80686
-
-01689
-
-2
-
-### Label 4
-
-Sa
-
-SRM a
-
-eo KY “5
-
-DISTILLING
-
-COMPANY
-
 ### Label 5
 
-AMIUMINGIY
+AMIUMINIWY LNOWYIAT9
 
-1NOWYIT19
+Sistilleg «
+Umire in
+Wangs; ties
 
-distil.
-
-d in
-
-Umire,
-
-'D
-
-TWantitig,
-
-CREEK
-
-sMALL
-
-batch
+CRE rat batdh

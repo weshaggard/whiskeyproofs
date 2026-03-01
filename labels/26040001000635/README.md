@@ -26,101 +26,39 @@
 
 ### Back Label
 
-pits
-
-sate
-
-Ly
-
-.
-
-~
-
-POE ae
-
-Ale |
+oo
 
 Canal Warehouse Rye honors
-
-ae
-
-|
-
-ae
-
-Belfast’s historic canal warehouse,
-
-me
-
+Praia s historic canal warehouse,
 listed on the National Register of
-
 Historic Places. Beautiful and
-
 storied, it remains a defining
-
 landmark of our community.
 
-i
-
-A true distiller’s spirit. We founded
-
+. : A true distiller’s spirit. We founded
 BelCliff Distilling with a bold mission —
-
 to craft exceptional spirits using
-
 techniques typically reserved for the
-
-Pe
-
 finest, most exclusive bottles, and make
-
 them accessible for everyone
-
-*g
 
 Produced and bottled by
 
-oe
-
 BelCliff Distilling, LLC
-
 Belfast, NY
 
 GOVERNMENT WARNING: (1) According to the
-
 Surgeon General, women should not drink
+alcoholic beverages during pregnancy because of ©
 
-alcoholic beverages during pregnancy because of
-
-&
-
-the risk of birth defects. (2) Consumption of
-
+the risk of birth defects. (2) Consumption of = =_——
 alcoholic beverages impairs your ability to drive a
 
-'y car or operate machinery, and may cause health \
+ss
 
-problems.
+problems
 
-( Ee eS ES
-
->
-
-es
-
-ae
-
-4
-
-FP eS
-
-opt
-
-dé
-
-ogee Sire
-
-t=
+Gee tind ee Se
 
 ### Front Label
 

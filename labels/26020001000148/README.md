@@ -26,409 +26,61 @@
 
 ### Front Label
 
-Lm
-
-=
-
-Ra
-
-.
-
-a:
-
-Poe
-
-face
-
-Seek
-
-Sa
-
-ris
-
-ee
-
-ae
-
-aN
-
-S
-
-rons
-
-aes
-
-a
-
-a
-
-2A
-
-=
-
-Ee
-
-ae
-
-ee
-
-sere
-
-EDS
-
-feos
-
-a
-
-Bass
-
-ie
-
-ae
-
-oe
-
-ae
-
-ie
-
-a
-
-as
-
-aS
-
-re
-
-eran
-
-oo:
-
-Sine
-
-wet
-
-ns}
-
-=
-
-SS
-
-ae
-
-ones
-
-a
-
-ay
-
-———
-
-pen
-
-4
-
-a
-
-ex
-
-ie
-
-cae
-
-be;
-
-SS
-
-Ses
-
-g
-
-=
-
-1a
-
-eee
-
-a
-
-b<
-
-Se
-
- &
-
-—
-
-Rees
-
-tape
-
-Pe
-
-§
-
-=.
-
-&
-
->
-
-ap
-
-vs
-
-SS
-
-oa
-
-Sis
-
-=
-
-a
-
-ss
-
-+83
-
-wr
-
-cote
-
-Sos
-
-en
-
-sod
-
-=
-
-J
-
-ae
-
-os
-
-Ss
-
-ss
-
->»
-
-rae
-
->
-
-Ss
-
-ae
-
-te
-
-3
-
-ae
-
-Sots
-
-oy
-
-a
-
-a
-
-=
-
-ne
-
-a
-
-4
-
-os
-
-J
-
-=
-
-if
-
-ca
-
-‘Peeps
-
-Na:
-
-a
-
-a
-
-sore
-
-@
-
-Ld
-
-oa
-
-ee
-
-oases
-
-a
-
-NN
-
-en
-
-wa,
-
-S&
-
-pea F i
-
-ee
-
-=
-
-a
-
-ee
-
-ah
-
-Soe
-
-ae
-
-max
-
-wz
-
-G
-
-See
-
-Ye
-
-S5
-
-BS
-
-Se
-
-<=
-
-a
-
-=
-
-oa
-
-oy
-
-SS
-
-IS
-
-é
-
-&
-
-&
-
-os
-
-as
-
-aS
-
-os
-
-SS
-
-a0
-
-Be
-
-a
-
-line
-
-ta,
-
-<4
-
-S
-
-re
-
-=
-
-ES
-
-=
-
-—
-
-&
-
-“S,
-
-a
-
-Se
-
-=
-
-a
-
-a
-
-SSE
-
-ond
-
-=
-
-Se
-
-. G
-
-Ww
-
-K
-
-See
-
-Hr
-
-RR
-
-EL STRENG
-
-NON-CHII
-
-L FI
-
-ERED
-
-=P
-
-SINGL
-
-ARREL
-
-=
-
-ALC./VOL.
-
-PROOF
-
-00
-
-100
+BoE ie EO ee aN as ge Te Fs res RN RSS ENE OE NSS NOIRE lS a
+; pee a eR. Se ae eee
+bare TG se Sc een SPORT Fe OR apa a oe Cee Se ae RR oe
+«SSS Ss Ss eee gs ee Bee ree ate
+Se Se ee ee ee Fey ee RR ee
+: Se Rs en ere ee ae SO YG eR rn eset
+. ee ee Oe ee As ae ee
+ee SS ce Om SO ee ee ee
+See ees ES eS hea & f) Sc ee
+See tee be ga—> &- & 2k a SES eatin
+eae a al 2 p = pS ee a4 Se ea he ve °S SY ee Sve
+: SS aa ie { a > & & Ses eee i oN ae ;
+KE ae Oe ~ & S Se Aa ve Se a geo FV a ae
+Rare - i a Fr Bo fe ea a a5 Be Be Peon SEE Nee
+- —S 8 41 awe a- 2: Ue.
+=o SS SA ea P55 4 Sa ees SRS ee eee Se = Bia ore
+3 Eee tees RS Re oe oO ROR oO Zoe Pan ee eae =
+as 8 @ S&S Ay a 2.
+Pb <SeS cee. fe 3 & Ey =s € & ae Se rae eee ;
+~ > eras 2 A SS eS mt 2 cn es ere eS
+Shee a < Gane S&S 2 SSS Oe eee
+: = oo SS Ree eee ene = Ww S Sea bo Poe ~< LoS pees eee
+Re a ES i ea & =, SS iN bao] se Se. Cae ees Ganesan, = -
+: Se eae ee eS > 2S S&F 2S ee ote ee
+Spe re INS SEES , a. lO. aoa Poe Bee meee
+; Se ee ee CES ISS Oi can Oo ee ee
+c wae PERSE Ne RRO PEE ee RRS NS US grrr Ge BS: Been
+Sees Bee Sr Be SaaS se Oe Pee Bee eae
+Sr esas LONSESS TST ae a teal is a a ae a bse. Te « ‘3
+SRS aS Se eae DS eee
+Se a eet oe tO oO SUIS, © ZONE Sen Sas et : ;
+: ae SUR Esa ete CCN re Sener neat See
+SNS Re é Pee ss eee ee
+: ee eS EOE ee ees eRe, Pivescteees Sens Ss Ta
+; Bees Fe ee Be” ES SRS een eee :
+: ES eae oa Ot a ato RS Te see
+: es Daa SRS tre OO en ae RAS Seniesa ee
+Se NS en po re Or SRN GO Re IEE ree SESS Ganon ene
+SES, Ree tog Piette SRO ces 5S Pe oe ee Leese: Sse :
+: ose . “een ee ee See oe
+* SR eS ae RRs ae eS ED). Se ed aaa See Ee
+es See rere ee
+: Bese eS Se ca ee ee Ss Capes =. Woe eee ene :
+So aes a SPE SEE ere = = eee z
+OS Re a 1° see Se oO Bees
+: la ed a eS = y Say i Rane uke :
+Sex Ses FeReE ER Pose @ & Wee
+ees a Se Tee nt
+i SSS ae WHISKEY | SESS See
+Be Rs j B= 3 oS ep Cee z
+: OS es oe eee & Seng yan ao Ph eS
+Sos oes 3 So, SSS ses are fern, i = Ses : Se Ree
+. DEES ieee NRE er aT
+BARREL ‘STRENGTH = NON CHILL FILTERED
+ALG./VOL. Mali PRooF #iill
 
 ### Label 2
 

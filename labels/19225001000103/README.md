@@ -38,6 +38,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 yerY LIMITED RELEgs
@@ -86,240 +88,70 @@ EAE
 
 ### Label 1
 
-‘e
+OO SN
+7 ————————————————————— N
+B22 CP Nale?
+Be) nanan CyamM
+Rae itee
 
-y_*
+PJ KUM VU
+yen’ UMICHPIREL EAS.
 
-4 (o>
+——— fneky Straight —— |] J
+| BOURBON WHISKEY
+Finished in Cognac Harrels
+| 49.3% ALC/VOL | 98.6 PROOF | 750ML
 
-LA!
+ry CN or Voxd |
+| 2020 Pact_No AY MMXX
+| » Se eee atl. <|
 
-wh
+—dak with oak, hather and labacce. aa,
+| Syear lead warm will cinnamon, albpucvand
+| lari And tous, af fllef vealed caramel
 
-nt
+Cognac casks fora fimush that all Kinitichy heat
 
-fo
+with a wispp of creme basilec sweet A voliz canter
 
-wy
+Fhis care Pact shal never again be made. || |
 
-a4
+PACT: Wg DATE: NY, 20: DY
 
-» |
-
-t]
-
-ad
-
-1 \
-
-Fi
-
-u
-
-{
-
-aq
-
-i |
-
-py
-
-ai &
-
-uy
-
-FD
-
-Y
-
-ve
-
-yer’ LIMITED RELEgg
-
-“ek S
-
-ae
-
-Kent
-
-URY S
-
-Straig
-
-B O U
-
-ON
-
-WH
-
-ISKEY
-
-J Finis
-
-n
-
-Cognac Harrels
-
-in €
-
-49.3% ALC/VOL
-
-| 98.6 PROOF
-
-| 750ML
-
-2020
-
-Pact No 0.9 MMXX
-
-A mas
-
-\Lansin
-
-on ile owe
-
-eet semembered, One,
-
-&é
-
-a warn BEER OUTIL pi
-
-Jobprecitdeaamel
-
-DEES
-
-Wed endl eae
-
-Sue Ll fac et Titel lat
-
-witha wispp of creme builees wetA vote ante,
-
-neup
-
-ee
-
-ve Mma
-
-mate.
-
-This race Pact shalt
-
-Revere
-
-agai tl
-
-20: Di)
-
-cr G ware, Df
-
-ee
-
-G
-
-la ZC.
-
-(Gryoe
-
-M.M.X.X
-
-7
-
-a
-
-LFOOO0 a)
+Ws 2 (fp.
+lh ZS ({Onyoe |
+M.M.X.X.
+A = (Fo000 | |
 
 ### Label 3
 
+ne
+S\
 THE
-
-Hlood Oath
-
+PHlood Oath
 ATTESTS
-
-Thai
-
-y batch of Blo
-
-Jath is the
-
-und
-
-staking of one man ~ a stud
-
-Ati
-
-to
-
-°
-
-both Bou
-
-on and Science. L
-
+That every batch of Blood Oath is the
+undertaking of one man ~ a student of
+both Bourbon and Science. Loyal to no
 one family, favoring no one distillery
-
-and bound by no one
-
-osophy
-
-this
-
-Bourbon connoissei
-
-thas on
-
-gc
-
-mind — to seek out Bourbons rare
-
-wonderful, famous
-
-go!
-
-Then
-
+and bound by no one philosophy ~ this
+Bourbon connoisseur has one goal in
+mind — to seek out Bourbons rare and
+wonderful, famous and forgotten. Then
 bottle them in combinations previously
-
-unim
-
-1 a lucky few. Not to
-
-10 any
-
-oyalt
-
-he has sworn to
-
-never reveal where he finds
-
-is Bourbon,
-
-but
-
-toch
-
-and me
-
-th
-
-st he knows. Loose
-
-Ds never
-
-tasted something so sp:
-
-al.
-
-(
-
-Ce RTS
-
-»
-
-H
-
-ELEASE: MMX
-
-1s0000
-
-=
+unimagined fora lucky few. Not to cater
+to anyone's loyalties, he has sworn to
+never reveal where he finds his Bourbon,
+but only to promise to choose and make
+the best he knows. Loose lips never
+tasted something so special.
+vo O4 >
+te)
+° ks
+S
+ee e
+q Q
+A &
+fa) S
+Frit
+480000

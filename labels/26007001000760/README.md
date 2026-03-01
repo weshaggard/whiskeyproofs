@@ -24,19 +24,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Label 1
-
-[ 76
-
-ik Nay oo
-
-BOURBON =
-
-50%
-
-Iv
-
-. 100 PROOF
+*1 image(s) excluded: text did not meet readability threshold*
 
 ### Label 2
 

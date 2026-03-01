@@ -24,6 +24,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Front Label
 
 colo
@@ -95,15 +97,3 @@ CPURATE MACHINERY, AUD MAY CAUSE NEATH PROBLEMS,
 CA CRY ME-VT 15¢ 1A 5¢
 
 6% ALC/VOL | 92 PROOF 750mL.
-
-### Label 2
-
-it
-
-ae
-
-D
-
--—)
-
-ar

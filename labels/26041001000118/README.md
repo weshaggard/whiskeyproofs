@@ -24,32 +24,11 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
-tourRoses
-
+kon UCKy srRalely
+‘RBON WHISP
+“SR Roses DISTILLING ©
 a
-
-BO
-
-N
-
-URBO
-
-x NTYy
-
-ICKY grpaloty
-
-“SR
-
-BON WEIS" ”
-
-® ROSES DISTILLING ‘
-
-MORE, MARYLA
-
-rv
-
-94 2¥=
-
-——

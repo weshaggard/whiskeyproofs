@@ -88,52 +88,14 @@ health problems.
 
 ### Front Label
 
-TD
-
-POS=
-
-peg
-
-hf
-
-=
-
+y AN; =I
+J ST . zy A aw) Mess
+QWs Tyas ZA
+— Ah | /| SE
 — EARLY WINTERS —
-
-WHISKEY
-
-@
-
-(WEE
-
-FINISHED IN SELECT BARRELS
-
-A Unique Blend of
-
-\
-
-Ww
-
-METHOW VALLEY, WA
-
-)
-
-a)
-
-Wie
-
-G\
-
-SS
-
-EN VTL
-
-x Spy vo. 48°
-
-tfe~
-
-.
-
-IK EYWiA
-
-SS
+AUnique Blend of Whiskeys \ — eae
+FINISHED IN SELECT BARRELS \\ (MV a
+METHOW VALLEY, WA | ) 202. > |
+WEF
+AWS
+WAAR

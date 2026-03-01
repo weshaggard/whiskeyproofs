@@ -39,6 +39,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 OLD FORESTER.
@@ -57,66 +59,16 @@ Lh
 
 Barrelled
 
-Ltd. Bot
+2000 201
 
-ttl
+him Led, Botting
 
-2000
+Berth dau Pox WHISKY
 
-U
-
-201
-
-ing
-
-=
-
-.
-
-q
-
-S$
-
-F
-
-=
-
-—— =
-
-—
-
-NTUCKY STRAIGHT
-
-.
-
-B
-
-DISTILLED BY BROWN-FORMAN DISTILLERS '
-
-LOUISVILLE, KY 750mL 49.5% ALC/VOL (97 PROOF)
-
-### Label 3
-
-——— ——
+DISTILLED BY BROWN-FORMAN DISTILLERS G0. LOUISVILLE, KY 750mL 49.5% ALC/VOL (97 PROOF)
 
 ### Label 4
 
 FIRST BOTTLED BOURBON
 
 Nogunog aaiilog isuld
-
-### Label 5
-
-oY 1 Me,
-
-@ AGED
-
-=12:
-
-%
-
-YEARS
-
-=
-
-cn B ow”

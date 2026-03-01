@@ -45,6 +45,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*3 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 booker
@@ -69,18 +71,6 @@ barrel tured.
 
 cened jlo .
 
-### Label 2
-
-64.00%
-
-(128.0 PRooF PROOF)
-
-it we
-
-Boob STRAIGHT BOURBON WHISKEY
-
-5019- 02 Looker: DISTILLER:1960-1993
-
 ### Label 3
 
 64.00%
@@ -95,40 +85,18 @@ Boob: STRAIGHT BOURBON WHISKEY
 
 ### Label 4
 
-ife|
-
-64.00%
-
-{
-
-ia
-
-(128.0 ArooF)
-
-7DAYS
-
-KENTUCKY STRAIGHT BOURBON WHISKEY
-
-9019-01 4-4-2
+Mae | 64.00% oon
+B47 —  |(128.0 Prooe)! 7 bays
+FA reve ENT STNG BOURBON WHEY
+B Hl Book. for
+a 2019 Ol MASTER DISTILLER:1960-1993
 
 ### Label 5
 
-64.00%
+? 6 4.00% a
+2 | VoL sano
+s 7 mT (128.0 ARooF) eam
+ES aroun _ KENTUCKY STRAIGHT BOURBON WHISKEY
+2019-01 dete 2—.
 
-(128.0 PRooF PROOF)
-
-7 aid
-
-Boob STRAIGHT BOURBON WHISKEY
-
-9019- Ol Lack: DISTILLER:1960-1993
-
-### Label 6
-
-l
-
-80686'01140'
-
-### Label 7
-
-»—~
+F MASTER DISTILLER:1960-1993

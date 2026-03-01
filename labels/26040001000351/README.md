@@ -22,20 +22,10 @@
 
 ### Label 1
 
-SLOWLAND.
-
-. = oo
-
 90% ALC. BY VOL.
-
-ner CONT: . hn UIERS
-
-BLENDED AND BOTTLED BY STADIUM BEVERAGE CO. ANN ARBOR, Ml
-
+NET CONT: 1.75 LITERS
+BLENDED AND BOTTLED BY STADIUM BEVERAGE CO. ANN ARBOR, MI
 GOVERNMENT WARNING: (1) According to the Surgeon General, women
-
 should not drink alcoholic beverages during pregnancy because of the risk of
-
 birth defects. (2) Consumption of alcoholic beverages impairs your ability to
-
-drive a car or operate machinery, and may cause health problems
+drive a car or operate machinery, and may cause health problems.

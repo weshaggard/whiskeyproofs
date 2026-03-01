@@ -30,6 +30,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 SHANG JIANG XIANG WHISKEY / CHUN HOU
@@ -95,11 +97,3 @@ ee
 __
 
 =
-
-### Label 3
-
-CI
-
-We
-
-i

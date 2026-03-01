@@ -34,6 +34,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 MT
@@ -92,112 +94,8 @@ IA 5¢
 
 ### Front Label
 
-—
-
-ee
-
-—w
-
-‘y
-
-\
-
-ay,
-
-Be
-
-¢
-
-y
-
-ANY
-
-RAL,
-
-A?
-
-ti
-
--
-
-i
-
-y
-
-Dp
-
-\
-
-@
-
-y)
-
-:
-
-z
-
-Wir
-
-==
-
-eC a
-
-—
-
-iv
-
-li
-
-IP
-
-B |
-
-vy
-
-2m,
-
-al
-
-SH
-
-©)
-
-BOTTLE NO
-
-69/420
-
 KENTUCKY STRAIGHT
 
-BOURBON WHISKEY
-
-EL anfbBbon
-
-### Label 3
-
-Ee
-
-——S
-
-—s
-
--——
-
-to
-
-——
-
-=
-
-### Label 4
-
-X{
-
-ye
-
-Db
-
-Al
-
-1 Ss
-
-Co
+576% ALC BY VOL
+Fi CASK BOURBON WHISKEY
+8| STRENGTH

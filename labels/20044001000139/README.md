@@ -36,63 +36,31 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
-me [EGS
-
-2y
-
-Sama}
-
-<° KY -
-
-buo=2ik
+110-Kevo11
 
 DISTILLING
-
-cats
-
 COMPANY
-
-a3 za
-
-KNOB
-
-= wt
-
-GCA Aax~ct=
-
-qo
-
-CREEK.
-
-29
-
-ne
-
-=)
-
-cme
-
-AGED
-
-=>:
-
-KENTUCKY STRAIGHT
-
-FIFTEEN
-
-mOcwy
 
 BOURBON WHISKEY
 
-19
+KENTUCKY STRAIGHT
 
-YEARS
+AMININIY INOWHITD
 
-Y=)
+“SSINHLOOWS ¥ FISVL HOIHIdNS HOF GI14VAD
 
-410-Kevor:
+AAMSIHM NOGUNO|
+LHOIWYLS AWININAY
+
+—= HO Lvy a 11s —
+
+443d) GON»
+
+IVNISIHO FHL
 
 ### Label 2
 
@@ -114,54 +82,12 @@ g
 
 SOM ALCO.
 
-### Label 3
-
-Sa
-
-SRM a
-
-eo KY “5
-
-DISTILLING
-
-COMPANY
-
 ### Label 4
 
-AMIUMINGIY
+AMIUMINIWY LNOWYIAT9
 
-1NOWYIT19
+Sistilleg «
+Umire in
+Wangs; ties
 
-distil.
-
-d in
-
-Umire,
-
-'D
-
-TWantitig,
-
-CREEK
-
-sMALL
-
-batch
-
-### Label 5
-
-|
-
-|
-
-|
-
-|
-
-te)
-
-80686
-
-01689
-
-2
+CRE rat batdh

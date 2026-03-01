@@ -28,6 +28,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 MMXXVI
@@ -55,41 +57,3 @@ alcoholic beverages impairs your ability to
 drive a car or operate machinery, and may
 
 cause health problems
-
-### Front Label
-
-CC-076
-
-789 69.5
-
-7 of 159
-
-BOTTLE #.
-
-PROOF
-
-%h ALC by VOL
-
-### Label 2
-
-Yi,
-
-&y
-
-—
-
-7
-
-Zi
-
-ED
-
-ll
-
-iz
-
-ens
-
-a
-
-Ss

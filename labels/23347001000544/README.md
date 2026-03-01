@@ -31,6 +31,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 KENTUCKY STRAIGHT BOURBON WHISKEY
@@ -47,40 +49,24 @@ XXXXXX
 
 ### Label 2
 
-_— iO
+rarer allie ee ae
+AN3YYND HOLVIN
+Ol GALVONNYL
+%OZ Ods
 
-m R02 sO
+9,00000
+| a
 
-or
-
-mOoc#
-
-a)
-
-Sze
-
-o =
-
-6 =
-
-=O
-
-CAMP NELSON B
-
-mure
-
-52 =
-
-&< =O
+co
+=
+—)
+~”
+all
+Lada
+=
+ou.
+—
+=
+rE)
 
 MATURED ON FLOOR 6
-
-### Label 3
-
-GENERATIONS OF CRAFT
-
-GENERATIONS OF CRAFT
-
-LAWRENCEBURG, KY
-
-LAWRENCEBURG, KY

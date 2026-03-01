@@ -24,62 +24,13 @@
 
 ### Label 1
 
-as
+RED BUD STRAIGHT ¢
+RYE WHISKEY Ss
 
-SE
-
-IZ
-
-es
-
-a
-
-es
-
-Zt
-
-ZA
-
-x
-
-Sug
-
-ee
-
-BEI
-
-RED BUD STRAIGHT
-
-$=
-
-=
-
-te
-
-a2
-
-RYE WHISKEY
-
-=
-
-THE GOLD SERIES
-
-40% ALC BY VOL
-
-S
-
-“Y
+THE GOLD SERIES 40% ALC BY VOL
 
 The best spirits are distilled in a round building
 
-750 ML
+where there are no corners forthe devil to hide | 750 ML
 
-Zs
-
-where there are no corners for the devil to hide,
-
-bx
-
-Sa
-
-je
++ ROUNDBARN.COM

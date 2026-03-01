@@ -42,73 +42,11 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Label 1
-
-~
-
-N
-
-NN
-
-ip
-
-a
-
-Lf
-
-Wy)
-
-mi A
-
-N
-
-CAT
-
-AX
-
-\
-
-AN
-
-/
-
-‘
-
-### Label 2
-
-|
-
-|
-
-\{
-
-(
-
-|
-
-\
-
-f
-
-\
-
-|
-
-\
+*3 image(s) excluded: text did not meet readability threshold*
 
 ### Label 3
 
-Se
-
-———
-
-Rat bE
-
-LA
-
-|
-
-a)
+: ss
 
 CELLAR COLLECTION
 
@@ -117,16 +55,6 @@ VOLUME NO. 006
 CELLAR COLLECTION
 
 VOLUME NO. 006
-
-LS
-
-CT
-
-—
-
-==
-
-=
 
 ee —_»<,
 
@@ -152,54 +80,12 @@ ANGELSENVY.COM DRINK RESPONSIBLY. WWW.RESPONSIBILITY.ORG
 
 ### Label 5
 
-————
-
-/
-
-a
-
-Li 5}
-
-KEN
-
-0
+AMT S ENVY
+|S § STRAIGHT RYE WHISKEY FINISHED IN
+Hl NG et al cil NW [Lo PEACH BRANDY & TOASTED OAK BARRELS
 
 THIS EXCEPTIONAL RELEASE BRINGS TOGETHER KENTUCKY STRAIGHT RYE AND THE NUANCED INFLUENCE OF PEACH
+5 BRANDY. AGED IN AMERICAN OAK THEN FINISHED IN A COMBINATION OF TOASTED OAK AND PEACH BRANDY BARRELS,
+IT OFFERS UNEXPECTED DEPTH, BLENDING TOGETHER NOTES OF SWEET FRUIT WITH SPICED RYE AND LAYERS OF OAK
 
-u
-
-=)
-
-Q
-
-BRANDY. AGED IN AMERICAN OAK THEN FINISHED IN A COMBINATION OF TOASTED OAK AND PEACH BRANDY BARRELS,
-
-i)
-
-8
-
-IT OFFERS UNEXPECTED DEPTH, BLENDING TOGETHER NOTES OF SWEET FRUIT WITH SPICED RYE AND LAYERS OF OAK.
-
-Se ae
-
-### Label 6
-
-YN
-
-Ld
-
-VASO
-
-A
-
-“lees
-
-iN
-
-/U/
-
-YY
-
-%
-
-)
+00S9901LP LE

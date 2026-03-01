@@ -35,6 +35,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 DISTILLED AND BOTTLED BY
@@ -79,116 +81,25 @@ CAMPARIGROUP.INFO
 
 ### Front Label
 
+CRAFTED with CONVICTIoy
+
 WILD IURKEY
 
 KENTUCKY STRAIGHT RYE WHISKEY
 
 TRIUMPH
 
-### Label 3
-
-we
-
-~ F
-
-fe
-
-an r
-
-oS
-
-aN
-
-oe
-
-nem
-
-ae
-
-—
-
-Pes
-
-5S
-
-ae,
-
-ae
-
-omen
-
-—
-
-ad
-
-x
-
-a
-
-“a
-
-a
-
-EE
-
-ZA:
-
-eo
-
-oF
-
-ee
-
-(7) fg
-
-Se
-
-iS
-
-y
-
-ee
-
-j.
-
-£-£
-
-—
-
-Ce
-
-AVE
-
-~
-
 ### Label 4
 
-CRAFTED KY, USA
+cue LISA <= | MASTER'S
 
-LS)
+DSP-KY-67 an folie Lane
+a — KEEP — MASTER DISTILLER
+750 ML PROOF 104 52% ALC/VOL AGED ‘K@) YEARS
 
-CENCE >
-
-a
-
-MASTER'S
-
-DSP-KY-67
-
-TLD},
-
-Siblicbancl’
-
-xa
-
-Ss
-
-A
-
-— KEEP
-
-MASTER DISTILLER
-
-750 ML PROOF 104 522 ALC/VOL
-
-AGED ]Q© years
+=
+o
+=
+2
+[4
+=

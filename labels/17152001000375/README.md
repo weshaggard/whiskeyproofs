@@ -43,59 +43,23 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Back Label
-
-j (
-
-{/
-
-WW
-
-IK}
-
-(
-
-ih
-
-\
-
-(
-
-(
-
-am
-
-}
+*2 image(s) excluded: text did not meet readability threshold*
 
 ### Front Label
 
 FROM THE CELLARS OF
 
-Fico oclber
-
+Freee rablan
 ANGELS ENVY
 
-LS
-
-=S
-
-‘ums!
+=
 
 KENTUCKY STRAIGHT
-
 BOURBON WHISKEY
-
 FINISHED IN
-
 PORT WINE BARRELS
 
 750 ML
-
-### Label 2
-
-[CASK STRENGTH)
-
-en
 
 ### Label 3
 

@@ -36,78 +36,27 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
-LIMITED RELEASE
-
-nOr>
-
-cen
-
-K
-
-wid
-
-Y
-
-~—2.
-
-°
-
-Lal
-
-lik >
-
-ce
-
->
-
-rw
-
-U
-
-ao
-
-ea)
-
-Lue <<
-
-Sa.
-
-KNOB
-
-Bea
-
-co :
-
-Me
-
-CREEK.
-
-ae
-
-‘ID
-
-t=)
-
-=o
-
-@@~___ KENTUCKY STRAIGHT SU
-
-AGED
-
-BOURBON WHISKEY
-
-ro ee}
-
-ENE
-
-TWELVE
-
-12
-
+| ; me MO LIMITED RELEAS £
+TNE LEIQED
+i S2iae Ss K
+Lud |= iOS Y
+bay l2i7 4+ -
+age te We
+POS 22 Seu U
+fe:c Bee S
+2 [ ei | Seisn |
+f--Feee CREEK
+:2O Baty i » <
+ans @
+CS [2:0 < = | Eu
+Soe KENTUCKY STRAIGHT
+LS EN’ AGED BOURBON WHISKEY
+~~ <8 TWELVE
 YEARS
-
 y, N
 
 ### Label 2
@@ -190,34 +139,10 @@ WWW.DRINKSMART.COM
 
 ### Label 4
 
-AMIUMINGIY
+AMIUMINIWY LNOWYIAT9
 
-1NOWYIT19
+Sistilleg «
+Umire in
+Wangs; ties
 
-distil.
-
-d in
-
-Umire,
-
-'D
-
-TWantitig,
-
-CREEK
-
-sMALL
-
-batch
-
-### Label 5
-
-WIT ¢
-
-_@
-
->
-
-fy
-
-SLEW
+CRE rat batdh

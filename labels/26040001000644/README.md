@@ -118,54 +118,14 @@ t=
 
 ### Front Label
 
-wid
+g Cs
+STS
 
-~~
-
-=
-
-19)
-
-“Sr
-
-TL
-
-x
-
-me
-
-fo We
-
-&
-
-MILLPOND |
+MILLPOND
 
 Four Grain Whiskey
-
 Small Batch
 
-750 ml
-
-Alc. 40% by Vol.
+Alc. 40% by Vol. 750 ml
 
 80 proof
-
-at
-
-i
-
-ah
-
-Ry
-
-S555
-
-ee
-
-x
-
-ox
-
-at
-
-es apes ae

@@ -28,131 +28,56 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Label 1
-
-ee
-
-y
-
-palo
-
-r16E
-
-—
-
-gpk
+*1 image(s) excluded: text did not meet readability threshold*
 
 ### Label 2
 
-GOVERNMENT WARNING: (1) A]_§ RR 2
+— YOU DON’T CHANGE
+GOVERNMENT WARNING: 4 AC]. —o-ooa—-§oéo c——
 
-YOU DON’T CHANGE
+ae CLASSIC e——
+CORDINGTOTHE SURGEON GENERAL
 
-CORDINGTOTHE SURGEON GENERAL,
-
-me A CLASST Cc ——
-
-WOMEN SHOULD NOT DRINK ALCOHOLIC
-
-DSP-KY-1
-
-Your xex *° Rod een
-
-DSP-KY-31
-
-YOU PRESERVE IT
-
-BEVERAGES DURING PREGNANCY BE-
+vo. oot tALIT Otay DSP-KY-31 YOU PRESERVE 11.
+WOMEN SHOULD NOT DRINK ALCOHOLIC DSP-KY-1 Youn xe
 
 Many things have changed since
+BEVERAGES DURING PREGNANCY BE-
 
-CAUSE OF THE RISK OF BIRTH DEFECTS.
+k 1870, but good taste is always
 
-1870, but good taste is always
+in style. I he beginning, Old
 
-in style. In the beginning, Old
+CAUSE OF THE RISK OF IRTH DEFECTS. = = Fitegrrald wos served exclusively
 
-(2) CONSUMPTION OF ALCOHOLIC BEV-
-
-Fitzgerald was served exclu sively
-
-FRAGES IMPAIRS YOUR ABILITY 10
-
-BOTTLED
-
--|N-
-
-BOND
-
-in private clubs and on steamship
-
-DRIVE A CAR OR OPERATE MACHINERY,
-
-UNDER
-
-UPS
-
-GOVERNMENT SUPERVISION
-
-becamea mainstay of the bar, and
+(2) CONSUMPTION Of ALCOHOLIC BEY: in private clubs and on steamship
+ERAGES IMPAIRS YOUR ABILITY TO
 
 and rail lines. By mid-century it
 
-AND MAY CAUSE HEALTH PROBLEMS.
+ION became a mainstay of the bar, and
 
-= os
-
-Today, this 7-Year-Old expression
-
-the first choice for entertaining.
-
-KENT UC KY
-
+DRIVE A CAR i Hae ae UNDER U.S. SON ETN ENTIRE S UST RESR VAISS G the first choice for entertaining.
+AND MAY CAUSE HEALTH PROB D Today, this 7-Year-Old expression
 of OLD FITZGERALD is
+KETENT AY GUIS Ne YOUR KEY TO HOSPITALITY.”
 
-YOUR KEY TO HOSPITALITY.”
+STRAIGHT BOURBON WHISKEY Made under the exacting
 
-STRAIGHT BOURBON WHISKEY
-
-Made under the exacting
-
-standards of the
-
-WHEATED BOURBON MASHBILL
-
-IN-BOND
-
-BOTTLED- g&
-
-~.
-
-YEARS
-
-AGED
-
-Act and with
-
-a WHISPER
-
-li
-
-a
-
-of WHEAT,
-
-(
-
-=F
-
-100 PROOF
-
-0% ALC/VOL
-
-a Bourbon of
-
-this quality is
-
+standards of the 2
+BOTTLED- gan.
+WHEATED BOURBON MASHBILL IN-BOND (gripe
+0 Actand with /47}— 01) 7
+YEARS @ AGE See (Esae
+LOO PROOF sovmcwn = ef waear, Netra sae
+this quality is gt
 worth sharing.
+
+~o
+
+96749'00579
+
+0
 
 ### Label 3
 

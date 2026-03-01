@@ -6,6 +6,11 @@ This script uses Tesseract OCR to extract text from label images and appends
 the extracted text to the README.md file in each label directory. This enables
 full-text searching of label content.
 
+Multiple PSM (Page Segmentation Mode) configurations are tried for each image
+and the best result is selected using a text quality score. Text that does not
+meet a minimum English readability threshold is excluded to avoid storing
+garbled or machine-readable content (barcodes, measurements, pure symbols).
+
 Usage:
     # Extract text for all labels
     python3 .github/scripts/extract_label_text.py
@@ -23,16 +28,71 @@ Options:
 """
 
 import argparse
-import os
+import re
 import sys
 from pathlib import Path
 
 
 EXTRACTED_TEXT_HEADER = "## Extracted Label Text"
 
+# Tesseract PSM modes to try, in order of preference.
+# 11 = Sparse text (best for labels with scattered text)
+# 3  = Fully automatic page segmentation (good for structured text)
+# 6  = Assume a single uniform block of text (good for dense paragraphs)
+PSM_MODES = [11, 3, 6]
+
+# Quality thresholds for deciding whether extracted text is usable.
+# Score = (words with 3+ alpha chars) / total whitespace-separated tokens.
+# Text scoring below this ratio is mostly noise (symbols, measurements, barcodes).
+QUALITY_SCORE_THRESHOLD = 0.30
+# Minimum number of 3+ letter words required even when score is above threshold.
+MIN_WORD_COUNT = 5
+
+
+def score_text_quality(text):
+    """
+    Score the quality of OCR text as a measure of English readability.
+
+    Returns:
+        (score, word_count) where:
+          score      -- ratio of 3+ alpha-char words to all whitespace-separated tokens (0.0–1.0)
+          word_count -- count of those meaningful words
+    """
+    if not text or not text.strip():
+        return 0.0, 0
+    tokens = text.split()
+    if not tokens:
+        return 0.0, 0
+    words = [t for t in tokens if re.fullmatch(r"[a-zA-Z]{3,}", t)]
+    return len(words) / len(tokens), len(words)
+
+
+def clean_text(text):
+    """Strip whitespace and collapse multiple consecutive blank lines."""
+    lines = text.splitlines()
+    cleaned_lines = []
+    prev_blank = False
+    for line in lines:
+        stripped = line.rstrip()
+        if stripped == "":
+            if not prev_blank:
+                cleaned_lines.append("")
+            prev_blank = True
+        else:
+            cleaned_lines.append(stripped)
+            prev_blank = False
+    return "\n".join(cleaned_lines).strip()
+
 
 def extract_text_from_image(image_path):
-    """Extract text from an image using OCR. Returns the extracted text or None on error."""
+    """
+    Extract text from an image using OCR.
+
+    Tries multiple Tesseract PSM modes and returns the highest-quality result.
+    Returns None if OCR tooling is unavailable (signals the caller to abort).
+    Returns an empty string if all PSM modes fail or produce only garbage.
+    Text that fails the quality threshold is excluded (returned as empty string).
+    """
     try:
         import pytesseract
         from PIL import Image
@@ -42,27 +102,35 @@ def extract_text_from_image(image_path):
 
     try:
         img = Image.open(image_path)
-        # Use sparse text mode (PSM 11) which works well for labels with
-        # mixed layouts - it finds text anywhere without assuming a single block
-        text = pytesseract.image_to_string(img, config="--psm 11")
-        # Clean up the text: strip leading/trailing whitespace, collapse multiple blank lines
-        lines = text.splitlines()
-        cleaned_lines = []
-        prev_blank = False
-        for line in lines:
-            stripped = line.rstrip()
-            if stripped == "":
-                if not prev_blank:
-                    cleaned_lines.append("")
-                prev_blank = True
-            else:
-                cleaned_lines.append(stripped)
-                prev_blank = False
-        return "\n".join(cleaned_lines).strip()
     except Exception as e:
-        print(f"  ⚠️  OCR error on {image_path.name}: {e}")
-        # Return empty string so the caller can continue processing other images
+        print(f"  ⚠️  Cannot open image {image_path.name}: {e}")
         return ""
+
+    best_text = ""
+    best_quality = 0.0  # best word_count * score
+
+    for psm in PSM_MODES:
+        try:
+            raw = pytesseract.image_to_string(img, config=f"--psm {psm}")
+            score, word_count = score_text_quality(raw)
+            quality = word_count * score
+            if quality > best_quality:
+                best_text = raw
+                best_quality = quality
+        except Exception as e:
+            # Individual PSM mode failed; try next
+            if psm == PSM_MODES[-1] and not best_text:
+                print(f"  ⚠️  OCR error on {image_path.name}: {e}")
+
+    if not best_text:
+        return ""
+
+    # Apply quality filter: exclude text that is mostly noise
+    score, word_count = score_text_quality(best_text)
+    if score < QUALITY_SCORE_THRESHOLD or word_count < MIN_WORD_COUNT:
+        return ""
+
+    return clean_text(best_text)
 
 
 def process_label_directory(ttbid_dir, force=False):
@@ -104,6 +172,7 @@ def process_label_directory(ttbid_dir, force=False):
     # Build the extracted text section
     text_sections = []
     any_text_found = False
+    excluded_count = 0
 
     for img_file in image_files:
         text = extract_text_from_image(img_file)
@@ -114,18 +183,27 @@ def process_label_directory(ttbid_dir, force=False):
             any_text_found = True
             display_name = img_file.stem.replace("_", " ").title()
             text_sections.append(f"### {display_name}\n\n{text}")
-        # Empty string means this image had an error but we continue with others
+        else:
+            # Empty string: image failed to open, had an OCR error, or failed quality check
+            excluded_count += 1
 
     if not any_text_found:
-        # No text was found in any image - still mark as processed to avoid re-running
+        # No usable text found in any image
         extracted_section = (
             f"\n\n{EXTRACTED_TEXT_HEADER}\n\n"
-            "*No text could be extracted from the label images.*\n"
+            "*No readable text could be extracted from the label images.*\n"
         )
     else:
+        note_parts = ["*Text extracted via OCR - may contain errors*"]
+        if excluded_count > 0:
+            note_parts.append(
+                f"*{excluded_count} image(s) excluded: text did not meet readability threshold*"
+            )
+        note = "\n\n".join(note_parts)
         extracted_section = (
             f"\n\n{EXTRACTED_TEXT_HEADER}\n\n"
-            "*Text extracted via OCR - may contain errors*\n\n"
+            + note
+            + "\n\n"
             + "\n\n".join(text_sections)
             + "\n"
         )

@@ -28,86 +28,31 @@
 
 ### Back Label
 
-Baltimore 444 Newland
-
-SAGAMORE.
-
+SAGAMORE
 We finished our 5-year-old straight rye whiskey for
-
 over 4 years in a barrel previously used to age a
-
-delicious Maryland Kingston Black hard cider.
-
-This
-
+delicious Maryland Kingston Black hard cider. This
 highly revered cider apple has imparted aromas of
-
-and toasted
-
-orchard blossoms,
-
-tropical fruit punch,
-
+orchard blossoms, tropical fruit punch, and toasted
 marshmallows which open into layers of warmth and
-
-character.
-
-Flavors of apple turnovers with vanilla
-
+character. Flavors of apple turnovers with vanilla
 glaze and cinnamon dusted walnuts create a rich and
-
-an
-
-inviting experience before
-
-easing into
-
-elegant
-
+inviting experience before easing into an elegant
 finish defined by the classic spice profile of our
-
 signature whiskey.
-
-GOVERNMENT WARNING: (1)
-
-SAGAMORESPIRIT.COM
-
-ACCORDING TO THE SURGEON
-
-ok
-
-GENERAL,
-
-WOMEN SHOULD NOT
-
-DRINK ALCOHOLIC BEVERAGES
-
-SAVOUR OUR SPIRIT RESPONSIBLY
-
+GOVERNMENT WARNING: (1) SAGAMORESPIRIT.COM
+ACCORDING TO THE SURGEON *&
+GENERAL, WOMEN SHOULD NOT
+DRINK ALCOHOLIC BEVERAGES SAVOUR OUR SPIRIT RESPONSIBLY
 DURING PREGNANCY BECAUSE
-
 OF THE RISK OF BIRTH
-
-DEFECTS.
-
-(2) CONSUMPTION
-
+DEFECTS. (2) CONSUMPTION
 OF ALCOHOLIC BEVERAGES
-
 IMPAIRS YOUR ABILITY TO
-
 DRIVE A CAR OR OPERATE
-
 MACHINERY, AND MAY CAUSE
-
-HEALTH PROBLEMS.
-
-AM,
-
-7
-
+HEALTH PROBLEMS. 8 98232°00786'"7
 Aged in new charred oak barrels. Distilled in Indiana.
-
 Bottled by Sagamore Spirit, Baltimore, MD.
 
 ### Front Label

@@ -28,135 +28,56 @@
 
 ### Label 1
 
-Kee y
+W “SWATGON HLTVGH 3SNV9 AVW CNY AXSNIKDWW SIVYR40 -— WrOo"NomsrMuTuTexTEp “
+YO UD V IAUO OL ALTIGV UNDA SdIvalNl S3OVUIAIE IMOHODTV
 
-Se5
+40 WOUAWNSNOD (2) "S1o3430-HIG 40 NStd 3AL 40 aSn\038 VSN S3SSHNNAL TTIAHSYN Ee
 
-=
+JONYNS dd ONIANC SIVUVTE SOHO WNYC LON CTNCHS NAWOM NOWNAWWY AB CHILOG $=
 
-oa
+“TWHHN9:NOOUNS 3HL OL ONIOYODDV (1) -ONINAVM LNGWNY3K09 MONEY NOY ON TUSK. SS
 
-Bes
+., USA
 
-ie
+KY
 
-e2 =>
-
-Saf.
-
-ae
-
-*
-
-SS
-
-AwsaBsssSs
-
-m2
-
-mS
-
-se
-
-PICHEST ©
-
-oa
-
-eS
-
-ae
-
-es
-
-Se!
-
-=a
-
-Sesorss
-
-Sass
-
-a ae
-
-Sa S=
-
-Bes
-
-=e=
-
-say
-
-s—
-
-=2
-
-BaSevwsez
-
-Ss
-
-eauc=2
-
-ea
-
-ess
-
-AMMUNITION
-
-Boo
-
-|
-
-eee
-
-2 2 aoe
-
-S25
-
-ss
-
-o>
-
-zs
-
-7-4
-
-KENTUCKY STRAIGHT
-
-RYE WHISKEY
-
-Sa=S
+9
 
 CRAFTED IN SMALL BATCHES by
 
-aS
-
-seu
-
-Sa2R
-
-AMMUNITION DISTILLERY, KY., USA
-
-i
-
-Sur
+AMMUNITION DISTILLERY
 
 Bottle No.
 
-——!
+.
+:
+x
+3
+:
+fs
 
-107
+2
+0
+P
+S
+2
+0
+rs
+5
+5
+2
 
-Alc 45% by vol
+Zz
+S
+ES
+=
+<
+=
+*
 
-750mL
-
-Zsa
-
-a=
-
-90 Proof
-
-CA CRV
+hjinuabuy uvs1sauy 2 YlOM PAVE] yum
+paysiuty 2 paby “pappisid
+VOINAWY /o LIYIdS ANUL AML S
 
 ### Label 2
 

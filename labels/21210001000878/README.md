@@ -28,77 +28,38 @@
 
 ### Back Label
 
-on
+| Legend of the
+| Night Ryno
 
-|
-
-Legend of the
-
-i \
-
-Night Ryno
-
-£
-
-z
-
-—
-
-Theres a rustling in the
-
+| There's a rustling in the
 thicket as the sun goes down.
+| Twilight blankets the shy.
 
-|
-
-Twilight blankets the sky.
-
-Dusty grunting scuffles are heard, as the Night Ryno
-
+| Dusty grunting scuffles are heard, as the Night Ryno
 comes to life. Teasing with a playful candor, he helps us to
-
-(
-
 be true to ourselves. While life rushes forward, the Night
-
 Ryno, reminds us to find time for the nocturnal laughter,
-
 that leads to endless friendship, and symbolizes the
-
 secondary persona we all have inside us. The adventurer,
-
 seeking more out of life, more experiences, more favorite
-
 songs, more sunrise, shoreline casts. Discover your inner
-
 bohemian, your flightless bird to the system, your reckless
-
 abandon. Charge forward, and find your inner Ryno.
 
-a ET I TT. LO ITO Wis
+a TOE OO A ie
 
 Handcrafted & Distilled by
-
-AGED SIX MONTHS
-
-MADE FROM GRAIN
-
 Canyon Diablo Distillery.
-
 Flagstaff, Arizona USA
 
+AGED SIX MONTHS
+MADE FROM GRAIN
+
 GOVERNMENT WARNING: (1) According to the Surgeon General,
-
 women should not drink alcoholic beverages during pregnancy because of the
-
 risk of birth defects. (2) Consumption of alcoholic beverages impairs your
 
-ability to drive a car or operate machinery, ane may cause health problems.
-
-—
-
-——
-
-=
+ability to drive a car or operate machinery, and may cause health problems.
 
 ### Front Label
 

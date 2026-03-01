@@ -66,64 +66,14 @@ ACQUIRED FROM A PRIVATE COLLECTION
 
 ### Label 2
 
-COLONEL E.H.]
+COLONEL E.H.
 
 TAYLOR
 
 BARREL PROOF RYE
-
 UNCUT & UNFILTERED
 
-z
-
-a
-
-~
-
-4
-
-«
-
-ae
-
-r=
-
-iN
-
-|
-
-|
-
-wo
-
-go
-
-wx
-
-\y °
-
-AN ‘
-
-mm —
-
-aN
-
-=;
-
-S|
-
->
-
-|
-
-0)
-
-|
-
-Tr,
-
 65% ALC/VOL [130 PROOF]
-
 750ML
 
 ### Label 3
@@ -212,70 +162,23 @@ WAY CAUSE HEALTH PROBLEMS,
 
 ### Label 4
 
-is
+oes
+ed
 
-uA
+Ba
 
-pane
-
-EI
-
-EI
-
-|
-
-Fi
-
-i
-
-EI
-
-EI
-
-ey
-
-es
-
-i:
-
+GB
 Be
 
+les
 Ee
+cee
 
-fe
-
-a
-
-|
-
-me
-
-a
-
-:
-
-il
-
-BI
-
-EI
-
-i
-
-e|
-
-E
-
-Fe
-
-FA
-
-i
-
-Et
-
-Sle
-
-Een
-
-boon
+Lt
+fai
+oe
+EE
+Fae
+Boe
+Aw
+ae

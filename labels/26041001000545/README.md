@@ -20,4 +20,4 @@
 
 ## Extracted Label Text
 
-*No text could be extracted from the label images.*
+*No readable text could be extracted from the label images.*

@@ -28,6 +28,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 GUNTHER & CO.
@@ -45,29 +47,3 @@ GUNTHER AND CO HAS BEEN DOING FOR A DECADE!
 CHEERS TO ANOTHER 10 YEARS OF GREAT PEOPLE,
 
 GREAT FOOD AND GREAT DRINKS!
-
-### Front Label
-
-HEA
-
-Fe)
-
-DISTILUED AND BOTTLED IN FREDERICK, MARYLA\
-
-i
-
-750 ML
-
-### Label 3
-
-we
-
-ee
-
-}
-
-\
-
-a8
-
-Ww

@@ -29,11 +29,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Back Label
-
-P 9 PF eS
-
-in
+*2 image(s) excluded: text did not meet readability threshold*
 
 ### Label 1
 
@@ -60,13 +56,3 @@ PROOF: 123.2
 6/22/20
 
 ALC/VOL: 61.6%
-
-### Label 4
-
-PERSONALLY CRAFTED
-
-HEAVEN HILL’ DISTILLERY
-
-\es
-
-240-7838

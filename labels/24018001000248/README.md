@@ -31,6 +31,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 WHISKEY ROW SERIES
@@ -87,92 +89,20 @@ Ca org
 
 ### Front Label
 
-[7S
-
-e FAR
-
-ST BOTTLED Boy,
-
-ESTD
-
-1870
-
-L
-
-=
-
-mY
-
-| »)
-
-LG
-
-AY
-
-R
-
-=
-
-~
+que HST BOTTLED FOURE oy.
 
 — KENTUCKY —
 
+sk
+T BouRBoN WY
+
 STRAL@y
-
-SKY
-
-ia
-
-T BOURBON W
 
 1897
 
 BOTTLED IN BOND
 
 Originally produced on Louisville's Whiskey
-
 Row, this whisky embraces the definition of the
-
 act introduced in 1897 which inspired higher
-
 quality standards for the spirits industry.
-
-an
-
-750ml : 50% ALC/VOL
-
-00.0
-
-1
-
-r
-
-1
-
-l
-
-L
-
-1
-
-r
-
-1
-
-H
-
-L
-
-LU
-
-i
-
-a
-
-### Label 3
-
-te
-
-|
-
-Pe ee ae a a

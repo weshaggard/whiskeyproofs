@@ -34,6 +34,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
 DISTILLED AND BOTTLED BY
@@ -62,111 +64,16 @@ BOTTLE NUMBER
 
 50% ALC/VOE.
 
-### Label 2
-
-KNOB
-
-CREEK
-
-uimiteD DOQQ] EDITION
-
 ### Label 3
 
-meeoze=
-
-BES
-
-Sas
-
-S28
-
-SSl2se5
-
-25s
-
-= o>
-
->=
-
-s=
-
-es rs2s
-
-SzS
-
-SS
-
-S2a
-
-ao
-
-22s
-
-Sas
-
-=
-
-esis
-
-Se
-
-SSS
-
-S55
-
-e552
-
-eS
-
-=Sse
-
-i
-
-es=
-
-aS
-
-=3=
-
-En
-
-ESS
-
-Ses
-
-=
-
-=
-
-BeS
-
-2S
-
-|
-
-SS_s
-
-=
-
-“Seas
-
-=
-
-——
-
-BESse
-
-BSSSS2sss
-
-oO—
-
-a
-
-=—
-
-—
-
-——
+GOVERNMENT WARNING:(T) ACCORDING 10
+THE SURGEON GENERAL, WOMEN SHOULD
+NOT DRINKALCOHOLIC BEVERAGES DURING
+PREGNANCY BECAUSE OF THE AISK
+OFBIRTH DEFECTS. (2) CONSUMPTION OF
+ALCOHOLIC BEVERAGES IMPAIRS YOUR
+ABILITY TO DRIVEA CAR OR OPERATE MACHIN-
+ERY, AND MAY CAUSE HEALTH PROBLEMS. o
 
 ### Label 4
 

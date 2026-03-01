@@ -137,170 +137,22 @@ PROBLEMS
 
 ### Label 1
 
-COLONEL E.H.
+Hon sAlenteneoo ONY DSi tex Ss 4 Sh Play wor ha A Sik
+
+“af aeOaAvi Ha
 
 TAYLOR
-
 SEASONED WOOD
-
-4ND on
-
-N\
-
-OY -
-
-“6
-
-aN
-
-Hele
-
-il
-
-=
-
-|
-
-9°
-
-il
-
-i
-
-SN
-
-a) i
-
-N
-
-elle
-
-FS
-
-N>
-
-(yy
-
-Ge
-
-\ /
-
-- »
-
-I.
-
 BOTTLED IN BOND
 
-50% ALC/VOL [100 PROOF] 750ML
+COLONEL E.H.
 
 ### Label 3
 
-=
-
-@:
-
-=
-
-wl
-
-ray
-
-=
-
-io
-
-CON OES
-
-RI
-
-K
-
-i)
-
-if
-
-PEND
-
-ae
-
--
-
-ses dos oso ducns en uaneususucuenceancucacueared
-
-tf
-
-raakeeg
-
-5
-
-ty
-
-Seabee
-
-sr
-
-a
-
-daahavancsaneucnsvenen nen cusatyenraayands
-
-duds sadndrdedndechdedndrdeddedndrsndadedudedrdedndndndrcsdudedrdrdndecedndndrdacudednd |
-
-re
-
-5
-
-sbcoasaaahene!
-
-5
-
-TETSU TET
-
-5
-
-ebdaeadeshene
-
-5
-
-Bbdrdodedred.
-
-oa)
-
-edeacddedned.
-
-ea eods.
-
->
-
-a
-
-asassh sues auan cueseusesacuausucn suas cusod aust cucuausecueyds suey cues susoeeagea cues auch
-
-es
-
-Budo dosrAbsn dh cokes seadse ddr dray dear udysodody drs sear ceansedodadecnsudycydesrdesndy
-
-JAR Mrcasr caerdyersoerd
-
-ea gedb cesses
-
-eodaeasds
-
-eodeeusnen cody
-
-abevsnaesnenerardnay
-
-Ee)
-
-ie
-
-EE NEE GUN RTT: EER ET
-
-K
-
-S
-
-ae
-
-Ba Pat bath Oden
-
-NICS SER
+a= (fo Oe SS aes @
+wal 2 UUM Ea POE LT SM CN SE AE TTT SAU Sol MN Zeal) A SS ST NTS
+ae nda dasddbsndsdddadatadadeddsndedodndrdadadrdrdndede dnd cronddosydndn dodo sadedrdnsrdndesod ] Po dudbdedos dose cesncuabdedgsgaodasesnsucndadgsudosasesnsuaededosudodacesncucedecgsucoeae Cope ae
+Hom) Io ecuinince cache da dechcurnce seaededt dada cardeibandede dade adicb sanded dade edacareandnand } Wpcued ned dred dncddnaddacdedcncncncedecbcacdcacacecacedactdoddcs cock coasdodhcoddcesdensnade oles
+e>~<j EFS SHSEEEALILSH AE SEM THSH AESLILSHELSHLE HSH LESH ALSHEY IHL SHIH SHAH SBSH LETHE ToSvShda dod ee BE SU SAE THSaTHTSESHAESHLY HSL THAR SESE SHAE SES THSa SESH SUSEALTHAa Soda ch doSeSoSaShsrdosay ae)
+eR Base eee recs ia cones chat ce aceancSaues cnet ean cean ceausenescanceaucsousey Do PB sRagc aici sec seceidsoaesococen aces esocnces aeesuneocuncerne ergo)
+oy SATII SS ES ES PCF TTT AU 7 MN; NS mI TT I OT CWS SE TTT Bees

@@ -22,62 +22,24 @@
 
 ### Label 1
 
+Distilled from grain 100ml
+
+OVERNMENT WARNING: (1) Accor, tothe
+seca General, women should not drink
+See, olic beverages during feanancy.becallse
+Ol the risk of bi defects (2)
+.
+
+( onsumption of
+iolic beverages impairs your ability
+
+—— alcoh
+
 ee
+eee.”
+a, Car or operate machinery, and may
 
-pot
+ive a
+Pd use health problems.
 
-Aki |
-
-oe
-
-iW CANT CAL, MINN
-
-yous seins
-
-m3 eee
-
-y
-
-Distilled from grain
-
-100ml
-
-he ALE Sate (1)
-
-According to the
-
-i
-
-Zu
-
-Lc
-
-eee pa
-
-z es sata Bre
-
-neral, women should ni
-
-onsu aty n of
-
-nancy because
-
-vec
-
-‘rk
-
-r Operate machinery, a
-
-9)
-
-Ir
-
-= Use health er
-
-Lp,
-
-CPR SS iii
-
-|
-
-ini
+— > Sill MTT

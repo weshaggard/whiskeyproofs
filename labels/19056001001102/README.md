@@ -39,6 +39,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 Didhday Poucbon
@@ -79,39 +81,13 @@ RESPONSIBILITY org
 
 ### Label 1
 
-Barrelled
-
-Ltd. Bottling
-
-©
-
-RE
-
-'STER
-
-a
-
-ke ee
-
-ae eA.
-
-KEN. UCKY STRAIGHT BOURBON WHISKY
-
-Disthday Poubon
-
-OLD FORESTER DISTILLING GO. AT LOUISVILLEIN KY 750mL 52.5% ALO/VOL (105 PROOF)
-
-### Label 2
-
-RY 30g,
-
-AGED
-
-11:
-
-%, YEARS =
-
-"Sy aot’
+Boretled OL D Lid. Bottling
+2008 @ ji aD 2019
+. a ae
+TADECTED:
+KENTUCKY STRAIGHT BOURBON WHISKY
+Lidhday Bourbon
+OLD FORESTER DITLUNG OAT LOUISVILLE KY 750m 25% ALOVDL (1s PROOF)
 
 ### Label 4
 

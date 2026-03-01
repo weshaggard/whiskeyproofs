@@ -32,41 +32,17 @@
 
 ### Label 1
 
-L)
-
-@
-
-10
-
-|
-
-Ly
-
-ayn
-
-WD)
-
-Ly
-
-(«
-
-@))
-
-\(
-
-\ SZ)
-
-V2
-
-ete! Behe
-
-BARRED: STRENGTH
-
-.IGHT BOURBON WHISKEY
-
-ALG/VOL,
-
-Se
+HOME ROLE
+POU OSES
+LQ
+O@
+GIS
+AS)
+ee
+sna
+BARRED SIREN GTA
+' i 7 . Bo an BOURBON WHISKEY
+ees
 
 ### Label 2
 

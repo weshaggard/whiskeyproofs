@@ -38,232 +38,55 @@
 
 *Text extracted via OCR - may contain errors*
 
+*3 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
-PB
-
-Bourbon
+Bidhday Lourbon
 
 AGED FOR OVER 11 YEARS IN NEW CHARRED OAK BARRELS
-
 This whisky is distilled by us only, and we are responsible for its richness and
-
 fine quality. Its elegant flavor is solely due to original fineness developed with
-
 care. There is nothing better in the market.
+GEORGE GARVIN BROWN, FOUNDER ........-sscsssssssssssssesssssessssessssse cranes OL een
 
-GEORGE GARVIN BROWN, FOUNDER
+GOVERNMENT WARNING: (1) ACCORDING 10 THE SURGEON DISTILLED & BOTTLED BY
+GENERAL WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES OLD FORESTER DISTLLNG CO,
 
-GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON DISTILLED & BOTTLED BY
+DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS, AT LOUISVLLEIN KENTUCKY. (QP)
+(2) CONSUNBTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR roRESTERCOM
 
-GENERAL, WOMEN SHOULD NOT hh ALCOHOLIC BEVERAGES OLD FORESTER DISTILLING CO.
-
-DURING PREGNANCY BECA\
-
-E OFT!
-
-HE RISK OF BIRTH an
-
-AT LOUISVILLE IN KENTUCKY ()
-
-V i Tate F ALCOHOLIC BEVERAGES IM
-
-VE A CAR OR OPERATE MACHINERY, AND MAY
-
-OLDFORESTER.COM
-
-CAUSE HEALTH PROBLEMS
-
-RESPONSIBILITY. org
-
-CACRY
+PRLSE ASSLT re a OR OPERATE MACHINERY, AND MAY RESPONSIBILITY org CA CRY
 
 ### Front Label
 
+©)»
+Barrelled “Ny A “A —-—«sUd. Botiling
+2015 ws N sa S 2026
+ESSS Way SAI
+
+Z
+
+WILL tty
+Wttttttt hy
+
+UULIIITLMS
+Uf
+
+>
 SS
-
-N
-
-Barrelled
-
-N
-
-N
-
-N
-
-N
+S$
 
 S
+SSs7 Aare
 
-N
-
-Ld. Bottling
-
-2015
-
-N
-
-S
-
-N
-
-N
-
-N
-
-2026
-
-I”
-
-S
-
-EW
-
-SI
-
-N
-
-PG
-
-N
-
-CSS
-
-S
-
-N
-
-ISK
-
-Q
+Uy
 
 SS
-
-MQ
-
-SS
-
-SS
-
-SSS
-
-SS
-
-N
-
-N
-
-N
-
-S
-
-SS
-
-N
-
-N
-
-N
-
-SN
-
-SS
-
-N
-
-N
-
-S
-
-N
-
-MSS
-
-SS
-
-\
-
-WN
-
-S
-
-N
-
-\
-
-N
-
-S
-
-S
-
-N
-
-S
-
-S
-
-N
-
-S
-
-N
-
-SSsgq
-
-po
-
-SSN SSS
-
-SS
-
-SSX
-
-SSS
-
-ww
-
-WS
+SSsgq Ws?
 
 KENTUCKY STRAIGHT BOURBON WHISKY
 
 LBiihday Lourbon
 
 OLD FORESTER DISTILLING CO. AT LOUISVILLE IN KY 700mL 48.5% ALC/VOL (97 PROOF)
-
-### Label 3
-
-&
-
-eee
-
-ESTp
-
-ESTD
-
-1870
-
-1870
-
-### Label 4
-
-i
-
-=
-
-|
-
-Sree Se Se, ae i a
-
-### Label 5
-
-hy Bo,
-
-AGED
-
-il :
-
-@, YEARS =
-
-Ep Bot

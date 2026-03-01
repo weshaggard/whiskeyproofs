@@ -30,166 +30,73 @@
 
 *Text extracted via OCR - may contain errors*
 
+*2 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
-STECAAGAAARARAAAAAAAARARARARARAAASASO q
+[/JEATAATTATAAAAAGAAAAAAAAAAAGAASAADAARAAASAAAAAAAAAAAAASAAATAAASAADASARADARAAAASDAAAARAARAARRDEREARARSASARS
 
-BN
+<
+> Revel PAIR
 
 December 5, 1933
 
 Prohibition was repealed in the United States
-
 with the passage of the 21st Amendment to the
-
 United States Constitution.
 
 To commemorate this milestone, Ross &
-
 Squibb Distillery created Remus Repeal
-
 Reserve. This 2022 limited edition bourbon
-
 leads with aromas of rich candied fruit with a hint
-
 of nutmeg and saddle leather. The initial taste
-
 includes candied fruit and fig jam, followed by
-
 oak and barrel char, mint and slight caramel,
-
 nutmeg, toffee, and honey. The finish offers a
-
 balance of sweet candied fruit and leather, with
-
 lingering sweetness and rye spice. In short,
-
 Remus Repeal Reserve is the best we make. Or as
-
 George Remus himself might have said, “some
-
 damn fine giggle water.” Enjoy!
 
 -Ian Stirsman, Master Distiller
 
-ASTILLED
-
-Ross & Squibb
-
+V4
+°o
+& Ross & Squibb
 Distillery
-
-BIN
-
-AWpences ure
+\ Aireences yr
 
 georgeremus.com
 
 BE LEGENDARY. SIP RESPONSIBLY.
 
 GOVERNMENT WARNING: (1) ACCORDING TO
-
 THE SURGEON GENERAL, WOMEN SHOULD
-
 NOT DRINK ALCOHOLIC BEVERAGES DURING
-
 PREGNANCY BECAUSE OF THE RISK OF BIRTH
-
 DEFECTS. (2) CONSUMPTION OF ALCOHOLIC
-
 BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE
 
 A CAR OR OPERATE MACHINERY, AND MAY
-
 CAUSE HEALTH PROBLEMS.
+[A5¢,VT/ME-15¢REFUND 750MI
 
-[A 5¢, VI/ME-15¢ REFUND
+gem 10051" 40273'™'5
 
-750 MI
+BN
 
-8
+PIAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA A AAA AA AAA A
 
-10051
+VA
 
-40273
+,
+Vw vw vevwwwwUUUVVUUyeL
 
-5
+Sy
 
-Re,
+(JERRRRTTTTRTRTTTETRTSTTTTUTERTTTSTTET
 
-<
-
-Ry
-
-RI AAI
-
->»
+K
 
 “
-
-### Front Label
-
-ro
-
-SESLLYS
-
-oS
-
-ns
-
-N
-
-REMUS
-
-REPEAL RESERVE’
-
-LN
-
-VN
-
-2 |
-
-|
-
-Mf
-
-IM]
-
-an
-
-STRAIGHT
-
-BOURBON
-
-WHISKEY
-
-100 |
-
-20%
-
-2, 2% - 2008 BOURBON (21% RYE
-
-& 27% - 2012 BOURBON (21% RYE
-
-= 29% - 2014 BOURBON (21% RYE
-
-& 17% - 2012 BOURBON (36% RYE
-
-25% - 2014 BOURBON (36% RYE
-
-NX
-
-fs
-
-### Label 3
-
-QQ
-
-f NZS
-
-KX»
-
-VAIS
-
-GA
-
-REPEAL

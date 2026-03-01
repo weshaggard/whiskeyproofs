@@ -20,26 +20,4 @@
 
 ## Extracted Label Text
 
-*Text extracted via OCR - may contain errors*
-
-### Label 1
-
-ma
-
-——S) \B=
-
-|
-
-Z>
-
-Rs
-
-DSS
-
-\
-
-P
-
-a
-
-iarop
+*No readable text could be extracted from the label images.*

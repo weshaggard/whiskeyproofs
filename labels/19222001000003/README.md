@@ -30,11 +30,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Back Label
-
-Blanton
-
-SPECIAL RESERVE
+*1 image(s) excluded: text did not meet readability threshold*
 
 ### Front Label
 

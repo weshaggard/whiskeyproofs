@@ -30,38 +30,4 @@
 
 ## Extracted Label Text
 
-*Text extracted via OCR - may contain errors*
-
-### Label 2
-
-/
-
-### Label 4
-
-=
-
-==
-
-———
-
-—
-
-=
-
-\\
-
-\
-
-”
-
-=
-
-=
-
-=
-
-=
-
-—
-
-=
+*No readable text could be extracted from the label images.*

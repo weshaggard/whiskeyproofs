@@ -27,204 +27,47 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
-~\
-
-aro)
-
-=
-
-mbeaoe
-
-See
-
-BOo's
-
-OQaese
-
-BS&ts=z=
-
-Qas’s
-
-oh
+>
 
 LITTLE BOOK’
-
-a8
-
-sags
-
-a Sk
-
-S 3x
-
-—
-
-—2
-
-Rages
-
-Saw
-
-=n]
-
-SS —_——1~
-
-{________fe]
-
-LS cteafed Fife. Mook. at an here GE
-
-2g
-
-gels
-
-oHAS
-
-2d
-
-23 “op
-
-J
-
-—s——____¥e}
-
-Baas s
-
-nese
-
-= ==010
-
-v2
-
-: flandle
-
-Qeghi yg %
-
-5S 2
-
-KoA
-
-as‘
-
-ee
-
-- wn
-
-heads Do
-
-=5
-
-Sak
-
-eegss
-
-=o
-
-aS
-
-—
-
-ea
-
-a
-
-Ea 2
-
-Sweseae
-
-==
-
-25
-
-es
-
-Ss=
-
-= =
-
-ESE
-
-_———s—
-
-——
-
-te fp
-
-avtld.
-
-585m
-
-Saw Se
-
-Sshoe
-
-—
-
-——
-
-ES
-
-a=
-
-BS
-
-a
-
-ss
-
-w
-
-eR ES
-
-SZ6y
-
-aS
-
-S35
-
-Sao
-
-os
-
-=
-
-Spall
-
-Sac
-
-2ad
-
-sa
-
-e=
-
-Sos
-
-i
-
-SaaS
-
-Se
-
-4
-
-ss
-
-SOSH ALCVOL. (119 PROCE)
-
-364
-
-aeSt=csooa
-
-oso~
-
-110-LBKO19
-
-=e
+Japa net
+¢ Mtoflet atl out
+Mate wih Le wotld.
+
+Sods fle
+SOSHALC/VOL. (119 PROOF)
 
 _ STRAIGHT BOURBON WHISKEY PARTIALLY FINISHED IN JAPANESE, SCOTCH, & WINE GASKS
 
-### Label 2
+As the 8" Generation Master Distiller, Fred B. Noe Distillery,
+FREDDIE NOE pays homage to his GRANDDADDY BOOKER
+by naming his first spirit “LITTLE BOOK.” That’s the name
+Booker gave him, and now this spirit — just the kind
+Booker would’ve loved — is what
+Freddie’s giving back.
 
-| a
+9
+
+soso
+
+00492
+
+ET AEFI
+
+80686
+
+0
+
+T, KENTUCKY
+
+GOVERNMENT WARNING: (
+
+WOMEN SHOULD NOT
+ISTILLED AND BOTTLED BY
+JAMES B. BEAM DISTILLING C0.
+
+110-LBKO19

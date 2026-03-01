@@ -70,114 +70,16 @@ OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS, C A CRY 750 ML
 
 aceD 9 years
 
-NEW
-
-ILLE
-
-BAR
-
-L»
-
-LOUISVIL
-
-= Ee
-
-SCE
+BARREL HOUSE
 
 WHEATED STRAIGHT
 
-BOURBON WHISKEY
-
-PROOF
-
-ALC/VOL
-
-ZS
-
-Uf
-
-MN
-
-UN
-
-Wy
-
-"ff
-
-\@Z
-
-Hj}
-
-Wy
-
-{//
-
-AZ
-
-14
-
-Y
-
-/
-
-YY
-
-1a,
-
-AIT
-
-A /,
-
-\e
-
-(V4
-
-WA
-
-VAN
-
-W\\\|
-
-Wi
-
-yg
-
-We
-
-of
-
-A
-
-iY)
-
-WZ
-
-\4
-
-(7
-
-RAZ:
-
-(YG
-
-\(h})
-
-VA}
-
-WI DAN IN
-
-Ah 4
-
-VINA
-
-JA
-
-NW A NY
-
-(Ys
-
-| |
-
-Ih ANN
-
-YS A
+PROOF 136.4 — ALC/VOL
+: a " ~
+a PRA
+ih YM, Ne | hs uy;
+|| Wh /, Oe Sali er oN el
+asa ! VAM Eg MRSA 7) AE)
+WIN Va We MWA, ‘4 \4//
+CET NACL C ANID) AN" 8
+VACA AIVANAZ) ANIA ANTE AIVY )S Zell

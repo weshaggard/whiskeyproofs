@@ -39,122 +39,34 @@
 
 *Text extracted via OCR - may contain errors*
 
-### Back Label
-
-®
-
-r
-
-,
-
-OLB lee
-
-R
-
-fi
-
-“5
-
-i
-
-q
-
-AGED FOR OVER 12 YEARS IN OAK CASKS
-
-ee
-
-Z
-
-LZ;
-
-—_———
-
-bey. bj} 91w—~
-
-———S_
-
-—
+*3 image(s) excluded: text did not meet readability threshold*
 
 ### Label 1
 
-Is
-
-Barrelled
-
-N
-
-\s Ltd. Bottling
-
-200
+Ltd. Bottling
 
 2016
 
-=
+Barrelled
+2004
 
-A
+g
 
-iS
+@
+ESTE! xe
 
-=
-
-ro
-
-SS)
-
-—
-
-aug al =N =)
-
-S
-
-N
-
-N
-
-N
-
-Ss
-
-AN
-
-Ny
-
-~
-
-=
-
-ca fae NN
-
-KENT!
-
-ou
+oe
 
 BON WHIS
 
-B :
+Bourbon
 
-sen
+WAN DISTILLERS CO. LOUISVILLE, KY 750mL 48.5% ALC/VOL (97 PROOF)
 
 DISTILLED BY BRI
-
-WAN DISTILLERS CO. LOUISVILLE, KY 750mL 48.5% ALC;
-
-NOL (97 PROOF)
 
 ### Label 3
 
 FIRST BOTTLED BOURBON
 
 Nogdunod daillog 1suld
-
-### Label 4
-
-RY Boy,
-
-e
-
-AGED
-
-% YEARS =
-
-“ep por®
