@@ -39,114 +39,128 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 98.6
 
 ### Back Label
 
-(\4
-yen LIMITED Rete gs
-GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON
-GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC
+2019  ;
+GOVERNMENT WARNING: (1) ACCORDING To the SURGEON
+GENERAL,WOMEN SHOULD NOT DRIKalcoholic
 BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF
-BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC
-}> BEVERAGES IMPAIRS YOURABILITYTODRIVEACAROR — <|
-OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
-Bottled for Lux Row Distillers, Bardstown, KY
-MEVT REF 15¢ 1A REF S¢
-pet —
-moar LUX ROW eg
-FANIU OWNED Room, us TentucktoUsa
+BIRTHDEFECTS. (2) CONSUMPTION_falcoholic
+BEVERAGES IMPAIRS YOUR ABILITY TO DRIVEA CAR OR
+OPERATE MACHINERY AND MAY CAUSE HEALTH PROBLEMS
+'88352"13270
+Bottled for Lux Row Distillers, Bardstown;
+MEVT REF 15c IA REF 5c
+LUX ROW
+ISTULLERS
+K  nTU [ KY
+VERY
 
 ### Front Label
 
-Plood Oath
-
-very
-
-LIMITED REL Eg gy
-
-Kentiicky Straight
-
+Sslod Oath
+TED
+VER
+Kkcntucky Sfraighf
 BOURBON WHISKEY
-
-Finished in Cariibean Rum Casks
-
-49.3% ALC/VOL | 98.6 PROOF | 750ML
-
-2o19 Pact Nv.d Mixx
-
-A mai
-
-anion off woll-beed beckons.
-
-Gon wo tio mahopang babe wa
-
-will
-
-si
-
-7
-
-chocolate: Tue, wsiliy, whaitid bo
-
-with vandlle
-
-And tice,
-
-iy a's
-
-cm
-
-luk
-
-snpast ange, Fowsn sagan and was iland
-
-This rare whiskey shallnever again be mate.
-
-Meet 7 bates
-
-20. {4
-
-‘ODIO.
-
-i,
-
-0
-
-oa
-
-M.M.XAX.
-
-TEN
+Finished in Caribbean Rum Casks
+49.396 ALC/VOL
+98.6 PROOF
+750ML
+2019
+Pact No.5
+MMXIX
+'mastful
+anian
+4 well-led toanlons.
+Une,
+eza
+mahogang; bouxbon;
+aflogetealby peLfexa wdth shawangs
+dek
+chocolede . %woy
+T#LIZ
+tch
+with vanella
+honer. € And-tueey
+knd, pneohed
+Baxellean
+t
+exalz %
+Goun
+suoat
+Wte
+e land
+Sfuece:
+amanchaxdedy snsotz adwenden
+This care whiskcy shall nevcc again be made:
+PACT:
+DATE:
+2/14
+20:
+19
+Iko 2
+RELEASE
+~aged_
+anda
+mmfantatange,
+and
+Bep"f,
+(2zp2
+TIFTE
 
 ### Label 3
 
 THE
-
-ATT
-That every batch of Blood Oath is the
-undertaking of one man ~ a student of
-both Bourbon and Science. Loyal to.no
-onc family, favoring no one distillery
-
-STS
-
-and bound by no one philosophy ~ this
-Bourbon connoisstur has one goal in
-mind ~ to seck out Bourbons rare and
-wonderful, famous and forgotten. Then
-
+Slod Qath
+ATTESTS
+every batch of Blood Oath
+the
+undertaking of one man
+student of
+both Bourbon and Science: Loyal to no
+one
+family, favoring no one
+distillery
+and bound by no one philosophy
+this
+Bourbon connoisseur has
+mind
+to scck out Bourbons rare and
+wonderful, famous and forgotten:
 bottle them in combinations previously
+unimagined for -
+lucky few Not to cater
+anyonc
+loyalties, he has sworn
+never reveal where he finds his Bourbon;
+but only to
+and make
+the best he knows
+Loose lips never
+tasted
+special.
+0
+IX
+K
+EXCLUSIvE
+RELEASE
+MMXIX
+That '
+goal -
+Ouc
+Then
+choose
+promisc E
+something =
+RTIF'
 
-to anyone's loyalties, he has sworn to
-never reveal where he finds his Bourbon,
-but only to promise to choose and make
-the best he knows. Loose lips never
+### Label 5
 
-tasted something so special,
-
-ExcLUSIVE RELEASE: MMXIX
-
-Plood Oath
-
-unimagined for a lucky few. Not to eater
+VERY LIMITED RELEASE
+NEVER TO BE MADE AGAIN
+FRTIF

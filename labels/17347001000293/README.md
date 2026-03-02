@@ -38,113 +38,68 @@
 
 ### Back Label
 
-<a cK § ‘SOUR MASH y Weis,
-
-Skpp
-
-eee
-
-HOME
-
-SoBe A- D-™
-
-Shenk’s Homestead Sour Mash Whiskey
-
+SOUR MASH
+Jnenk 3
+H
+0
+M
+E
+S
+T E A
+D
+TM
+Shenk 's Homestead Sour Mash Whiskey
 honors the legacy of American whiskey figure
-
 John Shenk, who in 1753 founded a distillery
-
-that was to become known as Michter’s in
-
-the 20th Century. Please join us in toasting and
-
-celebrating American Whiskey History
-
-GOVERNMENT WARNING:
-
-1) ACCORDING
-
-0 THE SURGEON GE
-
-RAL, WOMEN
-
-SHOULD NO
-
-DRINK ALCOHOLIC
-
-——_4e2)
-
-= N
-
-BEVERAGES DURING PREGNANCY BE
-
-—
-
+that was to become known as Michter s in
+the 2oth Century. Please join US in toasting and
+celebrating American Whiskey History.
+GOVERNMENT WARNING: (1 ) ACCORDING
+TO THE   SURGEON   GENERAL,  WOMEN
+SHOULD
+NOT
+DRINK
+ALCOHOLIC
+BEVERAGES   DURING   PREGNANCY  BE:
+g
 CAUSE OF THE RISK OF BIRTH DEFECTS.
-
-— ©
-
-2) CONSUMPTION OF ALCOHOLIC
-
-— O
-
+(21
+CONSUMPTHON
+OF
+ALCOHOLIC
 BEVERAGES IMPAIRS YOUR ABILITY TO
-
--———fee)
-
-ee CD
-
 DRIVE A CAR OR OPERATE MACHINERY,
-
-ise)
-
-AND MAY CAUSE HEALTH PROBLEMS
-
-= oOo
-
-BOTTLED BY
-
-TA)
-
-ICHTERS DISTILLERY LLC
-
-QUISVILLE, KENTUCKY 40216
+8
+AND MAY CAUSE HEALTH PROBLEMS ,
+BottLed BY
+MICHTERS DISTILLERY LLC
+LOUISVILLE; KENTUCKY 40216
+KENTUCKY
+WHISKEY
 
 ### Front Label
 
-=~
-
-OTTLE
-
-~
-
+BOTTLE
 OF
-
-LAs
-
-Me
-
-Bet
-
 BATCH #
-
-4 dstilled and bottled in Kentucky ,
+{distilled and Bottled in Kentucky
 
 ### Label 2
 
-Pac UR MASH me
-cKY SO W,
-ex USK py:
-Spek. j
-H-O- MeE Se TE AyD ®
-ey ns
-Kas es
-Small |S) vs 4.6A10.V01
-O12 PROOF € Ce) so
-c 2) py is ©
-Sse
-Whiskey
+SOUR
+fkenk ;
+H 0 M E
+S T E A D @
+Small Batch
+45.69ALC VOL
+912 PROOF
+750 ML
+Tliskey
 2018
 RELEASE
-Small Batch Kentucky Suny Pash Ghiskey
-Me MICHTER’S DISTILLERY * LOUISVILLE, KENTUCKY a
+Small @atrh Virnturky Suur Iarh @fislry
+MICHTER 'S DISTILLERY
+LOUISVILLE , KENTUCKY
+MASH
+KENTUCKY
+WHISKEY

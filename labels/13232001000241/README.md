@@ -27,41 +27,81 @@
 
 *Text extracted via OCR - may contain errors*
 
-*1 image(s) excluded: text did not meet readability threshold*
-
 ### Back Label
 
-Dene ee ay el
-tradition as other award-w Anning
+ade in the same
+Itradition as other award-winning
+'Saii
+this is a Barrel
+Proof;
+Batch
+Bourbon  Bottled
+straight
+the
+barrel and without
+chill
+the
+nose,
+taste and
+from
+twelve
+of  aging
+are   preserved
+in
+their   purest
+form
+At Barrel Proof; water can be added and
+Proofreduced to your liking Enjoy
+of Elijah Craig
+WARNING;
+ACCORDING TO THE
+GENERAL , WOMEN SHoULD NOT DRINK
+OURING PREGNANCY BECAUSE OF THE RISK QF
+DEFECTS (2) CONSUMPTION OF ALCOHOLIC
+VOUR ABILITY TO ORIVE A CAR OR
+AND
+MAY
+CAUSE   HEALTH
+MT-ME 150 REF - IA REF 56
+1
+0
+196749147221
+5
+AND BOT TLED BY THE ELIJAHO
+BARDSTOWN, KY 40004 750 ML
+Elijah
+bottlings;
+from
+filtering,
+finish
+years
+this
+limited
+bottling
+GOVERNMENT
+SUR-
+CEON
+ALCOHOLIC
+BEVERACES
+BIRTH
+BEVER-
+AGES
+IMPAIRS
+OPERATE
+MACHINERY,
+PROBLEMS.
+DiStILled
+ICRAIG
+DISTILLERYCO
 
-Elijah Craig bottlings, this is a Barrel
-Proof, Small ney kde Bottled
-Straight from the barrel and sept
-chill filtering, the nose, taste 2
+### Front Label
 
-i finish from twelve years of % C
-are preserved in their ory oa
-At Barre] Proof, water can wat
-Proof teduced to your chip. ossged
-limited bottling of Elijah See sun.
-
-3 ACCORDING T0
-
-Se a) cE
-BT AS MING PREGHANCY BECAUSE OF THE ASK
-BIRTH OFFECTS, (2) CONSUMPTION OF ALCOHOL BEI
-WCE YOUR ALT To DANE A CAR 08 OPE
-MACHINERY, “AND MAY CAUSE HEALTH
-4 VI-ME 15¢ REF - 1A REF 5¢
-12
-
-°S ni ae ae if)!
-
-& | ee teal ii
-Dm
-iO "96749"47221"' 5
-
-Ds BOTTLED BY THE ELLAH CRAIG
-{ OSLER Oo a a an
-
-YY VV vy yyyry:
+ELJAH
+CRAIG
+Balel
+Eogf
+KENTUCKY STRAIGHT
+BoURBON WHISKEY
+134.JPROOFLo7. | %ALCI
+VOL
+210-1521

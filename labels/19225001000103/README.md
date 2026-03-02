@@ -38,120 +38,129 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 98.6
 
 ### Back Label
 
-yerY LIMITED RELEgs
-
-GOVERNMENT WARNING: (1) ACCORDING T0 THE SURGEON
-
-GENERAL, WOMEN SHOULD NOT DRINKALCOHOLIC
-
+LIMITED
+A
+GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON
+GENERAL,WOMEN SHOULD NOT DRINKALCOHOLIC
 BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF
-
-BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC
-
+BIRTHDEFECTS. (2) CONSUMPTION OFALCOHOLIC
 BEVERAGES IMPAIRS YOUR ABILITY TO DRIVEA CAR OR
-
-OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS
-
-Ih
-
-I]
-
-|
-
-0
-
-00000
-
-00000
-
-0
-
-Bottled for Lux Row Distillers, Bardstown, KY
-
-MEVT REF 15¢ 1A REF 5¢
-
-{LUX ROW}
-
-_——— es
-
-FAHKTLY OWNED
-
-{SISTHELERS |
-
-EAE
-
-0000
+OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
+Bottled for Lux Row Distillers; Bardstown, KY
+ME VT REF 15c IA REF 5c
+40004
+LUX ROw
+FamILY
+0 W n E 0
+DISTILLERS
+K[nTU [iy.U $ ^
+LBOOOO
+RELEASE
+VERY
 
 ### Label 1
 
-OO SN
-7 ————————————————————— N
-B22 CP Nale?
-Be) nanan CyamM
-Rae itee
-
-PJ KUM VU
-yen’ UMICHPIREL EAS.
-
-——— fneky Straight —— |] J
-| BOURBON WHISKEY
-Finished in Cognac Harrels
-| 49.3% ALC/VOL | 98.6 PROOF | 750ML
-
-ry CN or Voxd |
-| 2020 Pact_No AY MMXX
-| » Se eee atl. <|
-
-—dak with oak, hather and labacce. aa,
-| Syear lead warm will cinnamon, albpucvand
-| lari And tous, af fllef vealed caramel
-
-Cognac casks fora fimush that all Kinitichy heat
-
-with a wispp of creme basilec sweet A voliz canter
-
-Fhis care Pact shal never again be made. || |
-
-PACT: Wg DATE: NY, 20: DY
-
-Ws 2 (fp.
-lh ZS ({Onyoe |
-M.M.X.X.
-A = (Fo000 | |
+fSlod Oafh
+LIMTTED
+Kenfucky Sfraighf -
+BOURBON
+WHISKEY
+Finished in Cegnac Sarrels
+49.3% ALC/VOL
+98.6 PROOF
+750ML
+2020
+PacfNa,6
+MMXX
+Ul mastotlunton -
+well_led lounlono
+each
+anv
+is oun aved
+Veadd,
+tememleted
+daxk with oak, lathev and tolacca ,
+an
+-toosby
+watm
+wih cnnamon; allbpuce and
+And
+fullok ocstdc
+talstn,
+"Ionaes
+tested and mellowed t
+bognac casks for e fusk-that % alL Sentacky headt-
+witkewuf ooeme kelsweed UAvobsent
+Ihis rare Pacf shall never again 6e made:
+PACT:
+DATE:
+20:
+90
+Tbin 5
+(ezpe
+M.MXX
+Lfoooo
+RELEASE
+VERY
+Unes
+44-av
+Iwo ,
+8-ypav -
+thxe,
+catamel
+riatowoodt
 
 ### Label 3
 
-ne
-S\
 THE
-PHlood Oath
+SSlod Oafh
 ATTESTS
 That every batch of Blood Oath is the
-undertaking of one man ~ a student of
-both Bourbon and Science. Loyal to no
-one family, favoring no one distillery
-and bound by no one philosophy ~ this
-Bourbon connoisseur has one goal in
-mind — to seek out Bourbons rare and
-wonderful, famous and forgotten. Then
+undertaking of one man
+student of
+both Bourbon and Scicnce. Loyal to no
+one
+family, (avoring
+no one
+distillery
+and bound by no onc philosophy
+this
+Bourbon connoisseur has one
+mind
+to seck out Bourbons rare and
+wondcrful, famous and
+forgotten: Then
 bottle them in combinations previously
-unimagined fora lucky few. Not to cater
-to anyone's loyalties, he has sworn to
-never reveal where he finds his Bourbon,
+unimagined for a lucky few Not to cater
+to anyone
+loyalties, he has sworn to
+nevcr revcal whcrc hc finds his Bourbon;
 but only to promise to choose and make
-the best he knows. Loose lips never
-tasted something so special.
-vo O4 >
-te)
-° ks
-S
-ee e
-q Q
-A &
-fa) S
-Frit
-480000
+thc best he knows.
+lips never
+tasted
+X
+M
+M
+X
+EXCLUSIVE RELEASE
+MMXX
+LSQOO
+goal
+Loose
+something
+special
+3
+CRTIR>
+
+### Label 5
+
+VERY LIMITED RELEASE
+NEVER TO BE MADE AGAIN
+CeRTIA)

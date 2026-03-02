@@ -39,120 +39,113 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 98.6
 
 ### Back Label
 
-very UIMITED)REL EA. |
-
+~mttr OF
 GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON
-GENERAL, WOMEN SHOULD NOTDRINKALCOHOLIC
-BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF
-BIRTH DEFECTS. (2) CONSUMPTION OFALCOHOLIC
+GENERAL,WOMENSHOULD NOT dRINKalcoholIc
+BEVERAGES DURING PREGMANCY BECAUSE OF THE RISK OF
+BIRTHDEFECTS. (2) CONSUMPTION OFALCOHOLIC
 BEVERAGES IMPAIRS YOUR ABILITY TO DRIVEA CAR OR
-OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
-
-MIN
-
-0°888352"130140"9
-
-Bottled by River City Distilled Products, St. Louis, MO
-MEVT REF 15¢ IA REF 5¢
+OPERATE MACHINERY AND MAY CAUSE HEALTH PROBLEMS .
+88352113014
+Botted by River City Distilled Products, St Louis, MO
+ME VT REF 15c IA REF Sc
+LIM
+RELEASE
+VERY
 
 ### Front Label
 
-Plood Oath
-
-very LIMITED RELegg,
-
-flentucky Straight
-
+SSlood Oath "
+LIMITED
+Kentucky Straight -
 BOURBON WHISKEY
-
-Finished in Toasted Ook Hervels
-
-49.3% ALC/VOL | 98.6 PROOF | 750ML
-
-2018 Pact No.4 Mmxvitt
-
-A masliyfed anionef thee
-
-well baed bausbans. bach
-
-J iily
-
-sntingled membus of th atiaodivary
-
-tantly bangs its osm voice te lhe uch
-
-and,
-
-‘wanelle ta coved by The
-
-es
-
-ng fam the gnitly tani oak fiaihe
-
-This rare whiskey shallnever again be made.
-
-pact: L
-
-fs QE
-
-20: ff.
-
-6c
-
-ty.
+Jinished in Joasfed Oak Sarrels
+49.39 ALC/VOL
+98.6 PROOF
+750ML
+2018
+Pact No.4
+MMXVM
+UAmostofutanion &k-iee caufulby&elacted
+tvell-bed docebono . Each % the doinelly
+led memlets
+4 ths
+Z
+i:
+t1uy
+uace
+atarazh
+hatmatey.
+~vanulla
+cevued %y the
+3iL
+deep chocolate; catamneland oal
+poz the gentby toaoted eak fnuah:
+Jhis rarc
+whiskey shall ncver again b€ made.
+PACT:
+4
+DATE
+2/41
+20:
+ri2
+RELEASE
+VERY
+hng" |dleete eoatatead orithe
+and
+ustng
+(2zp"
 
 ### Label 4
 
-A EEE ETS
-
 THE
-
-Bil
-
-of Oath
-
-That every batch of Blood Oath is the
-
-undertaking of one man ~ a student of
-
-both Bourbon and Science. Loyal to no
-
-one family, favoring no one distillery
-
-and bound by no one philosophy ~ this
-
-Bourbon connoisscur has one goal in
-
-mind - to seek out Bourbons rare and
-
+SSlood Oafh
+ATTESTS
+That cvery batch of Blood Oath is the
+undertaking of one man
+student of
+both Bourbon and Science Loyal to no
+one
+family;
+n0 one
+distillery
+and bound by no one philosophy
+this
+Bourbon connoisseur has one
+mind
+to scck out Bourbons rare and
 wonderful, famous and forgotten. Then
-
 bottle them in combinations previously
+unimagined for =
+lucky few Not to cater
+anyone
+loyalties, he has sworn to
+never Ieveal where he finds his Bourbon;
+but only t0 promisc t0 clioose and make
+the best hc knows
+Loosc lips never
+tasted
+special.
+1
+6
+M
+M
+VIII
+EXclusive
+RELEASE:MMXvM
+Lavoring
+goal _
+somcthing
+RTIF
 
-unimagined fora lucky few. Not to cater
+### Label 5
 
-to anyone's loyalties, he has sworn to
-
-never reveal where he finds his Bourbon,
-
-but only to promise to choose and make
-
-the best he knows. Loose lips never
-
-tasted something so special.
-
-oP 4,
-
-Se
-
-RTM
-
-EXCLUSIVE RELEASE: MMXVIII
-
-NY
-
-y
+VERY LIMITED RELEASE
+NEVER TO BE MADE AGALV
+~rtIf y

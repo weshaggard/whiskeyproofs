@@ -37,56 +37,82 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 125.9
+**Detected Age:** 6 Years
 
 ### Label 1
 
-booker
-
-Bho Wibuy tm shea frchege Ae
-
-(es
-
-mila
-
-Satta sper tds ur fll
-
-Wy rm o lin Loan bh his
-
-eee, || == |
-
-PEN LES epens
-
-s<¢e
-
-barrel tured.
-
-cened jlo .
+BBooenh
+@he
+wn Ho packoae _
+The
+Mlght gpadebrunbon-chabz
+1
+"zaashon -andoenean |
+1
+my gndfath-fm Zoam Dstha
+Whuksfron d Ro eigtt _
+022,
+ZS0ML
+Erker? 3urbh4
+"fazhftnlel
+remobe mnly pieces _
+banelband
+124-/420-
+9fisbt ~
+~Ga (
 
 ### Label 2
 
+XXX XXXX
 62.95%
-
-(125.9 PRooF)
-
-25 DAYS
-
-Boobs STRAIGHT BOURBON WHISKEY
-
-5018- Ol food Ha 1960-1992
+Aqe
+3
+AlcIval
+6YRs 5Mo
+125.9 PRopf)" 25 DAYS
+J
+BaTGH N?
+KENTUCKY STRAIGHT BOuRBON WHISKEY
+2018-01 | Bonu22zz
+MASTER DISTILLER:1960 -
+992
 
 ### Label 3
 
+XXX XXXX
 62.95%
-
-(125.9 Proof)
-
-E
-
-25 DAYS
-
-BATCH N2
-
+Age
+AlcIval
+6YRs 5M0
+1
+125.9 PRCoF)  25DayS
 KENTUCKY STRAIGHT BOURBON WHISKEY
+BATGH N?
+2018-04/84222
+MASTER DISTILLER: 960 -
+992
 
-2018-04. MASTER DISTILLER:1960-1993
+### Label 4
+
+BOOKER'Se KENTUCKY STRAIGHT BOURBON WHISKEY
+DISTILLED AND BOTTLED BY JAMES B. BEAM DISTILLING CO_
+CLERMONT, KENTUCKY
+GOVERNMENT WARNING: C
+ACCORDIHG TO
+THE   SURGEOH  GENERAL, WOMEN   ShOuLI
+NOT DRNKALCOHOLIC BEVERAGES DUFIG
+PREGHANCY
+BECAUSE
+OF
+THE
+RISK
+OF BIRTH defects. (2| COMSUMPTLON OF
+AlCOhOlC BEVERAGES   IMPAIRS  YOUR
+abiLty TO DRIVE A CAR OR OPERATE MAChI:
+ERK, AND  MAY  CAUSE  health  PROBLEMS ,
+80686"01140'
+ME VT REF [Sc + IA REF Sc
+124-2455-A

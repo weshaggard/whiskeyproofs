@@ -33,42 +33,68 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 126.1
+**Detected Age:** 6 Years
 
 ### Label 1
 
-booker
-
-Bho Wibuy tm shea frchege Ae
-
-(es
-
-mila
-
-Satta sper tds ur fll
-
-Wy rm o lin Loan bh his
-
-eee, || == |
-
-PEN LES epens
-
-s<¢e
-
-barrel tured.
-
-cened jlo .
+BBooenh
+@he
+wn Ho packoae _
+The
+Mlght gpadebrunbon-chabz
+1
+"zaashon -andoenean |
+1
+my gndfath-fm Zoam Dstha
+Whuksfron d Ro eigtt _
+022,
+ZS0ML
+Erker? 3urbh4
+"fazhftnlel
+remobe mnly pieces _
+banelband
+124-/420-
+9fisbt ~
+~Ga (
 
 ### Label 2
 
-63.05% 7000
-VoL sano
-(126.1 PRoor) phseio
-
-19 Days
-
+XXX-
+63.05%
+Aqe
+AlcIval
+1
+6YRs 6Mo
+126.1
+PRoof)' 19 DAYS
+1
+BATGH N?
 KENTUCKY STRAIGHT BOURBON WHISKEY
+2020-02| Bog2z
+MASTER DISTILLER:1960
+992
 
-a 5020-02 Gorden Poe
+### Label 3
 
-Boston Batch”
+BOOKER'Se KENTUCKY STRAIGHT BOURBON WHISKEY
+DISTILLED AND BOTTLED BY JAMES B. BEAM DISTILLING CO_
+CLERMONT, KENTUCKY
+GOVERNMENT WARNING: C
+ACCORDIHG TO
+THE   SURGEOH  GENERAL, WOMEN   ShOuLI
+NOT DRNKALCOHOLIC BEVERAGES DUFIG
+PREGHANCY
+BECAUSE
+OF
+THE
+RISK
+OF BIRTH defects. (2| COMSUMPTLON OF
+AlCOhOlC BEVERAGES   IMPAIRS  YOUR
+abiLty TO DRIVE A CAR OR OPERATE MAChI:
+ERK, AND  MAY  CAUSE  health  PROBLEMS ,
+80686"01140'
+ME VT REF [Sc + IA REF Sc
+124-2455-A

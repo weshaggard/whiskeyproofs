@@ -29,76 +29,48 @@
 
 *1 image(s) excluded: text did not meet readability threshold*
 
+**Detected Proof:** 98.6
+
 ### Front Label
 
-==
-
-=
-
-Se
-
-a
-
-| Prood Oath:
-
-very LIMITED RELe ga,
-
-4
-
-Fontueky Straight
-
+S5lod Oathi
+LIMITED
+Rcnfucky Sfraighf
 BOURBON WHISKEY
-
-| 49.3% ALC/VOL | 98.6 PROOF | 750ML
-
-Ve
-
-i
-
-2018 Pact No mmxy
-
-| @
-
-Mince of ial Nasel deastdea
-
-i
-
-Thefshea youl
-
-Ld haben witha raat
-
-Mh
-
-aaublle wooduuess, —
-
-oa
-
-rire PEI
-
-cence Ne aoe
-
-De ZR BE oe,
-
-Dias ames tgleioicd omee Mae
-
-Te
-
-|
-
-other, agicaing te concstst tn harmony.
-
-Wy
-
-This rare whiskey stid(C never again Ge made,
-
-pact. L
-
+49.396 ALC/VOL
+98.6 PROOF
+750ML
+20 | 5
+Pact Nu.]
+MXv
+'mastoful umion % wcll-hed toubons.
+@ Fot, <
+"yadifl tacdon wdh & mash &lL
+laukelaqed fu & subte woodiness.
+2u6,
+"Zno71Ec.71
+buul neuet
+soft,-wheated boubon ft memotade
+caues _
+Inally -
+a mate
+eafeuenced, smoky boexbon
+wik & e-based mash. xHane overfowexs t
+ather  agteeeng
+Shis rart
+wGisRcy s6a( uever
+62 madz
+PACT:
 DATE:
-
-aif
-
-te Oe
-
-M.M.X. Vv.
-
-i
+2/1L
+20:
+45
+John &
+RELEASE
+ERY
+LI_
+kecunz
+hatmany .
+c-etsd _
+'again
+knk

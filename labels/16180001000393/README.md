@@ -30,144 +30,86 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 100
+**Detected Age:** 4 Years
+
 ### Back Label
 
 Evan
-
-Williams.
-
+Williams
 BOTTLED-IN-BOND
-
 DISTILLED AND BOTTLED BY
-‘OLD EVAN WILLIAMS DISTILLERY
-LOUISVILLE, KY D.S.P. KY-1
-BARDSTOWN, KY D.S.P. KY-31
-
-GOVERNMENT WARNING: (1) ACCORDINGTO THE
-‘SURGEON GENERAL, WOMEN SHOULD NOT DRINK
-
-ALCOHOLIC BEVERAGES DURING PREGNANCY BE-
-
-CAUSE OF THE RISK OF BIRTH DEFECTS. (2) CON-
-‘SUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS
-
-YOUR ABILITY TO DRIVE A CAR OR OPERATE MA-
-CHINERY, AND MAY CAUSE HEALTH PROBLEMS.
-
-wos
-
-0 NN96749"021370 "8
-\VIME 15¢ REFA REF 5¢
-
-000-0000
+OLD EVAN WILLIAMS DISTILLERY
+LOUISVILLE KY DSP KY-1
+BARDSTOWN, KY D.SP KY-31
+GOVERNMENT WARMING;: | V| ACCORDINGTOTHE
+SURGEON GENERAL, WOMEN SHOULD NOT DRINK
+ALCOHOLIC BEVERAGES DURING PREGMANCY BE:
+CauSE OF THE RUSK OF BIRTH DEFECTS. (24 CON:
+SUMPTION oF ALCOHOLIC beverages VMPAIRS
+YDUR ABILITY T0 DAIE
+CAR QR OPERATE MA:
+ChINERK AND  Kay  CauSE health PROBLEMS.
+1
+1
+9 6 7 4 9
+02137
+VT-ME 15c REF-IA REF 5C
 
 ### Label 1
 
 Bottled-in-Bond status is
-
-|
-
+Evan
 Evan Williams set up his
-
-earned only by meeting is}
-
-EK
-
-an
-
+earned only by meeting
 distillery on the banks of
-
 strict government
-
 the Ohio River in 1783
-
 standards, originally
-
+Williams ||
 and is historically
-
-passed in 1897 to ensure
-
-illiam
-
-ape
-
-S.
-
-recognized as Kentucky's
-
-quality and consistency.
-
+passed in 1897 t0 ensure
+recognized
+Kentucky s
+quality and consistency:
+1
 First Distiller of
-
-Tn accordance with these
-
-° BOTTLED-IN-BOND
-
-Bourbon. This special
-
+In accordance with these
+BOTTLED-IN-BOND
+Bourbon_
+This special
 standards, this Bourbon
-
+{
 Bottled-in-Bond
-
-= ||
-
-is 100 proof, aged at least
-
-Bourbon is a genuine
-
+is 10O proof; aged at least
+Bourbon is
+genuine
 4 years, and produced
-
-100 PROOF |
-
-‘Sour Mash that honors
-
-at a single distillery
-
-SINGLE DISTILLERY
-
-D.S.P. KY 1
-
-his pioneering heritage.
-
-ey
-
-Se
-
-Pants
-
-within a single
-
-distillation season.
-
-feo
-
+7
+100 PROOF
+Sour Mash that
+single distillery
+SIN GLE
+D IS TILLERY
+his pioneering heritage
+D . S.P_
+KY
+within
+single
+distillation season_
+Buan
+1
 KENTUCKY
-
-SGAGhl
-
-a
-
-fuer
-
+1
+shleaec?
 BOURBON
-
-Evan Wiliams
-
-18th
-
-eared
-
-Whishe,
-
-i: tr
-
-Bottled under U.S. Gov't Supervision + 50% Alc./Vol.
-
-### Label 3
-
-NOISIAUAdNS LNAWNUFAOD ‘S"0
-UHGNN GNO@ NI GATLLOG
-
-NOISIAWAdNS LNAWNUFAOD “S01
-
-YAGNA GNO@ NI GATLLOG
+Evan Walliams' signature
+Whiskgy
+I8t6 centuiy distillation
+Bottled under U.S. Govt Supervision
+50% AlcNol:
+bonors
+"Fpeated
+Liccex -

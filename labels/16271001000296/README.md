@@ -28,22 +28,19 @@
 
 ### Label 1
 
-\VEN
-
-WEAY
-
-QUALITY HOUSE
-
-Iky
-
-REMIUM |
-
-y
-
-ODKAY
-
-ystilled from Gin
-
-|
-
-@
+PREMIUM
+VODKA
+Iroduct of91964
+Gistilled [vom Gvain
+BOTTLED BY
+409
+HEAVEN HILL
+DISTILLERIES, INC
+80
+BARDSTOWN, KY
+HEAVEN
+HILL
+QUALITY
+HOUSE
+) PROOF
+AIC/VOL

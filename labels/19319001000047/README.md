@@ -20,148 +20,90 @@
 
 *Text extracted via OCR - may contain errors*
 
+**Detected Proof:** 90
+
 ### Label 1
 
-le
-
-BS
-
 In 1773, three McAfee Brothers named
-
-McAFEE BROTHERS
-
+BROTHERS
+6
 DISTILLED, AGED AND
-
+James; George and Robert left Virginia
 BOTTLED BY BUFFALO
-
-James, George and Robert left Virginia
-
 westward to explore the uncharted
-
-TRACE DISTILLERY,
-
+1
+TRACE DISTILLERY;
 territory that would later be known as
-
+1
 FRANKFORT, KY
-
-Kentucky. Traveling by canoe at first,
-
+Kentucky: Traveling by canoe at first;
+BBHBHHARK
 the McAfee Company eventually
-
-IA REF 5¢ » ME/VT REF 15¢
-
 followed a native trail overland that led
-
-to the great buffalo crossing, where the
-
-~ BENCHMARK
-
-GOVERNMENT WARNING: (1) ACCORD:
-
+0
+:
+IA REF 5c
+ME/VT REF 15c
+to the great buffalo crossing; where the
+8
+GOVERNMENT WARNING: (1) ACCORD-
 brothers surveyed the land now home
-
+1
 ING TO THE SURGEON GENERAL, WOMEN
-
-to the world’s most award-winning
-
-SHOULD NOT DRINK ALCOHOLIC BEVER
-
+to the world $ most award-winning
+6
+SHOULD NOT DRINK ALCOHOLIC BEVER-
+distillery
+Buffalo Trace Distillery The
+0
 AGES DURING PREGNANCY BECAUSE OF
-
-distillery — Buffalo Trace Distillery. The
-
-SELECT
-
-CASKS
-
-THE RISK OF BIRTH DEFECTS. (2) CON
-
 surveyor marks left behind are known as
-
-SUMPTION OF ALCOHOLIC BEVERAGES
-
+S ELE C T
+8B
+C A $ K $
+THE RISK OF BIRTH DEFECTS, (2) CON-
+SUMPTION  OF ALCOHOLIC   BEVERAGES
 benchmarks and this Kentucky Straight
+1
 
 IMPAIRS YOUR ABILITY TO DRIVE A CAR
-
 Bourbon Whiskey honors the pioneering
-
-OR OPERATE MACHINERY, AND MAY
-
-spirit of these early American explorers.
-
-CAUSE HEALTH PROBLEMS.
-
-RBon S*
-
-TTL
-
-———
-
-oy
-
-cites
-
-——
-
-nnn
-
-OF rE HIGHEST covet
-
+OR OPERATE MACHINERV, AND May
+spirit of these early American explorers:
+CAUSE HEALTH PROBLEMS,
+OF
+THE
+HIGHEST QUALITY
 SMALL BATCH
-
-{AU MYO) MU
-
-It
-
-Ill
-
 Select barrels are chosen for this
-
-small batch Kentucky Straight
-
-Bourbon Whiskey by our Master
-
-SMALL BATCH
-
-l
-
-HAIMA
-
-|
-
-UML
-
-|
-
-Distiller. The aroma of vanilla and
-
-a
-
-KENTUCKY STRAIGHT
-
-00000
-
-00000
-
-oak gives way to delightful hints
-
-BOURBON WHISKEY
-
-We love to hear from our customers!
-
-of caramel, leather, and honey
-
-4
-
-|
-
-benchmark@bourbonwhiskey.com
-
-45% ALC BY VOL
-
+;
+{
+FPO 80%
 3
+small batch Kentucky Straight
+SMALL BATCH
+Bourbon Whiskey by our Master
+4
+Distiller: The aroma of vanilla and
 
-750 mL BOTTLE
-
+>
+0
+0
+oak gives way to delightful hints
+KENTUCKY
+STRAIGHT
+U
+We love to hear from our customers!
+BOURBON
+WHISKEY
 1
+of caramel, leather; and honey:
+benchmark@bourbonwhiskey.com
+45% ALC BY VOL
+90 PROOF
+750 mL BOTTLE
+McAFEE
+Rk
+1
+STANDARD
+KOURBO

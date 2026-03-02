@@ -35,31 +35,53 @@
 
 ### Back Label
 
-SE a Ae ae
-eS Lae eer Tem
-ae “pC YRS. SINGLE BARREL @
-im 7,30. STRAICHT RYE
-i 4. OD. STRAIGHT RYE @
-ig We are proud to offer you our rare
-BI 25 Year-Old Single Barrel Straight Rye ig
-i Whiskey. In the Michter’s tradition
-WM bailing from one of America’s first
-} distillers, this whiskey is made from (am
-Wi highest quality American Rye and aged Jb
-Hey for 25 years in a hand-selected charred Wa
-Oe sitcod tact wil wach our
-§@ exceptional quality standards. It is then fi
-i) further mellowed by our 7.
-Mf signature filtration. =—'f
-\ GOVERNMENT WARNING: (1) ACCORDING TO THE =——=2 hie
-Hi ‘SURGEON GENERAL. WOMEN SHOULD NOT DRINK Fe iia
-2 ALCOHOLIC BEVERAGES DURING PREGNANCY BE- =s 4
-si MS CAUSE OF THE RISK OF BIRTH DEFECTS. (2) CON- Jiu st,
-Bie SUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS -——J a)
-fff YOUR ABILITY TO DRIVE ACAR OR OPERATE MACH- == Gaus
-fie NERY, AND MAY CAUSE HEALTH PROBLEMS. = eA te
-As BOTTLED BY ——
-fis MICHTER'S AMERICAN WHISKEY CO. es: y
-i BARDSTOWN, KENTUCKY 40004 f
-ae allt aan SHR: eM tai
-fog wel
+SINGLE BARREL
+25818 STRGICHTRYE
+Wc
+tc
+proud
+to
+offer
+you
+OUI
+TJic
+25 Ycar-Old Singlc Barrel Straight Ryc
+Whiskcy:
+thc
+Michter $
+tradition
+from
+one of
+Amcrica $
+first
+distillers
+this whiskcy is
+from
+highcst quality Amcrican Rye and
+for 25 ycars in
+hand-selected charred
+white
+oak
+barrel
+until
+meets
+0 U I
+exceptional quality standards: It is thcn
+furthcr mcllowed by our
+sgnaturc
+filtration
+GOVERNMENT WARNING;
+ACCORDING TO THE
+SURGEON GENERAL, WOMEN  ShCuLD NOT DRINK
+ALCOHOLIC BEVERAGES DuRING PREGMANCY BE-
+CAUSE OF THE RISK oF EIRTH DEFECTS (21 CON:
+SuMPTION of ALCoHOLIC BEVERAGES IMPAIRS
+YOUR ABILITY TO DRIVE
+CAR OR OPERATE MACHI:
+NERY, AND MAY CAuSE HEALTH PROBLEMS.
+BOTTLED BY
+MICHTERS AMERICAN WHISKEY CO.
+ARDSTOVN. KENTUCKY 40004
+bailing
+made
+aged

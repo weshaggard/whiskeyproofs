@@ -31,88 +31,100 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
 
 ### Back Label
 
-(
-
-COLONEL E.H.
-
+COLONEL
+E.A.
 TAYLOR
+TORNADO
+RA3348U;E  FinG
+JMD
+In L870 Edinund Hajries Taylcs , Jc. puichzsed
+distillery
+Leestown; Kanfucky which
+rena MG dtne
+0FC Distillery and immediately
+Mngenv
+Mlore Eha
+cemtumaler
+the *ame :ite, Warehouse
+built !
+Taylor in
+was stru-k by =
+vjlent tormaco that nFped
+apart the (cci
+and trck wa
+umaznzly the
+bafrel $ Irside were Igft ufnoved
+nscuthuo
+but definitely e pased
+Ff? elements
+The Larrels continued tJ 2ge
+mjmns unjer
+Sunanc
+throwzh the rin %hile the wareh juse
+Gis elaneu
+We "she
+Mrush "etenacn
+barrels tastes exceptiJnal
+mellc, "ith vanilla
+and cinnamcn character Plea se enjcy this
+Mmoi
+uhskanina
+sumvam
+Karnamol
+LOv
+5704 Zup
+Cu57o46722
+1-366-778797
+wdARiATeOURECRCO4
+TAMCPSCALRTES
+DISTILLED, AGEC ANC BOTTLEC @Y
+FASHIONEC CC?FER DISTILLERY
+FRANKFORT, KY, DS?-KY-|3
+EOVERNMENT   WARMING.
+acodrding
+thE  SURGEON
+GENERAL, WOMeR Sh Culd Ndt
+DRINK AlCohDLIC EEVERAGES
+MRING FRESNANCY BECAUSE
+@F THE RSk
+BIRTH CefECTS
+421 COKSL
+IPTIQM
+ALCIhQ
+BEVERAGES IMPRIRS YCUR
+LrwE
+@PERATE WChUNEAY, AND May
+CAUSE
+HEALTH
+PROBLEMS
+ONL
+tezan
 
-WAREHOUSE ©
+### Label 1
 
-TORNADO SURVIVING
+COLONEL
+E.A_
+TAYLOR
+TORNADO
+7A3B8US5  FinG
+ND
+1
+%
+3
+L
+8
+V
+6
+1
 
-an
-
-<
-
-In 1870 Edmund Hayes Tc Je puchaed
-
-sal distillery in esto, Kentucky which he
-
-renamed the OFC island immediatly
-
-began modernize. Mae than acestry tron
-
-the same ste, Warehouse", bl by Tayler
-
-181, was stuck bya violent tomada that ppeé
-
-‘apa th ol and beck vals, sang the
-
-hassle mr tune, unseated
-
-but define exposed tothe elements!
-
-The bares continued to ae fox months under
-
-‘he sun ané though the an white warebouse
-
-arpa The whiskey in hase weather nan
-
-bares tastes exceptional melon, wih varia
-
-‘nd canon ehaarte Pease ej tis
-
-unique whisky hat sures afmado!
-
-WE LOW To HEAR Fou cuR cusToNERS
-
-teeerezoree
-
-sinsrenacicnco
-
-neapesarneoncoe
-
-DISTILLED, AGED AND BOTTLED BY
-
-(OLD FASHIONED COPPER DISTILLERY
-
-FRANKFORT, KY, DSE-4V-1 13
-
-OVERNMENT WARING 1)
-
-AODROING To THE SURGEDN
-
-GENERAL, MEN SHOULD NOT
-
-‘Dri aLCOvOUC BEVERAGES
-
-[a
-
-DURING PREGNANCY BECAUSE
-
-OFTHE SK OF aT OEFECTS,
-
-(2) OONSDUPTON  aLcEHO:
-
-Uc BEVERAGES PRS YOUR
-
-ABILITY. TO. DAVE CAR OR
-
-CPERUTE MACHINERY, AND AY
-
-CAUSE "HEALTH PROBLEMS =)
+I
+3
+1
+1
+BOTTLED IN BONDL
+5096 ALC VCL (Ioo PROOF] 75OVL
+OnL

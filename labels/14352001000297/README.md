@@ -39,100 +39,68 @@
 
 *Text extracted via OCR - may contain errors*
 
-*1 image(s) excluded: text did not meet readability threshold*
+*2 image(s) excluded: text did not meet readability threshold*
 
 ### Front Label
 
-GRAFTED with CONVICT gy
-
-WILD TURKEY.
-
+Wid TuRkEY
 KENTUCKY STRAIGHT BOURBON WHISKEY
-
-AGED ] 7 f YEARS
+AGED
+1
+YEARS
+with
+conviction
+CRAFTED
 
 ### Label 1
 
-BATCH N@&
-
-jm
-
-PHAN ES
-
-BOTTLE N&
-
-ZED
-
-MASTER'S”
-
-rE!
-
-FSO ml y
-
-[rei] Wee
-
-AGED
-
-ce yee Raj PROVED;
-
-Fee
-
-ppb?
-
-[re] STOVE
-
-/7 YEA
-
-SY Ate /vor 43. 24%,
-
-(6.6 FRreor
-
-Se Woee
+BATCH
+Ne
+NAME:
+BOTTLE
+Ne
+Ouo
+MASTER'S
+3
+Zsvml
+KEEP
+Ne]
+Wo'
+2
+AGED:
+PPROvED
+Id
+N?2
+Stbne
+17-YeAn
+Aicivo {Zdoe
+{6.8 Prdof
+N?3
+Wdev
+1
+G52
+4625
+324S
+4
 
 ### Label 3
 
 BOTTLED BY WILD TURKEY
-
 DISTILLING COMPANY
-
 Lawrenceburg, KY
-
-www.wildturkeybourbon.com
-
-oO
-
-GOVERNMENT WARNING: (1) ACCORDINGTO =
-
-29 Es
-
-THE SURGEON GENERAL, WOMEN SHOULD
-
-—
-
+Www
+wildturkeybourbon.com
+GOVERNMENT WARNING:
+ACCORDING TO
+THE SURGEON GENERAL,WOMEN SHOULD
+NOT DRINK ALCOHOLIC BEVERAGES DURING
+88
 PREGNANCY BECAUSE OF THE RISK OF BIRTH
+DEFECTS. (2) CONSUMPTION OF ALCOHOLIC
 
-NOT DRINK ALCOHOLIC BEVERAGES DURING [= Ok Ee 2=S
-
-Sip
-
-DEFECTS.
-
-CONSUMPTION OF ALCOHOLIC
-
-Zo
-
-BEVERAG
-
-g
-
-IMPAIRS YOUR ABILITY TO
-
+BEVERAGES IMPAIRS YOUR ABILITY TO
+2
 DRIVE A CAR OR OPERATE MACHINERY,
-
-AND MAY CAUSE HEALTH PROBLEMS
-
-PRODUCT OF USA 750mL
-
-### Label 5
-
-Gictinisl Sadia Stat a i iat ait
+AND MAY CAUSE HEALTH PROBLEMS.
+PRODUCT OF USA
+750mL

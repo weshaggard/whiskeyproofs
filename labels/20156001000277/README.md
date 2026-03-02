@@ -36,113 +36,42 @@
 
 *Text extracted via OCR - may contain errors*
 
-*1 image(s) excluded: text did not meet readability threshold*
-
-### Label 1
-
-| ; me MO LIMITED RELEAS £
-TNE LEIQED
-i S2iae Ss K
-Lud |= iOS Y
-bay l2i7 4+ -
-age te We
-POS 22 Seu U
-fe:c Bee S
-2 [ ei | Seisn |
-f--Feee CREEK
-:2O Baty i » <
-ans @
-CS [2:0 < = | Eu
-Soe KENTUCKY STRAIGHT
-LS EN’ AGED BOURBON WHISKEY
-~~ <8 TWELVE
-YEARS
-y, N
+*3 image(s) excluded: text did not meet readability threshold*
 
 ### Label 2
 
 CASK
-
 CRAFTED FOR SUPERIOR TASTE & SMOOTHNESS.
-
-since
-
 STRENGTH
-
-1992
-
-Bottled at barrel proof for full flavor, our
-
-17.0 PROOF
-
+{987
+Bottled at barrel proof for full flavor;
+our
+1
+T7.0 PHIOF
 Cask Strength Kentucky Straight Bourbon Whiskey
-
-417.0 PROOF
-
-7
-
-Bok ACAOL
-
-is as close to thieving from the barrel as it gets.
+117 .0
+P R 0 0 F
+FPShsk AENIL
+is a8 close to thieving from the barrel a8 it gets:
 
 ### Label 3
 
-GOVERNMENT WARNING: (1) ACCORDING 10 THE SURGEON GENERAL
-
-WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREG
-
-NANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION
-
-OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABI
-
-TO DRIVE A CAR
-
-OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS
-
-er 1.5 fo
-
-ries 142,
-
-art
-
-ig, Protein, Fat bg
-
-750mL
-
-MENT REF
-
-FS
-
-a
-
-+ IAREFS¢
-
-5
-
-AND BOT!
-
-Ki
-
-ily
-
-i
-
-MPANY,
-
-CRY
-
-Www. IWOBCREK COM
-
-A
-
-WWW.DRINKSMART.COM
-
-### Label 4
-
-AMIUMINIWY LNOWYIAT9
-
-Sistilleg «
-Umire in
-Wangs; ties
-
-CRE rat batdh
+GOVERNMENT WARNING:
+ACCORDING TO ThE SURGEOM GENERAL;
+WOMEN ShOULD  NOT DRUMK ALCOhOLIC BEVERAGES DURLNG PREG"
+HANCY BECAUSE OF ThE RUSK OF BIRTH DEFECTS. (2| CONSUMPTION
+OF ALCOHOLIC BEVERAGES HMPAURS YOUR AbILTY TO DHIE A CAR
+OR   OPERATE   MACHINERK   AND  MAY  CAUSE   HEALTH  PROBLEMS ,
+Per 1,5 #l, 0Z,
+Average Analysis: Calories '142, Carbohydrates 6g, Protein Ug, Fat ug
+750 mL
+MEVT REF 154 =
+REF 54
+DISTILLED AND BOTtLED BV
+1
+KNOB CREEK DISTULING cOMPHNY
+CLERMONT KENTUCKY
+WWW KNOBCREEK COM
+2
+WIW DRINKSMART.COM
+'80686"01699

@@ -41,60 +41,62 @@
 
 *2 image(s) excluded: text did not meet readability threshold*
 
+**Detected Proof:** 105
+**Detected Age:** 11 Years
+
 ### Back Label
 
-Didhday Poucbon
-
-AGED FOR OVER11 YEARS IN OAK CASKS
-
-‘This whisky is distilled by us only, and we are responsible for its richness and
-
-Jine quality. Its elegant flavor is solely due to original fineness developed with
-
-‘care. There is nothing better in the market,
-
-‘GEORGE OARVIN BROWN, FOUNDER.
-
-7 a
-
-GOVERNMENT WARNING: (I) ACCORDING TO THE SURGEON
-
-DISTILLED & BOTTLED BY
-
-GENERAL
-
-DRINK ALC ae foe
-
-STER DISTILLING CO.
-
-DURING PREGNANCY BECAUSE OF THE RISK OF
-
-P| COSUNPHGN OF ALCONOUC EVeAceS Means Yon ATOUSYILEN ENTRY
-
-ILITY.
-
-DRIVE A CAR OR OPERATE MACHINERY, AND MAY
-
-CAUSE HEALTH PROBLE!
-
-RESPONSIBILITY org
+Bidthday Goutbon
+AGED FOR OVER 11 YEARS IN OAK CASK8
+This whisky i$ distilled by uS only; und we are responsible for its richness and
+fine quality Its elegant flavor is solely due to original fineness developed with
+care. There iS
+nothing better in the market
+D
+OEOROE OARVIN BROMN; FOUNDER_
+Uin=
+GONERHMEHO
+Eaxke324886
+BEURGEON
+DISTILLED & Bottled BY
+durIng
+JNANCY
+OLD FORESTER DISTILLING CO;
+(21 CONSL
+PGETON opellgoobe"
+ebr
+fLouisVIlLETH KENTUCKY
+ABILITY_to DRIVE
+{PROBLENR oR operate MAchiery, Atd
+RESPONSIBILITY.org
+CAUSE HEALTH L
 
 ### Label 1
 
-Boretled OL D Lid. Bottling
-2008 @ ji aD 2019
-. a ae
-TADECTED:
+Barrelled
+OLD
+Ltd. Bottling
+2008
+2019
+FORESTER
 KENTUCKY STRAIGHT BOURBON WHISKY
-Lidhday Bourbon
-OLD FORESTER DITLUNG OAT LOUISVILLE KY 750m 25% ALOVDL (1s PROOF)
+Bidhday Gowbon
+OLD FORESTER DISTILLING CO, AT LOUISVILLE IN KY 750mL 52.590 ALC OL (105 pROOF)
 
 ### Label 4
 
-Tapes Ne teat asa
-
-j
-
-|
-
-ene weer
+2
+29
+THE FIRST
+BOTTLED
+BOURBON"
+W
+GAR
+8
+<
+Baanno
+8
+Ni^84?
+iN
+8
+Under

@@ -41,105 +41,141 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 98.6
 
 ### Label 1
 
-Poot Oath
-
-y LIMITED RELEgg,
-
-Kentucky Straight
+Sslod Oafh '
+LIMITED
+Kentucky Straighf-
 BOURBON WHISKEY
-
-Finished in Cabernet Sauvignon Harrels
-49.3% ALC/VOL | 98.6 PROOF | 750ML
-
-G NY
-2017 Pact N03, MMXVII
-Amastifabunin of well hed bausbons
-Thing the bad ss afer fiom-shy, shoyp
-ey Pal fans fosthed tin on
-Sautagnen peg Oe
-egpuesse cepledeithn
-rcs tye bausbon, ch with
-fragrant rant tasted caramel, os
-milonk, Hi galifal for thi fi fi jen
-delete Kintticlty and €alifosnta
-
-This care whiskey shall never again be made.
-
-sad ome. Sf ff
-
-es
+Finished in Cabernet SSauvignon SSarrels
+49.39 ALCIVOL
+98.6 PROOF
+750ML
+2017
+PactNu.8
+MMXVII
+maslefulunton % wele_bxed touxdons
+tie &ead %
+and
+"skdmsha_tahavt
+lushed
+laueld fva dvy,
+and
+comfleaey. Ius ,
+Ia
+welbl-seedened % loedon;
+ttk
+pagtant-vanella ,
+toasted catamel, atanqes
+'vak, Be gatful fov ths {atetul affaei
+letwcen
+and Za
+This rare whiskey shall ncvcr again b€ made:
+PACT:
+2
+DATE:
+20:
+L
+Tbun 5
+RELEASE
+'ERY
+9h16
+shatf
+Jaetgnon
+eopiessa
+uct
+ad ,
+"Kentacky
+(ocp
 
 ### Label 2
 
-6 a SD
-Cabernet Sauvignen,
-Havvel Finish
-Forthe third chapterin the Blood Oath
-epic, weve conspired with like-minded
+@abernef SSauvignpn
+Sarrel Finish
+Forthethird chapter In the Blood Oath
+eptc, weve consplred wtth
+minded
 craftsmen in the heart of California
-wine country. Nestled in the Oalville
-region of Napa Valley famous for its
-fertile alluvial soll— Swanson Vineyard
-has been making nationally known and
-}> limited, small batch Bordeaux style <{
-wines for over three decades. These
-prized Cabernet barrels add an
+wlne country Nestled In the Oakville
+reglon of )
+Valley-famous for Its
+fertile; alluvlal soll
+Swanson Vineyard
+has been
+natlonally known and
+limited ; small batch Bordeaux style
+wines for over three decades: These
+prized  Cabernet barrels add
 unforgettable layer of complexity to the
-whiskey youre about to drink.
-ei fee =
-Been) See EN tee ne
-NSE lll Sean
+youre about to drlak:
 SWANSON VINEYARDS
 NAPA VALLEY, CA
-\ aL eo”
+Jike
+Napa
+making "
+hiskey
 
 ### Label 3
 
-yenv LIMITED RELEAo.
-
+Ct
+LIMITED
+(
 GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON
-GENERAL, WOMEN SHOULD NOTDRINKALCOHOLIC
+GENERAL,WOMEN SHOULD NOT DRINKAlcOhOLIC
 BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF
-BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC
+BIRTHDEFECTS.(2) CONSUMPTION OFALcOHOLIC
 BEVERAGES IMPAIRS YOUR ABILITY TO DRIVEA CAR OR
-OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
-
-0°"88352°13014""9
-
-Bottled by River City Distilled Products, St. Louis, MO
-MEVT REF 15¢ 1A REF 5¢
+OPERATE MACHINERY,AND MAY CAUSE HEALTH PROBLEMS.
+88352/13014
+Bottled by
+City Distilled Products; St Louis, MO
+ME VT REF 15c IA REF Sc
+RELEASE
+VERY
+ River '
 
 ### Label 4
 
-THE
-
-Plood Oath
-
+TTHE
+Sled Oath
 ATTESTS
-
-That every batch of Blood Oath is the
-undertaking of one man ~ a student of
-both Bourbon and Science, Loyal tono
-cone family, favoring no one distillery
-and bound by no one philosophy ~ this
-Bourbon connoisseur has one goal in
-mind ~ to seek out Bourbons rare and
+every batch of Blood Oath is the
+undertaking of one man
+student o
+both Bourbon and Science Loyal to no
+OIlE
+family; favoring no one
+distillery
+and bound by IO one
+'philosophy - this
+Bourbon connoisscur has one
+mind
+out Bourbons rare and
 wonderful, famous and forgotten. Then
 bottle them in combinations previously
-unimagined fora lucky few. Not to cater
-to anyone's loyalties, he has sworn to
-never reveal where he finds his Bourbon,
-
-but only to promise to choose and make
-
+unimagined for a lucky few Not to cater
+anyone
+loyalties, he has sworn to
+never rcvcal where hc finds his Bourbon,
+but only to promisc to choosc and makc
 the best he knows. Loose lips never
+tasted
+something =
+special,
+6
+M
+CeRTIF
+EXclusive RELEASE: MMxvii
+That
+goal
+'scck
+VII
 
-tasted something so special.
+### Label 6
 
-EXCLUSIVE RELEASE: MMXVII
-
-Hein anon.”
+VKRY LMITED RELEASE
+NATER T0 BI MADE AGAL

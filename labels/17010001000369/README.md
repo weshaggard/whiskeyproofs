@@ -32,56 +32,41 @@
 
 *2 image(s) excluded: text did not meet readability threshold*
 
+**Detected Age:** 25 Years
+
 ### Back Label
 
-YRS. LIMITED REL BASE
-
-25
-
-OLD. BAY MNS PAGES HT
-
-We are proud to offer you our rare
-
-25 Year-Old Kentucky Straight Bourbon
-
-In the Michter’s tradition hailing from
-
-one of America’s first distillers, this
-
-bourbon is made from highest quality
-
-ars in
-
-American corn and aged for 25
-
-hand-selecte
-
-charred white oak barrels
-
-until it meets our exceptional qu:
-
-standards. It is then further mellowed by
-
-our signature filtration.
-
-‘GOVERNMENT WARNING: (1) ACCORDING TO THE
-
-SURGEON GENERAL, WOMEN SHOULD NOT DRINK
-
-ALCOHOLIC BEVERAGES DURING PREGNANCY BE-
-
-‘CAUSE OF THE RISK OF BIRTH DEFECTS. (2) CON-
-
-SUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS
-
-‘YOUR ABILITY TO DRIVE A CAR OR OPERATE MACH
-
-NERY, AND MAY CAUSE HEALTH PROBLEMS.
-
+YRS
+252
+OLD
+ESUHESR BHsaNf
+We are proud to offer you`
+OuTfate
+25 Year-Old Kentucky Straight Bourbon:
+Ii the Michter $ tradition hailing from
+one of America
+first distillers; tbis
+boufbon,is made-from highest
+quality
+American coru and aged for 25 years
+haid-se lected charred white; oak barrel
+untilt
+meets
+our exceptional
+quality
+standards: `It -is then further mellowed by
+ouT
+signature filtration:
+'GOVERNMENT  WARNING;
+AOCORDING To THE
+SURGEOM GENERAL , WOMEN SHHould Not DRINK:
+ALCOHOLIC beveRAGES  DuRING* PREGNANCY BE =
+CAUSE 'OF THE: RISK OF BIRTH DEFECTS
+ON:
+SUMPTION OF: ALCOHOLIC' BEVERAGES
+'#apOpS:
+VOUR ABILITY To DRIVE A CAR OR OPERATE MACHI:
+NERY; AND May CAuSE HEALTH PROBLETS;
 BOTTLED BY
-
-MICHTER'S DISTILLERY LLC
-
-OUISVILLE, KENTU!
-
-¥ 40216
+MICHTERS DISTILLERY LLc
+LQUISVILLE KENTUCKY 40216

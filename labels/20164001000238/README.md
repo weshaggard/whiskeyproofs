@@ -41,83 +41,116 @@
 
 *1 image(s) excluded: text did not meet readability threshold*
 
+**Detected Proof:** 98.6
+
 ### Back Label
 
-pa ikee
-GENERAL, WOMEN DHOTORMKALODNOUIC
-ee ue FALCONOLE
-» IEVERAGES INP YOUPABLIT TOUR EA CANO ei
-‘OPERATE MACHINERY AND MAY CAUSE HEALTH PROBLEMS,
-‘Bote for Lux Row isles, Bardstown, KY
-i EVI EF 15 ARE
-(ux Row) ———_.
-(Gear emmy WENTOCKY. USA
+202
+GOVERNMENT WARNING: (1) ACCORDING To thE SURGEON
+GENERAL,WOMEN SHOULD NOT DRINKalcoholIC
+BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF
+BIRTH DEFECTS. (2) CONSUMPTLONOfalcoholic
+BEVERAGES IMPAIRS YOUR ABILITY TO DRIVEA CAR OR
+OPERATE MACHINERY
+MAY CAUSE HEALTH PROBLEMS .
+88352"13483
+Bottled for Lux Row Distillers, Bardstown; KY
+ME VT REF 15c IA REF Sc
+LUX ROW
+fanily
+W n [ 0
+DistilLeRS
+I[nTUcKy,U $ ^
+RELEASE
+VERY
+AND [
 
 ### Front Label
 
-| Pood Oath
-fatty tight ——
-BOURBON WHISKEY
-|| Finistied in Sauternes Harrels
-2 Pact No.7
-fesiploin taal yl, |
-if pienso sca old
-a nya am
-Gaelic!
-Fhis rare Pant stialCaever again Ge made,
+Sslod Oafh
+LIMITED
+Kenfuckyj Sfraighf
+BOURBON
+WHISKEY
+Jinished in Sauferies Sarrels
+49.396 ALCIVOL
+98.6 PROOF
+750ML
+2021
+Pact Na.7
+MMXXI
+UAmostttunungttheewelh-hedopd boodond
+Ine [uot;@ 44
+'zpat-eld -tatevgks dcadentcaxamel
+chocolad, and cak nads . Ine secondy
+8-seas-ald
+tatcamnes fouvadwih ehuntol keettscodch & stecd-
+And ynally,
+ah
+8-ax-eld-tathas been
+mellouedun Jeuitunes tunecesks homtfe OBouudbouea
+uqlt .
+4 Ihance dehwenng e subde stectress toddh defdh
+andsfuce . Ilus
+; ane fos dieagea :
+Ihis rart Pacf shall @evce again 6€ made"
+PACT:
+2HL
+Tbk
+MMXXI
+RELEASE
+VERy
+apucato ,
+"e trifecla u 2
+DATE:
+{op
 
 ### Label 3
 
-‘Prood Oath
-
+THE
+SSlood Oath
 ATTESTS
-
 That every batch of Blood Oath is the
-
-undertaking of one man ~a student of
-
-both Bourbon and Science. Loyal to no
-
-one family, favoring no one distillery
-
-and bound by no one philosophy - this
-
-Bourbon connoisseur has one goal in
-
-‘mind — to seek out Bourbons rare and
-
-wonderful, famous and forgotten. Then
-
+of one man
+student of
+both Bourbon and Science: Loyal t0 no
+onC
+family;
+no Onc
+distillery
+and bound by no one
+philosophy
+this
+Bourbon connoisseur has one
+mind
+seek out Bourbons rare and
+wonderful, famous and forgotten: Then
 bottle them in combinations previously
-
-unimagined fora lucky few, Not to cater
-
-to anyone's loyalties, he has sworn to
-
-never eveal where he finds his Bourbon,
-
+unimagined fora lucky few Not to cater
+anyone
+loyalties, he has sworn to
+never revcal wherc hc finds his Bourbon,
 but only to promise to choose and make
-
-the best he knows. Loose lips never
-
-tasted something so special.
-
-O04
-
-a
-
-XX
-
-EXCLUSIVE RELEASE: MMXXI
+the best he knows
+Loose lips never
+tasted
+something =
+special.
+1
+5
+M
+M
+XI
+Rti >
+EXcLusivE
+RELEASE:MMXXI
+undertaking -
+favoring
+goal
 
 ### Label 5
 
-—
-
-VERY LIMITED RELEASE
-
+VERY
+LIMITED RELEASE
 NEVER TO BE MADE AGAIN
-
-oe;
-
-&)
+{Rtifte

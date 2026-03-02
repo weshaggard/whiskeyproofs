@@ -46,40 +46,33 @@
 
 ### Back Label
 
-* BARREL STRENGTH
-
-US«1
-
-KENTUCEY | WHISKEY
-
-We are proud to offer this special release of
-
+BARREL STRENGTH
+US*1
+SOUR MASH
+KENTUCKY WHISKEY
+We are
+to offer this
+release of
 our Barrel Strength Kentucky Sour Mash
-
-Whiskey. It is made according to our classic
-
-Sour Mash method and fully matured in new
-
+Whiskey It is made according to our classic
+Sour Mash methodand fully matured in new
 charred white oak barrels that are batched
-
-together at barrel strength. It is then further
-
-mellowed by our signature filtration
-
-GOVERNMENT WARNING: (1) ACCORDING TO THE
-
-SURGEON GENERAL, WOMEN SHOULD NOT DRINK
-
-ALCOHOLIC BEVERAGES DURING PREGNANCY
-
-BECAUSE OF THE RISK OF BIRTH DEFECTS. (2
-
+together at barrel strength It is then further
+mellowed by our signature filtration.
+GOVERNMENT WARNING:
+ACCORDING To THE
+SURGEON GENERAL, WOMEN SHOULD NOT  DRINK
+ALCOHOLIC
+BEVERAGES
+DURING
+PREGNANCY
+BECAUSE OF THE RISK OF BIRTH  DEFECTS. (2)
 CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS
-
-YOUR ABILITY TO DRIVE A CAR OR OPERATE
-
-MACHINERY, AND MAY CAUSE HEALTH PROBLEMS
-
-MICHTER'S DISTILLERY LLC
-
+YOUR  ABILITY  To  DRIVE  A CAR OR  OPERATE
+MACHINERY,AND MAY CAUSE HEALTH PROBLEMS.
+BOTTLED BY
+MICHTERS DISTILLERY LLC
+8
 LOUISVILLE, KENTUCKY 40216
+proud
+special

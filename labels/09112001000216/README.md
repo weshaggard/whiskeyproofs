@@ -27,35 +27,40 @@
 
 *Text extracted via OCR - may contain errors*
 
+**Detected Proof:** 100
+
 ### Back Label
 
-a
-
-Parker Beam started practicing his family’s craft at Heaven Hill in
-1960. In the subsequent years, he has elevated the work of Master
-Distiller to an art form. In honor of his Golden 50th Anniversary,
-Parker hand-selected barrels of Bourbon from each
-of his five decades and married them together for a
-rare and unique whiskey experience— a fiting
-tribute to 50 years of Bourbon making,
-
-‘GOVERNMENT WARNING: (1) ACCORDING TOTHE SURGEON GENERAL,
-‘WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREG-
-NANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION.
-OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR
-OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
-
-DISTILLED IN KENTUCKY. BOTTLED BY OLD HEAVEN HILL
-SPRINGS DISTILLERY, BARDSTOWN, KY 40004. © 2009 750 ML
+Parker Beam  started practicing his Hamily'$ crali at  Heaven Hill in
+1960. In the subsequent Vears, he has elevated the work of Mlaster
+Distiller t0 an JL form; In honor of his Goklen 5Oth
+Anniversary;
+Parker hand-selected barels of Bourbon from cach
+ofhis iive dlecades ancd nviedd them
+for 4
+Cre   Ind
+urliqque   whiskev   exprerience
+tribute to 50 ycars of Bourbon
+GOVERMMENT WARNING; |I| ACCOADING Tothe SURGEONGENERAL,
+WOMEN ShquLD NOT  DRINK ALCOHOLIC beveRAGES DURING PREG:
+NANCY BeCAuSE OF the RISK OF BIRTH deFECTS: (2) CONSUMPTION
+QF ALCOHOLIC BEVERAGES IMPAURS YOUR ABILITY TO DRIVE
+CAR
+OR opeRATE  MACHINERY, AND MAY CAUSE HEALTH PROBLEMS
+DISTILLED IN KeNTuCKY: BotTLed BY OLD HEAVEN hILL
+SPRINGS DISTILLERY, BARDSTOWN; KY 40004 @ 2009
+750ML
+'together |
+'titting
+making
 
 ### Front Label
 
 GOLDEN ANNIVERSARY
-
-lao
-
-WHISKEY
-
-ALC/VOL 50%
-
-PROOF /00
+KENTUCKY STRAIGHT
+(Bouoom
+W H I S K E Y
+ALC /VOL
+50%
+PROOF
+100

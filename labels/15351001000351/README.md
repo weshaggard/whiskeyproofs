@@ -20,4 +20,12 @@
 
 ## Extracted Label Text
 
-*No readable text could be extracted from the label images.*
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+WILD
+TURKEY
+101
+CRAFTED WITH
+CONVICTION

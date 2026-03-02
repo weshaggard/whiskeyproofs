@@ -37,4 +37,67 @@
 
 ## Extracted Label Text
 
-*No readable text could be extracted from the label images.*
+*Text extracted via OCR - may contain errors*
+
+*2 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 98
+
+### Back Label
+
+4
+~
+FORESTER
+RTHDAY
+BOURBO
+DISTILLED BY BROWN-FORMAN DISTILLERS Co , LOUISVILLE,
+8
+GOVERNMENT
+0e
+SbdnEg
+E3
+BeCrUSE
+Eauae
+3
+EFECTS:
+8
+1
+VERAGES
+REAChRERS;
+TO DRIVE
+CAR OR
+OPERATE
+AND
+CAUSE HEALTH PROBLEMS.
+0
+184
+
+### Front Label
+
+DLI
+FFORESTER
+STRAIGHT BOURBON
+WHISKY
+BIRTHDAY
+4990 ALC/VOL
+BOURBON
+750uL
+KENTUCKY
+
+### Label 5
+
+2
+Joodd 86
+NOILIa]
+a31IWI7
+8
+ELE D
+AGED
+TWELVE
+YEARS
+3
+LIMITED
+EDITION
+98 PROOF
+k
+031

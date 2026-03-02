@@ -35,62 +35,70 @@
 
 *1 image(s) excluded: text did not meet readability threshold*
 
+**Detected Proof:** 127.3
+**Detected Age:** 6 Years
+
 ### Back Label
 
-BOOKER'S® KENTUCKY STRAIGHT BOURBON WHISKEY
+BOOKER'Se KENTUCKY STRAIGHT BOURBON WHISKEY
 DISTILLED AND BOTTLED BY JAMES B. BEAM DISTILLING CO.
 CLERMONT, KENTUCKY
-
-GOVERNMENT WARNING:(1) ACCORDING T0 mma
-THE SURGEON GENERAL, WOMEN SHOULD
-
-NOT DRINK ALCOHOLIC BEVERAGES DURING
-
-PREGNANCY BECAUSE OF THE RISK
-
-OFBIRTH DEFECTS. (2) CONSUMPTION OF
-
-ALCOHOLIC BEVERAGES IMPAIRS YOUR
-
-ABILITY TO DRIVE A CAR OR OPERATE MACHIN
-
-HAY AO WAN CAUSE WEALTH PROBES WMA ociIna aac .
-ME VT REF 15¢ * IA REF 5¢ $a
+GOVERNMENT WARNING: (1| ACCORDING TO
+THE  SURGEON  GENERAL, WOMEN   ShOULI
+NOT DRINKalCOhOLIC bEVERAgeS DURIUG
+pReGhANCY
+BECAUSE
+OF
+THE
+RISK
+OF BIRTh  DEFECTS. (2) CONSUMPTHON OF
+alCohOlIg   bEvERageS   IMpAIrS   YOUR
+abilITy TO DRIVE A CAR OR OPERATE MAChIN:
+ERY,ANd   May  CAUSE   HEALTh  PROBLEMS.
+0
+80686"01140'
+8
+ME VT REF 154=
+IA REF S4
+124-2455-A
 
 ### Label 1
 
-Boob
-
-De Whiithyy ste thes plochege 0
-
-—_
-
-polighes
-
-one Hire offlim Learn ifr
-
-pica
-
-Sotihd wipers (rds un f Line
-
-Gy gmt, in Lean bh heis
-
-Mtiihiy from Ai 70 Ligh Geen
-
-=<
-
-aE Sse
+BBokeh
+@e
+w Hlo packaqe /
+Tdlahut oradekuNeor-cxeabz
+1
+"@a tonzeandro
+1
+my I-dathfmm Zoam /sys hto
+whukeyfrom duiz %o eigrt _
+022,
+Z5OML
+Eoker?? Sburbon24
+"falztuitren
+%
+remabl
+snly pieces
+bssL
+124-1420-A
+IRibt -
+LrpaLlxce'
+~Eea _
 
 ### Label 2
 
+XXX-XXXX
 63.65%
-
-(127.3 Roof)
-
-7 Days
-
+Age
+3
+Alcivol
+6 YRS 7 Mo
+(127.3 Propf)
+DAYS
+j
+BATCH N?
 KENTUCKY STRAIGHT BOURBON WHISKEY
-
-Batcw NE
-
-2021-01 Book Aoe
+2021-01
+BooEu7ece
+MASTER DISTILLER:1960-1992

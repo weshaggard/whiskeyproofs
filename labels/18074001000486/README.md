@@ -32,82 +32,52 @@
 
 *1 image(s) excluded: text did not meet readability threshold*
 
+**Detected Proof:** 110
+
 ### Label 1
 
-LY)
-
-NH
-
-Cc 4)
-
-()
-
-WAT ©)
-
-(a
-
-ae
-
-BARREL
-
-SURES Gir
-
-"
-
-IGHT BOURBON WHISKEY
-
-——
+EoicRoses
+hond 8 Jpo,
+Srriall Balch
+130
+BAAREL
+2018 Release
+Th
+StaenGTH
+NNLVER SARY
+FourRoses
+18 8 8
+2018
+KENTUCKY STRAIGHT BOURBON WHISKEY
+ALC./VOL.
+55%
 
 ### Label 2
 
-Exactly 130 years ago, a young
-
-whiskey man, Paul Jones, Js named his Bourbon after the
-
-occasion where his true love said, ‘yes’ with a corsage of four
-
-red roses. To celebrate this moment for the ages, we hand selected
-
-four of our 10 Bourbon recipes, each gently aged to perfection. We then
-
-expertly mingled them to create a mellow spirit with gentle, fruity aromas
-
-that still manages to burst onto your palate with bright, mouth=coating
-
-flavors. If our founder ever wondered what kind of Bourbon Four Roses
-
-would be handcrafting on its 130th Anniversary, the contents of this
-
-bottle would surely cause him to raise a toast to 130 more.
-
-KENTUCKY STRAIGHT BOURBON WHISKEY
-
+Exactly 130 years ag0, a young
+whiskey man; Paul Jones, Jr named his Bourbon alter the
+occasion where his true love said; "yes" with a corsage ol our
+red roses; To celebrate this moment lor the ages; we hand selected
+four of our 10 Bourbon recipes; each gently aged to perlection; We then
+expertly mingled them to create a mellow spirit with gentle; fruity aromas
+that still manages to burst onto your palate with bright; mouth-coating
+Ilavors; Il our lounder ever wondered what kind ol Bourbon Four Roses
+would be handcrafting on its I30th Anniversary the contents ol this
+bottle would surely cause him to raise a toast to 130 more;
+KENTUCKY StRaight BOURBON WHSKEY
 DISTILLED AND AGED BY FOUR ROSES DISTILLERY LLC
-
-LAWRENCEBURG, KENTUCKY-FourRosesBourbon.com
-
+LAWRENCEBURG; KENTUCKY FourRosesBourbon.com
 750ML
-
 GOVERNMENT WARNING:
-
-(1) ACCORDING TO THE SURGEON GENERAL,
-
-WOMEN SHOULD NOT DRINK ALCOHOLIC
-
-—es
-
+(1) ACcORDING TO THE SURGEON GENERAL,
+WOMEN SHOULD NOT DRINK AlcohOLIC
 BEVERAGES DURING PREGNANCY BECAUSE
-
+8
 OF THE RISK OF BIRTH DEFECTS.
-
-(2) CONSUMPTION OF ALCOHOLIC BEVERAGES
-
+(2) CONSUMPTION OFALCOHOLIC BEVERAGES
+8
 IMPAIRS YOUR ABILITY TO DRIVE A CAR OR
-
-OPERATE MACHINERY, AND MAY CAUSE
-
-HEALTH PROBLEMS.
-
-Sediment from the barrel may be present
-
-in this non-chill filtered Bourbon,
+OPERATE MACHINERY, AND MAY CauSe
+HEALTH PROBLEMS:
+Sediment Irom the barrel may be present
+in this non-chill liltered Bourbon;

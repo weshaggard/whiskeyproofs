@@ -39,30 +39,43 @@
 
 *Text extracted via OCR - may contain errors*
 
-*3 image(s) excluded: text did not meet readability threshold*
+*2 image(s) excluded: text did not meet readability threshold*
 
-### Label 3
+**Detected Proof:** 95.4
+**Detected Age:** 12 Years
 
-ohY Boy
+### Back Label
 
-=
+Bidthday Boudbon
+AGED FOR OVER 12 YEARS IN OAK CASKS
+This whisky is distilled by us only; and we are responsible for its richness and
+fine quality: Its elegant flavor is solely due to original fineness developed with
+care. There is
+nothing better in the market
+GEORGE GARVIN BROWN, FOUNDER _
+7hsua
+1
+DISTILLED & BOTTLED BY OLD FORESTER DISTILLING CO. AT LOUISVILLE IN keNTuCKY
+GOVERNMENT WARNING:
+ACCORDING TO THE SURGEON GENERAL,WOMEN SHOULD
+NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF
+BIRTH DEFECtS (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS VOUR ABILITY TO
+DRIVE A CAROR OPERATE MACHINERY,AND MaV CAUSE HeaLTh PROBLEMS:.
 
-<" AGED
+### Front Label
 
-oe
-
-12:
-
-cS
-
-% YEARS
-
->
-
-Ven B ow”
+Barrelled
+OLD
+Ltd Bottling
+2005
+2017
+FoRESTER
+KENTUCKY STRAIGHT BOURBON WHISKY
+Bitthday Gouwbon
+OLD FORESTER DISTILLING CO.AT l_ursville IN KY 75OmL | 47.7% ALcaOl (95.4 PrOOF)
 
 ### Label 4
 
-THE FIRST BOTTLED BOURBON”
-
-~NO#UNOF GAILLOG LSald AHL
+THE FIRST BOTTLED BOURBON"
+Noaunoa 0371108 LSuId 3HL
+0

@@ -36,100 +36,84 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+*3 image(s) excluded: text did not meet readability threshold*
 
 ### Label 1
 
-ne)
-
-:a
-
-TASTING NOTES
-
-Aromas of
-
-caramelized oak followed
-
-by hints of sweet vanilla
-
-ina |
-
-and baking spices
-
+LIMITE D
+E D ITI 0 N
+TastInG
+NOTES:
+Aromas 0f
+M
+K
+byramafized
+'ed Gabefc
+fovanueda
+8
+5
+EkNob
+aadabaking
+'smdoteswithe
+I
+1
+5
+paiamol
+Wird
+toaseed"
+nozes
+7
+1
+and light
+leather
 The
-
-palate is smooth with
-
-caramel and toffee notes
-
-KNOB:
-
-paired with toasted oak
-
-and light leather
-
-The
-
-finish is warm with
-
-YS
-
-spice, light floral and
-
-CREEK.
-
+finish
+is
+Warm With
+:
+1
+8
+CREEK
+spice
+light
+floral
+and
+F
 fruit
-
-a=)
-
-KENTUCKY STRAIGHT
-
-He
-
+8
+3
+2i
+1
 AGED
+KENEOURBONRAIGSKEY
+2
+15
+FEARSN
+RELEASE NO/
+Kc001
+DSP/
+KY-230
+1
 
-BOURBON WHISKEY
+### Label 3
 
-FIFTEEN
-
--Loo
-
-RELEASE No/ KCOO1
-
-osr/ KY-230
-
-19
-
-YEARS
-
-Sev
-
-### Label 2
-
-LIMITED EDITIO
-
-Soon
-
-s
-
-o
-
-100 PROOF
-
-§
-
-g
-
-100 PROOF
-
-SOM ALCO.
-
-### Label 5
-
-AMIUMINIWY LNOWYIAT9
-
-Sistilleg «
-Umire in
-Wangs; ties
-
-CRE rat batdh
+GOVERNMENT WARNING;
+ACCORDING TO THE SURGEOM GENERAL;
+WOMEN ShOULD NOT DRUNK AlCOhOLIC BEVERAGES DURING PREG"
+MAMCY BECAUSE OF ThE RUSK OF BIRTH DEFECTS. (2| CONSUMPTION
+F ALCOHOLIC BEVERAGES HMPAURS YOUR AbILTY TO DAME A CAR
+OR  OPERATE   MACHINERK   AND  MAY  CAUSE   HEALTH  PROBLEMS ,
+Per 1,5 fL, 0Z,
+Average Analysis: Calores 122,0, Carbohyorates 0 Og; Protein Og, Fac Og
+'750 mL | 5096 ALG /VOL;.
+MEVT REF 154 =
+REF 54
+DISTILLED AND BOTtLEd BV
+]
+KNOB CREEK DISTULING cOMPHNY
+CLERMONT KENTUCKY
+UNUNN KNOBCREEK COM
+2
+WNIW DRINKSMART, COM
+80686"01689
+2g

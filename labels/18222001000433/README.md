@@ -36,36 +36,54 @@
 
 *1 image(s) excluded: text did not meet readability threshold*
 
+**Detected Proof:** 90.4
+
+### Back Label
+
+PRODUGED BY THE MOODFORD RESERVEDISTILLERV; VEASAILLES, KENTUCKY
+'760mL
+RESPOMSIBILATY org
+0
+GOMERMMENT UMARNING
+acCoRDING TOThE SURGEON
+GENERAL, WNOMEN ShOULD NOT DAINK ALCOHOLIC
+BEVERAGES DURING PREGNANGY BECAUSE OfthE RISK
+0F birth deFeCTS; /2i Consumption Ofalcoholic
+BEVERAGES UMPAIRS VOUR ABE
+TO DRIVE
+Car oR
+OPERATE
+PROBLEMS;
+
 ### Front Label
 
-R’S CULL
-waste ECTigy
-WOODFORD RESERVE’
-CHOCOLATE MALTED RYE
-KENTUCKY STRAIGHT BOURBON WHISKEY
-sonmsxo. sauneraney | ge 296 ALG/VOL
-rom 5 Olio Morne (90.4 PROOF]
+WOoDFORD
+RE SE RVE=
+C H OC OLATE
+MALTE D
+RY E
+KENTUCKY StrAIGHT BOURBON WHISKEY
+SERTES NO=
+SELECTED BY
+45.2% ALC/VOL
+750 mL
+75
+UwMws
+(90.4 PROOF)
+cullectioN
+MA STER"S
 
 ### Label 3
 
-fe a eee
-fp seseee? alle (2 SY SS ee ee N
-9 ala SVT
-= ANI tal ait Ara 6
-> UME ciwiveo EWAN) Be
-cg? Gy EE
-Eee aes 7 CHOCOLATE Sy treats %
-ote MALTED er 88 $
-4 eA RYE 15 M8 3
-aces (ene a
-ny te dafilig] ——eoirton aS Ss
-= Namal Ni NM laces @ =
-SS Hela Sess FN ses | NE Se .
-
-### Label 4
-
-The art of making fine whiskays first took place on the site of the
-
-10030731
-
-Woodford Reserve Distillery, a National Historic Landmark, in 1812.
+Limited
+1
+CHOCOLATE
+MALTED
+SFR"FECT
+RYE
+EdITION
+ooct
+1
+1
+1
+LpoSO

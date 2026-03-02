@@ -32,40 +32,50 @@
 
 *1 image(s) excluded: text did not meet readability threshold*
 
+**Detected Proof:** 80
+**Detected Age:** 4 Years
+
 ### Front Label
 
 This Straight Bourbon whiskey dumped on 6-21-16 from Barrel No. 974
-
-Stored in Warehouse H on Rick No. 6
-
-Individually selected filtered and bottles by hand at 80 Proof
-
+Stored in Warehouse H on Rick No.
+Individually selected filtered and ottles by hand at 80 Proof
 Aged at least 4 years
-
-40% ALC/VOL
-
 Straight Bourbon Whiskey
+40% ALCNOL
 
 ### Label 3
 
 CONTENTS 750ML
-
-ALC.40% BY VOL.
-
+ALC.40% BY VOL
 PRODUCT OF USA
-
 STRAIGHT BOURBON WHISKEY
-
-EXPORTED TO UK AND REIMPORTED INTO THE U.S. BY
-
-FINER THINGS IMPORTS, MARINA DEL REY, CA
-
-GOVERNMENT WARNING: (1) According to the Surgeon General,
-
-women should not drink alcoholic beverages during pregnancy
-
-because of the risk of birth defects. (2) Consumption of alcoholic
-
+EXPORTED TO UK AND REIMPORTED INTO THE US. BY
+FINER THINGS IMPORTS; MARINA DEL REY
+CA
+GOVERNMENT
+WARNING:
+(1) According
+to
+the Surgeon
+General
+women
+should
+not
+drink
+alcoholic
+beverages
+during
+pregnancy
+because
+of
+the
+risk
+of
+birth
+defects_
+(2) Consumption
+of
+alcoholic
 beverages impairs your ability to drive a car or operate machinery, and
-
-may cause health problems.
+may cause health problems_

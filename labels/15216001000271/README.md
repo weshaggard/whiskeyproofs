@@ -35,58 +35,64 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 127.1
+**Detected Age:** 7 Years
 
 ### Label 1
 
-booker
+BBooenh
+@he
+wn Ho packoae _
+The
+Mlght gpadebrunbon-chabz
+1
+"zaashon -andoenean |
+1
+my gndfath-fm Zoam Dstha
+Whuksfron d Ro eigtt _
+022,
+ZS0ML
+Erker? 3urbh4
+"fazhftnlel
+remobe mnly pieces _
+banelband
+124-/420-
+9fisbt ~
+~Ga (
 
-Bho Wibuy tm shea frchege Ae
+### Label 2
 
-(es
-
-mila
-
-Satta sper tds ur fll
-
-Wy rm o lin Loan bh his
-
-eee, || == |
-
-PEN LES epens
-
-s<¢e
-
-barrel tured.
-
-cened jlo .
+XX XXXX
+63.55%
+Age
+[
+AlsIval
+7YRS 3M0
+(127.1 Peopf)
+20 DAYS
+KeNTuCKY STRAIGHT BOURBON WHISKEY
+BATGH N?
+[2o16 04222
+MASTER DISTILLER:1960 -
+992
 
 ### Label 4
 
-BOOKER'S® KENTUCKY STRAIGHT BOURBON WHISKEY
-
+BOOKER'Se KENTUCKY STRAIGHT BOURBON WHISKEY
 DISTILLED AND BOTTLED BY JAMES B. BEAM DISTILLING CO.
-
 CLERMONT, KENTUCKY
-
-GOVERNMENT WARNING: (1) ACCORDING 10 THE
-
-SURGEON GENERAL, WOMEN SHOULD NOT DRINK
-
-ALCOHOLIC BEVERAGES DURING PREGNANCY BE
-
-CAUSE OF THE RISK OF BIRTH DEFECTS. (2) CON
-
-SUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS
-
-YOUR ABILITY T0 DRIVE A CAR OR OPERATE MA:
-
-CHINERY, AND MAY CAUSE HEALTH PROBLEMS
-
-0
-
-Ul
-
-ME VT REF 15¢ * JA REF 5:
-
-24-B4DM
+GOVERNMENT WARNING:
+ACCORDING TO THE
+SURGEOH GENERAL; WOMEN ShOULD NOT DRIHK
+AlCOhOlIC BEVERAGES DURING PREGHAHCY be:
+CAuSe OF the RISK €F BIRTH DEFECTS. (2} CON
+SUMPTLOH €F ALCOhOLIc BEVERAGES IMPAIRS
+YOUR AbIlTY TO DRIVE
+Car OR OPERATE Ma:
+CHIHERK AnD  MaY CAuSe health pROBLEMS .
+'80686"01140'
+ME VT REF 1Sc
+IA REF Sc
+24-BADM

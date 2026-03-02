@@ -46,35 +46,41 @@
 
 ### Back Label
 
-KENTUCKY STRAIGHT
+TOASTED BARREL FINISH
+US+1"
+KENTUCKY STRAICHT
 BOURBON WHISKEY
-
-We are proud to offer this special release |
+We
+are
+to offer this special release
 of our Toasted Barrel Finish Kentucky
-Straight Bourbon. After full maturation in
-a hand-selected charred white oak barrel,
-we finish our USX1 Bourbon in a new
+Straight Bourbon: After full maturation in
+hand-selected charred white oak barrel,
+we finish our US+] Bourbon in
+new
 barrel that has been toasted to our exacting
-specifications. At peak flavor, it is further
-mellowed by our signature filtration.
-
-GOVERNMENT WARNING: (1) ACCORDING TO THE
-‘SURGEON GENERAL, WOMEN SHOULD NOT DRINK
-ALCOHOLIC BEVERAGES DURING PREGNANCY
-BECAUSE OF THE RISK OF BIRTH DEFECTS. (2)
-GONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS
-YOUR ABILITY TO DRIVE A CAR OR OPERATE
-MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
+specifications. At
+flavor , it is further
+mellowed by our signature filtration
+GOVERNMENT  WARNING:
+ACCORDING TO THE
+SURGEON GENERAL , WOMEN SHOULD NOT  DRINK
+ALCOHOLIC   BEVERAGES   DURING
+PREGNANCY
+BECAUSE  OF  THE RISK  OF BIRTH  DEFECTS (2
+CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS
+YOUR  ABILITY To DRIVE
+CAR OR OPERATE
+MACHINERY,AND MAY CAUSE HEALTH PROBLEMS.
+8
 BOTTLED BY
-CHTER'S DISTILLERY LLC
-LOUISVILLE, KENTUCKY 40216
-
-US* @ TOASTED BARREL FINISH,
+MICHTERS DISTILLERY LLC
+LOUISVILLE. KENTUCKY 40216
+Proud
+peak
 
 ### Label 1
 
 TOASTED BARREL FINISH
-
 KENTUCKY STRAIGHT
-
 BOURBON WHISKEY

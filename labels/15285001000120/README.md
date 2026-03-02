@@ -55,80 +55,149 @@
 
 *Text extracted via OCR - may contain errors*
 
-*3 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 127.9
+**Detected Age:** 7 Years
 
 ### Label 1
 
-A eee, | 63.95% | Ace
-=ipee =) algvol | 7¥RS0MO
-By yn hf | (127.9 Proor)| 18 Days
-
-2 Barcw N2 KENTUCKY STRAIGHT BOURBON WHISKEY
-& 2016-04 MASTER DISTILLER:1960-1992
+63.95%
+Age
+[
+AlsIval
+7YRS 0Mo
+(127.9 PRopf)
+18 DAYS
+KeNTUCKY STRAIGHT BOURBON WHISKEY
+BATGH N?
+[2o16 04222
+MASTER DISTILLER:1960 -
+992
 
 ### Label 2
 
+XXXX
 63.95%
+Aqe
+]
+AlcIval
+7YRs OMO
+(127.9 Proof)
+18DAYS
+KeNTuCKY STRAIGHT BOURBON WHISKEY
+1
+BATGH N?
+2016-01/8o52zz
+MASTER DISTILLER:19 60 -
+992
 
-es
+### Label 3
 
-(127.9 PRooF)
-
-18 Days
-
-Rondinc BOURBON WHISKEY
-
-5016- Ol Lack 7o 1960-1993
+XXX-XXXX
+63.95%
+Aqe
+AlcIval
+1
+7YRs 0MO
+(127.9 PRoof)' 18DAYS
+KeNTuCKY STRAIGHT BOURBON WHISKEY
+9
+BATGH N?
+2016-02/ 8o5,2z
+MASTER DISTILLER:-960 -
+992
 
 ### Label 4
 
-LOZ || 63.95% | noe”
-s A LO
-
-g Ss @ __Asvol_ 7 yas OMO
-3 nS S |(127.9 Proof)! 18 ppys
-
-3 Barcw ne KENTUCKY STRAIGHT BOURBON WHISKEY
-id 2016-03 Zee a
-= MASTER DISTILLER:1960-1992
+XXX-XXXX
+63.95%
+Aqe
+3
+AlcIval
+7YRS OMO
+((127.9
+propf)
+18 DAYS
+]
+BATGH N?
+keNTuCKY STRAIGHT BOURBON WHISKEY
+2016-03/8227222
+MASTER DISTILLER:1960 -
+992
 
 ### Label 5
 
-mM PD | 5328% |e
-1 eee ao
-= ee (127.9 Roof)’ 18 Days
-3 hee at KENTUCKY STRAIGHT BOURBON WHISKEY
-2016-06 4x44
-MASTER DISTILLER:1960-1992
+XXX-XXXX
+63.95%
+Age
+AlcIval
+7YRS 0MO
+I
+((127.9
+Proof)  18DaYS
+KeNTuCKY STRAIGHT BOURBON WHISKEY
+BaTGH N?
+2016-061 8on4u22z;
+MASTER DISTILLER:1960 -
+992
 
 ### Label 6
 
-booker
-
-Bho Wibuy tm shea frchege Ae
-
-(es
-
-mila
-
-Satta sper tds ur fll
-
-Wy rm o lin Loan bh his
-
-eee, || == |
-
-PEN LES epens
-
-s<¢e
-
-barrel tured.
-
-cened jlo .
+BBooenh
+@he
+wn Ho packoae _
+The
+Mlght gpadebrunbon-chabz
+1
+"zaashon -andoenean |
+1
+my gndfath-fm Zoam Dstha
+Whuksfron d Ro eigtt _
+022,
+ZS0ML
+Erker? 3urbh4
+"fazhftnlel
+remobe mnly pieces _
+banelband
+124-/420-
+9fisbt ~
+~Ga (
 
 ### Label 7
 
-5 la 63.95% | pop”
-3 pio __S _ Iryasomo
-a Qe (127.9 PROOF)' 18 pays
+XXX-XXXX
+63.95%
+Aqe
+AlcIval
+7Yrs 0MO
+1
+(127.9 eropf)
+18DAYS
+keNTuCKY STRAIGHT BOURBON WHISKEY
+BATGH N?
+2016-051 825,7222
+MASTER DISTILLER:19 60 -
+992
 
-= <A KENTUCKY STRAIGHT BOURBON WHISKEY
+### Label 8
+
+BOOKER'Se KENTUCKY STRAIGHT BOURBON WHISKEY
+DISTILLED AND BOTTLED BY JAMES B. BEAM DISTILLING CO_
+CLERMONT, KENTUCKY
+GOVERNMENT WARNING: C
+ACCORDIHG TO
+THE   SURGEOH  GENERAL, WOMEN   ShOuLI
+NOT DRNKALCOHOLIC BEVERAGES DUFIG
+PREGHANCY
+BECAUSE
+OF
+THE
+RISK
+OF BIRTH defects. (2| COMSUMPTLON OF
+AlCOhOlC BEVERAGES   IMPAIRS  YOUR
+abiLty TO DRIVE A CAR OR OPERATE MAChI:
+ERK, AND  MAY  CAUSE  health  PROBLEMS ,
+80686"01140'
+ME VT REF [Sc + IA REF Sc
+124-2455-A

@@ -30,68 +30,56 @@
 
 *2 image(s) excluded: text did not meet readability threshold*
 
+**Detected Age:** 18 Years
+
 ### Back Label
 
->
-COLONEL E.H.
-
+COLONEL
+E.A.
 TAYLOR
-
-18 YEAR MARRIAGE
-
-4ND onY
-
-Known as the founding father of the modern bourbon industry,
-Colonel Edmund Haynes Taylor, Jr. was committed to making
-unparalleled bourbon through his steadfast attention to detail
-and passion for innovation. His constant drive for perfection
-revolutionized the industry, with many of his techniques still
-in use today. This unique bourbon combines barrels from
+18
+YEAR
+MARRIAGE
+Known as the founding father of the modern bourbon industry;
+Colonel Edmund Haynes Taylor; Jr was committed to making
+unparalleled bourbon through his steadfastattention to detail
+andpassion for innovation. His constant drive for perfection
+revolutionized the industry; with many ofhis techniques still
+in use today: This unique bourbon combines barrels from
 three signature mashbills that matured for eighteen years,
-including two different rye bourbon mashbills and our
+including two differentrye bourbon mashbills and our
 wheated bourbon mashbill. The marriage of bourbon
-mashbills gives this magnificent whiskey a nose of vanilla
-butter cake, a rich palate of caramel and cinnamon, and long
-finish of toasted oak, cinnamon, and hint of spearmint. A true
-testament to Taylor's pursuit of perfection and his
-dedication to push the boundaries of making whiskey, this
-bourbon would have made its namesake proud.
-
-WE LOVE TO HEAR FROM OUR CUSTOMERS!
-
-WWW.GREATBOURBON.COM | TAYLOR@GREATBOURBON.COM
-|-866-729-3722
-
+mashbills gives this magnificent whiskey a nose ofvanilla
+butter cake, a rich palate ofcarameland cinnamon; and B
+finish of toasted oak, cinnamon, and hint ofspearmint. A true
+testament to Taylor's pursuit ofperfection and his
+dedication to push the boundaries of making whiskey; this
+bourbon would have made its namesake proud,
+WE LOVE TO HEAR FROM OUR CUSTOMERSI
+WWW,GREATBOURBON,COM
+TAYLOR@GREATBOURBON,COM
+1-866-729-3722
 DISTILLED, AGED AND BOTTLED BY
 OLD FASHIONED COPPER DISTILLERY
-FRANKFORT, KY, DSP-KY-1 13
-
-GOVERNMENT WARNING: (1) =)
-ACCORDING T0 THE SURGEON —
+FRANKFORT, KY, DSP-KY-| 13
+GOVERNMENT WARNING: (1)
+0
+ACCORDING TO THE SURGEON
 GENERAL, WOMEN SHOULD NOT
 DRINK ALCOHOLIC BEVERAGES
+8
+0
 DURING PREGNANCY BECAUSE
-OF THE RISK OF BIRTH DEFECTS.
-(2) CONSUMPTION OF ALCO-
+OF THE RISK OF BIRTH DEFECTS,
+(2) CONSUMPTION OF AlcO-
 HOLIC BEVERAGES IMPAIRS
+2
 YOUR ABILITY TO DRIVE A CAR
-OR OPERATE MACHINERY, AND
-MAY CAUSE HEALTH PROBLEMS.
-
-(IA REF 5¢-ME/VT REF I5¢ c00.000000
-
-MAAN AT
-FPO 80%
-
-——=)
-—~=)
-—— =)
-=O
-=O
-—=O
-—=O
-—=O
-—_)
-—)
-
-Oo
+OR OPERATE MACHINERY AND
+May CAUSE HEALTH PROBLEMS.
+IA REF 54-MEINT REF I54
+COO.O0ooOO
+Sr
+ONLY
+AND
+long

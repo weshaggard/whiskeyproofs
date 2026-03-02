@@ -39,32 +39,69 @@
 
 *Text extracted via OCR - may contain errors*
 
-*3 image(s) excluded: text did not meet readability threshold*
+*2 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 104
+**Detected Age:** 20 Years
 
 ### Back Label
 
 BOTTLED BY WILD TURKEY
-eISTILLING COMPANY
-' ‘Lawrenceburg, KY
-| www.wildturkeybourbon.com
-| GOVERNMENT WARNING: (1) |
-CUO —<$—
-ON —=—=S i
-DRINK ALCOHOLIC BEVERAGES -—=-—to]
-| DURING PREGNANCY BECAUSE OF F=e-NCee—tes
-THE RISK OF BIRTH DEFECTS. (2) =.5et) =o
-SghUET ag A ull =0 5°)
-ABILITY TO DRVEACRO
-OPERATE MACHINERY, AND MAY ==
-CAUSE HEALTH PROBLEMS. | —
-| PRODUCT OF USA 750mL
+DISTILLING COMPANY
+Lawrenceburg, KY
+www
+wildturkeybourbon.com
+GOVERNMENT
+WARNING: (1)
+ACCORDING To THE SURGEON
+GENERAL, WOMEN SHOULD NOT
+DRINK ALCOHOLIC  BEVERAGES
+DURING PREGNANCY BECAUSE OF
+8
+THE RISK OF BIRTH DEFECTS. (2)
+1
+8
+CONSUMPTION
+OF ALCOHOLIC
+BEVERAGES
+IMPAIRS
+YOUR
+2
+ABILITY TO DRIVE
+A
+CAR OR
+OPERATE MACHINERY , AND MAY
+CAUSE
+HEALTH
+PROBLEMS.
+PRODUCT OF USA
+750mL
 
 ### Front Label
 
-CRAFTED 126? FONVICTigy
-
-WILD TURKEY
-
+with
+Wiid TURkEY
 KENTUCKY STRAIGHT BOURBON WHISKEY
+D ECADE
+conviction
+CRAFTED
 
-DECADES
+### Label 2
+
+Batch 0001
+BOTTLE
+3
+Ne :
+MASTER'$ KEEP
+Ne :
+00125
+750ml
+AGED:
+APPROVED:
+ZddbeEnc
+NON-CHILL
+1
+10 to 20 YEARS
+52% ALCIVOL
+104 PROOF
+FILTERED

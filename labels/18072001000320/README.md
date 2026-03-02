@@ -29,80 +29,67 @@
 
 ### Label 1
 
-as
-
-25
-
-gE
-
-as
-
-LITTLE BOOK™
-
-zx
-
-Eas
-
-Be
-
-o cele Gop Mook at an foret GE
-
-Ega
-
-2°
-
-Ve
-
-i flendadty
-
-£
-
-:
-
-SQsee5
-
-Sza8
-
-TREUS
-
-love: feb
-
-and,
-
-teadh do
-
-===
-
-ee
-
-tate with ihe wotld.
-
-WHISKEY 6 il. /W0L (128.2 PROD
-
-FPO
-
-FPO
-
-=e
-
-ees
-
-=s
-
-SS
-
-Ss
-
-—
-
-me
-
+TM
+Hn
+1
+#
+I
+]
+1
+LITTLE
+BOOK
+i
+8
+22
+11
+1
+Ettn Took ad an honst 7
+0
+J1
+2
+1
+3
+8
+21
+* Ihandads Erkes end
+Oue
+~habed
+1
+HMH
+2
+88
+"lrr fs catg-%EueUeds-E
+Jl
+8
+dhse "- ite wotl
+1
+3
+1
 =
-
-LIND OF RENTUGKY STRALGHT RYE WHISKEY AND EANADIAN WHISK
-
-Sole .
-
-2018 RELEASE
-
-M0-LBKOIS
+2
+p
+K
+6
+0
+H
+1
+[
+1
+HH
+3
+1
+A
+WHISKEY RUIIKALCNIL: {128.2 PHUDF
+2
+1i
+5=
+2
+HLEXI UF KENTUHKY STHAIFHT HYE WHISKEY ANI BANADIAN WHISKIES
+2818 RILIASI
+I10-LBKO13
+1
+dealel
+J
+Tullu
+RPO
+EPO
