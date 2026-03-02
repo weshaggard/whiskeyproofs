@@ -32,6 +32,22 @@ Your secrets are configured in: **Settings → Environments → automation**
 **Setup Time:** ~15 minutes one-time  
 **Maintenance Required:** None
 
+## Weekly Release Research Workflow
+
+The **Find New Bourbon and Rye Releases** workflow (`find-new-releases.yml`) uses the
+[GitHub Copilot CLI](https://docs.github.com/en/copilot/how-tos/copilot-cli/automate-with-actions)
+to run the research agent on a weekly schedule. It requires one additional secret in the
+`automation` environment:
+
+| Secret | Description |
+|---|---|
+| `COPILOT_GITHUB_TOKEN` | Fine-grained PAT with **Copilot Requests (Read)** user permission and **Contents (R/W), Pull Requests (R/W), Metadata (Read)** repository permissions |
+
+This PAT authenticates the Copilot CLI with the AI service, allows `gh` to create PRs, and
+lets the GitHub MCP server read/write repository files. Unlike `APP_ID`/`APP_PRIVATE_KEY`,
+this token is tied to a **user account** (not a GitHub App), so it will need rotation when
+it expires.
+
 ## Optional Future Enhancement
 
 **Want maximum security?** You can optionally upgrade to OIDC + Key Vault later:
