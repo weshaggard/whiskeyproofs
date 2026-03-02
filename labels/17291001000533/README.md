@@ -42,26 +42,30 @@
 
 ### Back Label
 
-SP SESE TE GEO, SEE =
-© TOASTED BARRELFINISH @
-U § x1 KENTUCKY STRAIGHT @
-RYE WHISKEY
+US*1" [8pee8pI83REY
+W
 We are proud to offer this special release
-of our Toasted Barrel Finish Rye Whiskey.
+ofour Toasted Barrel Finish Rye Whiskey:
 After full maturation in a hand-selected
-charred white oak barrel, we finish our
-US%1 Single Barrel Straight Rye Whiskey
-in a new uncharsed barrel that has been
-toasted to our exacting specifications. At
-peak flavor, it is further mellowed by our
+charred white oak barrel,
+we   finish
+OUI
+USX1 Single Barrel Straight Rye Whiskey
+in & Dew uncharred barrel that has been
+toasted to OUT
+exacting specifications
+At
+flavor; it is further mellowed by our
 signature filtration.
-GOVERNMENT WARNING: (1) ACCORDING TO THE
-SURGEON GENERAL, WOMEN SHOULD NOT DRINK
-ALCOHOLIC. BEVERAGES DURING PREGNANCY
-BECAUSE OF THE RISK OF BIRTH DEFECTS. (2)
-CCONSUMETION OF ALCOHOLIC BEVERAGES IMPAIRS
-YOUR ABILITY TO DRE A CAR OR OPERATE
-MACHINERY, AND MAY CAUSE HEALTH PROBLEMS,
+GOVERNHENT  WARNING: (1) ACCORDING TO THE
+SURGEON GENERAL , WOMEN SHOULD NOT DRINK
+ALCOHOLIC
+BEVERAGES   DURING   PREGNANCY
+BECAUSE OF THE RISK OF BIRTH DEFECTS
+CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS
+YOUR ABILITY to DRIVE A CAR OR OPERATE
+MACHINERY, AND MaY CAUSE HEALTH PROBLEMS.
 BOTTLED BY
-MICHTER'S DISTILLERY LLC
-LOUISVILLE, KENTUCKY 40216
+MICHTERS DISTILLERY LLC
+LOUISVILLE KENTUCKY 40216
+peak

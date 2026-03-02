@@ -61,15 +61,26 @@ QUALITY_SCORE_THRESHOLD = 0.30
 # Minimum number of 3+ letter words required even when score is above threshold.
 MIN_WORD_COUNT = 5
 
+# Proof value bounds: US law requires whiskey to be at least 80 proof, but we
+# set the lower bound to 60 to catch edge cases where OCR garbles a digit.
+# Upper bound 200 is well above the highest known barrel strength bottling.
+MIN_PROOF = 60
+MAX_PROOF = 200
+
+# Age bounds: whiskey can technically be unaged, but age statements on labels
+# are at least 2 years; 50 years is a generous upper bound for labeled whiskey.
+MIN_AGE = 2
+MAX_AGE = 50
+
 # Regex to find proof values in OCR text (case-insensitive):
 #   "125 PROOF", "PROOF 125", "PROOF | 120.00", "63.55% ALC/VOL" (ABV doubled → proof)
-#   Standalone ABV "63.55%" also accepted when value is in typical ABV range (30-70%)
+#   Standalone ABV "63.55%" also accepted when the value appears alone on a line
 _PROOF_RE = re.compile(
     r"(\d{2,3}(?:\.\d+)?)\s*PROOF\b"
     r"|\bPROOF\s*[|:.]?\s*(\d{2,3}(?:\.\d+)?)"
     r"|\b(\d{1,2}(?:\.\d+)?)\s*%\s*ALC"
     r"|\bALC\.?(?:/|\.| BY )?VOL\.?\s*[|:]?\s*(\d{1,2}(?:\.\d+)?)\s*%"
-    r"|^\s*(\d{2}(?:\.\d+)?)\s*%\s*$",
+    r"|^\s*(\d{1,2}(?:\.\d+)?)\s*%\s*$",
     re.IGNORECASE | re.MULTILINE,
 )
 
@@ -154,11 +165,14 @@ def extract_proof_and_age(combined_text):
         raw = next((v for v in m.groups() if v is not None), None)
         if raw:
             val = float(raw)
-            # ABV values produce proof values < 80 — double them.
-            # US whiskey minimum is 80 proof, so any value below that is ABV.
+            # US whiskey minimum is 80 proof, so any matched value below that
+            # is treated as ABV — double it to derive proof.
             if val < 80:
-                val = round(val * 2, 1)
-            if 60 <= val <= 200:
+                val = val * 2
+            # Preserve integer values as integers; keep at most 1 decimal place
+            if val != int(val):
+                val = round(val, 1)
+            if MIN_PROOF <= val <= MAX_PROOF:
                 proof_val = int(val) if val == int(val) else val
                 break
 
@@ -167,7 +181,7 @@ def extract_proof_and_age(combined_text):
         raw = next((v for v in m.groups() if v is not None), None)
         if raw:
             val = float(raw)
-            if 2 <= val <= 50:
+            if MIN_AGE <= val <= MAX_AGE:
                 age_val = int(val) if val == int(val) else val
                 break
 
