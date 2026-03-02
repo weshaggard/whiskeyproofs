@@ -2,14 +2,22 @@
 """
 Extract text from TTB label images using OCR and append to README.md files.
 
-This script uses Tesseract OCR to extract text from label images and appends
-the extracted text to the README.md file in each label directory. This enables
+This script uses multiple OCR engines to extract text from label images and
+appends the results to the README.md file in each label directory. This enables
 full-text searching of label content.
 
-Multiple PSM (Page Segmentation Mode) configurations are tried for each image
-and the best result is selected using a text quality score. Text that does not
-meet a minimum English readability threshold is excluded to avoid storing
-garbled or machine-readable content (barcodes, measurements, pure symbols).
+OCR Engines (used in parallel; best quality result is kept per image):
+  - Tesseract (pytesseract) with multiple PSM modes — required
+  - EasyOCR — optional; improves results on decorative and curved label text
+
+Multiple Tesseract PSM (Page Segmentation Mode) configurations are tried for
+each image and the best result is selected using a text quality score. If
+EasyOCR is installed it is also run and compared against the Tesseract result.
+Text that does not meet a minimum English readability threshold is excluded to
+avoid storing garbled or machine-readable content (barcodes, measurements, etc).
+
+Proof and age statements detected in the OCR text are extracted and shown at
+the top of the extracted section for quick reference.
 
 Usage:
     # Extract text for all labels
@@ -25,6 +33,11 @@ Options:
     --ttbid TTBID   Process a specific TTB ID only
     --force         Re-extract text even if README already has extracted text
     --help          Show this help message
+
+Dependencies:
+    Required:  pip install pytesseract Pillow
+               sudo apt-get install tesseract-ocr
+    Optional:  pip install easyocr   (improves quality for stylised label text)
 """
 
 import argparse
@@ -47,6 +60,47 @@ PSM_MODES = [11, 3, 6]
 QUALITY_SCORE_THRESHOLD = 0.30
 # Minimum number of 3+ letter words required even when score is above threshold.
 MIN_WORD_COUNT = 5
+
+# Regex to find proof values in OCR text (case-insensitive):
+#   "125 PROOF", "PROOF 125", "PROOF | 120.00", "63.55% ALC/VOL" (ABV doubled → proof)
+#   Standalone ABV "63.55%" also accepted when value is in typical ABV range (30-70%)
+_PROOF_RE = re.compile(
+    r"(\d{2,3}(?:\.\d+)?)\s*PROOF\b"
+    r"|\bPROOF\s*[|:.]?\s*(\d{2,3}(?:\.\d+)?)"
+    r"|\b(\d{1,2}(?:\.\d+)?)\s*%\s*ALC"
+    r"|\bALC\.?(?:/|\.| BY )?VOL\.?\s*[|:]?\s*(\d{1,2}(?:\.\d+)?)\s*%"
+    r"|^\s*(\d{2}(?:\.\d+)?)\s*%\s*$",
+    re.IGNORECASE | re.MULTILINE,
+)
+
+# Regex to find age statements in OCR text:
+#   "7 YEAR OLD", "7 YRS", "AGED 12 YEARS", "25 Year-Old"
+_AGE_RE = re.compile(
+    r"\b(\d+(?:\.\d+)?)\s*(?:YEAR)[S-]?\s*(?:-\s*)?(?:OLD)?\b"
+    r"|\bAGED\s+(\d+(?:\.\d+)?)\s*(?:YEARS?|YRS?)"
+    r"|\b(\d+(?:\.\d+)?)\s*YRS?\.?\s*(?:OLD)?\b",
+    re.IGNORECASE,
+)
+
+# Module-level EasyOCR reader cache so the model is only loaded once per run.
+_easyocr_reader = None
+_easyocr_unavailable = False  # set True after first failed import attempt
+
+
+def _get_easyocr_reader():
+    """Return a cached EasyOCR Reader instance, or None if unavailable."""
+    global _easyocr_reader, _easyocr_unavailable
+    if _easyocr_unavailable:
+        return None
+    if _easyocr_reader is not None:
+        return _easyocr_reader
+    try:
+        import easyocr  # noqa: PLC0415
+        _easyocr_reader = easyocr.Reader(["en"], gpu=False, verbose=False)
+        return _easyocr_reader
+    except Exception:
+        _easyocr_unavailable = True
+        return None
 
 
 def score_text_quality(text):
@@ -84,14 +138,54 @@ def clean_text(text):
     return "\n".join(cleaned_lines).strip()
 
 
+def extract_proof_and_age(combined_text):
+    """
+    Parse proof and age from combined OCR text across all label images.
+
+    Returns:
+        (proof_str, age_str) where each is a human-readable string or None if
+        not found.  Example: ("125.1", "7 Years")
+    """
+    proof_val = None
+    age_val = None
+
+    # Search full combined text for proof
+    for m in _PROOF_RE.finditer(combined_text):
+        raw = next((v for v in m.groups() if v is not None), None)
+        if raw:
+            val = float(raw)
+            # ABV values produce proof values < 80 — double them.
+            # US whiskey minimum is 80 proof, so any value below that is ABV.
+            if val < 80:
+                val = round(val * 2, 1)
+            if 60 <= val <= 200:
+                proof_val = int(val) if val == int(val) else val
+                break
+
+    # Search full combined text for age
+    for m in _AGE_RE.finditer(combined_text):
+        raw = next((v for v in m.groups() if v is not None), None)
+        if raw:
+            val = float(raw)
+            if 2 <= val <= 50:
+                age_val = int(val) if val == int(val) else val
+                break
+
+    proof_str = str(proof_val) if proof_val is not None else None
+    age_str = f"{age_val} {'Year' if age_val == 1 else 'Years'}" if age_val is not None else None
+    return proof_str, age_str
+
+
 def extract_text_from_image(image_path):
     """
-    Extract text from an image using OCR.
+    Extract text from an image using multiple OCR engines.
 
-    Tries multiple Tesseract PSM modes and returns the highest-quality result.
-    Returns None if OCR tooling is unavailable (signals the caller to abort).
-    Returns an empty string if all PSM modes fail or produce only garbage.
-    Text that fails the quality threshold is excluded (returned as empty string).
+    Tries Tesseract (multiple PSM modes) and, if available, EasyOCR.  Returns
+    whichever engine produces the highest-quality result.
+
+    Returns None if the required OCR tooling (Tesseract) is unavailable —
+    this signals the caller to abort.  Returns an empty string when all engines
+    fail or produce only noise below the quality threshold.
     """
     try:
         import pytesseract
@@ -107,8 +201,9 @@ def extract_text_from_image(image_path):
         return ""
 
     best_text = ""
-    best_quality = 0.0  # best word_count * score
+    best_quality = 0.0  # word_count × score
 
+    # ── Tesseract (multiple PSM modes) ──────────────────────────────────────
     for psm in PSM_MODES:
         try:
             raw = pytesseract.image_to_string(img, config=f"--psm {psm}")
@@ -118,9 +213,22 @@ def extract_text_from_image(image_path):
                 best_text = raw
                 best_quality = quality
         except Exception as e:
-            # Individual PSM mode failed; try next
             if psm == PSM_MODES[-1] and not best_text:
-                print(f"  ⚠️  OCR error on {image_path.name}: {e}")
+                print(f"  ⚠️  Tesseract error on {image_path.name}: {e}")
+
+    # ── EasyOCR (optional) ───────────────────────────────────────────────────
+    reader = _get_easyocr_reader()
+    if reader is not None:
+        try:
+            results = reader.readtext(str(image_path))
+            raw = "\n".join(r[1] for r in results)
+            score, word_count = score_text_quality(raw)
+            quality = word_count * score
+            if quality > best_quality:
+                best_text = raw
+                best_quality = quality
+        except Exception as e:
+            print(f"  ⚠️  EasyOCR error on {image_path.name}: {e}")
 
     if not best_text:
         return ""
@@ -194,16 +302,31 @@ def process_label_directory(ttbid_dir, force=False):
             "*No readable text could be extracted from the label images.*\n"
         )
     else:
+        # Extract proof and age from the combined OCR text
+        combined_text = "\n".join(
+            section.split("\n", 2)[-1] for section in text_sections
+        )
+        proof_str, age_str = extract_proof_and_age(combined_text)
+
         note_parts = ["*Text extracted via OCR - may contain errors*"]
         if excluded_count > 0:
             note_parts.append(
                 f"*{excluded_count} image(s) excluded: text did not meet readability threshold*"
             )
         note = "\n\n".join(note_parts)
+
+        detected_lines = []
+        if proof_str:
+            detected_lines.append(f"**Detected Proof:** {proof_str}")
+        if age_str:
+            detected_lines.append(f"**Detected Age:** {age_str}")
+        detected_block = ("\n".join(detected_lines) + "\n\n") if detected_lines else ""
+
         extracted_section = (
             f"\n\n{EXTRACTED_TEXT_HEADER}\n\n"
             + note
             + "\n\n"
+            + detected_block
             + "\n\n".join(text_sections)
             + "\n"
         )
@@ -238,7 +361,7 @@ def main():
     )
     args = parser.parse_args()
 
-    # Verify OCR dependencies are available before starting
+    # Verify required OCR dependencies are available before starting
     try:
         import pytesseract
         from PIL import Image  # noqa: F401
@@ -247,6 +370,13 @@ def main():
         print("Install with: pip install pytesseract Pillow")
         print("Also ensure tesseract-ocr is installed: sudo apt-get install tesseract-ocr")
         return 1
+
+    # Report optional EasyOCR status
+    reader = _get_easyocr_reader()
+    if reader is not None:
+        print("EasyOCR available — using both Tesseract and EasyOCR engines\n")
+    else:
+        print("EasyOCR not available — using Tesseract only (install with: pip install easyocr)\n")
 
     # Get repository root (two levels up from this script)
     repo_root = Path(__file__).parent.parent.parent

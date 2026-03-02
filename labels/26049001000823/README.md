@@ -24,42 +24,80 @@
 
 ### Label 1
 
-The moniker ‘Three Sirens” conjures an air
-of mythical allure and danger-
-echoing the legendary sirens who lured sailors
-with song. In Portland, Oregon’ late 1800s folklore,
-the Three Sirens were no mere myth, but three
-remarkable women who owned and operated
-riverboat brothels on the Willamette River.
-Bold, cunning, and fiercely independent, they
-navigated both the waters and the law with
-audacity-floating up and down the river to
-elude the taxman. Their voices, said to be as
-enchanting as their presence, would carry across
-the water, drawing men from the shore with
-promises of forbidden pleasure. Over time, their
-legend grew, casting them as figures of both
-infamy and fascination in the
-city's shadowy past
-
+Cce
+The moniker "Three Sirens" conjures an air
 STRAIGHT AMERICAN
+of mythical allure and danger -
 WHISKEY
-
-3 SIRENS is distilled from a
-carefully selected mash bill of corn,
+echoing the legendary sirens who lured sailors
+SMALL BATCH
+with song: In Portland, Oregon's late 1800s folklore,
+SIRENS 18 dlatilled from
+the Three Sirens were no mere myth; but three
+carefully
+Selected
+Tesk
+bill or
+Roens
 rye, and malted barley, then aged
-in American oak barrels. The result
-is a whiskey layered with deep notes
-of vanilla, toasted oak, and caramel
-toffee, unfolding into a rich,
-
-‘complex finish.
-
-503 DISTILLING
-
-GOVERMENT WARRING 1) According athe Surgeon General,
-rman shot ik abc beverages ring pregraney
-cause of tha sf ith eet. (2) Consumption ef aeaole
-
-args impairs yurablty ta ive aero porate machin,
-andy case eat protien.
+remarkable women who owned and operated
+Americin
+OlX
+barrels
+The
+esult
+riverboat brothels on the Willamette River:
+whiskey
+layered with deep
+norea
+of VAnilla, toasted 04k,
+En
+Lucned
+Bold, cunning; and fiercely independent; they
+toffee
+Unre
+ding into
+rich
+complex finish:
+navigated both the waters and the law with
+€
+8
+8
+audacity-floating up and down the river to
+Produced a1] Destilled br
+503 DISTILLING  in Firdland;
+JzUZ
+elude the taxman. Their voices, said to be as
+CONERMMENT MARNIME; (1) According to the Surzeon Beneral;
+Homman smeqdootm
+alcoholic beverapes durinz preznancy
+enchanting as their presence, would =
+across
+Mncamseeounmt
+cfbirth delects  (2) Consumption o/ alepholic
+the water; drawing men from the shore with
+5
+SIRENS
+bnarag G inse iesyouprabliey to drive acaror operate mackinery
+promises of forbidden pleasure. Over time, their
+legend grew; casting them as figures of both
+infamy and fascination in the
+STRAICHT AMERICAN
+city' s shadowy past.
+5001o
+3186
+WHISKEY
+~Uc"5035c(z
+9OPROOF_AS"ALCNOL_750ML
+Cce
+503-.
+((z
+cc503--
+3 SIRENS
+3 SIRENS
+calry
+)
+6
+0
+3
+((z

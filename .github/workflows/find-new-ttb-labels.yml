@@ -39,7 +39,7 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get install -y tesseract-ocr
-          pip install requests beautifulsoup4 pytesseract Pillow
+          pip install requests beautifulsoup4 pytesseract Pillow easyocr
       
       - name: Find new TTB labels
         id: find_labels
