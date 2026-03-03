@@ -33,64 +33,76 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 125.8
 
 ### Label 1
 
-Boob
+BBokeh
+@e
+w Hlo packaqe /
+Tdlahut oradekuNeor-cxeabz
+1
+"@a tonzeandro
+1
+my I-dathfmm Zoam /sys hto
+whukeyfrom duiz %o eigrt _
+022,
+Z5OML
+Eoker?? Sburbon24
+"falztuitren
+%
+remabl
+snly pieces
+bssL
+124-1420-A
+IRibt -
+LrpaLlxce'
+~Eea _
 
-De Whiithyy ste thes plochege 0
+### Label 2
 
-—_
-
-polighes
-
-one Hire offlim Learn ifr
-
-pica
-
-Sotihd wipers (rds un f Line
-
-Gy gmt, in Lean bh heis
-
-Mtiihiy from Ai 70 Ligh Geen
-
-=<
-
-aE Sse
+124-Y062
+3
+62.90%
+Age
+AlcIvol
+7 YRs9 Mo
+125.8
+eropf)' 19
+DAYS
+KENTUCKY STRAIGHT BOURBON WHISKEY
+BATGH N?
+82025-0/2
+MASTER
+DISTILLER:1960-1992
+Wji
+2
 
 ### Label 3
 
-BOOKER'S® KENTUCKY STRAIGHT BOURBON WHISKEY
-
+BOOKER'SS
+KENTUCKY STRAIGHT BOURBON WHISKEY
 DISTILLED AND BOTTLED BY JAMES B. BEAM DISTILLING CO.
-
 CLERMONT, KENTUCKY
-
 NOT FOR UNDERAGE
-
-ME VT REF 15¢ ¢ IA REF 5¢
-
-WWW.drinksmart.com
-
+ME VT REF 154
+IA REF 54
+WWW drinksmart,com
 CA-CRV
-
-GOVERNMENT WARNING:(1) ACCORDING 10
-
-meme weenie
-
-THE SURGEON GENERAL, WOMEN SHOULD
-
-NOT DRINK ALCOHOLIC BEVERAGES DURING
-
-PREGNANCY BECAUSE OF THE
-
+1
+GOVERNMENT WARNING: (I) ACCORDIUG TO
+THE   SURGEOU  GENERAL, WOMEN  ShOULI
+NOT DRINKALCOhOLICBEVERAGES DURIUG
+pREGUaUEY
+BECAUSE
+OF
+THE
 RISK
-
-OF BIRTH DEFECTS. (2) CONSUMPTION OF
-
-ALCOHOLIC BEVERAGES IMPAIRS YOUR
-
-ABILITY TO DRIVE A CAR OF OPERATE MACHIN
-
-ERY, AND MAY CAUSE HEALTH PROBLEMS
+OF BIRTH  defects. (2) CONSUMPTLOU OF
+alcohOlic   BEVERAGES   |mpAIbS   YOUR
+abiliTy TO IRIVE A CAR OR OPERATE Machi:
+'80686"001140'
+8
+ERV, ANI May CAUSe   hEAlTh  PROBLEMS.

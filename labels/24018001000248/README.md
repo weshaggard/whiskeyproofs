@@ -33,76 +33,69 @@
 
 *1 image(s) excluded: text did not meet readability threshold*
 
+**Detected Proof:** 100
+
 ### Back Label
 
-WHISKEY ROW SERIES
-
+S1SSSSSSSSLSS
+WHISKEY ROw
+SERIES
 1897
-
-BOTTLED IN BOND
-
-“This whisky ts distilled by us i itil we are responsible
-
-Sor its richness and fine quality. Its elegant flavor ts solely
-
+B O TTLED
+IN
+B 0 N D
+~This whisky is distilled by US only, and we are responsible
+for its richness and fine quality: Its elegant flavor is solely
 due to original fineness developed with care. There is
-
-nothing better in the market.”
-
-GEORGE GARVIN BROWN, FOUNDER...
-
-GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL,
-
-WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREG-
-
+nothing better in the market:
+2&
+GEORGE GARVIN BROWN, FOUNDER_
+FOWENSFOULDAROT DRiF ACcORouG BevEREGERGERHGEPFEGL
+(
 NANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION
-
 OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR
-
-OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS
-
-DISTILLED & BOTTLED BY
-
-OLD FORESTER DISTILLING ¢O
-
-ILM
-
-AT LOUISVILLE IN KENTUCKY
-
-DISTILLED DSP-K¥-354
-
-reer DSP-KY-82
-
-750 ml
-
-wil
-
-il
-
-00000
-
-I,
-
-Ca org
-
-10056349
+OR OPERATE MACHINERY, AND MAY  CAUSE HEALTH PROBLEMS.
+DISTILLED  & BOTTLED BY
+OLD FORESTER DISTILLING CO,
+AT LOUFSVILLE IN KENtuCKY
+80% FPO
+DiSTILLED DSP-KY-354
+BOTTLED DSP-KY-52
+CAChV
+75UmL
+Oooo
+RESPONSIBILITY.org
+1O 056349
+CSSS
+Isz
 
 ### Front Label
 
-que HST BOTTLED FOURE oy.
-
-— KENTUCKY —
-
-sk
-T BouRBoN WY
-
-STRAL@y
-
+BOTTLED
+The
+ESTD
+OLD
+1870
+FoRESTER
+KENTUCKY
+BoURBOn
 1897
-
-BOTTLED IN BOND
-
-Originally produced on Louisville's Whiskey
-Row, this whisky embraces the definition of the
+IMMAAMAMAA
+BOTTLED
+MMMMAAAMAUMAAAAMAA
+IN BOND
+[
+Originally produced on Louisville $ Whiskey
+Row; this whisky embraces the definition of the
 act introduced in 1897 which inspired higher
-quality standards for the spirits industry.
+quality standards for the spirits industry:
+SIZE
+PERCENTAGE
+PrOOF
+750mL
+50% ALCnOL
+100.0
+FIRST
+BourboN"
+StraIOHT
+Whisky

@@ -31,40 +31,80 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+**Detected Proof:** 109
+
+### Front Label
+
+MASTER'S
+KEEP
+~iucitoni
+RYE WHISKEY
+Jaich4o
+Daoo
+000i
+109
+Ws
+e
+a
+Wtiucee
+Stioni
+Fe
+Cci
+Pa
+W
+OLDEs
+WI
+ne
+IIto
+a(
+Fu
+B4creori 0
+n
+Cdaaa
+Daid Fih
+nT(
+a
+a
+Baals
+Avor
+EE
+AUXu Diat Ctaraie
+mm
+ZdduE_Z0
+4a
+DisuL
+Caanid idiuci Uia
+J5uml Mcoiss Iji prqdf
+
+### Label 2
+
+KabT En"5 KEL
+Wotogi
+AYE
+WHISKET
+0
+Ju 51 ALcIVOL M0i IIE
 
 ### Label 3
 
 WILD TURKEY MASTERS KEEP
-
-CORNERSTONE| 54.5 ALC/VOL (109
-
-PROOF) | 750 ML | STRAIGHT RYE
-
-WHISKEY | PRODUCT OF USA |
-
-DISTILLED IN KY. Reimported to the
-
+CORNERSTONEI
+54.5 ALCIVOL (109
+PROOF) | 750 ML
+STRAIGHT RYE
+WHISKEY
+PRODUCT OF USA
+DISTILLED IN KY Reimported to the
 United States by Sub Rosa Selections
-
 LLC, Washington, DC. Obtained from
-
-a private collection.
-
-GOVERNMENT WARNING: (1)
-
-According to the Surgeon General,
-
+private collection:
+GOVERNMENT WARNING:
+According to the Surgeon General
 women should not drink alcoholic
-
 beverages during pregnancy
-
 because of the risk of birth defects.
-
 (2) Consumption of alcoholic
-
 beverages impairs your ability to
-
-drive a car or operate machinery,
-
-and may cause health problems.
+drive
+0 car or operate machinery,
+and may cause health problems

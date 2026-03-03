@@ -35,40 +35,42 @@
 
 *Text extracted via OCR - may contain errors*
 
-*3 image(s) excluded: text did not meet readability threshold*
+*2 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 107
+**Detected Age:** 12 Years
 
 ### Back Label
 
-Di Doubon
-
+Gidthday Goutbon
 AGED FOR OVER 12 YEARS IN NEW CHARRED OAK BARRELS
-
-This whisky is distilled by us only, and we are responsible for its richness and
-
-fine quality. Its elegant flavor is solely due to original fineness developed with
-
-care. There is nothing better in the market.
-
-GEORGE GARVIN BROWN, FOUNDER
-
-GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON
-
-DISTILLED & BOTTLED BY
-
-GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES
-
-DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS, ULD FORESTER DISTILLING CO.
-
-f
-
+This whisky is distilled by uS only, and we are responsible for its richness and
+fine quality: Its elegant flavor is solely due to original fineness developed with
 2
-
-ILITY
-
-CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR AT LOUISVILLE IN KENTUCKY
-
+care. There is nothing better in the market.
+vel
+GEORGE GARVIN BROWN; FOUNDER_
+1
+GOVERNMENT  WARNING: (1J ACCORDING  TO THE  SURGEON
+8
+GENERAL,WOMEN SHOULD NoT DRINK ALCOHOLIC BEVERAGES
+DISTILLED & BOTTLED BV
+DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS
+OLD FORESTER DISTILLING CO,
+2) CONSUMPTION oF ALCOHOLIC BEVERAGES IMPAIRS YOUR
+AT LOuISVILLE IN KENTuCKY^
+ABILITV To DRIVE A CAR OR OPERATE MACHINERY, AND MAY
 CAUSE HEALTH PROBLEMS.
+RESPONSIBILITY.org
 
-RIVE A CAR OR OPERATE MACHINERY, AND MAY
+### Front Label
 
-RESPONSIBILITY. org
+Barrelled
+OLD
+Ltd Bottling
+2012
+2024
+FoRESTER
+KENTUCKY STRAIGHT BOURBON WHISKY
+Bidthday Bowwbon
+OLD FORESTER DISTILLING CO. AT LOUISVILLE IN KY 75OmL 53.5% ALC/VOL (LOZ PROOF)

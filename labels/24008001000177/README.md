@@ -34,90 +34,78 @@
 
 *2 image(s) excluded: text did not meet readability threshold*
 
+**Detected Proof:** 100
+
 ### Label 1
 
-LIMITED EDITION
+4
+LIMITE D
+E D |T|0 N
+I
+1
+8
+1
+1
+EkNob
+Quaity
+1
+1
+1
+4
+5
+STD
+3
+[
+1
+CREEK
+4
+F
+C
+3
+8
+Ila
+:
+0
+1
+KeNoRBOSTRHGKEY
+AGED
+F4sTIbodieds:
+18
+EIGHTEEN
+caramelized
+oak
+RELEASE NO/
+DSP/
+With hints 0f
+sweet
+21
+KC003
+KY-230
+YEARS
+baking spices _
+0
+0 B
+~~ERmo
 
-CREEK.
+### Label 3
 
-KENTUCKY STRAIGHT AGED TASTING NOTES:
-BOURBON WHISKEY Full bodied,
-Sfocdcle bck book phd Bh i Vedeods do cnssten tas asiacha nae ada ta T 8 EIGHTEEN caramelized oak
-
-110-KCQ012
-
-QUALITY
-STD.
-
-Ne <A
-
-AGED EIGHTEEN YEARS
-
-CRAFTED FOR QUALITY & FULL FLAVOR
-
->
-Lut
-=
-”n
-=
-=
-=
-o
-[==]
-a
->
-o
-[~=)
-—
-=
-oo
-=
-ce
-=
-nn
->
-=
-ao
->
-=
-=
-bad
-=
-
-cO
-——
-
-RELEASE NO/ with hints of sweet
-
-YEARS baking spices.
-
-KNOB CREEK
-
-CLERMONT, KENTUCKY
-
-a
-o
-=I
-<4
-2)
-=|
-A
-<
-a
-n
-
-### Label 2
-
-CRAFTED FOR QUALITY
-
-ULL FLAVOR
-
-siNce
-
-1992
-
-100 PROOF
-
-100 PROOF
-
-B07 ALC/VOL.
+GOVERMMENT WARMING: (I) ACCORDING TO THE SURGEOH GEMERAL, WOMEN ShOULD
+NOT  DFINK ALCOHOLIC BEVERAGES DURING PREGMANCV BECAUSE OF ThE RUSK OF
+BIRTH DEFECTS, (2) CONSUMPTLON OF ALCOHOLIC BEVERAGES IMPAURS VOUR AbIL:
+ITY TO DRIVE A CAR OR OPERATE MACHIMERV; AND MAv CAUSE HEALTh PROBLEMS.
+Per U,5 FL Oz, Average Analysis:
+Calories: (22; Carbs: 4.6g; Protein: Ug Fac Ug
+CA CRV
+MEVT REF 154 ' IA REF 54
+NOT FOR UNDERACE
+WWw knobereek Com
+750 mL
+50% ALC_/VOL;
+1
+DISTILLED AND BOTTLED BY
+JAMES B BEAM DISTILLING CO,
+2
+CLERMONT, KENTUCkV
+'80686"0086
+3
+2

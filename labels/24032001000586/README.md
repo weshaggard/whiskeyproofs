@@ -29,66 +29,51 @@
 
 ### Label 1
 
-GOVERNMENT WARNING: (1) ACCORDING T0 THE SURGEON GENERAL
-
-LITTLE BOOK
-
-WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREG
-
-=
-
-NANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION
-
-OF ALCOWOLIC BEVERAGES IMPAIRS YOUR ABILITY 10 DRIVE A CAR
-
-Ql
-
-Me Infenele
-
-OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS
-
-I created this series to share three generations of my family’s
-
-whiskey-making craft
-
-Every edition combines whiskeys
-
-SLO NBD AY yea WE CA CRY
-
-=
-
-I
-
-from my grandaddy, Booker, my dad, Fred, and me. Year
-
-JAMES B. BEAM DIS
-
-TILING C1
-
-CLERMONT, KENTUCKY
-
-over year, the blend will keep evolving, as will our legacy
-
-Ql
-
+LITTLE
+BOOK
+GOVERMMENT WARNING: (I| ACCORDING TO THE SURGEON GENERAL,
+WOMEU  ShOULD NOT  DRINK ALCOhOLIC BEVERAGES DURING PEG
+Nancy bECAUSE UF THE HISK OF BIRTH DEFECTS. (2} COUSUMPTIU
+Ske_Sfinite
+OF AlCOhOLIC BEVERAGES IMPAIRS YOUR abilTY TU DIVE a Car
+OR OPERATE   MaChErK  aND  May  CauSe   health  PROBLEMS .
+{
+I created this series to share three generations of my family$
+DHSTHLLED AND BOTTLED bV
+MeV REF 156
+IAREF S6
+Ca CRV
+whiskey-making
+craft:
+Every
+edition
+combines   whiskeys
+1
+from my grandaddy, Booker; my dad, Fred, and
+me
+Year
+JHMES B.PEAU DSTHLLING €U,
+over year; the blend will
+evolving,
+as
+will our
+legacy:
+CLERMOUT, KeNTUCKY
 750 ml
-
-Zeck. Fee
-
-va)
-
 NOT FOR UNDERAGE
-
-an
-
+nce_%
+(BBook@ae
+wwW.drinksmart,com
+0
+80686"0086
+5
 RELEASE
-
-77H Fcc Fe
-
-67™ GENERATION
-
-www.drinksmart.com
-
-110-LBK0112
-
-KENTUCKY STRAIGHT BOURBON WHISKEY | 58.05% ALC./VOL. (116! PROOF)
+8 TH
+G E NE RATIO N
+7 TH
+G E NE RATI0 N
+6 TH
+G E NE RATIO N
+110-LBKO0112
+KENTUCHV STRAIGHT BOURBON WHISHEV | 59.059 ALCNOL; (LB.  PROOF)
+keep

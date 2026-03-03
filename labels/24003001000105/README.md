@@ -32,126 +32,60 @@
 
 *1 image(s) excluded: text did not meet readability threshold*
 
+**Detected Proof:** 105
+
 ### Front Label
 
 MASTER'S
-
-Acer
-
-A BLEND OF KENTUCKY STRAIGHT
-
-iJ
-
+KEEP
+A
+BLEND OF KENTUCKY STRAIGHT
 BOURBON AND RYE WHISKIES
-
 FINISHED IN RYE CASKS
-
-Wmagnificent marriage of 13-year-old bourbon and
-
-indary matura
-
-8 & Byrar-old rye, finished for a
-
-ion of caram
-
-aye casks, The palate gtarts with a fuse
-
-fruit, and sweet oak, before transitioning to
-
--s of black pepper and
-
-worm baking sprces on the
-
-fint
-
-finish
-
-GENCED
-
-fit,
-
-Ss oP Sop aaa pamammaaaaaal
-
-5/ N
-
-BATCH We
-
+masnuicent marrure % 18-year old bourton and
+9sr Uld 7" fiushed for
+secondar, maluration period 4n
+casts The palale atarts Wtth @ (uscious cumbinatioa of caramel;
+frull; and surret aak , hefore transitioning t0 notes of black Drpper and
+Barm
+baking speces on the fintehs
+ENC
+NON
+BatcH ho
 0001
-
-wre oisTH
-
-(CHILL
-
-Proof
-
+Master DISILE CHIL
+Prqdf
 105
-
-ra
-
-fess
-
-4 rygseeY
-
-AS
-
-awa
-
-NTUCY
-
-poy
-
-Ver edee: doebvdeebectdwesecgeeseeeerececseenesnseensnaneseasnner
-
-Ke
-
-DISTILLED AND
-
-a dee bne tees bee
-
-Livcacedeccctapsaceccscsscesecsncccccccceseeseeenens
-
-LEO BY WILD TURKEY DISTILLING CO, LAWRENCEBURG KY
-
-‘ { ABLENO OF STRAIGHT WnSHles “WSO ML ALC/VOL 52.5% 105 PROOF
-
-‘
-
-\
-
-\)
+Tddie;
+distilled And Botiled By Wild Turket Distilling Co, Larrenceburs Ry
+Bleno 0f straigki Whisaies 750 Ml ALCIVOL 52 51 105 ProOF
 
 ### Label 3
 
 WILD TURKEY MASTERS KEEP
-
-UNFORGOTTEN| 52.5% ALC/VOL (105
-
-PROOF) | 750 ML | BLEND OF
-
-STRAIGHT WHISKEYS | PRODUCT OF
-
-USA | DISTILLED IN KY. Reimported to
-
+UNFORGOTTENI 52.5% ALCNVOL
+PROOF)
+750 ML
+BLEND OF
+STRAIGHT WHISKEYS
+PRODUCT OF
+USA
+DISTILLED IN KY Reimported to
 the United States by Sub Rosa
-
-Selections LLC, Washington, DC.
-
-Obtained from a private collection
-
-GOVERNMENT WARNING: (1)
-
-According to the Surgeon General,
-
+Selections LLC; Washington; DC:
+Obtained from a
+private collection:
+GOVERNMENT WARNING:
+According to the Surgeon
+General
 women should not drink alcoholic
-
 beverages during pregnancy
-
 because of the risk of birth defects
-
 (2) Consumption of alcoholic
-
 beverages impairs your ability to
-
-drive a car or operate machinery,
-
-and may cause health problems.
+drive 0 car or operate mochinery,
+and
+cause health
+problems:
+(105
+may

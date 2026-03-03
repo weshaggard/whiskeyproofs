@@ -39,100 +39,125 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 98.6
 
 ### Back Label
 
-——————
-ery LIMITED RELE gg,
-GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON
-GENERAL, WOMEN SHOULD NOTORINKALCOHOLIC
-BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF
-BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC
-P BEVERAGES IMPAIRS YOURABILITYTODRIVEACAROR © <
-OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
-Bottled by Lux Row Distillers, St. Louis, MO
-MEVTREF 1c 1AREFS¢ CACRV. 750M
-a 4
-{LUX ROW
-DARDS TOWN -Q>RISTILLERSHENTUCHTLUSA
-PAU SAO eae os ITS EY
-Wifes eed si Bt tr BR ae RM: toga 22 CULAR SO yea are ee
+2025
+GOVERNMENT WARNING: (1| ACCORDING TO THE SURGEON
+GENERAL,WOMEN SHOULD NOT dRINKalcoholic
+BEVERAGES DURING PREGMANCY BECAUSE OF THE RISK OF
+BIRTHDEFECTS. (2) CONSUMPTIONofalcoholic
+BEVERAGES IMPAIRS YOUR ABILITY TO DRIVEA CAR OR
+OPERATE MACHINERY AND MAV CAUSE HEaLTh PROBLEMS .
+Bottled by Lux Row Distillers; St. Louis, MO
+MeVT REF 15c IA REF 5c   CA CRV  750ML
+LUX ROW
+5 [ 0
+D ISTILLERS
+KEntucky; USa
+LEASE
+V E RY
 
 ### Front Label
 
-| Ptood Oath
-Plot Oath
-| Sontaiby Stiaight Bourhin idhey.
-| Finished in Aaejo Tequila, Harrels
-TADBGALCIVOL 1 98.6 PROOF ||
-2025 Pact No.l! MMxxv
-1 hanacilal aint sell Maclay heals
-» aE TITS 7
-| Fiche n Mepotigule hauls socrd fom He
-macau is Und tind wth
-| itn nhl, Keg ith oronitel
-eared nil isa withyhn
-| ze seed,
-| Uidligwiica. EET
-| This rare Pact sfiall'tever again be made.
-pees Poe enmicra)
-; re
-_ g
-| SY C/ winix.xn
+Slod Oafh
+RY
+LIMITED
+VE
+5 E
+Kcufuely Sfraighf Sourben {fhtskry
+Jinisbed in dpejo Jequila farttG
+49.3% ALCIVOL
+98.6PROOF
+2025
+Pacf No.II
+MMXXV
+Umabpunin
+"izhL dh- &
+totes
+0
+Ihrushec
+tqnE Labsavnadkr Ie
+mcantaen
+Hhis lend t enbeed uxdh
+azlrctoe avahhay  edegns uxdh Ike wotadky
+eandltaand dack Eeffes suvelly mfaedudh
+and sak  Noloo % cheury
+sedte
+649t ,
+Tddii
+Towatds
+dzkahaah
+Zadh
+Jhis rarc Pacf shall nevcr
+6c madc
+PACT:
+DATE
+Tbin
+(bzp2
+MMXXV
+RELEA
+enefenahed &
+and
+1
+"SAtcc
+F
+again
 
 ### Label 3
 
-<
-
 THE
-
-Alood Oath
-
+Slod Qath
 ATTESTS
-
 That every batch of Blood Oath is the
-
-undertaking of one man ~ a student of
-
-both Bourbon and Science, Loyal tno
-
-one family, favoring no one distillery
-
-||
-
-and bound by no one philosophy ~ this
-
-Bourbon connoisseur has one goal in
-
-mind — to seek out Bourbons rare and
-
-||
-
-wonderful, famous and forgotten. Then
-
-bottle them in combinations previously
-
-unlimagined fora lucky few. Not to cater
-
-to anyone's loyalties, he has sworn to
-
+undertaking of one man
+student of
+both Bourbon
+Scicnce: Loyal to no
+onc
+family: favoring no one
+distillery
+and bound by no one philosophy
+this
+Bourbon connoisseur has one
+mind
+to seek out Bourbons rare and
+wonderful; famous and
+forgotten: Then
+bottle thcmn in combinations previously
+unimagincd for =
+lucky few Not to catcr
+to anyone
+loyalties, he has sworn to
 never reveal where he finds his Bourbon,
+but only t0
+promise t0 choose and make
+the best he knows
+Loose lips never
+tasted
+M
+M
+&
+EXCLUSIVE RELEASE: MMXXV
+and
+Goal
+speclal,
+somcthing
+OD
+8
+CfRTIS
 
-but only to promise to choose and make
+### Label 5
 
-the best he knows, Loose lips never
-
-tasted something so special.
-
-ws
-
-we
-
-ERIE
-
-\\_ exctusive RELEASE: MMXXV
-
-»
-
-g
+XX
+ERY LIMITED RELEASH
+M
+M
+NEVER TO BE MADE AGADN
+V
+Srtin>
+3
+OATH

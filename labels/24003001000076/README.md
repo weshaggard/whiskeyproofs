@@ -33,51 +33,57 @@
 
 *1 image(s) excluded: text did not meet readability threshold*
 
+**Detected Proof:** 100
+
 ### Front Label
 
-| MASTER'S
-“a KEEP —
-TIN \W Was
-(Wa War
-Z INS BOTTLED IN BOND
-VA
-AY. Ns SSS tat om HATER
-SNS ese) sa
-WSS
-a KSISES :
+MASTER'S
+KEEP
+AGe 0
+17
+ES
+Thit NowietADdinior
+To Tul MASTIRMu colllction
+BOTTLED
+TN
+BOND
+KiNTUcRT Staaigint dourroh #mty
+OmlTHLSEcOND 0' itsd T0 EVcR
+0L RelAeLD m#ILd (UaLt DintiLita
+co Thus Rarl /7-0n
+OLo Liquid ias duLN
+AC[d AndPIaEcTediIhl C4mp ~ELsOR
+Rickmousrs
+MnuCAArdAmtuLLT
+ST ASIDE 91 cdoic RuSSELL T0 0L
+Savorld 0Tou:
+Zddiep
+Aaa Dia
+OITLEO 90 Aule Juahei Distillerv
+050-01-17,Lan'encEourg
+Wsial W:ivol Sit_IjI Prqq [ =
+2J
 
 ### Label 2
 
 WILD TURKEY MASTERS KEEP 17-YEAR
-
-BOTTLED IN BOND] 50 ALC/VOL (100
-
-PROOF) | 750 ML | STRAIGHT
-
-BOURBON WHISKEY | PRODUCT OF
-
-USA | DISTILLED IN KY. Reimported to
-
+BOTTLED IN BONDI 50 ALCIVOL (100
+PROOF) | 750 ML
+STRAIGHT
+BOURBON WHISKEY
+PRODUCT OF
+USA
+DISTILLED IN KY Reimported to
 the United States by Sub Rosa
-
-Selections LLC, Washington, DC.
-
-Obtained from a private collection.
-
-GOVERNMENT WARNING: (1)
-
+Selections LLC, Washington; DC
+Obtained from
+private collection.
+GOVERNMENT WARNING:
+According to the Surgeon General
 women should not drink alcoholic
-
-According to the Surgeon General,
-
 beverages during pregnancy
-
-because of the risk of birth defects.
-
+because of the risk of birth defects
 (2) Consumption of alcoholic
-
 beverages impairs your ability to
-
-drive a car or operate machinery,
-
-and may cause health problems.
+drive 0 car or operate mochinery,
+and may cause health problems:

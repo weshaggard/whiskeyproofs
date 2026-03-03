@@ -29,44 +29,4 @@
 
 ## Extracted Label Text
 
-*Text extracted via OCR - may contain errors*
-
-*1 image(s) excluded: text did not meet readability threshold*
-
-### Label 1
-
-KENTUCKY STRAIGHT BOURBON WHISKEY
-
-NON-CHILL FILTERED AND BARREL PROOF
-
-RUSSELLS
-
-—— RESERVE ——
-
-SINGLE RICKHOUSE —
-
-XXXXXX
-
-### Label 2
-
-rarer allie ee ae
-AN3YYND HOLVIN
-Ol GALVONNYL
-%OZ Ods
-
-9,00000
-| a
-
-co
-=
-—)
-~”
-all
-Lada
-=
-ou.
-—
-=
-rE)
-
-MATURED ON FLOOR 6
+*No readable text could be extracted from the label images.*

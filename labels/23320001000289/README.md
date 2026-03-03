@@ -28,69 +28,63 @@
 
 *Text extracted via OCR - may contain errors*
 
+**Detected Proof:** 100
+
 ### Back Label
 
-In 1996, a catastrophic fire destroyed the Old Heaven Hill
-
-Springs Distillery in Bardstown, KY. To continue its distilling
-
+In 1996,a catastrophic fire destroyed the Old Heaven Hill
+Springs Distillery in Bardstown; KY To continue its distilling
 heritage, Heaven Hill purchased the Bernheim Distillery in
-
-Louisville, KY in 1999, which included the Old Fitzgerald
-
-brand. Distilled in 1999, this special release celebrates the
-
+Louisville, KY in 1999,which included the Old Fitzgerald
+brand  Distilled in 1999,this special release celebrates the
 25th anniversary of Heaven Hill continuing the legacy of
-
-the Old Fitzgerald brand today.
-
-DISTILLED AND BOTTLED BY OLD FITZGERALD DISTILLERY, LOUISVILLE, KY DSP KY 1 BARDSTOWN, KY DSP KY3
-
-HEAVENHILLDISTILLERY.COM GOVERNMENT WARNING: (1) ACCORDINGTO
-
+the Old Fitzgerald brand today
+DISTILLED AND BOTTLED BV OLD FHTZGERALD DISTHLLERV; LOUISVILLE; KY D.SP KN | BARDSTOWN;, KY DSP.W31
+HEAVENHILLDISTILLERY.COM
+GOVERNMENT WARNING: (1) ACCORDING TO
 THE SURGEON GENERAL, WOMEN SHOULD
-
-NOT DRINK ALCOHOLIC BEVERAGES DUR
-
+NOT DRINK ALCOHOLIC BEVERAGES DUR-
+3
 ING PREGNANCY BECAUSE OF THE RISK OF
-
-|
-
-|
-
-|
-
-BIRTH DEFECTS. (2) CONSUMPTION OF
-
-96749" 00506
-
-ALCOHOLIC BEVERAGES IMPAIRS YOUR
-
-ABILITY TO DRIVE A CAR OR OPERATE MACH
-
-750ML VT-ME 15¢ REF-IAREF 5¢  INERY, AND MAY CAUSE HEALTH PROBLEMS.
+:
+BIRTH  DEFECTS   (2)  CONSUMPTION  OF
+6749
+00506
+ALCOHOLIC   BEVERAGES   IMPAIRS   YOUR
+ABILITY TO DRIE A CAR OR OPERATE MACH-
+750ML  VT-ME 150 REF-IA REF 54
+INERY; AND MAY CAUSE HEALTH PROBLEMS.
 
 ### Label 1
 
-KENTUCKY 5
-
-zRa!
-
-ON WHISKEY
-
-ls
-
-as
-
+KenTUckY
+WHISKEY
+8
 BOTTLED-IN-BOND
-
 UNDER U.S. GOVERNMENT SUPERVISION
-
 YEARS
-
+Zohn &_Titegeald
+13
 AGED
+VVS 2024
+100 pROOF
+507 ALCIVOL
+80 u R B 0 n
+Straight
+OLFITZGERALd
 
 ### Label 3
 
-(anor ean noND UNDER ley, SUPER Vision OTE
-eS OVERNMENT EN-TNTETEN ALM Pl A REVENUE BONDED WAREHOUSE >. Gum
+ROTTLEDIN
+BONDAUNN DER
+THESUPERVSION 0T
+THE
+3
+CEEEBBANG35AEARS0FBSEEENE0EEEZGERAED
+25TH
+ANNJ VERSARY
+240-8833
+USGOVERNMENT INANTERNAI
+REVEN UUE BON DEDEWA REHOUSE
+8
+@

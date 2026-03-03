@@ -30,68 +30,71 @@
 
 *Text extracted via OCR - may contain errors*
 
-*1 image(s) excluded: text did not meet readability threshold*
+**Detected Proof:** 86.8
+**Detected Age:** 7 Years
 
 ### Front Label
 
 MASTER'S
-nee —
+KEEP
+BaTcH N?
+0001
+K0
+AOLd:
+Tddrekns
+(7 years]
+Hastar DistilLer
+Location
+Kawrenca bus
+Kentucky USA
+Distarci;
+2oo
+mlas
+Ke]
+Wdod
+Hotesi
+Caramel Vanilla Spice
+Seone
+ulsubtle oak Anish
+Wsod
+LIAiTd
+IDion
+1
+crafted im Kentuckt, Usa
+150 Hl
+Lc(0l 44
+00 0 Prdoe
+N20
+AG B D
+YEAR 8
 
-AGED:
+### Label 2
 
-17 year wasten ousticien
-Location haweence burs, Kentucky usA
-
-DISTANCE: _ God miles |
-
-NOTES:
-
-ae nilla, ace! wa] Sone
-wi subtle oak, Lnish no3) Wood
-
-BATCH N®@:
-0002 clin
-
-Nel Wood
-
-LIMITED EDITION
-
-CRAFTED IN KENTUCKY, USA
-
-TSE ML ALC/VOL 43.42 84.8 PROOF
+Lintdfn
+Wild TURKEY
+kewtUGKY SteaTGUT #OURAOR WMSEET
+Ac@ntction
+Grafteo
 
 ### Label 3
 
 WILD TURKEY MASTERS KEEP
-
-17-YEAR| 43.4 ALC/VOL (86.8 PROOF) |
-
-780 ML | STRAIGHT BOURBON
-
-WHISKEY | PRODUCT OF USA |
-
-DISTILLED IN KY. Reimported to the
-
+17-YEARI 43.4 ALCIVOL (86.8 PROOF) |
+750 ML
+STRAIGHT BOURBON
+WHISKEY
+PRODUCT OF USA
+DISTILLED IN KY Reimported to the
 United States by Sub Rosa Selections
-
-LLC, Washington, DC. Obtained from
-
-a private collection.
-
-GOVERNMENT WARNING: (1)
-
-According to the Surgeon General,
-
+LLC; Washington, DC. Obtained from
+private collection:
+GOVERNMENT WARNING:
+According to the Surgeon
+ Generol
 women should not drink alcoholic
-
-beverages during pregnancy
-
-because of the risk of birth defects.
-
-(2) Consumetion of alcoholic
-
+beveroges during pregnancy
+because of the risk of birth defects
+(2) Consumption of alcoholic
 beverages impairs your ability to
-
-drive a car or operate machinery,
-
-and may cause health problems.
+drive 0 car or operate mochinery,
+and may cause health problems:

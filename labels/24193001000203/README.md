@@ -35,98 +35,63 @@
 
 *1 image(s) excluded: text did not meet readability threshold*
 
+**Detected Proof:** 127.8
+
 ### Label 1
 
-Eee
-
-SEA GES a FN § GR Pa ae REO eee ak pele Oe Fel Se ES.
-
-booker
-
-ws
-
-Puchage Ade
-
-WUilayy are the
-
-ane te Ulin Lagn.Me
-
-ace
-
-betthd sine i
-
-Ip gfe ifn Baan bites ED
-
-fim naan’ | °° |
-
-Laoker? Soutthete xd:
-
-Wa a a is ee tne a i tate ti A i ae
-
-750ML
-
-KK
-
-We1420-7
+bBoobbX
+@h gRisbtt " Mos Pachoo/
+The
+lght gpabbeNbr-cnatz
+1
+Mr@athon daneeca
+01
+Mv Indth-fm Zeam Dxthtt
+uhnkoyfran BL %o eigtt /ean oe
+ZS0ML
+Erker? ZrurhohA4
+"eezhfEezezA
+rtese#lyfieeee
+420
+w tbxct'
 
 ### Label 2
 
-%)
-
+124-Y055
 63.90%
-
-eT
-
-A
-
-EFS
-
-Prey Polat
-
-MEE!
-
-AL¢/VoL
-
-iwi
-
-‘Shee A
-
-ae
-
-(127.8 PROF)
-
-29 Days
-
-\) see 2
-
-SSS eee EEE
-
-SSS Se
-
-Barew We
-
-Zorber STRAIGHT BOURBON WHISKEY
-
-5024-04 chet
+Age
+3
+AlcIvol
+7 YRs2 Mo
+0
+(127.8   PRoof)  29 DAYS
+4
+BATGH N?
+KENTuCKY STRAIGHT BOURBON WHISKEY
+2024-MlBanz
+MASTER
+DISTILLER:1960-1992
 
 ### Label 3
 
-BOOKER'S® KENTUCKY STRAIGHT BOURBON WHISKEY
+BOOKER'Se KENTUCKY STRAIGHT BOURBON WHISKEY
 DISTILLED AND BOTTLED BY JAMES B. BEAM DISTILLING CO.
 CLERMONT, KENTUCKY
-
-GOVERNMENT WARNING:(1) ACCORDING T0 mma
-THE SURGEON GENERAL, WOMEN SHOULD
-
-NOT DRINK ALCOHOLIC BEVERAGES DURING
-
-PREGNANCY BECAUSE OF THE RISK
-
-OFBIRTH DEFECTS. (2) CONSUMPTION OF
-
-ALCOHOLIC BEVERAGES IMPAIRS YOUR
-
-ABILITY TO DRIVE A CAR OR OPERATE MACHIN
-
-HAY AO WAN CAUSE WEALTH PROBES WMA ociIna aac .
-ME VT REF 15¢ * IA REF 5¢ $a
+GOVERNMENT WARNING: (1| ACCORDING TO
+THE  SURGEON  GENERAL, WOMEN   ShOULI
+NOT DRINKalCOhOLIC bEVERAgeS DURIUG
+pReGhANCY
+BECAUSE
+OF
+THE
+RISK
+OF BIRTh  DEFECTS. (2) CONSUMPTHON OF
+alCohOlIg   bEvERageS   IMpAIrS   YOUR
+abilITy TO DRIVE A CAR OR OPERATE MAChIN:
+ERY,ANd   May  CAUSE   HEALTh  PROBLEMS.
+0
+80686"01140'
+8
+ME VT REF 154=
+IA REF S4
+124-2455-A
