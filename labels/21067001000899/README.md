@@ -34,65 +34,40 @@
 
 ### Label 1
 
-JU.
-
-oh
-
-Ko
-
-K
-
-Z
-
-Op
-
-(Z
-
-DD)
-
-i
-
-raw
-
-Lei Jed CN ion
-
-— Small Batch 2021 Release ——
-
-BARREL STRENGIA
-
-KENTUCKY eae oe Alaa
+FourRoses
+Altc f/on
+Small Batch 2021 Release
+BARREL StRENGTH
+Kentucky Straight BoURbon WHISKEY
+ALC /VOL,
+55.7*
+((
 
 ### Label 2
 
-Four Bourbons in this beautifully layered Limited Edition relee
-
-esent delicate sweet aromas of ripe berries, light floral notes an
-
-delicate spice lead to a finish that is long and smooth with lingering
-
-~ touches of vanilla cream and dark chocolate. Savor every sip.
-
-$1/ |O%av
-
-KENTUCKY STRAIGHT BOURBON WHISKEY
-DISTILLED AND AGED BY FOUR ROSES DISTILLERY LLC
-LAWRENCEBURG, KENTUCKY » FourRosesBourbon.com
-
-750ML
-
+The Four Bourbons in this beautifully layered Limited Edition release
+present delicate sweet aromas ofripe berries; light floral notes and hints
+ofrich; warm oak Bright fruit flavors ofplum and orange peel,and
+delicate spice lead to a finish that is long and smooth with lingering`
+touches ofvanilla cream and dark chocolate: Savor every sip.
+873/10Iq
+KENTUCky Straight
+B 0 U RB 0 N WHISKEY
+DISTILLED ANd AgEd BV FOUR ROSes DISTILLERV LlC
+LAWRENCEBURG, KENTUCkV
+FourRosesBourbon com
+Z50ML
 GOVERNMENT WARNING:
-
-(4) ACCORDING TO THE SURGEON GENERAL,
+(1) ACCORDING TO THE SURGEON GENERAL,
 WOMEN SHOULD NOT DRINK ALCOHOLIC
-
+6
 BEVERAGES DURING PREGNANCY BECAUSE
-
-OF THE RISK OF BIRTH DEFECTS.
-
-~____ (2) CONSUMPTION OF ALCOHOLIC BEVERAGES.
-____ IMPAIRS YOUR ABILITY TO DRIVE A CAR OR
-~ OPERATE MACHINERY, AND MAY CAUSE
-HEALTH PROBLEMS.
-
+OF THE RISK OF BIRTH DEFECTS;
+(2) conSUMptIon OFALCOHOLIc BEVERAGES
+IMPAIRS VOUR ABILITV TO DRIVE A CAR OR
+8
+OPERATE   MACHINERV;
+AND:MAY:CAUSE
+HEALTH PROBLEMS:
 Sediment from the barrel may be present
-in this non-chill filtered Bourbon.
+in this non-chill filtered Bourbon;

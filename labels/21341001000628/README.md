@@ -41,71 +41,40 @@
 
 *3 image(s) excluded: text did not meet readability threshold*
 
+**Detected Proof:** 96
+**Detected Age:** 11 Years
+
 ### Back Label
 
-B
-
-Bourbon
-
+Bidthday Bowdbon
 AGED FOR OVER 11 YEARS IN AGED OAK CASKS
-
-This whisky is distilled by us only, and we are responsible for its richness and
-
-fine quality. Its elegant flavor is solely due to original fineness developed with
-
+This whisky is distilled by uS only, and we are responsible for its richness and
+fine quality: Its elegant flavor is solely due to original fineness developed with
+8
 care. There is nothing better in the market.
-
-GEORGE GARVIN BROWN, FOUNDER
-
-bessneellh ett (1) aE 101 THE SURGEON
-
+GEORGE GARVIN BROWN, FOUNDER_
+br
+1
+GOVERNMENT WARNING: (1) ACCORDING  TO ThE  SURGEON
+8
+GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES
 DISTILLED & BOTTLED BY
-
-GEN
-
-HOU nl NOT silks ALCOHOLIC BEVERAGES
-
-OLD FORESTER DISTILLING CO.
-
-DURING FPRESNANCY BECAI
-
-USE OF TH
-
-E RISK 0
-
-BIRTH DEFEI
-
-ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY
-
-(2) CONSUMPTION OF ALCOHOLIC BEVE RAGES IMPAIRS YOUR AT LOUISVILLE IN KENTUCKY
-
-CAUSE HEALTH PROBLEM
-
-RESPONSIBILITY. org
+DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS
+OLD FORESTER DISTILLING CO;
+(2) CONSUMPTION Of ALCoHoLIC BeveraGeS IMPAIRS VOUR
+AT LOuISVILLE IN KENTUCKY
+ABILITy TO DRIVE A CAR OR OPERATE MACHINERY, AND May
+CAUSE HEALTH PROBLEMS.
+RESPONSIBILITY.org
 
 ### Front Label
 
-> .
-Barrelled NaN \ Ltd. Bottling
-2011 S i y 2022
-<< SIO
-
-Z
-
-ZZ
-
-Uy
-ZZ
-
-S
-\ Wa Ss N aa
-SAN “rant rama TSEC ean’ Nas “ea
-
-N S
-WSs WSs
-
+Barrelled
+OLD
+Ltd Bottling
+2011
+2022
+FORESTER
 KENTUCKY STRAIGHT BOURBON WHISKY
-
-Bidhday Loubon
-
-OLD FORESTER DISTILLING CO. AT LOUISVILLE IN KY 750mL 48% ALC/VOL (96 PROOF)
+Bitthday Bowdbon
+OLD FORESTER DISTILLING CO, AT LOUISVILLE IN KY  75OmL 48% ALC/VOL (96 PROOF)

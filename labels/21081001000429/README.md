@@ -31,28 +31,17 @@
 
 *2 image(s) excluded: text did not meet readability threshold*
 
-### Label 1
+### Label 4
 
-w—O JOHN E. FITZGERALD O—r
-
-LARCENY
-
-KENTUCKY STRAIGHT BOURBON WHISKEY
-
-;
-
-R 0
-
-BOTTLED BY:
-
-John Doe
-
-BATCH N°: Hizo
-
-BOTTLED ON
-
-PROOF: 123.2
-
-6/22/20
-
-ALC/VOL: 61.6%
+4
+0
+PERSONALLY
+CRAFTED
+6
+HEAVEN HILL DISTILLERY
+240-1838
+B A R
+2
+6
+3
+NA_

@@ -30,59 +30,84 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 100
+
 ### Back Label
 
-, ren h generation
-
-j EE Colon a stint sich ae
-Se Diss phon for his 45» years of er
-. falling indstry Hand-sclected by Parker 5
-
-\ IyeatO hasbeen ine in ok barrelssince —— ‘
-seth atl ha been drawn Yros the barrel 2ze
-
-P Angin proof. ‘This distinctive syle ol Ce
-ec, Tasty fsa tly exon ae =" E
-Blah PENCE Bese eno d with ' z= fg
-TaN UG c2soxer A TD as ee
-wg SD eT vai ara TE Ot
-hg et FISK OF inTH eFECTS, (2) cONSUMP >,
-
-AAMAS Pans youR au To AVE ACR 5
-
-rere aS UR ener
-SPM vane S ;
-
-### Front Label
-
-c
-
-ASk srrENG?H
-. //
-
-KENTUCKY syfAicat d
-
-Mt atl
-
-dawiso
-HIsKEY
-
-| Alcor d3-7 proof ja
+is a tribyute tO sixth
+tie
+for his 45+ Years of
+6n
+Hand-selected by Parker himselG thuis
+V9o6 andnaas
+aging in oak barrels since
+Csk
+thc barrel at
+proof: This=
+style of"
+truly extraordinary
+sSphash of
+enjoyed wich ;
+3
+LACCORDING ToThE SurGeonGeNeRAL,
+JWT
+Fidank Alcohouic BevERAGES CurINg prEg:
+8
+OfTHE RUSK OF BIRTH defeCts 42) GoNSumPTON
+ImpNRS YOUR ABILIFy T0 DRIVE
+~CAR
+ArD MaY Cause HEALTh problems:
+) heaveR HLL SPRUGS DySTUlLERY
+Pakers [
+; Heriuage '
+Collection
+generation
+Master
+Distiller; '
+Parker
+senvice
+Ra;
+edistlling '
+industry:
+Ecuition '
+Kxcn
+Ixen
+dnawn
+Iront
+snngth
+Amcricut `
+dlistinctive
+Whskey '
+Bourbon
+oflers
+cxncrience
+Best
+Maict:
+Goverwmhext !
+(WARNING (
+Ja '
+ShoulD
+(eechuse (
+'Nc_Uc =
+beverages '
+' Orerne
+NaNERN ,
+dum
+JwamcN
+Un
+{Bottled BY CLD|
+'BLROSHG"RLe
 
 ### Label 3
 
 Re-Imported by 100 Proof Imports
-
-Chantilly, VA
-
+Chantilly VA
 GOVERNMENT WARNING: (1) According to the Surgeon General,
-
 women should not drink alcoholic beverages
-
 during pregnancy because of the risk of birth defects.
-
 (2) Consumption of alcoholic beverages impairs your ability to drive a car
-
-or operate machinery, and may cause health problems.
-
+Or
+operate machinery; and may cause health problems
 Product of the United States

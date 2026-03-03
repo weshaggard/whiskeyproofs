@@ -34,48 +34,40 @@
 
 ### Label 1
 
-ss =
-(>y
-ron
-OxXE
-ON
-{ (a) )
-q —— Jpprell Seen 2022 sales 2—
-: BARRE SiBEn Gis 7
-gt ; gece eee BOURBON WHISKEY
-“a ALC/VOL, 3) ia é) ‘
+FouRoses
+Ouf] 8 Jfo
+Srall Batch 2022 Release
+BARREL STaENGTH
+KENTUCKY STRAIGHT BOURBON WHISKEY
+ALC /VOL;
+SK,02
 
 ### Label 3
 
-Distinct. Complex. Balanced. This Limited-Edition release is the perfect
-Marriage of rich flavor and the smoothy mellow finish you expect trom
-Four Roses and Master Distiller Brent Elliott. The aromas of brownsugar,
-dark cherries and seasoned oak welcome you as the warm flavors oF
-apricot and barrel tones melt into delicate layers of creamy vanilla, ripe
-berties and light cinnamon fora distinctive flavor you'll want to share:
-
-KENTUCKYeSTRAIGHT BOURBON WHISKEY
-DISTILLED AND AGED BY FOUR ROSES DISTILLERY LLC
-LAWRENCEBURG, KENTUCKY *FourRosesBourbon.com
-
+Distinct Complex. Balanced. This Limited-Edition releaseisthe pperfect
+marriage ofrich flavorand the smooth, mellow finish you expect from
+Four Rosesand Master Distiller Brent Elliott: The aromas ofbrown sugar;
+darkcherresand seasoned oak welcome youasthewarm flavorsof
+apricotand barrel tones meltinto delicate layers ofcreamy vanilla,tpe
+berries and light cinnamon fora distinctive flavor
+want to share.
+80)0
+KenTUCkY Straight Bourbon Whiskey
+DISTILLED AND AGEd BY FOUR ROSes DISTILLERV LLC
+LAWRENCEBURG, KENTUCKY
+FourRosesBourbon com
 750ML
-
-GOVERNMENT WARNING:
-
-(1) ACCORDING TO THE SURGEON GENERAL,
-
+GOVERNMENT WARNING;
+(1) AccordinG TO THE SURGEON GENERAL,
 WOMEN SHOULD NOT DRINK ALCOHOLIC
-
 BEVERAGES DURING PREGNANCY BECAUSE
-
-OF THE RISK OF BIRTH DEFECTS.
-
+OF THE RISK OF BIRTH DEFECTS;
 (2) CONSUMPTION OF ALCOHOLIC BEVERAGES
-é IMPAIRS YOUR ABILITY TO DRIVE A CAR OR
-
-OPERATE MACHINERY, AND MAY CAUSE
-
+IMPAIRS VOUR ABILITV TO DRIVE A CAR OR
+OPERATE   MACHINERY;
+AND
+MAY CAUSE
 HEALTH PROBLEMS.
-
 Sediment from the barrel may be present
-in this non-chill filtered Bourbon, mes
+in this non-chill filtered Bourbon;
+youIl e

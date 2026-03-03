@@ -25,96 +25,58 @@
 
 *Text extracted via OCR - may contain errors*
 
+**Detected Proof:** 128.7
+
 ### Back Label
 
-George 'T. Stagg was
-
+George T Stagg was
 born in Kentucky on
-
 December 19, 1835.
-
-Stagg built the most,
-
+Stagg built the most
 dominant American
-
 distillery of the 19th
-
-sntury on the banks of the
-
-ntucky River, during a time
-
-BY Dor
-
-Anown as the Gilded Age of
-
-Bourbon. The Distillery
-
-survived floods, fires, droughts
-
-and eyen Prohibition — when it
-
+century on the banks of the
+Kentucky River;
+a time
+known as
+Gilded Age of
+Bourbon The Distillery
+survived floods; fires, droughts
+and even Prohibition
+when it
+STAGG
 made whiskey for medicinal
-
-purposes, Today, Buffalo Trace
-
-oTAGG
-
-Distillery strives to carry on the
-
-tradition of its famous forefather.
-
+purposes
+Today, Buffalo Trace
+Distillery strives to carry On the
+tradition of its famous forefather:
 Uncut and unfiltered, this robust
-
-KE
-
-TUCKY STRAIGHT
-
+KENTUCKY STRAIGHT
 bourbon whiskey ages for nearly
-
 BOURBON WHISKEY
-
-a decade and boasts the bold
-
+decade and boasts the bold
 character that is reminiscent of
-
-DISTILLED, AGED & BOTTLED BY BUFFALO.
-
-the man himself.
-
-TRACE DISTILLERY, FRANKFORT, KY - 750ML
-
-stagg@bourbonwhiskey.com 1-866-729-3722
-
-‘GOVERNMENT WARNING: (1) ACCORDING T0 THE SURGEON GENERAL,
-
-WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING
-
-PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMP-
-
-TION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A
-
-0
-
-88004"0 1858"
-
-Ill
-
-|
-
-‘CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
+DISTILLED; AGED & BOTTLED BY BUFFALO
+the man himself:
+TRACE DISTILLERY, FRANKFORT;, KY . 7M0ML
+1
+stagg@dbourbonwhiskey com
+1-866-729-3722
+GOVERNMENT WARNING:
+ACCORDING TO THE SURGEON GENERAL ,
+WOMEN   SHOULD   NOT   DRINK  ALCOHOLIC   BEVERAGES   DURING
+PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMP:
+TION OF ALCOHOLJC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A
+1
+CAR OR OPERATE MACHINERY AND MAY CAUSE HEALTH PROBLEMS.
+858
+during
+thc "
 
 ### Front Label
 
-KENTUCKY STRAIGHT BOURBON WHISKEY
-
-< er
-
-Wim
-
-Li > % ALC BY VOL
-
-Korg
-
-oF -7 PROOF )
-
-BARREL PROOF * UNFILTERED
+KENTUCKY STRAIGKT BOURBON WHISKEY
+64.35%ALO BY VOL
+(128.7 PROOF )
+BARREL PROOF
+UNFTLTERED
