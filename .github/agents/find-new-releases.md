@@ -150,10 +150,25 @@ Fix any errors reported before proceeding.
 
 ## Step 8: Create a Pull Request
 
-Create a PR with:
-- **Branch name**: `automated/new-releases-YYYY-MM-DD` (use today's date)
-- **Title**: `New Releases: [brief summary of what was added]`
-- **Body**: List each new entry or updated entry, with source links
+If no new or updated entries were found, **stop here** — do not create a PR. Exit and report that no changes were needed.
+
+Otherwise, commit the changes and create a PR:
+
+```bash
+BRANCH="automated/new-releases-$(date +%Y-%m-%d)"
+git checkout -b "$BRANCH"
+git add _data/whiskeyindex.csv
+git commit -m "New releases: [brief summary]"
+git push origin "$BRANCH"
+gh pr create --base main --head "$BRANCH" \
+  --title "New Releases: [brief summary of what was added]" \
+  --body "[List each new entry or updated entry with source links]"
+```
+
+Key points:
+- Always specify `--base main` to avoid "No commits between X and X" errors
+- Branch from the latest `main` commit (the workflow checks out `main`)
+- Use today's date in the branch name (format: `YYYY-MM-DD`)
 
 ---
 
