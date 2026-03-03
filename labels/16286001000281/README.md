@@ -47,50 +47,33 @@
 
 ### Label 1
 
-Sslod Oafh '
-LIMITED
-Kentucky Straighf-
+Poot Oath
+
+y LIMITED RELEgg,
+
+Kentucky Straight
 BOURBON WHISKEY
-Finished in Cabernet SSauvignon SSarrels
-49.39 ALCIVOL
-98.6 PROOF
-750ML
-2017
-PactNu.8
-MMXVII
-maslefulunton % wele_bxed touxdons
-tie &ead %
-and
-"skdmsha_tahavt
-lushed
-laueld fva dvy,
-and
-comfleaey. Ius ,
-Ia
-welbl-seedened % loedon;
-ttk
-pagtant-vanella ,
-toasted catamel, atanqes
-'vak, Be gatful fov ths {atetul affaei
-letwcen
-and Za
-This rare whiskey shall ncvcr again b€ made:
-PACT:
-2
-DATE:
-20:
-L
-Tbun 5
-RELEASE
-'ERY
-9h16
-shatf
-Jaetgnon
-eopiessa
-uct
-ad ,
-"Kentacky
-(ocp
+
+Finished in Cabernet Sauvignon Harrels
+49.3% ALC/VOL | 98.6 PROOF | 750ML
+
+G NY
+2017 Pact N03, MMXVII
+Amastifabunin of well hed bausbons
+Thing the bad ss afer fiom-shy, shoyp
+ey Pal fans fosthed tin on
+Sautagnen peg Oe
+egpuesse cepledeithn
+rcs tye bausbon, ch with
+fragrant rant tasted caramel, os
+milonk, Hi galifal for thi fi fi jen
+delete Kintticlty and €alifosnta
+
+This care whiskey shall never again be made.
+
+sad ome. Sf ff
+
+es
 
 ### Label 2
 
@@ -121,22 +104,19 @@ hiskey
 
 ### Label 3
 
-Ct
-LIMITED
-(
+yenv LIMITED RELEAo.
+
 GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON
-GENERAL,WOMEN SHOULD NOT DRINKAlcOhOLIC
+GENERAL, WOMEN SHOULD NOTDRINKALCOHOLIC
 BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF
-BIRTHDEFECTS.(2) CONSUMPTION OFALcOHOLIC
+BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC
 BEVERAGES IMPAIRS YOUR ABILITY TO DRIVEA CAR OR
-OPERATE MACHINERY,AND MAY CAUSE HEALTH PROBLEMS.
-88352/13014
-Bottled by
-City Distilled Products; St Louis, MO
-ME VT REF 15c IA REF Sc
-RELEASE
-VERY
- River '
+OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
+
+0°"88352°13014""9
+
+Bottled by River City Distilled Products, St. Louis, MO
+MEVT REF 15¢ 1A REF 5¢
 
 ### Label 4
 

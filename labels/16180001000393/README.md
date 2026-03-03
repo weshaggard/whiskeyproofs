@@ -30,8 +30,6 @@
 
 *Text extracted via OCR - may contain errors*
 
-*1 image(s) excluded: text did not meet readability threshold*
-
 **Detected Proof:** 100
 **Detected Age:** 4 Years
 
@@ -113,3 +111,12 @@ Bottled under U.S. Govt Supervision
 bonors
 "Fpeated
 Liccex -
+
+### Label 3
+
+NOISIAUAdNS LNAWNUFAOD ‘S"0
+UHGNN GNO@ NI GATLLOG
+
+NOISIAWAdNS LNAWNUFAOD “S01
+
+YAGNA GNO@ NI GATLLOG

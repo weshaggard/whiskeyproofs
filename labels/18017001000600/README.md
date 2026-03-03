@@ -68,17 +68,11 @@ WhIskey
 
 ### Label 3
 
-C
-12-0560
-02.31.18
-SPECIAL
-R18 9sOx
-BARREL
-bottuNC DATE
-RELEA S E
-IICK I
-MASTER DISTILLER
-1
+« GSeen este (SD) Gece essen
+s
+22 120560 023118 SPECIAL R48 HEE 5
+S 2 aneetwe sore ote Rete ace sex m (AASTER DISTILLER Ey
+X Castes) Ce. =) Ge ee SD
 
 ### Label 4
 

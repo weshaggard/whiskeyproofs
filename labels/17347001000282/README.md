@@ -31,47 +31,95 @@
 
 *Text extracted via OCR - may contain errors*
 
-*1 image(s) excluded: text did not meet readability threshold*
+**Detected Proof:** 108
 
 ### Back Label
 
 KENTUCKY STRAIGHT BOURBON WHISKEY
-BOMBHRGERS
-declaration TM
-IBomberger 5 @eclaration IBourbon honors the
-legacy
-the Former
-distillerg known as
-IBomBerger
-$ in
-the 48005 and later as Iltichter3
-in the 2ath
-Gcentury:
-Iplease
-Us in
-toasting
-ad
-' celebrating
-Ymerican
-Tkiskey -
-GOVERNMENT WARNING: (1) ACCORDING To THE
+
+BOMBEI
+
+ER'S
+
+cela caliote
+
+Bomle LAGE I DYeclwation Bourlor honors the
+
+COM. oY the forties aistitlery, hrvowte as
+
+OL GEL Str he 15005 and later at Micliler$s
+
+te the Lhe Coentiy, Vlease pote us te loasliteg.
+
+and cole Crating Girertccare
+
+Litho. Mistory
+
+GOVERNMENT WARNING: (1) ACCORDING TO THE
+
 SURGEON GENERAL, WOMEN SHOULD NOT DRINK
-ALCOHOLIC BEVERAGES DURING PREGNANCY BE:
-CAUSE OF THE RISK OF BIRTH DEFECTS. (2) CON:
-8
-SUMPTION OF ALCOHOLIC   BEVERAGES IMPAIRS
-YOUR ABILITY To DRIVE
-A CAR OR OPERATE
-MACHINERY, AND MAY CAuSe HEALTH PROBLEMS .
-8
+
+ALCOHOLIC BEVERAGES DURING PREGNANCY BE
+
+er
+
+— OQ
+
+CAUSE OF THE RISK OF BIRTH DEFECTS. (2) CON
+
+SUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS
+
+—O
+
+YOUR ABILITY TO DRIVE A CAR OR OPERATE
+
+= 00
+
+ee CD
+
+ACHINERY, AND MAY CAUSE HEALTH PROBLEMS
+
+oe CD
+
+ASP)
+
 BOTTLED BY
-MICHTERS DISTILLERY LLC
-LOUISVILLE; KENTUCKY 40216
-9 ,
-foiz
-Hlistory:
+
+ICHTERS DISTILLERY LLC
+
+LOUISVILLE, KENTUCKY 40216
+
+a
 
 ### Front Label
 
 SMALL BATCH
 KENTUCKY STRAIGHT BOURBON
+
+### Label 4
+
+KENTUCKY STRAIGHT
+
+.| BOURBON WHISKEY
+
+{Gone 7G Pe PYM}
+
+A00Ud
+SOL
+
+cl
+
+distilled and bottled in Kentucky}
+
+PROOF
+
+108
+
+AAXSIHA NO@UNO" |
+
+LHSIVELS AYON.LNAY
+
+108
+PROOF
+
+/\?

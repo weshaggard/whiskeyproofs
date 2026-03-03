@@ -23,4 +23,22 @@
 
 ## Extracted Label Text
 
-*No readable text could be extracted from the label images.*
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+### Label 1
+
+LITTLE BOOK™
+LS cteefd Fie Mook at an hore GE
+a Wa
+ELD,
+Salieft
+
+BLENDED STRAIGHT WHISKEY cans, (1286 poo QOL? RELEASE
+
+drinksmart.com
+
+As an 8" Generation Beam, FREDDIE NOE
+
+to his GRANDADDY BOOKER by

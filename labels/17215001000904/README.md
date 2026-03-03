@@ -39,17 +39,33 @@
 
 *Text extracted via OCR - may contain errors*
 
-*3 image(s) excluded: text did not meet readability threshold*
+*2 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 101
+
+### Label 1
+
+BATCH <
+. 0001 1 FINISHED IN HAND-PICKED [ia
+
+ae — MASTER S KEEP — OLOROSO SHERRY CASKS a
+Bort 0125 OLOROSO SHERRY CASK FROM JEREZ, SPAIN. Big
+7 SFINISHS APPROVED: fi
+
+; <
+
+aceD: 1210 L5yrs 750 ML 50.5% ALC/VOL (101 PROOF) Cahelicancl? 5
 
 ### Label 2
 
-with
-Wild TURKEY
+CRAFTED with CONVICT gy
+
+WILD TURKEY
+
 KENTUCKY STRAIGHT BOURBON WHISKEY
 FINISHED IN OLOROSO SHERRY CASKS
-R EVIVAL
-conviction
-CRAFTED
+
+REVIVAL
 
 ### Label 3
 

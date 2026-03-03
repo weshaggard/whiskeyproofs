@@ -36,6 +36,8 @@
 
 *1 image(s) excluded: text did not meet readability threshold*
 
+**Detected Proof:** 91.2
+
 ### Back Label
 
 SOUR MASH
@@ -79,27 +81,32 @@ WHISKEY
 
 ### Front Label
 
-BOTTLE
+=~
+
+OTTLE
+
+~
+
 OF
+
+LAs
+
+Me
+
+Bet
+
 BATCH #
-{distilled and Bottled in Kentucky
+
+4 dstilled and bottled in Kentucky ,
 
 ### Label 1
 
-SOUR
-Jrenk ;
-H 0 M E $ T E A D @
 Small Batch
-45.69 ALC VOL
-91,2 PROOF
-750 ML
-9Riskey
-2018
+91.2 PROOF
+
+ereticehy Bhi?
+
 RELEASE
-Smnall @Batrh tirnturhy Snur WAash @fjishry
-MICHTER'S DISTILLERY
-LOUISVILLE, KENTUCKY
-MASH
-KENTUCKY
-WHISKEY
-Sentucky
+
+Small Bateh Kentucky Suuy Mash Ghiskry
+Nz MICHTER’S DISTILLERY * LOUISVILLE, KENTUCKY ol

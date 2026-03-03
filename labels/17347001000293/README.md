@@ -79,10 +79,23 @@ WHISKEY
 
 ### Front Label
 
-BOTTLE
+=~
+
+OTTLE
+
+~
+
 OF
+
+LAs
+
+Me
+
+Bet
+
 BATCH #
-{distilled and Bottled in Kentucky
+
+4 dstilled and bottled in Kentucky ,
 
 ### Label 2
 

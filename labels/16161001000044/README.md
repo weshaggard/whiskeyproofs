@@ -63,42 +63,36 @@ MASTER DISTILLER:1960 -
 
 ### Label 2
 
-XXX-XXXX
-63.35%
-AGe
-8
-AlcIval
-6YRs 2Mo
-126.7 PRopf)
-1 DAY
-J
-BATGH N?
-KeNTUCKY STRAIGHT BOURBON WHISKEY
-2017-07/8074,22,
-MASTER DISTILLER:19 60 -
-992
+5 i 63.35% | pace
+ee | _ __ ayes ono
+= Cughey (126.7 Proot)' 4 pay
+2 KENTUCKY STRAIGHT BOURBON WHISKEY
+2 Boob. Hoe
+2017-07 MASTER DISTILLER:1960-1992
 
 ### Label 3
 
-BBooenh
-@he
-wn Ho packoae _
-The
-Mlght gpadebrunbon-chabz
-1
-"zaashon -andoenean |
-1
-my gndfath-fm Zoam Dstha
-Whuksfron d Ro eigtt _
-022,
-ZS0ML
-Erker? 3urbh4
-"fazhftnlel
-remobe mnly pieces _
-banelband
-124-/420-
-9fisbt ~
-~Ga (
+booker
+
+Bho Wibuy tm shea frchege Ae
+
+(es
+
+mila
+
+Satta sper tds ur fll
+
+Wy rm o lin Loan bh his
+
+eee, || == |
+
+PEN LES epens
+
+s<¢e
+
+barrel tured.
+
+cened jlo .
 
 ### Label 4
 

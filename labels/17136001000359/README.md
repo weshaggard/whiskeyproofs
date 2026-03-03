@@ -45,34 +45,37 @@ ALC /VOL; -
 
 ### Label 2
 
-This years barrel strength
-limited edition is unmistakable proot that big Bourbon
-{lavors can come in Small batches. Our Master Distiller; Brent Elliott;
-has hand selected and mingled three remarkably-balanced and genlly-aged
-Bourbons from our 10 unique Bourbon recipes t0 introduce you t0 warm
-aromas of allspice, vanilla and apricot Bright berry Ilavors quickly greet
-the palate, then stand aside for bold; full-bodied textures of rich Iruit;
-cherry; sweet honey and light oak. The long; clean and rich {inish adds
-rewarding hints of brown sugar and cinnamon; leaving you to wonder if
-this is indeed; once again; one of our best limited editions
+This year’s barrel strength
+limited edition is unmistakable proof that big Bourbon
+flavors can come in small batches. Our Master Distiller, Brent Elliott,
+has hand selected and mingled three remarkably-balanced and gently-aged
+Bourbons from our 10 unique Bourbon recipes to introduce you to warm
+aromas of allspice, vanilla and apricot. Bright berry flavors quickly greet
+the palate, then stand aside for bold, full-bodied textures of rich fruit,
+cherry, sweet honey and light oak. The long, clean and rich finish adds
+rewarding hints of brown sugar and cinnamon, leaving you to wonder if
+this is indeed, once again, one of our best limited editions yet.
+
 KENTUCKY STRAIGHT BOURBON WHISKEY
 DISTILLED AND AGED BY FOUR ROSES DISTILLERY LLC
 LAWRENCEBURG, KENTUCKY: FourRosesBourbon.com
-750ML
-GOVERNMENT WARNING:
-(1) ACcORDINg TO THE SURGEON GENERAL,
-WOMEN SHOULD NOT DRINK ALcohoLic
-BEVERAGES DURING PREGNANCY BECAUSE
-8
-OF THE RISK OF BIRTH DEFECTS:
-(2) CONSUMPTION OF ALCOHOLIc BeveRAGES
-IMPAIRS YOUR ABILITY TO DRIVE A CAR OR
 
-OPERATE MACHINERV, AND MAY CauSe
-HEALTH PROBLEMS.
+750ML
+
+GOVERNMENT WARNING:
+
+(1) ACCORDING TO THE SURGEON GENERAL,
+WOMEN SHOULD NOT DRINK ALCOHOLIC
+BEVERAGES DURING PREGNANCY BECAUSE
+OF THE RISK OF BIRTH DEFECTS.
+
+(2) CONSUMPTION OF ALCOHOLIC BEVERAGES
+IMPAIRS YOUR ABILITY TO DRIVE A CAR OR
+OPERATE MACHINERY, AND MAY CAUSE
+HEALTH PROBLEMS,
+
 Sediment from the barrel may be present
-in this non-chill liltered Bourbon;
-yet:
+in this non-chill filtered Bourbon. ;
 
 ### Label 3
 

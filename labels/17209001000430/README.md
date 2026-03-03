@@ -39,9 +39,8 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+*3 image(s) excluded: text did not meet readability threshold*
 
-**Detected Proof:** 96
 **Detected Age:** 12 Years
 
 ### Back Label
@@ -62,20 +61,8 @@ NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF
 BIRTH DEFECtS (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS VOUR ABILITY TO
 DRIVE A CAROR OPERATE MACHINERY,AND MaV CAUSE HeaLTh PROBLEMS:.
 
-### Front Label
-
-Barrelled
-OLD
-Ltd Bottling
-2005
-2017
-FoRESTER
-KENTUCKY STRAIGHT BOURBON WHISKY
-Bidthday Gouwbon
-OLD FORESTER DISTILLING CO. AT L_UISVILLE IN KY  75OmL  48% ALC/VOL (96 PROOF)
-
 ### Label 4
 
-THE FIRST BOTTLED BOURBON"
-Noaunoa 0371108 LSuId 3HL
-0
+THE FIRST BOTTLED BOURBON”
+
+~NO#UNOF GAILLOG LSald AHL
