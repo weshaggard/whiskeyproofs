@@ -65,11 +65,50 @@ IMPAIRS
 
 ### Label 1
 
-sseller
-THE
-ORIGINAL
+Z2BTSN
+
+[Z
+
+y)
+
+pss
+
+y
+
+N
+
+sve
+
+ne
+
+(
+
+s
+
+Sao
+
+Wo
+
+Sp
+
+Ny
+
+s
+
+= tt, en,
+
+S&= THE ORIGINAL SS
+
 WHEATED BOURBON
-C.YPB
-KENTUCKY STRAICHT BOURBON WHISKEY
-47.5% ALC BY VOL
-95 PROOF
+
+C.Y.P.B.
+
+— eS
+
+KENTUCKY STRAIGHT BOURBON WHISKEY
+
+47.5% ALC BY VOL | 95 PROOF
+
+uit
+
+SUNT RTEOEE OEE OEE CECE rey

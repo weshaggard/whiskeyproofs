@@ -36,9 +36,75 @@
 
 *Text extracted via OCR - may contain errors*
 
-*4 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
 
 **Detected Proof:** 100
+
+### Label 1
+
+CRAFTED FOR SUPERIOR
+
+TASTE & SMOOTHNESS
+
+1992
+
+since
+
+100 PROOF
+
+§
+
+100 PROOF
+
+SOM ALCL.
+
+=
+
+=
+
+### Label 2
+
+12%
+
+SKE
+
+|
+
+|GHT
+WHI
+
+ON
+
+RBI
+
+JURB
+
+BO
+
+ICKY STRAI
+
+NTL
+
+| AMINININ ‘INOWHITI
+
+‘SSINHLOOMS ® JISVL NOINIdNS Nos aIL4vYD
+
+AJVSIHM NOGUNO|
+LHOIVYLS AMININAY
+
+9349 BONY
+
+——= ‘IVNIDIHO @ wh —<—
+
+### Label 4
+
+AMIUMINIWY LNOWYIAT9
+
+Sistilleg «
+Umire in
+Wangs; ties
+
+CRE rat batdh
 
 ### Label 5
 

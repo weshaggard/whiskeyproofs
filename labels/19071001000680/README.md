@@ -42,7 +42,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-*5 image(s) excluded: text did not meet readability threshold*
+*4 image(s) excluded: text did not meet readability threshold*
 
 ### Back Label
 
@@ -78,3 +78,18 @@ LOUISVILLE, KENTUCKY 40216
 proud
 special
 pcak
+
+### Label 5
+
+ae
+
+ree
+
+ep
+Saal
+
+* * * a * *
+
+a aot
+oe TEE
+litnttenneensas eee

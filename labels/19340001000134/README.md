@@ -36,9 +36,36 @@
 
 *Text extracted via OCR - may contain errors*
 
-*4 image(s) excluded: text did not meet readability threshold*
+*2 image(s) excluded: text did not meet readability threshold*
 
 **Detected Proof:** 100
+
+### Label 1
+
+AMINININ INOWHITD
+
+“SSINHLOOWS ® FLSVL HOIWTdNS HOA GILAVAD
+
+AAJYSIHM NOGUNO|G
+LHOIWYLS AWININAY
+
+—— HO Vo
+
+¥idu0 dONy
+
+IVNIDIHO FHL
+
+110-aB0015
+
+### Label 4
+
+AMIUMINIWY LNOWYIAT9
+
+Sistilleg «
+Umire in
+Wangs; ties
+
+CRE rat batdh
 
 ### Label 5
 

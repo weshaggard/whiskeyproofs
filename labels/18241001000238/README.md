@@ -30,6 +30,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 **Detected Proof:** 100
 
 ### Back Label
@@ -102,22 +104,3 @@ G _
 REMUS DISTILLING
 co_
 LAWRENCEBURG, IN
-
-### Label 3
-
-Ka
-akQxQ3s
-0
-Qas
-45
-4
-X
-84
-Cax
-REPEAL
-II
-SERIES
-XrasaksAaSKE
-Xa
-8*
-82

@@ -35,47 +35,43 @@
 
 *1 image(s) excluded: text did not meet readability threshold*
 
-**Detected Proof:** 126.1
-**Detected Age:** 6 Years
-
 ### Label 1
 
-BBooenh
-@he
-wn Ho packoae _
-The
-Mlght gpadebrunbon-chabz
-1
-"zaashon -andoenean |
-1
-my gndfath-fm Zoam Dstha
-Whuksfron d Ro eigtt _
-022,
-ZS0ML
-Erker? 3urbh4
-"fazhftnlel
-remobe mnly pieces _
-banelband
-124-/420-
-9fisbt ~
-~Ga (
+booker
+
+Bho Wibuy tm shea frchege Ae
+
+(es
+
+mila
+
+Satta sper tds ur fll
+
+Wy rm o lin Loan bh his
+
+eee, || == |
+
+PEN LES epens
+
+s<¢e
+
+barrel tured.
+
+cened jlo .
 
 ### Label 2
 
-XXX-
-63.05%
-Aqe
-AlcIval
-1
-6YRs 6Mo
-126.1
-PRoof)' 19 DAYS
-1
-BATGH N?
+63.05% 7000
+VoL sano
+(126.1 PRoor) phseio
+
+19 Days
+
 KENTUCKY STRAIGHT BOURBON WHISKEY
-2020-02| Bog2z
-MASTER DISTILLER:1960
-992
+
+a 5020-02 Gorden Poe
+
+Boston Batch”
 
 ### Label 3
 

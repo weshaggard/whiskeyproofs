@@ -36,7 +36,63 @@
 
 *Text extracted via OCR - may contain errors*
 
-*4 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 100
+
+### Label 1
+
+110-Kevo11
+
+DISTILLING
+COMPANY
+
+BOURBON WHISKEY
+
+KENTUCKY STRAIGHT
+
+AMININIY INOWHITD
+
+“SSINHLOOWS ¥ FISVL HOIHIdNS HOF GI14VAD
+
+AAMSIHM NOGUNO|
+LHOIWYLS AWININAY
+
+—= HO Lvy a 11s —
+
+443d) GON»
+
+IVNISIHO FHL
+
+### Label 2
+
+LIMITED EDITIO
+
+Soon
+
+s
+
+o
+
+100 PROOF
+
+§
+
+g
+
+100 PROOF
+
+SOM ALCO.
+
+### Label 4
+
+AMIUMINIWY LNOWYIAT9
+
+Sistilleg «
+Umire in
+Wangs; ties
+
+CRE rat batdh
 
 ### Label 5
 

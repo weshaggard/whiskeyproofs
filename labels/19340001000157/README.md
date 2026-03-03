@@ -32,9 +32,73 @@
 
 *Text extracted via OCR - may contain errors*
 
-*3 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
 
 **Detected Proof:** 115
+
+### Label 1
+
+KY
+
+REL |
+HISKEY
+
+TUCH
+
+E ORIGINAL
+CLERMONT, KEN
+
+‘THE
+
+DISTILLING
+COMPANY
+
+AN
+
+CR
+
+SINGLE BARREL SELECT RYE
+KENTUCKY STRAIGHT RYE WHISKEY
+
+### Label 2
+
+a
+
+SINGLE BARREL SELECT RYE WHISKEY
+
+So
+
+i
+
+SINCE
+
+asennae
+
+=
+
+Ss
+
+1992
+
+HERE
+
+So
+
+uc
+
+tee
+
+115
+
+25
+
+PROOF
+
+S
+
+aa
+
+.
 
 ### Label 3
 

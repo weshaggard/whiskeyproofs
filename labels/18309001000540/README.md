@@ -52,25 +52,27 @@
 
 ### Label 1
 
-BBooenh
-@he
-wn Ho packoae _
-The
-Mlght gpadebrunbon-chabz
-1
-"zaashon -andoenean |
-1
-my gndfath-fm Zoam Dstha
-Whuksfron d Ro eigtt _
-022,
-ZS0ML
-Erker? 3urbh4
-"fazhftnlel
-remobe mnly pieces _
-banelband
-124-/420-
-9fisbt ~
-~Ga (
+booker
+
+Bho Wibuy tm shea frchege Ae
+
+(es
+
+mila
+
+Satta sper tds ur fll
+
+Wy rm o lin Loan bh his
+
+eee, || == |
+
+PEN LES epens
+
+s<¢e
+
+barrel tured.
+
+cened jlo .
 
 ### Label 2
 
@@ -107,21 +109,11 @@ MASTER DISTILLER:1960 -
 
 ### Label 4
 
-XXX-XXXX
-64.00%
-Aqe
-3
-AlcIval
-6YRs 8M0
-128.0 Propf)
-DAYS
-1
-KENTUCKY STRAIGHT BOURBON WHISKEY
-BATGH N?
-2019-01/8og2z
-MASTER DISTILLER:1960 -
-992
-1
+Mae | 64.00% oon
+B47 —  |(128.0 Prooe)! 7 bays
+FA reve ENT STNG BOURBON WHEY
+B Hl Book. for
+a 2019 Ol MASTER DISTILLER:1960-1993
 
 ### Label 5
 

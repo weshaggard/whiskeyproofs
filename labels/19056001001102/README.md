@@ -42,34 +42,44 @@
 *2 image(s) excluded: text did not meet readability threshold*
 
 **Detected Proof:** 105
-**Detected Age:** 11 Years
 
 ### Back Label
 
-Bidthday Goutbon
-AGED FOR OVER 11 YEARS IN OAK CASK8
-This whisky i$ distilled by uS only; und we are responsible for its richness and
-fine quality Its elegant flavor is solely due to original fineness developed with
-care. There iS
-nothing better in the market
-D
-OEOROE OARVIN BROMN; FOUNDER_
-Uin=
-GONERHMEHO
-Eaxke324886
-BEURGEON
-DISTILLED & Bottled BY
-durIng
-JNANCY
-OLD FORESTER DISTILLING CO;
-(21 CONSL
-PGETON opellgoobe"
-ebr
-fLouisVIlLETH KENTUCKY
-ABILITY_to DRIVE
-{PROBLENR oR operate MAchiery, Atd
-RESPONSIBILITY.org
-CAUSE HEALTH L
+Didhday Poucbon
+
+AGED FOR OVER11 YEARS IN OAK CASKS
+
+‘This whisky is distilled by us only, and we are responsible for its richness and
+
+Jine quality. Its elegant flavor is solely due to original fineness developed with
+
+‘care. There is nothing better in the market,
+
+‘GEORGE OARVIN BROWN, FOUNDER.
+
+7 a
+
+GOVERNMENT WARNING: (I) ACCORDING TO THE SURGEON
+
+DISTILLED & BOTTLED BY
+
+GENERAL
+
+DRINK ALC ae foe
+
+STER DISTILLING CO.
+
+DURING PREGNANCY BECAUSE OF THE RISK OF
+
+P| COSUNPHGN OF ALCONOUC EVeAceS Means Yon ATOUSYILEN ENTRY
+
+ILITY.
+
+DRIVE A CAR OR OPERATE MACHINERY, AND MAY
+
+CAUSE HEALTH PROBLE!
+
+RESPONSIBILITY org
 
 ### Label 1
 
@@ -85,18 +95,10 @@ OLD FORESTER DISTILLING CO, AT LOUISVILLE IN KY 750mL 52.590 ALC OL (105 pROOF)
 
 ### Label 4
 
-2
-29
-THE FIRST
-BOTTLED
-BOURBON"
-W
-GAR
-8
-<
-Baanno
-8
-Ni^84?
-iN
-8
-Under
+Tapes Ne teat asa
+
+j
+
+|
+
+ene weer

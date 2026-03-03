@@ -42,7 +42,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-*4 image(s) excluded: text did not meet readability threshold*
+*3 image(s) excluded: text did not meet readability threshold*
 
 ### Back Label
 
@@ -93,3 +93,9 @@ DISTILLER
 00000024
 50.59 ALC BY VOL
 IOI PROOF
+
+### Label 3
+
+GRAFTED WITH CONVICTION: AGEDLONGER =——<“<‘<CS*;‘ié<‘<i<CS:;S*S*CM NM TST aos
+6 RYE !IOl Ol] AAY )
+a a a 2g

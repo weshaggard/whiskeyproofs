@@ -36,64 +36,96 @@
 
 *Text extracted via OCR - may contain errors*
 
-*3 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 100
+**Detected Age:** 19 Years
 
 ### Label 1
 
-LIMITE D
-E D ITI 0 N
-TastInG
-NOTES:
-Aromas 0f
-M
-K
-byramafized
-'ed Gabefc
-fovanueda
-8
-5
-EkNob
-aadabaking
-'smdoteswithe
-I
-1
-5
-paiamol
-Wird
-toaseed"
-nozes
-7
-1
-and light
-leather
+ne)
+
+:a
+
+TASTING NOTES
+
+Aromas of
+
+caramelized oak followed
+
+by hints of sweet vanilla
+
+ina |
+
+and baking spices
+
 The
-finish
-is
-Warm With
-:
-1
-8
-CREEK
-spice
-light
-floral
-and
-F
+
+palate is smooth with
+
+caramel and toffee notes
+
+KNOB:
+
+paired with toasted oak
+
+and light leather
+
+The
+
+finish is warm with
+
+YS
+
+spice, light floral and
+
+CREEK.
+
 fruit
-8
-3
-2i
-1
+
+a=)
+
+KENTUCKY STRAIGHT
+
+He
+
 AGED
-KENEOURBONRAIGSKEY
-2
-15
-FEARSN
-RELEASE NO/
-Kc001
-DSP/
-KY-230
-1
+
+BOURBON WHISKEY
+
+FIFTEEN
+
+-Loo
+
+RELEASE No/ KCOO1
+
+osr/ KY-230
+
+19
+
+YEARS
+
+Sev
+
+### Label 2
+
+LIMITED EDITIO
+
+Soon
+
+s
+
+o
+
+100 PROOF
+
+§
+
+g
+
+100 PROOF
+
+SOM ALCO.
 
 ### Label 3
 
@@ -117,3 +149,13 @@ UNUNN KNOBCREEK COM
 WNIW DRINKSMART, COM
 80686"01689
 2g
+
+### Label 5
+
+AMIUMINIWY LNOWYIAT9
+
+Sistilleg «
+Umire in
+Wangs; ties
+
+CRE rat batdh
