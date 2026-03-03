@@ -37,7 +37,9 @@ jobs:
           # Fine-grained token for Copilot CLI automation (repo contents + pull requests)
           # Configure in repository/environment secrets as COPILOT_GITHUB_TOKEN
           COPILOT_GITHUB_TOKEN: ${{ secrets.COPILOT_GITHUB_TOKEN }}
-        run: copilot -p .github/prompts/find-new-releases.prompt.md
+        run: |
+          test -f .github/prompts/find-new-releases.prompt.md
+          copilot -p .github/prompts/find-new-releases.prompt.md
 
       - name: Run data validation script
         run: python3 .github/scripts/validate_whiskey_data.py

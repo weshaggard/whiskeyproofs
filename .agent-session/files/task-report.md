@@ -1,48 +1,42 @@
 # Task Report
 
 ## Task
-Add more common whiskies to the whiskey index and fill in missing TTB labels.
+Set up an agentic workflow that runs weekly to find new bourbon/rye releases from official updates, update the whiskey index with correct fields/URLs/labels, and extend release-year ranges instead of duplicating unchanged entries.
 
 ## Result
 ✅ Success
 
 ## Summary
-- Items processed: 4 targeted data updates (3 new entries + 1 missing TTB fill)
-- Succeeded: 4
+- Items processed: 2
+- Succeeded: 2
 - Failed: 0
 - Skipped: 0
 
 ## Completed
-- Added 3 common standard-release entries to `/home/runner/work/whiskeyproofs/whiskeyproofs/_data/whiskeyindex.csv`:
-  - `Bulleit, standard, 90 proof, 1999-2025, TTB_ID 25059001000397`
-  - `Bulleit Rye, standard, 90 proof, 2011-2025, TTB_ID 25093001000227`
-  - `Jim Beam, standard, 80 proof, 1933-2025, TTB_ID 25058001000089`
-- Filled one previously missing TTB label:
-  - `Maker's Mark, standard` now has `TTB_ID 25031001000252`
-- Kept CSV order compliant (Name ascending, batch ordering within product).
-- Validation runs after changes:
-  - `python3 .github/scripts/validate_whiskey_data.py` ✅ pass
-  - `python3 .github/scripts/validate_urls.py` ✅ pass after correcting initial URL choices for Bulleit/Jim Beam
-  - `python3 .github/scripts/validate_ttb_urls.py` executed; modified/new rows validated as reachable when checked, with occasional unrelated transient remote-close errors on pre-existing rows.
-- Ran automated review/security tools:
-  - `code_review` ✅ no comments
-  - `codeql_checker` ✅ no analyzable code changes
+- Added `.github/workflows/find-new-releases.yml`:
+  - Weekly schedule configured (`0 9 * * 1`) plus manual trigger.
+  - Runs Copilot CLI against `.github/prompts/find-new-releases.prompt.md`.
+  - Runs `validate_whiskey_data.py`, `validate_urls.py`, and `validate_ttb_urls.py`.
+  - Creates automated PRs using GitHub App token (`actions/create-github-app-token` + `peter-evans/create-pull-request`).
+- Added `.github/prompts/find-new-releases.prompt.md`:
+  - Encodes Task → Requirements → Retry → Report framework.
+  - Prioritizes official press releases/websites and bourbon/rye-only scope.
+  - Requires full field correctness and TTB lookup process (repo labels first, then public registry).
+  - Instructs extending `ReleaseYear` ranges for unchanged recurring releases instead of adding duplicates.
+- Validation run after edits:
+  - `python3 .github/scripts/validate_whiskey_data.py` passed.
+  - Full validation chain (`validate_whiskey_data.py`, `validate_urls.py`, `validate_ttb_urls.py`) passed.
+- Security scanning:
+  - `codeql_checker` reported 0 alerts.
 
 ## Errors
-- Initial URL choices for newly added entries returned 404 during URL validation:
-  - `https://www.bulleit.com/our-whiskeys/bulleit-bourbon/`
-  - `https://www.bulleit.com/our-whiskeys/bulleit-rye/`
-  - `https://www.jimbeam.com/en/bourbons/jim-beam-bourbon`
-- Retry/fix applied:
-  - Updated Bulleit/Bulleit Rye URLs to `https://www.bulleit.com/`
-  - Updated Jim Beam URL to `https://www.jimbeam.com/en-us/bourbons/jim-beam`
-  - Re-ran validations.
-- Observed transient network errors in `validate_ttb_urls.py` on unrelated existing entries (e.g., Four Roses 2023 ID `23051001000526`) with "Remote end closed connection without response"; not tied to modified rows.
+- Baseline local build attempt with `bundle exec jekyll build` initially failed because `bundle` was missing.
+- Installing bundler globally failed with permission errors writing to `/var/lib/gems/3.2.0`.
+- Resolved by installing user-scoped bundler and setting local bundle path (`bundle config set --local path vendor/bundle`), then `bundle install && bundle exec jekyll build` succeeded.
 
 ## Remaining Work
 None.
 
 ## State
-- Modified file: `/home/runner/work/whiskeyproofs/whiskeyproofs/_data/whiskeyindex.csv`
-- Branch includes committed update via progress reporting.
-- Final data is sorted and passes data/URL validation.
+- New workflow is committed and pushed on branch `copilot/setup-weekly-agentic-workflow`.
+- New prompt path used by workflow: `.github/prompts/find-new-releases.prompt.md`.

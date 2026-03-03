@@ -50,13 +50,13 @@ For each candidate release:
 
 ## Existing-release update rule
 
-If a newly discovered release matches an existing entry where product attributes are unchanged (same Name, Batch pattern, Age, Proof, Distillery, Type), do **not** add a duplicate row.  
+If a newly discovered release matches an existing entry where product attributes are unchanged (same Name, same recurring batch identifier or `standard` pattern, same Age, Proof, Distillery, and Type), do **not** add a duplicate row.  
 Instead, update the existing `ReleaseYear` value to extend the range (for example `2023-2025` → `2023-2026`).
 
 ## Retry
 
 - **Network/transient errors** (timeouts, HTTP 5xx): retry the same operation up to 3 times.
-- **Logic/data errors** (failed validation, no match found): retry with small search/query adjustments up to 3 times.
+- **Logic/data errors** (failed validation, no match found): retry with small search/query adjustments up to 3 times (for example, broaden date range by 30 days, try product name variations, and check fallback bourbon sources).
 - **Permanent errors** (invalid path, permissions): stop immediately and report the error.
 
 ## Validation
