@@ -34,8 +34,10 @@ jobs:
 
       - name: Run weekly release discovery agent
         env:
+          # Fine-grained token for Copilot CLI automation (repo contents + pull requests)
+          # Configure in repository/environment secrets as COPILOT_GITHUB_TOKEN
           COPILOT_GITHUB_TOKEN: ${{ secrets.COPILOT_GITHUB_TOKEN }}
-        run: copilot agent run .github/prompts/find-new-releases.agent.md
+        run: copilot -p .github/prompts/find-new-releases.prompt.md
 
       - name: Run data validation script
         run: python3 .github/scripts/validate_whiskey_data.py
@@ -60,7 +62,7 @@ jobs:
           token: ${{ steps.generate_token.outputs.token }}
           commit-message: 'Automated weekly bourbon and rye release update'
           branch: automated/find-new-releases
-          delete-branch: false
+          delete-branch: true
           title: 'Weekly bourbon and rye release updates'
           body: |
             ## Automated Weekly Release Discovery

@@ -1,12 +1,24 @@
 # Weekly Bourbon and Rye Release Discovery Task
 
-Find new **bourbon** and **rye** releases announced since the last run and update `/home/runner/work/whiskeyproofs/whiskeyproofs/_data/whiskeyindex.csv`.
+## Task
 
-## Scope
+Find new **bourbon** and **rye** releases announced since the last run and update `_data/whiskeyindex.csv`.
+
+## Requirements
+
+Scope:
 
 - Search official distillery pages, press release pages, and official brand news pages first.
 - If no official page exists for a specific new release, use a reputable bourbon news/review source as a fallback.
 - Only add releases that are bourbon or rye products.
+
+Acceptance criteria:
+
+1. `_data/whiskeyindex.csv` is updated only for bourbon/rye releases discovered from official sources (or reputable fallback sources when official pages are unavailable).
+2. Every added or updated row has valid required fields (`Name`, `Batch`, `Proof`, `ReleaseYear`, `Distillery`, `Type`) and valid optional fields (`Age`, `TTB_ID`, `url`) when available.
+3. No duplicate row is introduced for the same `Name`, `Batch`, and `ReleaseYear`.
+4. Existing releases with unchanged attributes are updated by extending `ReleaseYear` range instead of adding duplicates.
+5. Validation scripts complete successfully before changes are kept.
 
 ## Required data quality rules
 
@@ -14,7 +26,7 @@ For each new release, ensure all required fields are complete and valid:
 
 - `Name`
 - `Batch`
-- `Age` (blank only if unknown)
+- `Age` (leave empty if there is no clear age statement)
 - `Proof` (numeric or valid numeric range format used by this repository)
 - `ReleaseYear`
 - `Distillery`
@@ -24,7 +36,7 @@ For each new release, ensure all required fields are complete and valid:
 
 When adding rows:
 
-1. Follow existing conventions in `/home/runner/work/whiskeyproofs/whiskeyproofs/_data/whiskeyindex.csv`.
+1. Follow existing conventions in `_data/whiskeyindex.csv`.
 2. Keep sort order valid (Name ascending, Batch descending with repository sort logic).
 3. Avoid duplicates (`Name`, `Batch`, `ReleaseYear`).
 
@@ -41,6 +53,12 @@ For each candidate release:
 If a newly discovered release matches an existing entry where product attributes are unchanged (same Name, Batch pattern, Age, Proof, Distillery, Type), do **not** add a duplicate row.  
 Instead, update the existing `ReleaseYear` value to extend the range (for example `2023-2025` → `2023-2026`).
 
+## Retry
+
+- **Network/transient errors** (timeouts, HTTP 5xx): retry the same operation up to 3 times.
+- **Logic/data errors** (failed validation, no match found): retry with small search/query adjustments up to 3 times.
+- **Permanent errors** (invalid path, permissions): stop immediately and report the error.
+
 ## Validation
 
 After edits, run:
@@ -52,3 +70,12 @@ python3 .github/scripts/validate_ttb_urls.py
 ```
 
 Only keep changes that pass validation.
+
+## Report
+
+At the end of the run, include:
+
+- One-sentence result summary
+- Counts for processed/succeeded/failed/skipped items
+- Exact entries added or updated (including release-year range updates)
+- Any errors, retries performed, and remaining follow-up work
