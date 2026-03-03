@@ -30,7 +30,9 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 128.3
 
 ### Back Label
 
@@ -52,3 +54,14 @@ TO DRIVE A CAR OR OPERATE MACH-
 AMD
 CAUQE
 PROBLEM
+
+### Front Label
+
+annnee’® POrlettig,
+
+WOODFORD RESERVE
+
+eatee 128.3 raoor
+
+KENTUCKY STRAIGHT BOURBON WHISKEY
+750 mL-64.15% ALC/VOL(128.3 PROOF)

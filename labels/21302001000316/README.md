@@ -25,8 +25,6 @@
 
 *Text extracted via OCR - may contain errors*
 
-**Detected Proof:** 128.7
-
 ### Back Label
 
 George T Stagg was
@@ -75,8 +73,16 @@ thc "
 
 ### Front Label
 
-KENTUCKY STRAIGKT BOURBON WHISKEY
-64.35%ALO BY VOL
-(128.7 PROOF )
-BARREL PROOF
-UNFTLTERED
+KENTUCKY STRAIGHT BOURBON WHISKEY
+
+< er
+
+Wim
+
+Li > % ALC BY VOL
+
+Korg
+
+oF -7 PROOF )
+
+BARREL PROOF * UNFILTERED

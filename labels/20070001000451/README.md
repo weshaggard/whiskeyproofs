@@ -35,8 +35,6 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
-
 **Detected Proof:** 98
 **Detected Age:** 10 Years
 
@@ -73,3 +71,37 @@ FoRESTER
 KENTUCKY STRAIGHT BOURBON WHISKY
 Bidthday Bowtbon
 OLD FORESTER DISTILLING CO, AT LOUISVILLE IN KY 75OmL 49% ALC/VOL (98 PROOF)
+
+### Label 3
+
+ohY Boy,
+AGED
+
+10
+
+YEARS
+Vv
+"ep pot
+
+>
+
+1 B
+~ lel %
+
+### Label 4
+
+BPESPOOr
+
+Ae See USK
+
+Vinwy®
+
+THE FIRST
+
+BOTTLED
+
+BOURBON
+
+GARY)
+
+“ounv®

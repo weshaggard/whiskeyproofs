@@ -30,8 +30,6 @@
 
 *Text extracted via OCR - may contain errors*
 
-*1 image(s) excluded: text did not meet readability threshold*
-
 **Detected Proof:** 100
 
 ### Back Label
@@ -99,6 +97,22 @@ JwamcN
 Un
 {Bottled BY CLD|
 'BLROSHG"RLe
+
+### Front Label
+
+c
+
+ASk srrENG?H
+. //
+
+KENTUCKY syfAicat d
+
+Mt atl
+
+dawiso
+HIsKEY
+
+| Alcor d3-7 proof ja
 
 ### Label 3
 

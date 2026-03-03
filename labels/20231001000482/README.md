@@ -31,8 +31,6 @@
 
 *1 image(s) excluded: text did not meet readability threshold*
 
-**Detected Proof:** 100
-
 ### Back Label
 
 EAGLE RARE
@@ -51,8 +49,8 @@ BRIARCLIFF MANOR, NEW YORK
 ### Label 2
 
 DOUBLE
+C
 VERY
-cre
-KENTTUCKY STR-CHT BOL RBON WHISKEY
-S0ALC VOL (50 PROOF}
-agk
+ave
+xINTUCKY STRAICHT BOURBON WHI
+{eaLC-VOL GOFROOM

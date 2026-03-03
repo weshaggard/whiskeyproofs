@@ -32,57 +32,96 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
 
 **Detected Proof:** 100
+**Detected Age:** 18 Years
 
 ### Label 1
 
-LIMITE D
-E D |T |0 N
-Ie
-Y
-1
-8
-1
-1
-Eknob
-JEe
-1
-1
-1
-4
-5
+>>
+
+LIMITED /E DITION
+
+_
+
+2\
+
+CR
+
+»; ramet
+
+ey
+
+= &
+
+Soy eS
+
+‘2
+
+QUALITY
+
+= hy
+
 STD
-[
-1
+
+KNOB
+
+©:
+
 CREEK
-F
-1
-0
-8
-Ile
-:
-1
-KENOURBOSTRHGKEY
+
+>=
+
+A)
+
+KENTUCKY STRAIGHT
+
 AGED
-F4sTIbodieds:
-18
+
+TASTING NOTES
+
+Full bodied
+
+BOURBON WHISKEY
+
 EIGHTEEN
+
 caramelized oak
-1
+
+oS
+
 RELEASE NO/
+
 DSP/
-With hints 0f
-sweet
-2
-KC001
+
+with hints of sweet
+
 KY-230
+
+18
+
 YEARS
-baking spices _
-CREE
-0 B
-c~ERMo
+
+baking spices
+
+izle
+
+### Label 2
+
+CRAFTED FOR QUALITY
+
+ULL FLAVOR
+
+siNce
+
+1992
+
+100 PROOF
+
+100 PROOF
+
+B07 ALC/VOL.
 
 ### Label 3
 

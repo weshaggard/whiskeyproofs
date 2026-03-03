@@ -27,7 +27,6 @@
 
 *Text extracted via OCR - may contain errors*
 
-**Detected Proof:** 118.4
 **Detected Age:** 4 Years
 
 ### Back Label
@@ -57,24 +56,23 @@ MAY CAUSE HEALTH PROBLEMS;
 
 ### Front Label
 
-1
-J.CARVER
-MINN
-U $ A
-TRIFE C TA
+MINN USA
+
+TRIFECTA
+
 AMERICAN
 SINGLE MALT
+
 WHISKEY
-S P I RI T $
-0 F
-D I $ C 0 V E R Y
+SPIRITS OF DISCOVERY
+
 With three different malts aged in oak barrels from three family-owned cooperages
-in Minnesota, Trifecta is a truly distinctive American Single Malt Whiskey:
-Incredibly smooth and sweet; Trifecta offers flavors of dried orange peel and spice,
-honey; and dark fruits with a hint of vanilla and dark chocolate_
-Private
-Reserv e
-59.2
-% ALCOHOL BY VOLUME (_ 118.4
-prOOF)
-750 ML
+in Minnesota, Trifecta is a truly distinctive American Single Malt Whiskey.
+Incredibly smooth and sweet, Trifecta offers flavors of dried orange peel and spice,
+honey, and dark fruits with a hint of vanilla and dark chocolate.
+
+Private Reserve
+
+59:2 % ALCOHOL BY VOLUME (__118.4 _ PROOF)
+
+750ML

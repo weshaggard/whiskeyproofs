@@ -30,7 +30,9 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 119.8
 
 ### Back Label
 
@@ -49,3 +51,11 @@ BIRTH DEFECTS. (2) CONSUMPTION OF
 ALCOHOLIC BEVERAGES IMPAIRS VOUR
 ABILITY TO DRIVEA CAR OR OPERATE MACH"
 INERV, AND MAv CAUSE HEALTH PROBLEMS:
+
+### Front Label
+
+eee ECT ia,
+WOODFORD RESERVE
+BATCH 119.8 PROOF
+KENTUCKY STRAIGHT BOURBON WHISKEY
+750mL - 59.9% ALC/VOL (119.8 PROOF)

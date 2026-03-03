@@ -30,8 +30,6 @@
 
 *Text extracted via OCR - may contain errors*
 
-*1 image(s) excluded: text did not meet readability threshold*
-
 ### Label 1
 
 FouRoses
@@ -45,29 +43,46 @@ ALC/VOL;
 ### Label 2
 
 Four distinct Bourbon recipes bring remarkable character to this refined
-Limited Edition release: Aromas ofapple, orange
-honey and vanilla
-mingle with soft fruit flavors of apricot; pearand hints ofred berries.
-This is balanced with notes ofrye spice and light oak; leading to along;
-soft finish with
-refreshing fruit tones. Sip, savorand enjoy:
-473/OXq1
-KENTUCKY StRaight BOURBON WHISKEY
+Limited Edition release. Aromas of apple, orange peel, honey and vanilla
+mingle with soft fruit flavors of apricot, pear and hints of red berries.
+This is balanced with notes of rye spice and light oak, leading to a long,
+
+soft finish with refreshing fruit tones. Sip, savor and enjoy.
+
+les
+
+KENTUCKY STRAIGHT BOURBON WHISKEY
+
 DISTILLED AND AGED BY FOUR ROSES DISTILLERY LLC
+
 LAWRENCEBURG, KENTUCKY: FourRosesBourbon.com
 750ML
-m
+
 GOVERNMENT WARNING:
+
 (1) ACCORDING TO THE SURGEON GENERAL,
 WOMEN SHOULD NOT DRINK ALCOHOLIC
+
 BEVERAGES DURING PREGNANCY BECAUSE
+
 OF THE RISK OF BIRTH DEFECTS.
-1
+
 (2) CONSUMPTION OF ALCOHOLIC BEVERAGES
+
 IMPAIRS YOUR ABILITY TO DRIVE A CAR OR
-OPERATE   MACHINERY;
-AND MAY CAUSE
+
+OPERATE MACHINERY, AND MAY CAUSE
+
 HEALTH PROBLEMS.
+
 Sediment from the barrel may be present
 in this non-chill filtered Bourbon.
-peel;
+
+### Label 3
+
+Loe
+Limited Edition << £4) Small Bate
+mited | oe 7) 9Mall Bat
+as vd ONS i a
+ASS Se
+-— 2020-—=

@@ -45,81 +45,51 @@
 
 ### Back Label
 
-01
-2022
+very EIMITEO REL e gs |
+
 GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON
-GENERAL,WOMEN SHOULD NOTdRINKalcohOLIC
+GENERAL, WOMEN SHOULD NOT DRINKALCOHOLIC
 BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF
-BIRTHDEFECTS. (2) CONSUMPTIONOFALCOHOLIC
+BIRTH DEFECTS. (2) CONSUMPTION OFALCOHOLIC
 BEVERAGES IMPAIRS YOUR ABILITY TO DRIVEA CAR OR
-OPERATE MACHINERY AND MAY CAUSE HEALTH PROBLEMS .
+OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
+
 UPC FPO
-Bottled for Lux Row Distillers, Bardstown; KY
-ME VT REF 15c IA REF Sc
-750ML
-mam
-LUX ROW
-B 4 R 0 $ T 0 W n
-DISTILLER 5
-KeTTUciUSa
-LBOOOO
-RELEASE
-VERY
+
+Bottled for Lux Row Distillers, Bardstown, KY
+MEVT REF 15¢ 1A REF 5¢. TSOML
+
+= y
+
+a ew
+
+BARDSTOWN KENTUCKY. USA
+seem
+
+(p00
 
 ### Front Label
 
-fslod Oath
-LIMITED
-Kentucky SStraight
-BOURBON
-WHISKEY
-Jinisled in Calvados Casks
-49.3% ALCIVOL
-98.6 PROOF
-2022
-Pact Na.8
-MMXXII
-maotevul _
-anen
-dtiee well-
-douadand,
-wilh eceptonal f
-Zzz
-toiliv a bold 44
-Ithat eakes
-butbocatzh
-22
-Nead, an 44-
-the
-@dwectandafuca
-nde
-& vanella
-and
-cunnnau
-~And
-an 8-ueat-ald
-funshedun Delvades cesks;
-'alaesmg saa
-peato
-"aady Iaspaltpa #
-'te
-pxewauo
-vged-titete % one faa Te agea:
-Jhis rare Pact shall ncvcr again b€ madc.
-PACT:
-8
-DATE:
-20:
-99
-Tbu 5
-MMXXL
-{RT
-RELEASE
-VERY
-%teat-cldeacilos
-Yid'
-aak
-(6zp
+Poot Oath
+
+yery LIMITED RELe gs
+Fentucky Straight
+BOURBON WHISKEY
+Finistied in Calvados Casks
+49.3% ALC/VOL | 98.6 PROOF
+2022 Pact No.8 MMxxi
+
+AVE, idm Win.
+woillea boll ty. ‘Ukil owokes ch beltascoehe
+Pe ee tae
+tpabenitheamutand pacy masse sanill
+ed ceneeermeer aed , an S-geae— old.
+aE \ Nccn nbehic
+
+‘puerta bf, Ths gud tepata one fou the agee
+This rare Pact shall never again Ge made.
+
+Del Gres Mer es
 
 ### Label 2
 

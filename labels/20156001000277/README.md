@@ -36,23 +36,54 @@
 
 *Text extracted via OCR - may contain errors*
 
-*3 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
+
+### Label 1
+
+| ; me MO LIMITED RELEAS £
+TNE LEIQED
+i S2iae Ss K
+Lud |= iOS Y
+bay l2i7 4+ -
+age te We
+POS 22 Seu U
+fe:c Bee S
+2 [ ei | Seisn |
+f--Feee CREEK
+:2O Baty i » <
+ans @
+CS [2:0 < = | Eu
+Soe KENTUCKY STRAIGHT
+LS EN’ AGED BOURBON WHISKEY
+~~ <8 TWELVE
+YEARS
+y, N
 
 ### Label 2
 
 CASK
+
 CRAFTED FOR SUPERIOR TASTE & SMOOTHNESS.
+
+since
+
 STRENGTH
-{987
-Bottled at barrel proof for full flavor;
-our
-1
-T7.0 PHIOF
+
+1992
+
+Bottled at barrel proof for full flavor, our
+
+17.0 PROOF
+
 Cask Strength Kentucky Straight Bourbon Whiskey
-117 .0
-P R 0 0 F
-FPShsk AENIL
-is a8 close to thieving from the barrel a8 it gets:
+
+417.0 PROOF
+
+7
+
+Bok ACAOL
+
+is as close to thieving from the barrel as it gets.
 
 ### Label 3
 
@@ -75,3 +106,13 @@ WWW KNOBCREEK COM
 2
 WIW DRINKSMART.COM
 '80686"01699
+
+### Label 4
+
+AMIUMINIWY LNOWYIAT9
+
+Sistilleg «
+Umire in
+Wangs; ties
+
+CRE rat batdh

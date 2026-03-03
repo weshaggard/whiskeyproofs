@@ -28,7 +28,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
 
 ### Back Label
 
@@ -76,3 +76,10 @@ IA REF 54-MENT REF 154
 coo.Oooooo
 AND
 lives
+
+### Label 3
+
+ESOS ERIN UAC
+MOMENT GOUTUOUuO
+
+‘©00,000000

@@ -28,55 +28,80 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 130
 
 ### Back Label
 
-COLONEL
-E.A.
+COLONEL E.H
+
 TAYLOR
-BARREL
-PROOF
-RYE
-UnCUT
-UnFILTERED
-JS2
-ND
-Colonel Edmund Haynes Taylor Jr had
-uncompromising standards forhigh quality whiskyy
-that set the stag? for tne modern day whiskey
-boom The barrels selected forthis limite d edition
-barre| proof gye release were selectedIn his honor
-& with :
-similar standard so onlywhiskey deemed
-of "Topmost Class" was bottled uncut and
-unfiltered to allow for this full-bodied expression
-ofEH Taylor Straight Rye Whiskey. The Barrel
-Proof Rye release is a testamenttoits namesake
-and the measures he took to ensure that all of his
-whiskeys were of unmatched quality.
-WE LovE To Hz4R
-TR3" QuR custc"eR5
-Mn-AdAMZOUREcN C 4
-TAYLCRAEREAmBOUrzon,CCM
-1-8667725-3722
-DISTILLED
-AGED ANJ EOTTLED BY
-OLD FASHIONED COPPE? DISTILLERY
-FRANKFORT; Ky
-DSP-KY-//3
+
+BARREL PROOF RYE
+UNCUT & UNFILTERED
+
+AND Ow’
+
+Colonel Edmund Haynes Talo J. had
+uncompromising standards for igh quality whisky
+‘that tthe stage forthe modern day whiskey
+boom. Te barrels selected for this mitedeiton
+barrel roa ye release were slectedin his honor
+‘witha sii standard soon whiskey deemed
+of Topmast ass" was batted unct and
+unitered tallow for this ful bodied expression
+of EH Taylor Steg ye Whise. The Barrel
+Prof Rye releases testament toits namesake
+andthe measures he tookto ensue that al ofhis
+whisheys were of unmatched quay.
+
+NE Love To HEAR ROM OU CLSTOMERS
+Theee-reore2
+DISTILLED, AGED AND BOTTLED BY
+OLD FASHIONED COPPER DISTILLERY
+FRANKFORT, KY, DSP*KY=113
 GOVERNMENT WARNING: (1)
-ACCORLING T0 THE SURCEOY
-GENERAL, WOMEN ShOULD NOT
-DRINA ALCOF OJC BEVERAGES
-duNc PRecNancy BECAUSE
-8
-0F THE FIsk @F Blrth DEFECTS
-{2) CONSUMPTION OF AlCO-
-HOLC BEVERAGES IMPAIRS
-YOUR ABILITY [0 DRME
-C4R
-CR OPERATE VACHINERY And
-May ChUSE HzaLTH FROBLEWS
-REF 54-MENT RBF 150
-RPo
+ACCORDING TO THE SURGEON
+GENERAL, WOMEN SHOULD NOT
+DRINK ALCOHOLIC BEVERAGES
+DURING PREGNANCY BECAUSE
+OFTHE RSK OF BIRTH DEFECTS.
+(2) CONSUMPTION OF ALCO-
+HOUIC BEVERAGES IMPAIRS
+"YOUR ABILITY TO DRIVE A CAR
+OR OPERATE MACHINERY AND
+MAY CAUSE HEALTH PROBLEMS.
+IAREF 5¢-ME/VT REF I5¢
+
+### Label 1
+
+5)
+
+BARREL PROOF RYE
+UNCUT & UNFILTERED
+
+TAYLOR
+
+COLONEL E.H.
+
+ASN BZAISNIDNOD GNV AAISNIDOXA NI SI TASV1 MOTISA SIHL
+
+wed et OghgOW A orl
+
+4ND ONY
+
+1 @)
+VALS AMONLNAM
+
+65% ALC/VOL [130 PROOF]
+
+750ML
+
+>)
+
+D
+
+Ve
+
+€00.000000
