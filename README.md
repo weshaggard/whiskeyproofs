@@ -212,3 +212,5 @@ This project is open source and available for use and modification.
 ## 🤝 Contributing
 
 Feel free to submit issues or pull requests to improve the site!
+
+<meta name="google-site-verification" content="UVyD9Njr1Y-rCRJ-uMoNbUMZ0l9yIeH84uoyxQKJGsE" />
