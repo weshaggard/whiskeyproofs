@@ -45,50 +45,73 @@
 
 *2 image(s) excluded: text did not meet readability threshold*
 
+**Detected Proof:** 118
+
 ### Label 2
 
-| KENTUCKY STRAIGHT BOURBON WHISKEY jis 8
+KENTUCKY STRAIGHT BOURBON WHISKEY
 FINISHED IN PORT WINE BARRELS
-
-leccask STRENGTH 50uRsON Sell
+CASK STRENGTH BOURBON
+59%
+148
+2023
+1
+alc_Ivol
+P R 0 0 F
+Y E A R
+FROM MASTER
+750ml
+DISTILLER
+hk
 
 ### Label 3
 
-4 >»
-Tata ASS Canes Env) — om
-
-Pee > 3 CASK STR ——
-
-f qi GLX vated Srna AV nERTA RTT [
-
-TUTE TINGE Dy see AGT
-
-CY
+ANGELS ENVY
+2023 CASK STRENGTH
+kentucky STRAIGHT BOURBON whISKeY
+23_
+FINISHED IN PORT WINE BARRELS
+FROM MASTER
+DISTILLER
+h
+8141043097
 
 ### Label 4
 
-DISTILLED IN KENTUCKY. BOTTLED BY LOUISVILLE SPIRITS GROUP, LOUISVILLE, KENTUCKY
-
-©2023 ANGEL'S ENVY, ITS TRADE DRESS AND THE ANGEL WINGS LOGO ARE TRADEMARKS
-
-GOVERNMENT WARNING: (1) According to the Surgeon General, women
-
-should not drink aleoholic beverages during pregnancy because of the risk
-
-Of birth defects. (2) Consumption of alcoholic beverages impairs your
-
-ability to drive a car or operate machinery, and may cause health problems
-
-8 ll 0030
-
-DRINK RESPONSIBLY. RESPONSIBLEDRINKING.ORG | ANGELSENVY.COM
-
+DISTILLED IN KENTUCKY . BOTTLED BY LOUISVILLE SPIRITS GROUP , LOUISVILLE; KENTUCKY
+2023 ANGEL'S ENVY,ITS TRADE DRESS AND THE ANGEL WINGS LOGo ARE TRADEMARKS .
+GOVERNMENT WARNING: (1 ) According to the Surgeon General, women
+should not drink alcoholic beverages during pregnancy because of the risk
+of birth defects. (2) Consumption ofalcoholic beverages impairs your
+ability to drive a car or operate machinery, and may Cause health problems.
+8
+50047100305'
+8
+DRINK RESPONSIBLY, RESPONSIBLEDRINKING.ORG
+ANGELSENVY.COM
 8141043093
-
-IRS ME/VTI5¢
+IA5C ME /VT 15C
 
 ### Label 6
 
-i=
-
-KENTUCKY STRAIGHT BOURBON WHISKEY FINISHED IN PORT EATS BARRELS
+CASK STrENGTH
+BOURBON
+AngeLg EMVY
+2 0 2 3
+KENTUCKY StRAIGHT BOURBON WHSKEY FINISHED IN PORT WINE BARRELS
+IT CAN TAKE YEARS FOR A BARREL OF ANGEL'S ENVY TO REACH OUR CASK STRENGTH STANDARDS, AND ONLY A
+A$
+0
+6
+HANDFUL ARE EXCEPTIONAL ENOUGH TO MAKE THE CUT. THE LUcKY FEW ARE FINISHED IN PORT WINE BARRELS
+FOR AS LONG AS NEEDED
+CULMINATING IN
+A FINISHED BOURBON THAT'S BOTH RARE AND WORTHY OF ENVY_
+6
+B A T C H
+N O,
+B 0 TTLE NO,
+U N € 0 R K E D
+N
+1
+F

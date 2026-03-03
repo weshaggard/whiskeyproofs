@@ -39,91 +39,98 @@
 ### Back Label
 
 THE
-
-Pood Oath
-
+Jslood Oath
 ATTESTS
 That every batch of Blood Oath is the
-undertaking of one man ~ a student of
-both Bourbon and Science. Loyal to-no
-one family, favoring no one distillery
-and bound by no one philosophy ~ this
-Bourbon connoisseur has one goal in
-mind - to seek out Bourbons rare and
-wonderful, famous and forgotten. Then
-
+undertaking of one man
+student of
+both Bourbon and Science. Loyal to no
+onc
+family, favoring no one distillery
+and bound by no one
+philosophy
+this
+Bourbon connoisseur has one
+goal in
+mind
+to seek out Bourbons rare and
+wonderful, famous and
+forgotten: Then
 bottle them in combinations previously
-
-unimagined fora lucky few. Not to cater
-
-to anyone’s loyalties, he has sworn to
+unimagined for a lucky lew Not to cater
+to anyone
+loyalties, he has sworn to
 never reveal where he finds his Bourbon,
 but only to promise to choose and make
-the best he knows. Loose lips never
-
-tasted something so special.
-
-EXCLUSIVE RELEASE: MMXxill
+the best he knows
+Loose lips never
+tasted
+something
+special.
+X
+M
+M
+'XIII
+%
+ExclusivE RELEASE
+MMXXI
+36
+1
+CFR"
+TIF
 
 ### Front Label
 
-Plood Oath
-
-yerv LIMITED RELE gS,
-
-Feentueky Straight Hourhon iiskey
-
-Fraistied in Olorvse Sherry Casks
-
-49.3% ALC/VOL | 98.6 PROOF
-
-2028 Pact No.9 MMXxxiI
-
-2 bons
-
-and ifeniibed bourbon, Sestting wihon
-
-old that-Ceawes with,
-
-dwwokes
-
-spicy emiie, Nea luscious 12
-
-Cather and wanella on the nase with fea
-
-endeaamely
-
-Cbosooe.
-
-hag
-
-foe
-
-te
-
-¢palale wilh dak,
-
-tl, mola
-
-‘tnd tobacco.
-
-Salud!
-
-This rare Pact shall'never again be made.
-
+J5lod Oath
+VERY LIMITED
+Kcnfucky Sfraight Sourbon fShiskcy_
+Finishcd in Olorvso Sherty Casks
+49.30 ALCIVOL
+98 6PROQF
+2023
+Pact Nu.9
+MMXXII
+Umastofutunen dtwa well_bed kouxdons
+andane
+"fenuhed tout
+fxtaguxth
+a
+oaky
+I6-seat-ald hat-Easeo wxlh diowt sugatand
+xead, a
+snat
+Ildeeakes
+"ahewana
+and uanla
+Hhe
+naje
+wrlh
+andcatamel [avatss
+9azhy e ]rspat
+E
+Jpavah
+csks canio
+#swedt shenyy wshule
+Ihe pulah url daxk
+"uuit,; molaases, chocolato,
+'Todaccas Jaled!
+Jhis rare Pact shall ncver again be madc.
 PACT:
-
+4
 DATE:
-
-Lf
-
-aQZ
+20:
+93
+Iu5
+MXXA
+RELEASE
+'ltscucs
+/esd ,
+Yd haaoy
+and
+(ep
 
 ### Label 4
 
-i
-qrane eee Se eeeee perenne, Ao) NY pean teen a
-(3 LPNS
-VERY LIMITED RELEASE |a wo *) NEVER TO BE MADE AGAIN
-\eKAwg/
-2 oe Se SE eS ae a ee re ee ee ee
+VERY LMITED RELEASE
+NEVER TO BE MADE AGAIN
+fRTIf

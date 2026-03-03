@@ -26,102 +26,61 @@
 
 *Text extracted via OCR - may contain errors*
 
+**Detected Proof:** 100
+
 ### Back Label
 
-&
-
-Giw\N
-
-VY)
-
 Rittenhouse Straight Rye Whisky
-
-is a storied Pennsylvania style Rye whose
-
-heritage commemorates Philadelphia's
-
+is a storied
+Pennsylvania style Rye whose
+heritage commemorates Philadelphias
 famous
-
-Rittenhouse Square.
-
+Rittenhouse
+Square.
 Still
-
 Bottled-In-Bond under U.S. Government
-
-supervision to meet the strictest
-
+supervision
+to
+meet
+the
+strictest
 requirements, the Rittenhouse you enjoy
-
-today carries forth the distinct and spicy
-
-flavor profile established long ago.
-
+carries forth the distinct and spicy
+flavor
+established long ago.
 DISTILLED AND BOTTLED BY
-
-HEAVEN HILE DISTILLERIES, INC.
-
-LOUISVILLE, KY DSP. KY 1 BARDSTOWN, KY DSP. KY 31
-
-GOVERNMENT WARNING: (1) ACCORDING T0 THE SUR-
-
-GEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC
-
+HEAVEN HILL DISTILLERIES, INC
+LOUISVILLE,KY DSP KY 1BARDSIOWN,KY DSP KY 31
+GOVERNMENT WARNING: (1| ACCORDING TO The  SUR:
+GEON GENERAL, WOMEN SHOULD NOT  DRINK ALCOHOLIC
 BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK
-
-OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEY
-
-ERAGES IMPAIRS YOUR ABILITY 10 DRIVE A CAR OR OP
-
-ERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS
-
-VT-ME 15¢ REF-IA REF 5¢
-
+8
+OF BIRTH DEFECTS. (2) CONSUMPTHON OF ALCOHOLIC BEV:
+ERAGES IMPAIRS VOUR ABILITY TO DRIVE A CAR OR OP:
+ERATE MACHINERV; AND MAY  CAUSE heALTh  PROBLEMS.
+2
+VTME 150 REF-IA REF 5c
 240-8122
+today
+profile
 
 ### Label 1
 
-S)
-
-BO
-
-100 PRO
-
-N
-
-INTTENHOUS
-
-srraicur ¥R Y a wuisky
-
-ED-IN-BOND
-
-ATE
-
-JNDER U.S. GOVERNMENT
-
-SUPERVISION
-
-50% ALC./VOL.
-
-VA
-
+100 PROOF
+RTTENHOUSE
+STRAIGHT
+1YI WHSKY
+BOTTLED-IN-BOND
+UNDER U.S. GOVERNMENT
+SUPERVSION
+50% ALC IVOL
 PRIVATE SINGLE BARREL
-
 ABC LIQUORS
-
-BARREL N°
-
+BARREL No
 BARRELED
-
 RICKHOUSE
-
 FLOOR
-
-4G0033L
-
-DDO
-
-7
-
-.
-
-/0, ma
+4600332
+t0/25/17
+DD
+1

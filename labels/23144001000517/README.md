@@ -32,140 +32,66 @@
 
 *1 image(s) excluded: text did not meet readability threshold*
 
+**Detected Proof:** 100
+
 ### Back Label
 
-WHISKEY ROW SERIES
-
+SSSSSSSSS
+WHISKEY ROw SERIES
 1924
-
-10- -YEAR- OLD
-
-“This whisky ts distilled by us only, and we are responsible
-
-for tts richness and fine quality. Its elegant flavor ts solely
-
-due to original fineness developed with care. There ts
-
-nothing better in the market.”
-
-GEORGE GARVIN BROWN, FOUNDER
-
-GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL
-
-WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREG-
-
-NANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION
-
-OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR
-
-OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS
-
-70 ml
-
-ILA
-
-BOTTLED BY
-
-OLD FORESTER DISTILLING CO
-
-AT LOUISVILLE IN KENTUCKY
-
-@ RESPONSIBILITY. org
-
-ll
-
-ill
-
-00000
-
+10-YEAR-OLD
+~This whisky is distilled by US only, and we are responsible
+for its richness and fine quality: Its elegant flavor is solely
+due to
+original fineness developed with care. There is
+@EORoEgAeviv pRoWhe FOUNDer;_
+bzzz=
 |
-
+GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL,
+WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREG-
+NANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION
+OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR
+OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
+760mL
+BOTTLED bY
+OLD FORESTER DISTILLING CU.
+80% FPO
+AT LOUISVILLE IN KEHTuCKY
+RESPONSIBILITY.org
+00
 10054279
-
-00000
+SS
 
 ### Front Label
 
-aHe inst BOTTLED Bg, rip
-
+SZSSZS=ZS=7S=S=7S=SLS=7SSSSS=SS7S=
+BOTTLED
 ESTD
-
+OLD
 1870
-
-SN
-
-SW AON
-
-SSN
-
-SN
-
-SS
-
-NA
-
-SSS
-
-N
-
-aN
-
-m=
-
-NN
-
-S
-
-v
-
-SS
-
-\
-
-GZ
-
-2S
-
-IN
-
-oN
-
-SS WN
-
-SSX
-
-— KENTUCKY —
-
-SKY
-
-‘CHT BourBON WY
-
+FoRESTER
+KENTUCKY
+BOURBON
+|
+In 1924,
+LOa-yBir A Rk-or]
 1924
-
-Me
-
-10-YEAR-OLD
-
-MO
-
-In 1924, Owsley Brown took barrels of whiskey
-
-with different mash bills to a warehouse on
-
+Brown took barrels of whiskey
+(
+with different mash bills to a warehouse o
 Howard Street in Louisville, KY and bottled
-
-them as Old Forester. This 10-year-old expression
-
-honors the 100” anniversary of this occasion.
-
-eee ceeeseneeces
-
+them as Old Forester: This 10-yean-old expression
+honors the 100th anniversary of this occasion
 SIZE
-
-ERCENTAG
-
-ste eee eeeececeeecevcscecerererees
-
-ROOF
-
-750mL : 50% ALC/VOL : 100.0
+PERCENTAGE
+PROOF
+750ml
+50% ALCIvOL
+100.0
+1
+SSSSSSSSS
+FIRST
+BOURBON"
+THE
+STRAIGHT
+WHISKY

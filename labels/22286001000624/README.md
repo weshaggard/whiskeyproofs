@@ -34,58 +34,59 @@
 
 *Text extracted via OCR - may contain errors*
 
-*3 image(s) excluded: text did not meet readability threshold*
+**Detected Proof:** 80
 
 ### Back Label
 
-WILD TURKEY
-
-— KENTUCKY STRAIGHT —
-
+WLDTURKEY
+KENTUCKY STRAIGHT
 RYE WHISKEY
-
-Master Distiller Eddie Russell's Wild Turkey Kentucky Straight Rye Whiskey is a
-
+Master Distiller Eddie Russells Wild Turkey Kentucky Straight Rye Whiskey is a
 remarkably balanced yet spicy spirit. Aged longer for more character in new, #4
-
-alligator char American white oak barrels, this rye whiskey has full, rich taste,
-
-with prominent notes of butterscotch and spice. With big flavors, Wild Turkey
-
-Kentucky Straight Rye Whiskey is bold and genuine with no compromises
-
+alligator char American white oak barrels, this rye whiskey has full, rich taste;
+with prominent notes of butterscotch and spice With big flavors, Wild Turkey
+Kentucky Straight Rye Whiskey is bold and genuine with no compromises.
 GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD
-
-NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF
-
+NOT  DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF
 BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY
-
 TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
-
 DISTILLED AND BOTTLED BY
-
-UI
-
-WILD TURKEY DISTILLING CO
-
-ENCEBURG, KY
-
+WILD TuRKEY DISTILLING CO,
+LAWRENCEBURG; KY
 80%
+Www
+wildturkeybourbon com
+FPO
+PRODUCT OF USA ' 750mL
+000
+IA56,VME:15 REFUND
 
-www.wildturkeybourbon.com
+### Front Label
 
-FRO
+CRAFTEd
+WITh ConvICTION
+Wild TURKEY
+KENTUCKY STRAIGHT
+RYE whiSKEY
 
-PRODUCT OF USA: 750ML
+### Label 2
 
-an ay
+750m|
+MASTER
+Zddict
+DISTILLER
+81 PROOF
+40,59 ALC BY VOL
+000OOO
+BEYOND DUPLICATION
+Enco
 
-mimimiet
+### Label 4
 
-[A-S¢, VIMME-15¢ REFUND
-
-Ee
-
-0
-
-00000"00000
+CRAFTED With Conviction
+AGED LONGER
+RY E
+81
+DISTILLED
+& BOTTLED N LAWRENCEBURG,
+KY

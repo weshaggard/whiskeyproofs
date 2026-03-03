@@ -31,70 +31,13 @@
 
 *2 image(s) excluded: text did not meet readability threshold*
 
-### Label 1
+### Label 3
 
-SLL
-
-ill l
-GAUL 181 AY
-“SNATGOHd HLTVIH 3SNVI AVN ONY “AUINIH
-Ud W ANIUO OL ALITIGY UNA SUIVdI S39YH3
-
-908
-{|e
-QO
-Nail
-
-\
-
-NOLLAWASNON (2) °$103490 HLHIG 40 XStH IHL 40 3SNWI98 ADNYN
-
-AQ OFTL08 ONY O3TSI0
-
-“Td INIHMO SIOVUIATE IITOHOITW NIHO 10
-
-0 Woo"eWSyULIp’MMM
-
-Tw gl
-1) ‘LNOWHIT)
-S10 V3 Salve
-
-VIN ilvudd0
-WO NOHONTY 4
-
-QINOHS NINO
-
-“TWHINI9 NOISUNS JH! OL SNIGHOIIY (1) “ONIN VANLNAINNYSAO9
-
-“yorq SUIAIS S,aIppoly
-
-7eYM SI—padoj] aa,pjnom Jayoog Aaysiym fo
-puly ay7 jsn{— Lud sty} MOU pur “UWUITY dARs Jayoog
-aueU 94} SLY, . MOOG ATLL, yards ps.uyf sty
-surureu Aq YAMOOY ACAVANVUY Sly 0} aseuroy shed
-SON FIGaaa A 2/]1781 WiDag UO]JD1IUAD 1,8 BY) SY
-
-LITTLE BOOK’
-foohet atcl ont thebed
-ents jo
-Fale fe
-
-S cheap Gp Mork at an forel (E
-
-tif
-
-andhfadedy
-“3
-
-OL. (119 PROOF)
-
-a
-BLENDED STRALGHT WHISKEYS
-
-AC
-
-h
-
-15
-
-110-LBK017
+tred <
+Fredtiv:
+BARRELEDG BOXED
+UNDER THE
+JAMESB BEAM
+SUPERVISION
+DISTILLING Co_
+186-LBKO11

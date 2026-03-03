@@ -32,153 +32,109 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Label 1
 
-COLONEL E.H. TAYLOR
-
+COLONEL EA.TAYLOR
 BARREL PROOF RYE
-
 KENTUCKY STRAIGHT RYE WHISKEY
-
 PRODUCT OF USA
-
-CONTENTS 750ML
-
-ALC. 65% BY VOL.
-
+CONTENTS 75OML
+ALC. 6523 BYVOL
 GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON
-
-GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC
-
+GENERAL; WOMEN SHQULD NOT DRINK ALCOHOLIC
 BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF
-
 BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC
-
-BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE ACAR OR
-
-OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
-
+BEVERAGES IMPAIRS YOUR ABILITYTO DRIVE A CAR OR
+OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS .
 REIMPORTED BY: WINE CELLARS LTD.
-
 BRIARCLIFF MANOR, NEW YORK
-
-ACQUIRED FROM A PRIVATE COLLECTION
+ACQUIRED FROM
+PRIVATE COLLECTION
 
 ### Label 2
 
-COLONEL E.H.
-
+COLONEL E.A_
 TAYLOR
-
-BARREL PROOF RYE
-UNCUT & UNFILTERED
-
-65% ALC/VOL [130 PROOF]
-750ML
+BARREL
+PROOF
+RYE
+UncUT
+UNFILTERED
+ONL
+9
+1
+57
+a
+43
+6 8
+L
+1
+Oun nouCC
+6
+1
+8
+0
+1
+1
+659
+ALC/VOL
+[I30 PROCF ]
+75OM_
+AND
 
 ### Label 3
 
-{ COLONEL E.H. )
-
+COLONEL
+E.A
 TAYLOR
-
-BARREL PROOF RYE
-
-UNCUT & UNFILTERED
-
-pis 3
-
-A
-
-IND OWS
-
-Colonel Edmund Haynes Tylor had
-
-uncompromising standards for igh quality whiskey
-
-‘that et the stage forthe modern day whiskey
-
-boom. Th barrels elected for thslimited edition
-
-bare roo 1 release ere select in his honor
-
-‘witha similar standard so only whiskey deemed
-
-of “Topmost Class" was bottled uncut and
-
-unfiltered to allow for ths ful- bodied expression
-
-of EH. Taylor Straight Rye Whiskey. The Bal
-
-Proof ye release is atestamenttoits namesake
-
-andthe measures he took to ensure thatal fis
-
-hiskeys were of unmatched ual,
-
-\WE LOVE To HEAR FROM OUR CUSTOMERS!
-
-waren aounegcon | IMLORBCREATOUREONCOM
-
-ese-r2ea7e2
-
-DISTILLED, AGED AND BOTTLED BY
-
-‘OLD FASHIONED COPPER DISTILLERY
-
-FRANKFORT, KY, DSP-AY=113
-
-GOVERNMENT WARNING: (1)
-
-‘AGOORDING TO THE SURGEON
-
-GENERAL, WOMEN SHOULD NOT
-
-=
-
-DW alcowOlte BEVERAGES
-
-DURING PREGNANCY BECAUSE
-
-=3
-
-=
-
-OF THE ISK OF BIRTH DEFECTS,
-
-(2) CONSUMPTION OF ALCO
-
-HOLIC BEVERAGES IMPAIRS
-
-“YOUR ABILITY TO DRWVE A CAR
-
-COR OPERATE MACHINERY, AND
-
-WAY CAUSE HEALTH PROBLEMS,
-
-°
-
-(urerse-nentrerise oep@ _)
-
-### Label 4
-
-oes
-ed
-
-Ba
-
-GB
-Be
-
-les
-Ee
-cee
-
-Lt
-fai
-oe
-EE
-Fae
-Boe
-Aw
-ae
+BARREL
+PROOF
+RYE
+UnCUT
+UnFILTERED
+ND
+Colonel Edmund Haynes Tzylor Jr: had
+urcompromising standardsforhigh quality whiskey
+that set the stage for tne modern day whiskey
+boom The barrels selected forthis limited edition
+barrelproof rye relezse were selected in his honcr
+&with a similar standard so onlywhiskey deemed
+of ~ Topmost Class" was bottled uncut and
+unfiltered
+allow tor 676S Tul-dodied expression
+OfEH Taylor Straight Rye Whiskey. The Barrel
+Proof Rye release is a testamenttoits namesake
+and the Measures
+took=
+ensure that all of his
+whiskeys were 5
+unmatched quality.
+AVe Lov:
+HzaR TRcv Qur custcver5i
+W-AdAMZOURECN C 4 | TTLCRA REAmBoUrBon,CC
+1-8667725-3723
+DISTILLED
+AGED AND EOTTLED BY
+OLD FASHIONED COPPE? DISTILLERY
+FRANKFORT;
+Ky, DSP-KY-13
+GOVERNMENT WARNING:
+ACCORDING T0 THE SURGEOY
+GERERAL, WOHIEL
+SHOULD NOT
+DRINA ALCOF OLC BEVERAGES
+8
+22
+duang PregNancy BECAUSE
+0F THE FIsk €
+Blrth DEFECTS
+(2) CONSUMPTION OF AlCO-
+HOLC BEVERAGES IMPAIRS
+2
+3
+YOUR ABILITY T0 DRMVE
+CR OPERATE VACHINERI AnD
+May ChUsE HeaLTH FROBLEWS
+REF 54-MENT RBF 150
