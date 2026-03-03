@@ -28,8 +28,6 @@
 
 *Text extracted via OCR - may contain errors*
 
-**Detected Proof:** 100
-
 ### Label 1
 
 OLD FITZGERALD
@@ -48,20 +46,29 @@ ACQUIRED FROMA PRIVATE COLLECTION
 
 ### Label 2
 
-KentUcKY
-WHTSKEY
-Jojodooo
+KENTUCKY S
+
+7RA
+
+Man wiistet
+
+as
+
+|
+
+a
+
+pra
+
+pire
+
 BOTTLED-IN-BOND
-UNDER U.S. GOVERMMENT SUPERVISION
-11ye8
-Zhn &_fizgeald
+
+UNDER U.S. GOVERNMENT SUPERVISION
+
+YEARS
+
 AGED
-SPRING 2018
-100 PROOF
-50k Alc/vOL
-,80 u R B 0 M
-Straigh
-OLDFITZGERALD
 
 ### Label 3
 

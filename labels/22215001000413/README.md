@@ -29,68 +29,128 @@
 
 ### Label 2
 
-RY3
-W H | $ K E Y
-Ry3 is a special blend of 3 phenomenal whis-
-3
-carefully handpicked mash-bills, and 3
-distinctive
-statements, that
-are  meticu-
-lously blended  with   artisanal   distinction
-to
+wy,
+
+/
+
+WHISKEY
+
+Ry3 is a special blend of 3 phenomenal whis
+
+keys, 3 carefully handpicked mash-bills, and3
+
+distinctive aged statements, that are meticu
+
+lously blended with artisanal distinction to
+
 create this magical liquid, The culmination of
-this  beautifully  well-balanced   whiskey   is
+
+this beautifully well-balanced whiskey is
+
 finished in vintage rum casks, resulting in
-a
-sipping experience of silky-smooth rye
-BLENd
-whiskey  with  layers   of  fruity and
+
+a sipping experience of silky-smooth rye
+
+whiskey with layers of fruity and
+
+Z
+
 complex notes from the rum barrels,
-5
-3
-Ry3: one ultra-premium whiskey
-#
-C
-1
+
+Srrreny
+
+Sos
+
+sS
+
+=
+
+——
+
+= = Ry3: one ultra-premium whiskey,
+
+=
+
+===
+
+—re——)
+
+=——T—)
+
 three times the enjoyment
-Ei
-[
-3
-2
-PRODUCT
-OF
-USA
-0
-Handcrafted, Blended & Bottled by Phenomenal Spirits, Inc
-F
-2
-E
+
+So
+
+Seat oa
+
+Seses
+
+PRODUCT OF USA
+
+ay
+
+—
+
+SS oo a
+
+ms « —
+
+se SS SSS
+
+o Handcrafted, Blended & Bottled by Phenomenal Spirits, Inc
+
+Sewn SS
+
 Virginia Beach, Virginia
-2
-Hi
-3
-Be Phenomenal, Be Responsible:
-1
-82
-WWW ry3whiskey com
-E3
-wwW phenomenalspirits.com
-0
+
+Sw
+
+os SO ae =
+
+Be Phenomenal. Be Responsible
+
+——
+
+ay Se
+
+===)
+
+SS2=2
+
+www.ry3whiskey.com
+
+=SS==
+
+www.phenomenalspirits.com
+
+———
+
+==
+
+SS -es5
+
+S252
+
+=S25=
+
+=
+
+Gea es eS
+
+a
+
+a
+
+SyHSss
+
+ML
+
+SsSHese
+
 I
-5
-j
-2
-8
-5
-I7
-8
-8
+
 60000
+
 14374
-5
-keys,
-aged
-1
-))
-Saaxsin)
+
+Ss

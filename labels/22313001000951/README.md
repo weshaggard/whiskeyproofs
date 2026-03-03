@@ -30,8 +30,6 @@
 
 *Text extracted via OCR - may contain errors*
 
-*1 image(s) excluded: text did not meet readability threshold*
-
 **Detected Proof:** 103
 **Detected Age:** 4 Years
 
@@ -49,3 +47,25 @@ Straight Bourbon Whiskey
 OBtantons
 STRAICHT FROM THE
 BARREL BOURBON
+
+### Label 3
+
+Kentucky Straight Bourbon Whiskey
+
+Product of the USA
+
+Exported to Netherlands
+
+Reimported by Lizarraga Company Booze Briefcase
+
+Bonita, CA
+
+.7L/ 51.5% Alc/Vol. (103 Proof)
+
+GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD
+
+NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF
+
+BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY
+
+TO DRIVEA CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.

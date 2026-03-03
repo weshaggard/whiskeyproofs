@@ -32,8 +32,6 @@
 
 *Text extracted via OCR - may contain errors*
 
-*1 image(s) excluded: text did not meet readability threshold*
-
 ### Label 1
 
 COLONEL EA.TAYLOR
@@ -138,3 +136,26 @@ YOUR ABILITY T0 DRMVE
 CR OPERATE VACHINERI AnD
 May ChUsE HeaLTH FROBLEWS
 REF 54-MENT RBF 150
+
+### Label 4
+
+oes
+ed
+
+Ba
+
+GB
+Be
+
+les
+Ee
+cee
+
+Lt
+fai
+oe
+EE
+Fae
+Boe
+Aw
+ae

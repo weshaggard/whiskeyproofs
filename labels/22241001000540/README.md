@@ -33,7 +33,7 @@
 
 *1 image(s) excluded: text did not meet readability threshold*
 
-**Detected Proof:** 125.1
+**Detected Proof:** 85.1
 **Detected Age:** 13 Years
 
 ### Back Label
@@ -83,10 +83,11 @@ Beam.
 ### Front Label
 
 DOUBLE BARRELED BLEND
-(owibon
-W HI $ K EY
+
+bis STZKIGH
+WHI S K EB
+
 67% KENTUCKY STRAIGHT BOURBON WHISKEY AGED 13 YEARS
-330 KENTUCKY STRAIGHT BOURBON WHISKEY AGED 15 YEARS
-ALC/VOL
-62.57 PROoF |25
-240-8198
+
+33% KENTUCKY STRAIGHT BOURBON WHISKEY AGED 15 YEARS
+ALC/VO!I 42.54 PROOF [25

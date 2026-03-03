@@ -40,27 +40,27 @@
 
 ### Label 1
 
-BBokeh
-@e
-w Hlo packaqe /
-Tdlahut oradekuNeor-cxeabz
-1
-"@a tonzeandro
-1
-my I-dathfmm Zoam /sys hto
-whukeyfrom duiz %o eigrt _
-022,
-Z5OML
-Eoker?? Sburbon24
-"falztuitren
-%
-remabl
-snly pieces
-bssL
-124-1420-A
-IRibt -
-LrpaLlxce'
-~Eea _
+Boob
+
+De Whiithyy ste thes plochege 0
+
+—_
+
+polighes
+
+one Hire offlim Learn ifr
+
+pica
+
+Sotihd wipers (rds un f Line
+
+Gy gmt, in Lean bh heis
+
+Mtiihiy from Ai 70 Ligh Geen
+
+=<
+
+aE Sse
 
 ### Label 2
 
@@ -83,24 +83,22 @@ DISTILLER:1960-1992
 
 ### Label 3
 
-BOOKER'Se KENTUCKY STRAIGHT BOURBON WHISKEY
+BOOKER'S® KENTUCKY STRAIGHT BOURBON WHISKEY
 DISTILLED AND BOTTLED BY JAMES B. BEAM DISTILLING CO.
 CLERMONT, KENTUCKY
-GOVERNMENT WARNING: (1| ACCORDING TO
-THE  SURGEON  GENERAL, WOMEN   ShOULI
-NOT DRINKalCOhOLIC bEVERAgeS DURIUG
-pReGhANCY
-BECAUSE
-OF
-THE
-RISK
-OF BIRTh  DEFECTS. (2) CONSUMPTHON OF
-alCohOlIg   bEvERageS   IMpAIrS   YOUR
-abilITy TO DRIVE A CAR OR OPERATE MAChIN:
-ERY,ANd   May  CAUSE   HEALTh  PROBLEMS.
-0
-80686"01140'
-8
-ME VT REF 154=
-IA REF S4
-124-2455-A
+
+GOVERNMENT WARNING:(1) ACCORDING T0 mma
+THE SURGEON GENERAL, WOMEN SHOULD
+
+NOT DRINK ALCOHOLIC BEVERAGES DURING
+
+PREGNANCY BECAUSE OF THE RISK
+
+OFBIRTH DEFECTS. (2) CONSUMPTION OF
+
+ALCOHOLIC BEVERAGES IMPAIRS YOUR
+
+ABILITY TO DRIVE A CAR OR OPERATE MACHIN
+
+HAY AO WAN CAUSE WEALTH PROBES WMA ociIna aac .
+ME VT REF 15¢ * IA REF 5¢ $a

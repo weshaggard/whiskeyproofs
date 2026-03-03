@@ -46,26 +46,45 @@
 
 ### Back Label
 
-Bidthday Bowdbon
+B
+
+Bourbon
+
 AGED FOR OVER 11 YEARS IN AGED OAK CASKS
-This whisky is distilled by uS only, and we are responsible for its richness and
-fine quality: Its elegant flavor is solely due to original fineness developed with
-8
+
+This whisky is distilled by us only, and we are responsible for its richness and
+
+fine quality. Its elegant flavor is solely due to original fineness developed with
+
 care. There is nothing better in the market.
-GEORGE GARVIN BROWN, FOUNDER_
-br
-1
-GOVERNMENT WARNING: (1) ACCORDING  TO ThE  SURGEON
-8
-GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES
+
+GEORGE GARVIN BROWN, FOUNDER
+
+bessneellh ett (1) aE 101 THE SURGEON
+
 DISTILLED & BOTTLED BY
-DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS
-OLD FORESTER DISTILLING CO;
-(2) CONSUMPTION Of ALCoHoLIC BeveraGeS IMPAIRS VOUR
-AT LOuISVILLE IN KENTUCKY
-ABILITy TO DRIVE A CAR OR OPERATE MACHINERY, AND May
-CAUSE HEALTH PROBLEMS.
-RESPONSIBILITY.org
+
+GEN
+
+HOU nl NOT silks ALCOHOLIC BEVERAGES
+
+OLD FORESTER DISTILLING CO.
+
+DURING FPRESNANCY BECAI
+
+USE OF TH
+
+E RISK 0
+
+BIRTH DEFEI
+
+ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY
+
+(2) CONSUMPTION OF ALCOHOLIC BEVE RAGES IMPAIRS YOUR AT LOUISVILLE IN KENTUCKY
+
+CAUSE HEALTH PROBLEM
+
+RESPONSIBILITY. org
 
 ### Front Label
 
