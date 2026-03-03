@@ -57,10 +57,11 @@ making
 ### Front Label
 
 GOLDEN ANNIVERSARY
-KENTUCKY STRAIGHT
-(Bouoom
-W H I S K E Y
-ALC /VOL
-50%
-PROOF
-100
+
+lao
+
+WHISKEY
+
+ALC/VOL 50%
+
+PROOF /00

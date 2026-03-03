@@ -30,8 +30,6 @@
 
 *Text extracted via OCR - may contain errors*
 
-*1 image(s) excluded: text did not meet readability threshold*
-
 **Detected Proof:** 104
 **Detected Age:** 17 Years
 
@@ -83,3 +81,9 @@ Sediment Irom the barrel may be present
 in this non-chill liltered Bourbon;
 yet
 spirits
+
+### Label 3
+
+wow
+
+WED EDITION SMALL ETCH

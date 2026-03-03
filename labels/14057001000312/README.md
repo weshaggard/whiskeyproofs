@@ -39,7 +39,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
 
 **Detected Proof:** 97
 **Detected Age:** 12 Years
@@ -73,6 +73,14 @@ WHISKY
 @ithdary OBoubom
 DISTILLED BY BROWN-FORMAN DISTILLERS €u. LOUISVILLE, KY 75OmL
 4052 AlCNOL (97 proof)
+
+### Label 3
+
+ESEECHOH
+
+FIRST BOTTLED BOURBON
+
+NOSUN OA | AIELLO a | FSey
 
 ### Label 4
 

@@ -31,8 +31,6 @@
 
 *Text extracted via OCR - may contain errors*
 
-*1 image(s) excluded: text did not meet readability threshold*
-
 ### Back Label
 
 COLONEL
@@ -85,25 +83,24 @@ ONLY
 AND
 from
 
+### Label 1
+
+Hon sAlenteneoo ONY DSi tex Ss 4 Sh Play wor ha A Sik
+
+“af aeOaAvi Ha
+
+TAYLOR
+SEASONED WOOD
+BOTTLED IN BOND
+
+COLONEL E.H.
+
 ### Label 3
 
-codococococodecoobco
-cocogooooecoodcodogagoco
-acordcbcadcco
-Jobuco
-cbcdocdcoodoco
-Uitnn
-04605ud84ud6d4dbdhd4abdud84ad64adbdbdba0dud6uud8dudbdbd'
-3
-cogoco00
-Gon
-decogocodocooogocodocodoc
-60605880db806o83608360do80d88000606o6o605o80d8e0dod36o6o606o
-28688866
-40084040
-04004agodnoodadodha
-odoco0400
-c00
-To
-Jdocodnnecunecat
-686088
+a= (fo Oe SS aes @
+wal 2 UUM Ea POE LT SM CN SE AE TTT SAU Sol MN Zeal) A SS ST NTS
+ae nda dasddbsndsdddadatadadeddsndedodndrdadadrdrdndede dnd cronddosydndn dodo sadedrdnsrdndesod ] Po dudbdedos dose cesncuabdedgsgaodasesnsucndadgsudosasesnsuaededosudodacesncucedecgsucoeae Cope ae
+Hom) Io ecuinince cache da dechcurnce seaededt dada cardeibandede dade adicb sanded dade edacareandnand } Wpcued ned dred dncddnaddacdedcncncncedecbcacdcacacecacedactdoddcs cock coasdodhcoddcesdensnade oles
+e>~<j EFS SHSEEEALILSH AE SEM THSH AESLILSHELSHLE HSH LESH ALSHEY IHL SHIH SHAH SBSH LETHE ToSvShda dod ee BE SU SAE THSaTHTSESHAESHLY HSL THAR SESE SHAE SES THSa SESH SUSEALTHAa Soda ch doSeSoSaShsrdosay ae)
+eR Base eee recs ia cones chat ce aceancSaues cnet ean cean ceausenescanceaucsousey Do PB sRagc aici sec seceidsoaesococen aces esocnces aeesuneocuncerne ergo)
+oy SATII SS ES ES PCF TTT AU 7 MN; NS mI TT I OT CWS SE TTT Bees

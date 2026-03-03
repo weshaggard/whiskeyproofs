@@ -31,8 +31,6 @@
 
 *Text extracted via OCR - may contain errors*
 
-*1 image(s) excluded: text did not meet readability threshold*
-
 ### Back Label
 
 COLONEL E.A
@@ -127,3 +125,9 @@ LBobRSHYONED
 BOTTLED IN BOND
 ALcCCL | OC PRCDF
 JsoKL
+
+### Label 3
+
+2m oS 7pm GCL eg
+5 ee ee SESE ERC CU ea eeteeenecenmmnentene =
+‘Fp amracnreoscrrsenoscnasoruacaccniml fmm ES ami om cscESteCoNcEMM |

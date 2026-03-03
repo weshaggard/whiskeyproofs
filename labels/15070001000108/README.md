@@ -39,7 +39,9 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 90.4
 
 ### Back Label
 
@@ -59,20 +61,55 @@ OPERATE MACHINERV AND MAV CAUSE HEALTH PROBLEMS;
 ### Label 1
 
 KENTUCKY STRAIGHT BOURBON WHISKEY
-TRIPLE-DISTILLED IN COPPER Pot STILLS,
+
+TRIPLE- DISTILLED IN COPPER POT STILLS,
+
 THE MASTER'S COLLECTION HONORS THE
-750 mL
-45.29 ALCVOL (90,4 PROOF)
+
+750 mL | 45.2% ALCIVOL (G04 PROOF)
+
 SPIRIT OF CRAFTSMANSHIP & INNOVATION
-OF   OUR   HISTORIC   DISTILLERY   SITE,
-Zpproved %4_UmxMa
+
+OF OUR HISTORIC DISTILLERY SITE.
+
+Hyroved by Yaa Morne
 
 ### Label 2
 
-Wo o DF 0 R D
-RE S E RVES
+pSTER’s COLLECT,
+
+WOODFORD RESERVE®
+
+wi
+
+Ai
+
+¥ il
+
+wey
+
+WAV AA
+
+III
+
+1838 STYLE WHITE CORN
+
+### Label 4
+
+iu
+
+a
+
+Vee
+
+Vue
+
+PTT
+
 1838 STYLE
-WHITE
-CORN
-COllecTION
-MASTER S
+
+Borri No:
+
+WHITE CORN
+
+Or: — _

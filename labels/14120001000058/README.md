@@ -31,7 +31,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+**Detected Proof:** 100
 
 ### Back Label
 
@@ -84,3 +84,30 @@ HEALTH
 PROBLEMS.
 ONLY
 AnD
+
+### Label 1
+
+COLONEL E.H.
+
+TAYLOR
+
+CURED OAK
+
+TAYLOR JR.
+
+ERS ¥ Ee Ga SABE LoS: END Ee GEES Wr ABE: COE COLES VE , ERS
+
+Fels
+
+BOTTLED IN BOND
+
+50% ALC/VOL [100 PROOF] 750ML
+
+### Label 3
+
+Ga TUCO See A Se aT a ae eS SIT (Cy NSU UN 2 ea UT SESS ESB) A ST a <4
+ats Eb adbdddadsdddndodedhdadosrdrdodddededesrdndndedrdndd cedndrdosudrandodd sadnandnsrdrdedod " Po dudbdedosudbdacesodudosadosnsoca cece duaodacosysecadesecuaodudosudgucesocudodudgsudgeud’ Qi be
+fem)lo chaser cecadhcnas cca chasenencadhauabcucads coasauen caches anencndaceanenebcadnaeanatended Y  Wecbes dacs cack cnc du cbes cuca cnchcnes deck decncu ancy doasduatcncbcs cuencnabducbescbencncycndtogel(asyy
+Bopp rsicosusucndacednescuseaysussducn cose dysyd cosh cedndecocscyduancnadydncscuemeseayducnced| — Be pesbesdhcbsn deca dhandhescbabsysndndnsndesndysn sh dycndosnseeochensndbandndnduescusbsychdnd Ghee)
+ee DE EdEdSrASrdyErsoayEddsrGrerdoeasosyEdcdcnddsedyersosyErcasuardednerseerercrsnGrdy f Ldbde chad doch sucodddocucherddchsncrdrddsecday coed cocodndncucbagencdovcocdddcuchercnedoseos him ={
+ma SATII SS Re ES SER SA PCL TTT AU 7 AIM; NES aU) SUT WSs SUT HWS NN SI ITT Bes

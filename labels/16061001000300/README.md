@@ -39,7 +39,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
 
 **Detected Proof:** 97
 **Detected Age:** 12 Years
@@ -76,6 +76,12 @@ WHISKY
 @Binthdary OBourbon
 DISTILLED BY BROWN-FORMAN DISTILLERS CO, LOUISVILLE, KY   75OmL  48,594 ALC/VOL (97 pROOF)
 Bottling
+
+### Label 3
+
+FIRST BOTTLED BOURBON
+
+Nogdunod daillog 1suld
 
 ### Label 4
 

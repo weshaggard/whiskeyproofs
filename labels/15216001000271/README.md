@@ -42,25 +42,27 @@
 
 ### Label 1
 
-BBooenh
-@he
-wn Ho packoae _
-The
-Mlght gpadebrunbon-chabz
-1
-"zaashon -andoenean |
-1
-my gndfath-fm Zoam Dstha
-Whuksfron d Ro eigtt _
-022,
-ZS0ML
-Erker? 3urbh4
-"fazhftnlel
-remobe mnly pieces _
-banelband
-124-/420-
-9fisbt ~
-~Ga (
+booker
+
+Bho Wibuy tm shea frchege Ae
+
+(es
+
+mila
+
+Satta sper tds ur fll
+
+Wy rm o lin Loan bh his
+
+eee, || == |
+
+PEN LES epens
+
+s<¢e
+
+barrel tured.
+
+cened jlo .
 
 ### Label 2
 

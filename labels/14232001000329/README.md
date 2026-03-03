@@ -159,24 +159,25 @@ MASTER DISTILLER:1960-1992
 
 ### Label 5
 
-BBookeh
-e
-mn Hls plackage_
-Theflghut-gpadebsuNor aad
-1
-Z12
-1
-ZhBemnel
-IAthw
-Oom Zeam Exsta etudry
-Zuy%o elgft
-022.
-Z50ML
-44
-Ifisbt ~
-my=
-~eeay
-fon
+booker
+
+le. Whitleyy viv thea flochege 2
+
+aie Co
+
+trade \ Ell
+
+role
+
+wpe (rd betd phagh
+
+fen pee Lew, Wy Grane,
+
+Bean bbicttis, turing
+
+i
+
+750ML
 
 ### Label 6
 
@@ -195,16 +196,20 @@ MASTER DISTILLER:1960-1992
 
 ### Label 7
 
-124-YOOO
-63.55%
-Age
-3
-AlcIval
-7YRS 3M0
-(127.1 PRoDF}
-3
-KenTUCKY STRAIGHT BOURBON WHISKEY
-0
-BATCH N?
-2015-01  BoE@e
-MASTER DISTILLER:1960-1992
+63.55% Jace
+asia) TYRS 3MO
+
+KENTUCKY STRAIGHT BOURBON WHISKEY
+
+Bookv floc
+5015-01 MASTER DISTILLER:1960- 1992
+
+s
+8
+£
+=
+5
+8
+2
+2
+iz

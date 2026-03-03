@@ -27,6 +27,8 @@
 
 *Text extracted via OCR - may contain errors*
 
+*1 image(s) excluded: text did not meet readability threshold*
+
 ### Back Label
 
 ade in the same
@@ -93,15 +95,3 @@ PROBLEMS.
 DiStILled
 ICRAIG
 DISTILLERYCO
-
-### Front Label
-
-ELJAH
-CRAIG
-Balel
-Eogf
-KENTUCKY STRAIGHT
-BoURBON WHISKEY
-134.JPROOFLo7. | %ALCI
-VOL
-210-1521

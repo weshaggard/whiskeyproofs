@@ -41,7 +41,7 @@
 
 *1 image(s) excluded: text did not meet readability threshold*
 
-**Detected Proof:** 98
+**Detected Proof:** 98.6
 
 ### Back Label
 
@@ -61,54 +61,65 @@ VERY
 
 ### Front Label
 
-S5lood Oath
-LIMITED
-RELEA
-SE
-Kcnfucky SSfraighf
-BOURBON
-WHISKEY
-49.30 ALC/VOL
-98
-PROOF
-750ML
-2016
-Pact Ni.2
-MMXVI
-UAmoottluneon %well-ked doenbona
-One, aspudked doebove toidi a decidedby ue
-mash
-utmtotedkadby ecky endobong
-Oa
-smcath,  theaded
-Boutban Ta- saden
-Tc
-flavat.
-And-tees @ foit-bauel
-hoxtadhahd
-'e fx
-velwety
-stueet
-goeddye: UAn
-eutanged_avuiage
-The uch,
-t0
-atd
-havey hald and hide
-This rarc whiskcy shall ncvcr again bc madc:
-PACT;
-DATE;
-25
-20:
-16
-Ipu2
-(zp_
-XV
-VERY
-ulL
-beaey"
-zeneapected,
-kxew
+Pood Oath
+
+very
+
+LIMITED RELEQg,
+
+Kentucky Straight
+
+BOURBON WHISKEY
+
+49.3% ALC/VOL | 98.6 PROOF | 750ML
+
+2018 Pact No. 2. xvi
+
+A acai fel Sad edn
+
+Cre, aspusited bocabon wittha decidedly vy.
+
+mash bed, area
+
+Toco, a desae
+
+ee
+
+boarbon Tors
+
+~7e ae
+
+densify
+
+Vee!
+
+is
+
+ige fas » ules sce yon
+
+ye. Aw
+
+atranged mariage of the woh, ware and
+
+eneapected, for gouiehave, hold and huile.
+
+This rare whiskey shia never again Ge made.
+
+macros OYS 2 16
+
+IS
+
+<5
+
+CO)
+
+vN
+
+RITES
+
+Ss
+
+) hte & (ogee
 
 ### Label 3
 

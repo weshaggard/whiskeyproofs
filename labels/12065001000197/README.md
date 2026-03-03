@@ -39,8 +39,9 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
 
+**Detected Proof:** 99
 **Detected Age:** 12 Years
 
 ### Back Label
@@ -63,14 +64,14 @@ DRIME A CAR OR OPERATE MACHINERV,AND MAv CAUSE HEALTH PROBLEMS ,
 ### Front Label
 
 Barrelled
-Ltd. Bottling
-2 0 0 0
-@LD
-2012
-FORESTER
-STRAIGHT BOMRBON WHISKY
-@Burucn ctaton pouzoxwmarom
-DSTILLED BY AROWM-FORMAM @USTILLERS Gu, LOUUSVILLE, KY 750mL   40,583ALC/VOL (97 POOF)
+
+2000 201
+
+him Led, Botting
+
+Berth dau Pox WHISKY
+
+DISTILLED BY BROWN-FORMAN DISTILLERS G0. LOUISVILLE, KY 750mL 49.5% ALC/VOL (97 PROOF)
 
 ### Label 3
 
@@ -85,3 +86,9 @@ YEARS
 LIMITED `
 EST 0
 1870
+
+### Label 4
+
+FIRST BOTTLED BOURBON
+
+Nogunog aaiilog isuld

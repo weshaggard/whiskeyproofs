@@ -41,8 +41,6 @@
 
 *2 image(s) excluded: text did not meet readability threshold*
 
-**Detected Proof:** 97
-
 ### Back Label
 
 OLD
@@ -65,12 +63,12 @@ FPO
 ### Front Label
 
 OLD
-FoRESTER
-KENTUCKY STRAIGHT BOURBON WHISKY
-BIRTHDAY BOURBONS
-48.5% ALC NVOL
-97 PROOF
-750 ML
+
+FORESTER
+
+KENTUCKY STRAIGHT BOURBON WHIS
+
+USO AIDS Dome Ne
 
 ### Label 3
 

@@ -39,7 +39,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
 
 **Detected Age:** 12 Years
 
@@ -89,3 +89,11 @@ DAY
 {
 ROTTLING
 IMITED
+
+### Label 5
+
+ESEECHOH
+
+FIRST BOTTLED BOURBON
+
+NOSUN OA | AIELLO a | FSey

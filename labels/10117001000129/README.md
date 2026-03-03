@@ -33,6 +33,8 @@
 
 *1 image(s) excluded: text did not meet readability threshold*
 
+**Detected Proof:** 100
+
 ### Back Label
 
 COLONEL E.H
@@ -110,32 +112,20 @@ ar
 
 ### Label 1
 
-COLONEL
-E.A.
-TAYLOR
-SiNGLE
-BARREL
-ST
-1
-3
-1
-%
-1
-1
-8
-m:
-8
-8
-0
-1
-8
-1
+COLONEL E.H.
 
-1
+TAYLOR
+
+SINGLE BARREL
+
+TAYLOR JR.
+
+‘OLD FASHIONED COPPER DISTILLERY.
+
+ale
+
+E
+
 BOTTLED IN BOND
-509
-ALCIVOL
-Ioo PROOF ]
-750ML
-ONLY
-AND
+
+50% ALC/VOL [100 PROOF] 750ML

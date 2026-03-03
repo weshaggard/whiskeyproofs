@@ -39,7 +39,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
 
 ### Front Label
 
@@ -54,34 +54,41 @@ CRAFTED
 
 ### Label 1
 
-BATCH
-Ne
-NAME:
-BOTTLE
-Ne
-Ouo
-MASTER'S
-3
-Zsvml
-KEEP
-Ne]
-Wo'
-2
-AGED:
-PPROvED
-Id
-N?2
-Stbne
-17-YeAn
-Aicivo {Zdoe
-{6.8 Prdof
-N?3
-Wdev
-1
-G52
-4625
-324S
-4
+BATCH N@&
+
+jm
+
+PHAN ES
+
+BOTTLE N&
+
+ZED
+
+MASTER'S”
+
+rE!
+
+FSO ml y
+
+[rei] Wee
+
+AGED
+
+ce yee Raj PROVED;
+
+Fee
+
+ppb?
+
+[re] STOVE
+
+/7 YEA
+
+SY Ate /vor 43. 24%,
+
+(6.6 FRreor
+
+Se Woee
 
 ### Label 3
 
@@ -104,3 +111,7 @@ DRIVE A CAR OR OPERATE MACHINERY,
 AND MAY CAUSE HEALTH PROBLEMS.
 PRODUCT OF USA
 750mL
+
+### Label 5
+
+Gictinisl Sadia Stat a i iat ait

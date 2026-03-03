@@ -31,7 +31,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
 
 ### Back Label
 
@@ -94,3 +94,21 @@ CAWSE
 HEALTH
 PRQBLERS
 3
+
+### Label 1
+
+COLONEL E.H.
+
+TAYLOR
+
+STRAIGHT RYE
+
+ASS
+
+Se
+
+’
+
+NS:
+
+sOTLED BOND

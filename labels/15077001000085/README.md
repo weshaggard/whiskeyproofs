@@ -30,8 +30,6 @@
 
 *Text extracted via OCR - may contain errors*
 
-*1 image(s) excluded: text did not meet readability threshold*
-
 **Detected Proof:** 111.8
 **Detected Age:** 16 Years
 
@@ -48,49 +46,68 @@ ALC /VOL;
 
 ### Label 2
 
-If you've ever questioned
-we use 10 distinct Bourbon
-recipes to handcraft
-Our
-award-winning Bourbons, the rich amber contents of this bottle
-may be the tastiest answer
-Three of our exquisite, perlectly-aged
+If you've ever questioned why
+
+we use 10 distinct Bourbon recipes to handcraft
+
+our award-winning Bourbons, the rich amber contents of this bottle
+
+may be the tastiest answer yet, Three of our exquisite, perfectly-aged
+
 Bourbon recipes have been mingled together to create a spirit
-that gently teases you with ripe cherry, caramel custard and Iresh
-magnolia aromas Spicy cinnamon and clove Ilavors give way to subtle
-tastes of orange peel,
-and light honey: And the
-velvety
-finish rewards you with lingering hints o creamy vanilla and Iresh
-spearmint: Here $ to this delightfully complex barrel strength work ot
-art; And here'$ t0 wishing there was only more ol it to be enjoyed;
-The recipes:
-OBSK
-16 years
-OESK
-15 years
-OESK
-14 years
-OBSV
-11 years
-KEnTUCKY Straight BOURBOn WhiSkey
-DISTILLED AND AGED BY FOUR ROSES DISTILLERY Llc
-LAWRENCEBURG, kentucky:FOURROSESBOURBONCOM
+
+that gently teases you with ripe cherry, caramel custard and fresh
+
+magnolia aromas, Spicy cinnamon and clove flavors give way to subtle
+
+tastes of orange peel, apricot and light honey. And the long, velvety
+
+finish rewards you with lingering hints of creamy vanilla and fresh
+
+Spearmint. Here's to this delightfully complex barrel strength work of
+
+art. And here's to wishing there was only more of it to be enjoyed
+
+The recipes
+
+OBSK = 16 years - OESK = 15 years - OESK = 14 years - OBSV - 11 years
+
+KENTUCKY STRAIGHT BOURBON WHISKEY
+
+DISTILLED AND AGED BY FOUR ROSES DISTILLERY LLC
+
+LAWRENCEBURG, KENTUCKY: FOURROSESBOURBON.COM
+
 750ML
+
 GOVERNMENT WARNING:
-(1) according TO THE SURGEOn GENERAL,
-WOMEN SHOULd NOT DRINK AlcoholIc
-1
-BEVERAGES DURING PREGNANCY BecAUSe
+
+(1) ACCORDING TO THE SURGEON GENERAL
+
+WOMEN SHOULD NOT DRINK ALCOHOLIC
+
+=—— —
+
+—=—=
+
+BEVERAGES DURING PREGNANCY BECAUSE
+
 OF THE RISK OF BIRTH DEFECTS.
-(2) CONSumpon OF Alcoholic BeverAGES
-3
-IMPAIRS VOUR ABILITy TO DRIVE A CAR OR
-OPERATE MAChINERY; ANd MAY Cause
-HEALTH proBLeMs;
-Sediment Irom the barrel may be present
-in this non-chill (iltered Bourbon:
-why
-yet;
-apricot
-long;
+
+CONSUMPTION OF ALCOHOLIC BEVERAGES
+
+IMPAIRS YOUR ABILITY TO DRIVE A CAR OR
+
+OPERATE MACHINERY, AND MAY CAUSE
+
+HEALTH PROBLEMS,
+
+Sediment from the barrel may be present
+
+in this non-chill filtered Bourbon
+
+### Label 3
+
+yOu
+
+WED EDITION SMALL BCR

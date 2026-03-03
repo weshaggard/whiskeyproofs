@@ -31,7 +31,7 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
 
 ### Back Label
 
@@ -98,3 +98,15 @@ CalSE
 umk
 FROBLEKS
 ER01
+
+### Label 1
+
+TAYLOR
+
+COLONEL E.H.
+
+BARREL PROOF
+
+750ML
+
+ES7. accivot | (30 rroorl

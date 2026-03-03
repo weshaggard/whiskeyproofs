@@ -39,9 +39,8 @@
 
 *Text extracted via OCR - may contain errors*
 
-*2 image(s) excluded: text did not meet readability threshold*
+*1 image(s) excluded: text did not meet readability threshold*
 
-**Detected Proof:** 98
 **Detected Age:** 12 Years
 
 ### Back Label
@@ -64,15 +63,27 @@ DRIVE A CAR OR OPERATE MACHINERV, AND MAv CAUSE HEALTH PROBLEMS,
 
 ### Front Label
 
-Beoelled
-(LD
-LtdzBottl
-FORESTER
+Ss) N N
+OQ) NA ;
+Barrelled NaI NTN \ Ltd. Bottling
+Ni Ni Ni
+2001 NS) NUN \ 2013
+N NOT TAA TAA
+SX N x
+wn N SNK (Ov
+N N
+SS N
+YS N N
+N N N
+\ wS S S
+\ S \ S Ss NY
+As Wo TSE TNR SAAN WOH Way
+
 KENTUCKY STRAIGHT BOURBON WHISKY
-OBithdary OBoumbon
-distILLeD BY BROWN-FORMAN dISTILLERS Cu, LOUISVILLE, KY  750mL
-4090 AlC/VOL (98 PROOF)
-Bottling
+
+Bourton
+
+DISTILLED BY BROWN-FORMAN DISTILLERS C0. LOUISVILLE, KY 750mL [EQAOAIMCEO Ian
 
 ### Label 3
 
@@ -87,3 +98,9 @@ YEARS
 LIMITED
 EST 0
 1870
+
+### Label 4
+
+FIRST BOTTLED BOURBON
+
+NOSUNOd GATLLOG LSal4

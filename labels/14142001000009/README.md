@@ -30,8 +30,6 @@
 
 *Text extracted via OCR - may contain errors*
 
-*1 image(s) excluded: text did not meet readability threshold*
-
 **Detected Age:** 9 Years
 
 ### Label 1
@@ -83,3 +81,11 @@ HEALTH PROBLEMS:
 Sediment from the barrel may be present
 in this non-chill liltered Bourbon;
 spirit
+
+### Label 3
+
+yOu
+
+WINED EDITION SMALL EITC
+
+hl

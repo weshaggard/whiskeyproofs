@@ -66,18 +66,13 @@
 
 ### Label 1
 
-124-YOOO
-63.55%
-Age
-Alcivol
-1
-(127.1 PRopF]
-7YRS 3M0
-8
-BATCH N?
-KenTuCKY STRAIGHT BOURBON WHISKEY
-2015-01/ Bag2z
-MASTER DISTILLER:1960-1992
+a 63.55% Jace
+s os wae _ ayes 30
+8 weal) (127.1 PRooF)
+
+ED aces G/" | KENTUCKY STRAIGHT BOURBON WHISKEY
+MR) Zab Ze_
+2015-01 MASTER DISTILLER:1960-1992
 
 ### Label 10
 
@@ -100,18 +95,16 @@ IA REF Sc
 
 ### Label 2
 
-124-YOdO
-63.55%
-Age
-AlcIval
-7YRS 3M0
-(127.1 PRopf)
-J
-BaTGH N?
-KeNTuCKY STRAIGHT BOURBON WHISKEY
-2015-01/82522z
-MASTER DISTILLER:1960 -
-992
+a elk
+
+2 ee Set Roos VoL
+
+E He —_—_.,
+
+z a (127.1 Proof) Wa oe
+
+3 rere a KENTUCKY STRAIGHT BOURBON WHISKEY
+2015-01 MASTER DISTILLER:1960-1992
 
 ### Label 3
 
@@ -145,18 +138,18 @@ MASTER DISTILLER:1960-1992
 
 ### Label 5
 
-124-YOOO
+124-Yo00
+
 63.55%
-Age
-3
-Alcfvol
-7YRsS 3M0
-(127.1 PRopF]
-3
-KenTUCKY STRAIGHT BOURBON WHISKEY
-BATCH N?
-12015-01/Bo6nz
-MASTER DISTILLER:1960-1992
+TYRS 3M0
+
+(127.1 Proof)
+KENTUCKY STRAIGHT BOURBON WHISKEY
+
+0 Bookn floc
+SOS 01 dade MASTER DISTILLER:1960-1994
+
+“Maw Maw’s Batch”
 
 ### Label 6
 
@@ -175,24 +168,25 @@ MASTER DISTILLER:1960-1992
 
 ### Label 7
 
-BBookeh
-e
-mn Hls plackage_
-Theflghut-gpadebsuNor aad
-1
-Z12
-1
-ZhBemnel
-IAthw
-Oom Zeam Exsta etudry
-Zuy%o elgft
-022.
-Z50ML
-44
-Ifisbt ~
-my=
-~eeay
-fon
+booker
+
+le. Whitleyy viv thea flochege 2
+
+aie Co
+
+trade \ Ell
+
+role
+
+wpe (rd betd phagh
+
+fen pee Lew, Wy Grane,
+
+Bean bbicttis, turing
+
+i
+
+750ML
 
 ### Label 8
 

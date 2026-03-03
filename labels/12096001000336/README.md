@@ -103,135 +103,183 @@ Bul,
 ### Label 1
 
 JOHN E. FITZGERALD
-Arafia
-Ynaed
-nller
-TnAee
-4 04
-ARCENY
-art
-aunulthallAhlmammuienoatatd
-4litntald
-#iaan
-Lum/=
-nt fr
-Leeara
-Mhicet
-Renumu4
-ham}ia
-Hll
-n ee
-Eee
-Aaene
-A [
-AoroR
-Ltleshrt
-t
-ar AAat
-Alsiller4
-cn
-hLie
-Fnli€
-MLOA€
-MAi
-Aunllat
-Ik&At
-J4nt
-7etzi1a
-Liulen
-EtefrmerlaleTe_
-lite
-us [n
-044
-Eu3t
-unnac
-Treajur"
-Mlnir
-70 [&al *
-"1nerm
-nuNe
-ALLTE
-Treashry Mrnt #ut M
-Canal
-Eatt
-AL DAartresto
-Jirllu
-mLI;'5
-Hlana
-&ndhfn
-Laeio
-anmam
--Mhli
-#aAl
-7ula
-(ae 14
-int
-Cae
-tne
-Faeahd
-404
-butus
-Jenn%
-UjinAA
-Umens
-etnan
-A [
-wtil
-[neti
-tliaeee
-Ceoeea
-GnTe
-Lan
-Cacth en
-Iit
-DeuneUarL
-olnel
-7chicat
-@roard
-Tnt
-Me_
-TnEHt
-AL utALiL
-Km [
-enaa
-Cy
-Wamn
-LHA
-Henn
-Hene
-Euf;
-Mhianl =
-LatL A
-"fia
-Ahnn
-Iil
-reti4
-pet
-B
-Din-
-KEnTuCKY STRAIGHT  BOURBON WHISKEY
-VERY
-S PECTAL
-S Mall
-Batch
-Jh*ut
-rraukupM #huhturtal
-0A44 Grin4 bite MAMiAe AAtr_ (Alur4
-FEdet
-ALLL Tke
-Raal MLn
-4
-ET:
-AtL Tt T~s
-F Ares Hertt
-MirLs KALOALi
-C fnlnln&4i
-KE4iALaH
-H&dLMlerhinlty TE
-46% ALC NOL_
-750ML
-AlnE
-6410
-h
-7
-ALanead
+
+o—
+
+Candy
+
+a
+
+|
+
+2
+
+bee
+
+a
+
+|
+
+or
+
+att
+
+undertand hens ym mast fit anderen the mat
+
+und
+
+tank the
+
+toe
+
+th say
+
+haors
+
+the mat
+
+ome
+
+nen foek
+
+font
+
+a
+
+chart
+
+fant
+
+erat he
+
+rae
+
+ase
+
+Sie
+
+went
+
+an
+
+move
+
+hem k
+
+donee
+
+fiems
+
+oy
+
+when be
+
+guecie
+
+ne
+
+nant
+
+a ina, oie,
+
+ein
+
+Ma te lyst
+
+"prernrmhe
+
+OF
+
+we rom
+
+oe
+
+tm sot ee
+
+as
+
+fest
+
+ave eae at
+
+ph eter has
+
+tan amet
+
+loan tal
+
+jae
+
+tnd the inact
+
+temas,
+
+tase
+
+nant
+
+tele tans
+
+rau
+
+ng ate tha
+
+sieey tarred
+
+tating
+
+whiskey
+
+braleabee
+
+vary beat
+
+Beaman ss
+
+barrece
+
+re
+
+Pane Tansee
+
+‘satis may
+
+srtund the
+
+eae
+
+mans
+
+aren net’
+
+of poke e
+
+fey og
+
+the wey
+
+lee
+
+hem ae a
+
+Dich.
+
+vein taste
+
+KENTUCKY STRAIGHT BOURBON WHISKEY
+
+VERY SPECIAL SMALL BATCH
+
+a Me
+
+la rs nH
+
+eee
+
+"ha
+
+mee
+
+0
+
+46% ALC./VOL. 750ML
