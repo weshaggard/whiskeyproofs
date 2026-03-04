@@ -9,12 +9,21 @@ Find new **bourbon** and **rye** releases announced since the last run and updat
 Scope:
 
 - Search official distillery pages, press release pages, and official brand news pages first.
-- If no official page exists for a specific new release, use a reputable bourbon news/review source as a fallback.
+- If no official page exists for a specific new release, use one of the reputable bourbon news/review sources listed below as a fallback.
 - Only add releases that are bourbon or rye products.
+
+Reputable fallback sources (in priority order):
+
+1. [Breaking Bourbon](https://www.breakingbourbon.com) – breaking bourbon news, release announcements, and batch details
+2. [Bourbon Culture](https://bourbonculture.com) – release news, batch info, and reviews
+3. [The Whiskey Wash](https://thewhiskeywash.com) – industry news and release coverage
+4. [Whisky Advocate](https://www.whiskyadvocate.com) – reviews and release announcements
+5. [Distiller](https://distiller.com) – product database and release details
+6. [Fred Minnick](https://fredminnick.com) – bourbon journalist coverage of new releases
 
 Acceptance criteria:
 
-1. `_data/whiskeyindex.csv` is updated only for bourbon/rye releases discovered from official sources (or reputable fallback sources when official pages are unavailable).
+1. `_data/whiskeyindex.csv` is updated only for bourbon/rye releases discovered from official sources (or the reputable fallback sources listed above when official pages are unavailable).
 2. Every added or updated row has valid required fields (`Name`, `Batch`, `Proof`, `ReleaseYear`, `Distillery`, `Type`) and valid optional fields (`Age`, `TTB_ID`, `url`) when available.
 3. No duplicate row is introduced for the same `Name`, `Batch`, and `ReleaseYear`.
 4. Existing releases with unchanged attributes are updated by extending `ReleaseYear` range instead of adding duplicates.
