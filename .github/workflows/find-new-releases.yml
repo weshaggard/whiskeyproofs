@@ -2,8 +2,8 @@ name: Find New Bourbon and Rye Releases
 
 on:
   schedule:
-    # Weekly on Monday at 09:00 UTC
-    - cron: '0 9 * * 1'
+    # Daily at 09:00 UTC
+    - cron: '0 9 * * *'
   workflow_dispatch:
 
 permissions:

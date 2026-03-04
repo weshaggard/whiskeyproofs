@@ -27,7 +27,7 @@ Acceptance criteria:
 2. Every added or updated row has valid required fields (`Name`, `Batch`, `Proof`, `ReleaseYear`, `Distillery`, `Type`) and valid optional fields (`Age`, `TTB_ID`, `url`) when available.
 3. No duplicate row is introduced for the same `Name`, `Batch`, and `ReleaseYear`.
 4. Existing releases with unchanged attributes are updated by extending `ReleaseYear` range instead of adding duplicates.
-5. Validation scripts complete successfully before changes are kept.
+5. Errors in individual entries are isolated — a single bad entry does not block valid additions. Validation scripts complete successfully on the final set of kept changes.
 
 ## Required data quality rules
 
@@ -70,7 +70,9 @@ Instead, update the existing `ReleaseYear` value to extend the range (for exampl
 
 ## Validation
 
-After edits, run:
+Process each candidate release independently. If one entry fails validation or cannot be completed, skip that entry, record it as an error in the report, and continue processing the remaining entries. Do **not** let a single bad entry block additions of valid entries.
+
+After all entries are processed, run validation on the full set of changes:
 
 ```bash
 python3 .github/scripts/validate_whiskey_data.py
