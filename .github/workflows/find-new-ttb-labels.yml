@@ -132,6 +132,19 @@ jobs:
           cat ttb_list.txt >> $GITHUB_OUTPUT
           echo 'EOF' >> $GITHUB_OUTPUT
       
+      - name: Run OCR on new labels
+        if: steps.find_labels.outputs.has_new_labels == 'true'
+        run: |
+          # Extract TTB IDs from JSON and run OCR on each newly downloaded label
+          TTB_IDS=$(python3 -c "import json; data=json.load(open('new_labels.json')); print(' '.join(data['new_ttb_ids']))")
+          
+          for TTB_ID in $TTB_IDS; do
+            if [ -d "labels/$TTB_ID" ]; then
+              echo "Running OCR for TTB ID: $TTB_ID"
+              python3 .github/scripts/extract_label_text.py --ttbid "$TTB_ID" || echo "  ⚠️ OCR failed for $TTB_ID (non-fatal)"
+            fi
+          done
+      
       - name: Generate GitHub App Token
         id: generate_token
         if: steps.find_labels.outputs.has_new_labels == 'true'

@@ -26,3 +26,34 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*2 image(s) excluded: text did not meet readability threshold*
+
+### Front Label
+
+3.12” wide
+
+STp To BOURDON ial yes
+
+2026
+
+tl
+
+eee ae
+
+GUEsSyY
+
+DISTILLED & BOTTLED BY
+
+cparnete|
+
+IN PINE BLUFFS, WY
+
+ine Blips, DISTILLING
+
+9%
+
+° 750

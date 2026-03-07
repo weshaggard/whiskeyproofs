@@ -18,3 +18,34 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+28 oppmes —Kensne, O's 7e O hy ppm pe PAIS
+
+Oe Keopoyye yarn eae
+ERTS ER eR peaOd ea
+
+Peep Mey
+ULL
+
+Ale by Vol— 750 ul
+
+anewery + DISTILLERY.
+
+974 Proof — 48.7%
+
+\
+
+WHISKEY | |
+
+DISTILLED
+
+FROMA
+MALT MASH
+
+bosT
+VIKING
