@@ -46,7 +46,12 @@ jobs:
         run: python3 .github/scripts/validate_whiskey_data.py
 
       - name: Fix broken URLs
-        run: python3 .github/scripts/validate_urls.py --apply
+        env:
+          COPILOT_GITHUB_TOKEN: ${{ secrets.COPILOT_GITHUB_TOKEN }}
+        run: |
+          test -f .github/prompts/fix-broken-urls.prompt.md
+          copilot -p "$(cat .github/prompts/fix-broken-urls.prompt.md)" \
+            --allow-all-tools --allow-all-urls --autopilot --no-ask-user
 
       - name: Fix broken TTB URLs
         run: python3 .github/scripts/validate_ttb_urls.py --apply
