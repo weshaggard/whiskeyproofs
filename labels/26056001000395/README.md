@@ -26,3 +26,27 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*2 image(s) excluded: text did not meet readability threshold*
+
+### Front Label
+
+2.4” high
+
+3.12” wide
+1
+
+LIQUORS
+
+NEVER CHILL FILTERED. ALWAYS SWEET MASHED.
+MASH BILL
+
+TRITICALE MALTED BARLEY
+
+DISTILLED & BOTTLED BY
+BARREL* Qing Blips DISTILLING
+
+50% NS © 750m IN PINE BLUFFS, WY

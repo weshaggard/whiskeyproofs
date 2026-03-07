@@ -35,3 +35,83 @@
 
 ![Label 5](./label_5.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+### Front Label
+
+Wid TuRkEY
+KENTUCKY STRAIGHT BOURBON WHISKEY
+AGED
+1
+YEARS
+with
+conviction
+CRAFTED
+
+### Label 1
+
+BATCH N@&
+
+jm
+
+PHAN ES
+
+BOTTLE N&
+
+ZED
+
+MASTER'S”
+
+rE!
+
+FSO ml y
+
+[rei] Wee
+
+AGED
+
+ce yee Raj PROVED;
+
+Fee
+
+ppb?
+
+[re] STOVE
+
+/7 YEA
+
+SY Ate /vor 43. 24%,
+
+(6.6 FRreor
+
+Se Woee
+
+### Label 3
+
+BOTTLED BY WILD TURKEY
+DISTILLING COMPANY
+Lawrenceburg, KY
+Www
+wildturkeybourbon.com
+GOVERNMENT WARNING:
+ACCORDING TO
+THE SURGEON GENERAL,WOMEN SHOULD
+NOT DRINK ALCOHOLIC BEVERAGES DURING
+88
+PREGNANCY BECAUSE OF THE RISK OF BIRTH
+DEFECTS. (2) CONSUMPTION OF ALCOHOLIC
+
+BEVERAGES IMPAIRS YOUR ABILITY TO
+2
+DRIVE A CAR OR OPERATE MACHINERY,
+AND MAY CAUSE HEALTH PROBLEMS.
+PRODUCT OF USA
+750mL
+
+### Label 5
+
+Gictinisl Sadia Stat a i iat ait

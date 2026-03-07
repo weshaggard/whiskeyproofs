@@ -26,3 +26,81 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 100
+
+### Back Label
+
+December 5, 1933
+Prohibition was
+ repealed in the
+United States with the passage
+ofthe 2lst Amendment to the
+United States Constitution
+To commemorate this milestone,
+we created Remus Repeal Reserve
+This 2018 limited edition bourbon
+features layers of sweet vanilla and
+caramel, toasted oak and bold spice
+The finish is rich and bold; maple
+with dynamic lingering rye spice.
+In short, Remus Repeal Reserve
+iS the best we make. Or as
+Remus
+himselfmight have said ,
+'some damn fine giggle water:
+Enjoyl
+BeogsGeuaa
+8y
+G.REMUS
+DISTILLINGCO
+LAWRENCEBURG
+georgeremus.COI
+0
+BE LEGENDARY SIP RESPONSIBLY:
+GOVERNMENT WARNING: (1) ACCORDING TO
+THE
+SURGEON GENERAL, WOMEN  SHOULD
+NOT DRINK   ALCOHOLIC BEVERAGES DURING
+PREGNANCY  BECAUSE OF THE RISK OF BIRTH
+DEFECTS. (2) CONSUMPTION OF ALCOHOLIC
+BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE
+A CAR OR OPERATE MACHINERY, AND MAY
+CAUSE HEALTH PROBLEMS
+IASE,VT/ME-1sg REFUND
+750ML
+54054
+00800
+George
+DISTiLLED
+
+### Front Label
+
+REMUS
+REPEAL RESERVE
+STRAIGHT
+B O URB O N
+WHISKEY
+1002|50%
+Alc/Vol
+15%
+2007 BOURBON (21% RYE
+1
+50%
+2008 BOURBON (21% RYE
+10%
+2007 BOURBON (36% RYE
+8
+25%
+2008 BOURBON (36% RYE)
+DISTILLED
+BY
+G _
+REMUS DISTILLING
+co_
+LAWRENCEBURG, IN

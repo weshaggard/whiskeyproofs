@@ -18,3 +18,60 @@
 
 ![Front Label](./front_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Front Label
+
+GL
+
+a)
+
+Fy)
+
+Wey
+
+ea
+
+—~\_ oF,
+
+5G,
+
+Q)
+
+al a SN
+
+{
+
+ac
+
+BLAC
+
+Yi
+
+ABEL
+
+oe)
+
+yee
+
+—
+
+PREMIUM TENNESSEE WHISKEY
+
+whet
+
+Gx,
+
+pe
+
+80 PROOF -
+
+4
+
+40% weno
+
+OES
+
+Z

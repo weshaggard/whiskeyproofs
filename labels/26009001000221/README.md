@@ -24,3 +24,22 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*2 image(s) excluded: text did not meet readability threshold*
+
+### Front Label
+
+a
+
+STRAIGHT RYE
+
+792
+
+ny
+
+KENTUCKY STRAIGHT RYE WHISKEY
+
+50% ALC/VOL (100 PROOF)

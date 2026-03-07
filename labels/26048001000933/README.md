@@ -20,3 +20,33 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+### Front Label
+
+A MA
+‘TOBACCO BARN
+—— DISTILLERY"
+
+750 ML
+
+SINGLE BARREL
+DISTILLED IN MARYLAND
+Rie
+STRAIGHT
+WHISKEY
+ee
+
+BOURBON
+
+45% ALC. BY VOL. (90 PROOF)
+
+SUVAA XI§ NVH[ daOW Adoy €100¢-dW-dSd
+NV900) NVIS ‘YATIULSIG CW GOOMATIOY
+00] 40 0O[ XAdNON TILLOG AUITILSIC] NUVG ODDVEO J,
+
+10 SZ { 6] ‘AdaWaN TawUg Ad CYILLOG ANY GATILSIG

@@ -24,3 +24,45 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+### Label 1
+
+KY: US
+
+HARDINS
+
+© oo
+
+SASH ALGO CLERMONT KY
+09 PROOF) 70 apna 8 HERG
+
+THIS WHISKEY PEAKED AT THE HIGHER END OF OUR DISTILLATION
+SPECTRUM. WITH ITS FLAVOR COMPOUNDS NOW DEFTLY BALANCED,
+THE PROFILE LEAVES A LIGHT YET LASTING IMPRESSION.
+
+AGED 8 YEARS |
+
+### Label 3
+
+DISTILLED AND BOTTLED BY
+
+CLERMONT
+
+KENTUCKY
+
+4
+
+°
+
+t
+
+JAMES BBEAM
+
+DISTILLING CO.
+
+A WHOLE NEW WORLD BEGINS AT HARDIN'S CREEK

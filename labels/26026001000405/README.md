@@ -22,3 +22,20 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+### Label 2
+
+2.75"W
+
+women should not drink alcoholic beverages during pregnancy —=
+2”H because of the risk of birth defects. (2) Consumption of alcoholic
+
+beverages impairs your ability to drive a car or operate machinery,
+and may cause health problems.
+
+BOTTLED BY BLACKWOOD DISTILLING CO. VERSAILLES, KY DSP-KY-20113

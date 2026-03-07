@@ -28,3 +28,14 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*3 image(s) excluded: text did not meet readability threshold*
+
+### Label 1
+
+EQOY Nin py wnt
+JO“ # bY VOI
+ALY. DE VUL

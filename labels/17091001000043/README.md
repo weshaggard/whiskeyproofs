@@ -20,3 +20,44 @@
 
 ![Front Label](./front_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+**Detected Proof:** 60
+
+### Back Label
+
+GOVERNMENT  WARNING:
+ACCORDING To THE  SURGEON GENERAL
+WOMEN
+SSHouloioteSnoflGoroEtGeeveRSGE3 DConst
+"UoNSURRpGornaf
+BECAUSE
+RISK ' OF  BIRTH
+ALcoHoLic
+JGAEeHERGER
+IMPAIRS  YOUR ABILi
+DRIVE
+CAR OR
+OPERATE
+AND MAY CAUSE HEALTH PROBLEMS
+Visit uS at
+Western-Whiskeycom
+HONEY PEPPER
+52884"00110
+CONTAINS CARAMEL COLOR
+PRODUCED BY:
+Magical Spirits Bardstown KY USA
+
+### Front Label
+
+WESTBRN
+FLAVORED
+HONEY PEPPER
+WHISKEY
+30%ALC_BY VOL  60 PROOE   750ML
+HAND
+SMALL
+CRAETED
+BATCR

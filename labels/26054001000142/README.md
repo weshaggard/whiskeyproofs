@@ -18,3 +18,19 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+RED BUD STRAIGHT ¢
+RYE WHISKEY Ss
+
+THE GOLD SERIES 40% ALC BY VOL
+
+The best spirits are distilled in a round building
+
+where there are no corners forthe devil to hide | 750 ML
+
++ ROUNDBARN.COM

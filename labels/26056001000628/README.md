@@ -16,3 +16,25 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+**Detected Proof:** 80
+
+### Label 1
+
+BALLISTIC
+
+DISTILLERY
+
+COMMANDER
+
+Blended Bourbon Whiskey
+
+40% GRAIN NEUTRAL SPIRITS
+
+BOTTLED & PRODUCED by BALLISTIC DISTILLERY
+SPOKANE, WASHINGTON
+
+1 Liter 40% ALC/VOL (80 PROOF)

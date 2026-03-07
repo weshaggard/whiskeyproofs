@@ -20,3 +20,74 @@
 
 ![Front Label](./front_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+### Front Label
+
+GOVERNMENT WaRNINe
+
+(1) ACCORDING
+
+TO THE SURGEON GEN
+
+ER,
+
+‘AL, WOMEN
+
+SHOULD NOT DRINK
+
+ALCOHOLIC
+
+WHEATED
+
+BEVERAGES DURING PREGNA
+
+INCY BECAUSE
+
+OF THE RISK OF BIRTH
+
+DEFECTS. (2
+
+CONSUMPTION 0
+
+F ALCOHOLIC
+
+BOURBON
+
+BEVERAGES IMPAIRS YOU
+
+R ABILITY TO
+
+DRIVE A CAR OR OPERATI
+
+E MACHINERY,
+
+AND MAY CAUSE HEAL
+
+TH PROBLEMS”
+
+PLEASE RECYDLEIA-5¢
+
+45
+
+&CACRV
+
+DISTILLED AND BO
+
+STTLED BY:
+
+BARDSTOWN BOUR
+
+BON CO.
+
+750mML
+
+ANNU
+
+BARDSTOWN, KY. D’
+
+SP-KY-20037.

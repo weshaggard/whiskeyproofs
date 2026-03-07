@@ -20,3 +20,92 @@
 
 ![Front Label](./front_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+STRAIGHT BOURBON WHISKEY
+
+Smooth and balanced, this
+
+small batch bourbon offers notes
+
+of caramel, vanilla, and oak
+
+DISTILLED, AGED 4+ YEARS IN NEW OAK, &
+
+BOTTLED BY DRIFTLESS GLEN DISTILLERY
+
+BARABOO, WI
+
+GLUTEN-FREE
+
+GOVERNMENT WARNING: (
+
+ACCORDING TO THE NURGEC N
+
+GENERAL, WOMEN SHOULD
+
+NOT
+
+INK SBIR
+
+|
+
+es |
+
+EVERAGES D
+
+ee —
+
+PREGNANCY BECAUSE OF THE
+
+— —
+
+C
+
+RISK OF BIRTH DEF
+
+|
+
+OF ALCO
+
+S. (2)
+
+OLIC
+
+[—_[ve]
+
+BEVERAGES IMP,
+
+rr OK)
+
+ABILITY TO DRIV
+
+O
+
+TE
+
+HINERY, AND MAY
+
+CAUSE HEALTH PROBLEMS
+
+### Front Label
+
+STRAIGHT
+
+BOURBON WHISKEY
+
+96
+
+48% ALC./VOL.
+
+PROOF
+
+750 ML
+
+DISTILLED, AGED, & BOTTLED BY
+
+DRIFTLESS GLEN DISTILLERY IN BARABOO, WI

@@ -22,3 +22,72 @@
 
 ![Front Label](./front_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+(fo
+
+ALINE OF DUTY TRIBUTE
+
+‘THIS VERY SPECIAL RELEASE IS DEDICATED TO THE
+
+MEMORY OF
+
+Richmond KY Police Officer
+
+DANIEL NEIL ELLIS
+
+Officer Bilis made the ultimate sacrifice in the line of duty, serving with
+
+courage, honor, and an unwavering commitment to protecting others
+
+‘His dedication and selflessness will never be forgotten.
+
+We also pay tribute to all law enforcement officers who lost their lives in the
+
+line of daty. May we always remember their service, thei sacrifice, and
+
+their wateh,
+
+‘GOVERNMENT WARNING:
+
+cftheriskobith defect.
+
+(1) coring othe Surgenn General women shud ot ink aoa beverages ing pregnancy because
+
+(2 Consumption faehac beverages impairs yur abit tive acarr operate machine and ma cause
+
+wath probens,
+
+KENTUCKY STRAIGHT BOURBON WHISKEY
+
+Produced and hand botled by Larrikin Bourbon Co. Lawrenceburg, KY
+
+&
+
+ca
+
+### Front Label
+
+SSS E——EEEEE |
+ALC/VOL PROOF
+57% 114
+
+=
+ats
+LARRIKIN
+— BOURBON Co.—
+KENTUCKY
+* IN HONOR OF ¢
+OFFICER
+DANIEL NEIL ELLIS
+END OF WATCH: NOVEMBER 6, 2015
+Kentucky Pia
+Bourbon Whiskey
+—— AGED 8 vears ay
+2026 eet BOTTLE
+a
+te we

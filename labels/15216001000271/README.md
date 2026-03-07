@@ -31,3 +31,70 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 127.1
+**Detected Age:** 7 Years
+
+### Label 1
+
+booker
+
+Bho Wibuy tm shea frchege Ae
+
+(es
+
+mila
+
+Satta sper tds ur fll
+
+Wy rm o lin Loan bh his
+
+eee, || == |
+
+PEN LES epens
+
+s<¢e
+
+barrel tured.
+
+cened jlo .
+
+### Label 2
+
+XX XXXX
+63.55%
+Age
+[
+AlsIval
+7YRS 3M0
+(127.1 Peopf)
+20 DAYS
+KeNTuCKY STRAIGHT BOURBON WHISKEY
+BATGH N?
+[2o16 04222
+MASTER DISTILLER:1960 -
+992
+
+### Label 4
+
+BOOKER'Se KENTUCKY STRAIGHT BOURBON WHISKEY
+DISTILLED AND BOTTLED BY JAMES B. BEAM DISTILLING CO.
+CLERMONT, KENTUCKY
+GOVERNMENT WARNING:
+ACCORDING TO THE
+SURGEOH GENERAL; WOMEN ShOULD NOT DRIHK
+AlCOhOlIC BEVERAGES DURING PREGHAHCY be:
+CAuSe OF the RISK €F BIRTH DEFECTS. (2} CON
+SUMPTLOH €F ALCOhOLIc BEVERAGES IMPAIRS
+YOUR AbIlTY TO DRIVE
+Car OR OPERATE Ma:
+CHIHERK AnD  MaY CAuSe health pROBLEMS .
+'80686"01140'
+ME VT REF 1Sc
+IA REF Sc
+24-BADM

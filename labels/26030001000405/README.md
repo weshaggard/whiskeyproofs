@@ -24,3 +24,22 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*2 image(s) excluded: text did not meet readability threshold*
+
+### Label 2
+
+Roasted malt barley adds Gas | Renaviwai e b BLEU SHC : =
+layers of ped ot (MASHBIBE a
+dark tones of mocha RW302219 m,
+sweet cream — finishing RARREL.NO, SELECTED BY x A ™
+cat CUSTOMER (7
+peeks Saath este \
+1 ; Vara (|
+Sonne <a) MASTER DISTILLER | IA Gas
+DUMPED ON: 1 ae Zoe SL
+igh eee 565 © MOT
+Rak eh —

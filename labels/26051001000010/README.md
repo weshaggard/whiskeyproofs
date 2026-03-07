@@ -18,3 +18,16 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+WSN NOD3XO ‘ATIHANNINOW,
+AMATIILSIG NOLHSIWE MAN
+A@ GIILLOS GNV G3TILSIG
+
+PROOF /' ALC.
+
+60845 | 5

@@ -18,3 +18,30 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+GLENNS CREEK
+
+A LITTLE DIFFERENT. A LOT BETTER!
+
+&
+
+44
+
+CAG
+
+AGED AT LEAST
+
+mo.
+
+375ML
+
+DISTILLED, AGED & BOTTLED BY GLENNS CREEK DISTILLING, LLC
+
+ae
+
+FRANKFORT, KY

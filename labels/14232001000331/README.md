@@ -55,3 +55,150 @@
 
 ![Label 9](./label_9.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 127.1
+**Detected Age:** 7 Years
+
+### Label 1
+
+a 63.55% Jace
+s os wae _ ayes 30
+8 weal) (127.1 PRooF)
+
+ED aces G/" | KENTUCKY STRAIGHT BOURBON WHISKEY
+MR) Zab Ze_
+2015-01 MASTER DISTILLER:1960-1992
+
+### Label 10
+
+BOOKER'Se KENTUCKY STRAIGHT BOURBON WHISKEY
+DISTILLED AND BOTTLED BY JAMES B. BEAM DISTILLING CO.
+CLERMONT, KENTUCKY
+GOVERNMENT WARNING:
+ACCORDING TO THE
+SURGEOH GENERAL; WOMEN ShOULD NOT DRIHK
+AlCOhOlIC BEVERAGES DURING PREGHAHCY be:
+CAuSe OF the RISK €F BIRTH DEFECTS. (2} CON
+SUMPTLOH €F ALCOhOLIc BEVERAGES IMPAIRS
+YOUR AbIlTY TO DRIVE
+Car OR OPERATE Ma:
+CHIHERK AnD  MaY CAuSe health pROBLEMS .
+'80686"01140'
+ME VT REF 1Sc
+IA REF Sc
+24-BADM
+
+### Label 2
+
+a elk
+
+2 ee Set Roos VoL
+
+E He —_—_.,
+
+z a (127.1 Proof) Wa oe
+
+3 rere a KENTUCKY STRAIGHT BOURBON WHISKEY
+2015-01 MASTER DISTILLER:1960-1992
+
+### Label 3
+
+124-YOOO
+63.55%
+Age
+3
+AlcIvol
+7YRS 3M0
+(127.1 PRopF]
+1
+KenTUCKY STRAIGHT BOURBON WHISKEY
+BATCH N?
+52015-01/ Ba4.z.
+MASTER DISTILLER:960-1992
+
+### Label 4
+
+124-YOOO
+63.55%
+Age
+3
+Alcfvol
+7YRS 3M0
+(127.1 PRopF]
+1
+BATCH N?
+KenTUCKY STRAIGHT BOURBON WHISKEY
+2015-01/ BaE22
+MASTER DISTILLER:1960-1992
+
+### Label 5
+
+124-Yo00
+
+63.55%
+TYRS 3M0
+
+(127.1 Proof)
+KENTUCKY STRAIGHT BOURBON WHISKEY
+
+0 Bookn floc
+SOS 01 dade MASTER DISTILLER:1960-1994
+
+“Maw Maw’s Batch”
+
+### Label 6
+
+124-YOOO
+63.55%
+Age
+3
+AlcIval
+7YRS 3M0
+(127.1 PRoDF}
+3
+KeNTuCKY STRAIGHT BOURBON WHISKEY
+BATCH N?
+12015-01/8a6n2  _
+MASTER DISTILLER:1960-1992
+
+### Label 7
+
+booker
+
+le. Whitleyy viv thea flochege 2
+
+aie Co
+
+trade \ Ell
+
+role
+
+wpe (rd betd phagh
+
+fen pee Lew, Wy Grane,
+
+Bean bbicttis, turing
+
+i
+
+750ML
+
+### Label 8
+
+124-YdOO
+63.55%
+Age
+Alcfvol
+1
+(127.1 PRopF]
+7YRS 3MO
+3
+BATCH N?
+KenTuCKY STRAIGHT BOURBON WHISKEY
+2015-01/ BaE22
+MASTER DISTILLER:1960-1992

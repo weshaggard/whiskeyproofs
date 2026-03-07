@@ -16,3 +16,20 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+eal ae
+if KG) k a
+Beigeg GE 282 : :
+rite Ste:
+mB ESatee go) aha “ a
+Hae ¥io 323 SINGLE BARREL EXCLUSIVE RELEASE
+ain oe STRAIGHT RYE WHISKEY FINISHED IN RUM BARREL
+i
+4
+4 BARRE! SOLD + ALC/V ML
+av é a, ne

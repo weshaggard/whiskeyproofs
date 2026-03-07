@@ -24,3 +24,46 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+### Back Label
+
+NE Wiy,
+<\ mmms &
+—
+& spi Rit?
+Coper & Cark
+
+—sase EN
+{ Lewenecbgs | SEAT
+Sa =) Ses
+Mon 2b || 7 i fe 4
+‘waTC STE me oa tobe,
+YBoretr | PREY
+SECA Mumm SoavTOLEARN WORE
+coy
+‘BOTTLED BY LATITUDE BEVERAGE CO. ——————°
+IN RUMFORD, RHODE ISLAND —-
+ho =§$4
+cana $9
+Ca
+ta oe ——=
+CS  ————
+
+### Front Label
+
+OPPEp
+
+CASK
+
+BOURBON WHISKEY
+
+CHILL FILTER
+
+alll [7 yes | Se
+
+750 ML - BARREL PROOF

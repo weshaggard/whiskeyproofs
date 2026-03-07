@@ -25,3 +25,36 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*2 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 123.2
+
+### Label 1
+
+w—O JOHN E. FITZGERALD O—r
+
+LARCENY
+
+KENTUCKY STRAIGHT BOURBON WHISKEY
+
+;
+
+R 0
+
+BOTTLED BY:
+
+John Doe
+
+BATCH N°: Hizo
+
+BOTTLED ON
+
+PROOF: 123.2
+
+6/22/20
+
+ALC/VOL: 61.6%

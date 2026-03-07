@@ -26,3 +26,46 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+**Detected Proof:** 103
+**Detected Age:** 4 Years
+
+### Front Label
+
+This Straight Bourbon whiskey dumped on 3-30-12 from Barrel No. 23
+Stored in Warehouse H on Rick No. 4
+Individually selected filtered and bottles by hand at 103 Proof
+Aged at least 4 years
+Straight Bourbon Whiskey
+51.5% ALCIVOL
+
+### Label 1
+
+OBtantons
+STRAICHT FROM THE
+BARREL BOURBON
+
+### Label 3
+
+Kentucky Straight Bourbon Whiskey
+
+Product of the USA
+
+Exported to Netherlands
+
+Reimported by Lizarraga Company Booze Briefcase
+
+Bonita, CA
+
+.7L/ 51.5% Alc/Vol. (103 Proof)
+
+GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD
+
+NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF
+
+BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY
+
+TO DRIVEA CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.

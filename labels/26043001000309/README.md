@@ -16,3 +16,15 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+BARREL#. FILL DATE
+
+BARREL TYPE: AMERICAN WHITE OAK 53 GALLON
+proor 90 arc__45___ % By VoL
+
+BOTTLED BY _ichnd._

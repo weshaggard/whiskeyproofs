@@ -23,3 +23,24 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+### Label 1
+
+AGED ll YEARS
+
+brrervicarn
+
+KENTUCKY STRAIGHT
+
+WHISKEY
+
+CASK STRENGTH
+
+ALC/VOL 61,25 PROOF [22,5
+
+_ Ppe.n seco Tr lO ES

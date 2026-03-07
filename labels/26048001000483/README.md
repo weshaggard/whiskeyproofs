@@ -18,3 +18,26 @@
 
 ![Back Label](./back_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+REDWOOD
+= EMPIRE™
+
+EMERALD GIANT
+RYE WHISKEY
+
+CUSTLED MCHLFORNA ON,
+ENTCKY
+SOTLEDBYREDWCODEPREDSTLLNG,
+‘OHVER PARKA
+
+TREES
+FOR THE
+
+Qrs
+
+St MEVT IS Ly

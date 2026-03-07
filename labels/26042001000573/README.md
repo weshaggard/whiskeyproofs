@@ -24,3 +24,72 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+### Back Label
+
+FREQUENCY
+
+CHRIS VOSS
+
+Never Split. Always Share."
+
+IID
+
+Ean
+
+a
+
+(@)
+
+|
+
+Il
+
+|
+
+!
+
+6
+
+; BUIDED TASTING
+
+5008186802
+
+### Front Label
+
+VE PROM,
+
+MUSIC CITY
+
+xN
+
+S %
+
+even
+
+Sure
+
+Sanne
+
+Soro uervey,
+
+requ
+
+MENTUCKY
+
+STRAIGHT
+
+pounn:
+
+wnten!
+
+_
+
+‘uganeanr cxracasien
+
+THE DIFFERENBE

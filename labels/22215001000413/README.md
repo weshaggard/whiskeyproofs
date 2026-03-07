@@ -21,3 +21,136 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+### Label 2
+
+wy,
+
+/
+
+WHISKEY
+
+Ry3 is a special blend of 3 phenomenal whis
+
+keys, 3 carefully handpicked mash-bills, and3
+
+distinctive aged statements, that are meticu
+
+lously blended with artisanal distinction to
+
+create this magical liquid, The culmination of
+
+this beautifully well-balanced whiskey is
+
+finished in vintage rum casks, resulting in
+
+a sipping experience of silky-smooth rye
+
+whiskey with layers of fruity and
+
+Z
+
+complex notes from the rum barrels,
+
+Srrreny
+
+Sos
+
+sS
+
+=
+
+——
+
+= = Ry3: one ultra-premium whiskey,
+
+=
+
+===
+
+—re——)
+
+=——T—)
+
+three times the enjoyment
+
+So
+
+Seat oa
+
+Seses
+
+PRODUCT OF USA
+
+ay
+
+—
+
+SS oo a
+
+ms « —
+
+se SS SSS
+
+o Handcrafted, Blended & Bottled by Phenomenal Spirits, Inc
+
+Sewn SS
+
+Virginia Beach, Virginia
+
+Sw
+
+os SO ae =
+
+Be Phenomenal. Be Responsible
+
+——
+
+ay Se
+
+===)
+
+SS2=2
+
+www.ry3whiskey.com
+
+=SS==
+
+www.phenomenalspirits.com
+
+———
+
+==
+
+SS -es5
+
+S252
+
+=S25=
+
+=
+
+Gea es eS
+
+a
+
+a
+
+SyHSss
+
+ML
+
+SsSHese
+
+I
+
+60000
+
+14374
+
+Ss

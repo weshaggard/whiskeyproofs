@@ -26,3 +26,42 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+### Label 1
+
+NO YEAR ANNIVERSARY
+
+HONORING ELMER T. LEE'S FIRST
+SINGLE
+
+BARREL
+SOUR MASH
+
+cole
+
+C.000000
+
+### Label 2
+
+UNCUT AND UNFILTERED
+
+S
+
+s
+
+3
+
+KENTUCKY STRAIGHT
+
+BOURBON WHISKEY
+
+% ALC BY VOL
+
+PROOF
+
+BATCH

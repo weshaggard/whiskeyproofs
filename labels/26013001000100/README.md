@@ -20,3 +20,22 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+### Label 1
+
+6 g |
+COA
+® iat He
+KENTUCKY
+straight
+BOURBON
+S\. whiskey
+Bottled the a
+at | Honan as a
+ml VOL. (91 Pret i]
+THO mL «SSR ALCINOL

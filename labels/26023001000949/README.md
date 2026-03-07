@@ -20,3 +20,17 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+### Label 3
+
+JOVUIW V
+1a Jay
+SWVIUC
+DREAMS
+ARE BUT
+A MIRAGE

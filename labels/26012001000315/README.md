@@ -24,3 +24,38 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*2 image(s) excluded: text did not meet readability threshold*
+
+### Label 1
+
+SPECIALLY BOTTLED AT AN ELEVATED PROOF
+
+WOLCOTT.
+
+4
+
+SAUTE L IG
+
+AN
+
+Uchy wane B0r®
+
+(TLL1N\
+
+Fine, cHARRED ||\/\/)} AMERICAN oAK
+
+WITT
+
+RICKHOUSE RESERVE
+
+D IS
+
+ELE
+
+Y
+
+E

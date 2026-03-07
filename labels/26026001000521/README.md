@@ -24,3 +24,35 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*2 image(s) excluded: text did not meet readability threshold*
+
+### Label 3
+
+90.8 mm
+
+| BOURBON
+| WHISKEY
+
+| a4 nD
+IN YOUR HAND IS A FINE 4-YEARSOLD.
+| BOURBON, NON-CHILL FILTERED
+
+AND handcrafted WITH A
+MASHBILL OF 72% CORN, 16% RYE,
+6% WHEAT, AND 6% MALTED BARLEY.
+THIS rebe/lious spirit 1S FULL OF DARK
+AMBER HONEY, WARM SPICE, AND
+
+| ORANGE PEEL FLAVORS
+| THAT COMBINE FOR A DEEP
+| COMPLEXITY AND o/d impression.
+
+ALC. BY VOL
+
+65.82 mm
+
+IN HONOR OF

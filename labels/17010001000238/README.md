@@ -34,3 +34,35 @@
 
 ![Label 6](./label_6.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*4 image(s) excluded: text did not meet readability threshold*
+
+### Back Label
+
+BARREL STRENGTH
+US*17
+KENTUCKY STRAIGHT BOURBON
+STNCLE
+BARREL
+We are proud to offer this special release of
+OuI
+Barrel Strength Kentucky Straight
+Bourbon. After full maturation, each
+individual charred white oak barrel of this
+US*1 Bourbon is bottled at its particular
+strength: This Single Barrel Bourbon has
+been mellowed by our signature filtration:
+GOVERNMEMT WARNING: (1] ACCORDING TO THE
+SURGEON GENERAL , WOMEN SHOULD NOT DRINK
+ALCOHOLIC   BEVERAGES   DURING   PREGNANCY
+BECAUSE OF THE RISK OF BIRTH DEFECTS. (2)
+CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS
+YOUR ABILITY  TO DRIVE A CAR OR OPERATE
+MACHINERY,AND MAY CAUSE HEALTH PROBLEMS
+8
+BOTTLED BY
+MICHTERS DISTILLERY LLC
+LOUISVILLE, KENTUCKY 40216

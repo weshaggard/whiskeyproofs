@@ -20,3 +20,67 @@
 
 ![Front Label](./front_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+ASS POCKET WHISKEY
+
+It’s a shame that so many folks these days are
+buying the best whiskey in the world and not
+drinking it. We put the rare stuff in an ass pocket
+so you can crack it and pass it. Bourbon wasn’t
+made to be admired on a shelf. We say -
+Have your whiskey, and drink it too.
+
+PRODUCED IN TENNESSEE & BOTTLED BY:
+APW, GEORGETOWN, KY
+GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL,
+WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY
+BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF
+ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR
+OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
+
+60012 tH 4
+
+### Front Label
+
+4
+
+(
+
+PW
+
+(“4 ASS POUsaY UPS
+
+—
+
+==
+
+————
+
+=
+
+=
+
+——
+
+20
+
+ML
+
+OLD
+
+wh
+
+* CASK STRENGTH -
+
+TENNESSEE MMSE
+
+ALC / VOL 97.5%
+
+PROOF
+
+LOT No

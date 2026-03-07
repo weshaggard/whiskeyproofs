@@ -55,3 +55,161 @@
 
 ![Label 9](./label_9.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 127.1
+**Detected Age:** 7 Years
+
+### Back Label
+
+124-YOOO
+63.55%
+Age
+1
+AlcIvol
+7YRS 3M0
+(127.1 PRopF]
+1
+BATCH N?
+KenTUCKY STRAIGHT BOURBON WHISKEY
+2015-01/ Bag2
+MASTER DISTILLER:960-1992
+
+### Front Label
+
+124-YOOO
+63.55%
+Age
+1
+AlcIvol
+7YRS 3M0
+(127.1 PRopF]
+J
+BATCH N?
+KenTUCKY STRAIGHT BOURBON WHISKEY
+2015-01/ BaE22
+MASTER DISTILLER:1960-1992
+
+### Label 10
+
+BOOKER'Se KENTUCKY STRAIGHT BOURBON WHISKEY
+DISTILLED AND BOTTLED BY JAMES B. BEAM DISTILLING CO.
+CLERMONT, KENTUCKY
+GOVERNMENT WARNING:
+ACCORDING TO THE
+SURGEOH GENERAL; WOMEN ShOULD NOT DRIHK
+AlCOhOlIC BEVERAGES DURING PREGHAHCY be:
+CAuSe OF the RISK €F BIRTH DEFECTS. (2} CON
+SUMPTLOH €F ALCOhOLIc BEVERAGES IMPAIRS
+YOUR AbIlTY TO DRIVE
+Car OR OPERATE Ma:
+CHIHERK AnD  MaY CAuSe health pROBLEMS .
+'80686"01140'
+ME VT REF 1Sc
+IA REF Sc
+24-BADM
+
+### Label 2
+
+124-YdOO
+63.55%
+Age
+3
+Alcfvol
+7YRS 3MO
+(127.1 PRopF]
+J
+BATCH N?
+KenTuCKY STRAIGHT BOURBON WHISKEY
+2015-01/ BaE22
+MASTER DISTILLER:1960-1992
+
+### Label 3
+
+124-YOOO
+63.55%
+Age
+AlcIvol
+7YRS 3M0
+(127.1 PRopF
+}
+BATCH N?
+KenTUCKY STRAIGHT BOURBON WHISKEY
+2015-01/ Bag2z
+MASTER DISTILLER:1960-1992
+
+### Label 4
+
+124-YOOO
+63.55%
+Age
+Alcfvol
+3
+(127.1 PRopF]
+7YRS 3M0
+3
+BATCH N?
+KenTuCKY STRAIGHT BOURBON WHISKEY
+2015-01/ BaE2
+MASTER DISTILLER:1960-1992
+
+### Label 5
+
+booker
+
+le. Whitleyy viv thea flochege 2
+
+aie Co
+
+trade \ Ell
+
+role
+
+wpe (rd betd phagh
+
+fen pee Lew, Wy Grane,
+
+Bean bbicttis, turing
+
+i
+
+750ML
+
+### Label 6
+
+124-YOOO
+3
+63.55%
+Age
+Alcfval
+7YRS 3M0
+1
+(127.1 PRoDF}
+KeNTUCKY STRAIGHT BOURBON WHISKEY
+BATCH N?
+82015-o1/z22
+MASTER DISTILLER:1960-1992
+
+### Label 7
+
+63.55% Jace
+asia) TYRS 3MO
+
+KENTUCKY STRAIGHT BOURBON WHISKEY
+
+Bookv floc
+5015-01 MASTER DISTILLER:1960- 1992
+
+s
+8
+£
+=
+5
+8
+2
+2
+iz

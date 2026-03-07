@@ -27,3 +27,37 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+### Front Label
+
+KENTUCKY STRAIGHT BOURBON WHISKEY
+
+NON-CHILL FILTERED AND BARRE PROOE
+
+RUSSELLS
+
+—— RESERVE |iGaieat
+
+SINGLE RICKHOUSE
+
+### Label 2
+
+Tent
+
+= See sO
+
+AES
+
+= 9535
+
+=a5550
+CAMP NELSON E StF
+
+MATURED ON FLOOR 5 —P
+
+o

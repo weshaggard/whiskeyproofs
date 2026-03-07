@@ -20,3 +20,19 @@
 
 ![Front Label](./front_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+### Front Label
+
+HIGH
+HOLLER
+
+FINE APPALACHIAN WHISKY
+SIGNATURE CLASSIC
+i
+
+ALC/VOL

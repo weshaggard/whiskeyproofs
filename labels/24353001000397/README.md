@@ -28,3 +28,67 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*2 image(s) excluded: text did not meet readability threshold*
+
+### Label 1
+
+110-KCC014
+
+CASK STRENGTH kentucky straigut
+SINGLE BARREL SELECT B80URBON WHISKEY
+
+AMINLINIM ‘INOWHYITI
+
+LA WG
+HOLVGA TIVNS
+AAMSIHM NOGUNOE LHIIVYLS AWININAY
+
+LOATAS TAUHUVA ATIONIS
+
+HLINIJULS WSVI
+
+Miid0 4ONy
+
+IVNIOIWUO AHL
+
+### Label 2
+
+DS
+
+SINGLE BARREL SELECT BOURBON
+
+—_ —«C—
+
+PRIVATELY SELECTED
+
+INF
+
+BARREL
+
+WAREHOUSE J
+
+FLOOR 5
+
+Qa. —!
+
+"« 05-01-1 1 19.4
+
+ost
+
+oe ©<04/01/2017
+
+DATE
+
+BOTTLED
+
+04/01/2025
+
+PROOF
+
+— oo
+
+ll

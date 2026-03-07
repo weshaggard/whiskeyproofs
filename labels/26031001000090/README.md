@@ -18,3 +18,6 @@
 
 ![Front Label](./front_label.jpg)
 
+## Extracted Label Text
+
+*No readable text could be extracted from the label images.*

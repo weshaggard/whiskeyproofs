@@ -24,3 +24,22 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*2 image(s) excluded: text did not meet readability threshold*
+
+### Label 3
+
+a
+
+ws
+
+SIRDAVIS
+
+CASK STRENGTH
+
+CASK STRENGTH .
+RYE WHISKY FINISHED |
+IN SHERRY CASKS .

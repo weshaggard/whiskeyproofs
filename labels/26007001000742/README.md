@@ -16,3 +16,36 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+"SWI180Ud HINWSH ASAD
+AVIN CNY AUANIHOWW SLV¥3d0 YO YVO V SAIC OL ALMIGY
+UNOA SUIVAINT SIOVYIAIG IMOHOTW 40 NOLLdWNSNOS (2)
+“SLO3430 HLUI 40 YSIY SH 40 ISNVOSE AONVNDAd ONIN
+S39VUIAIS INOHOITW ANIC LON CINOHS NAWOM ‘TWHINI9
+NOJOUNS FHL OL ONIGHOIOY (1) *QNINYWM LNAWNYSA0D
+
+Ze
+Y) O
+<{£|2i5:
+_I O
+a
+
+im 7
+> =
+= |||
+Se)
+& || fez
+2 =)
+=
+= LL
+
+GROWN, DISTILLED & AGED IN COLOR
+
+CA CRV Bottled by:
+IA5¢ Gravity Drinks
+ME 5¢ Bardstown, KY

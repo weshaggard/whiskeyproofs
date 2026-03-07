@@ -26,3 +26,20 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*2 image(s) excluded: text did not meet readability threshold*
+
+### Front Label
+
+she;
+Mountain Inn Bar
+= 2 — Est.1973 ——
+NEVER CHILL FILTERED. ALWAYS SWEET MASHED.
+MASH BILL
+CORN RYE MALT
+DISTILLED & BOTTLED BY
+
+BARREL* Line Stuffs DISTILLNG

@@ -18,3 +18,27 @@
 
 ![Front Label](./front_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Front Label
+
+FOUNDED
+IN 2004
+
+PREMIUM
+
+OREGON YELLOW DENT
+
+Weeveuverevevee
+
+CORN WHISKEY
+
+80 PROOF * 40% ALC/VOL * 750 ML E
+FERMENTED, DISTILLED, AND AGED BY
+
+NEW DEAL DISTILLERY q
+LE, INPORTLAND, OREGON = Ol);
+
+VVVVVVVYVYVVVVVYVVYVYVYVVYVVYVVVVVYYVYYYVYTYY YY

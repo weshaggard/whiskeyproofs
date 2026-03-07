@@ -21,3 +21,35 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+### Back Label
+
+BOOKER'S
+KENTUCKY STRAIGHT BOURBON WHISKEY
+DISTILLED AND BOTTLED BY JAMES B. BEAM DISTILLING CO.
+CLERMONT, KENTUCKY
+NOT FOR UNDERAGE
+ME VT REF 154
+IA REF 54
+WWWdrinksmart,com
+CA CRV
+17
+GOVERNMENT WARNING: (I) ACCORDIUG TO
+THE   SURGEOU  GENERAL, WOMEU  ShOuLI
+NOT DHINKalCOhOLIcbEVERAgeS DURING
+pREGUaUCY
+BECAUSE
+OF
+THE
+RISK
+OF BIRTH  DEFECTS. (2) CONSUMPTLOU OF
+alcohOlic   BEVERAGES   |mpAIbS   YOUR
+abiliTy TO IRIVE A CAR OR OPERATE Machi:
+'80686"000915'
+3
+ERV,ANI May CAUSe   hEAlTh  PROBLEMS.

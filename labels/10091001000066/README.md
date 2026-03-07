@@ -35,3 +35,50 @@
 
 ![Label 5](./label_5.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*2 image(s) excluded: text did not meet readability threshold*
+
+### Back Label
+
+EARS
+
+FO! FORM OSTLER C0, OUSVILE, KI
+OVERNMENT WARNE) ACCORDNG TO TE SURGEON
+SENTRA WOMEN SHOULO NET ORIN ALCDOUC
+_ RVERAGES URN REE BECAUSE OF THE SK
+
+RTH Dees) CONSUMETION CE ALCOONE
+VACHS IPARS YOUR ABUT TUDRNVER RO
+DPERATE HACCONERY, AND MAY CAUSE HEALTH PROBLEMS.
+
+AGED IN OAK OVER 12¥
+
+### Front Label
+
+WLm
+FORESTER
+STRAIGHT BOURBON
+BIRTHDAY
+4757. ALC VOL
+BOURBON
+I50ML
+KENTTUGKY
+WHISKY
+
+### Label 5
+
+4ugi
+Jodud %6
+NOIlio]
+0jiiwIT
+AGED
+TWELVE
+YEARS
+LIMITED
+EDIION
+95 FaOOF
+aRELed
+0371]

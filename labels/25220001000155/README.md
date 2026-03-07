@@ -22,3 +22,29 @@
 
 ![Front Label](./front_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+### Front Label
+
+& a
+
+| oWHISKEY |!
+
+JYPSI
+
+° _¢* TRIBUTE ¢ — ¢
+
+[ewer BARRELED
+[ewer BOURBON WHISKEY
+
+86 PROOF (43% ALC/VOL)
+BORN OF
+
+Jpn WM Poets g ploneeR® ||
+
+BRONZE MX81 FOIL
+ROUND COUNTOUR EMBOSS

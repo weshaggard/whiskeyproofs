@@ -32,3 +32,96 @@
 
 ![Label 5](./label_5.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 100
+
+### Label 1
+
+CRAFTED FOR SUPERIOR
+
+TASTE & SMOOTHNESS
+
+1992
+
+since
+
+100 PROOF
+
+§
+
+100 PROOF
+
+SOM ALCL.
+
+=
+
+=
+
+### Label 2
+
+12%
+
+SKE
+
+|
+
+|GHT
+WHI
+
+ON
+
+RBI
+
+JURB
+
+BO
+
+ICKY STRAI
+
+NTL
+
+| AMINININ ‘INOWHITI
+
+‘SSINHLOOMS ® JISVL NOINIdNS Nos aIL4vYD
+
+AJVSIHM NOGUNO|
+LHOIVYLS AMININAY
+
+9349 BONY
+
+——= ‘IVNIDIHO @ wh —<—
+
+### Label 4
+
+AMIUMINIWY LNOWYIAT9
+
+Sistilleg «
+Umire in
+Wangs; ties
+
+CRE rat batdh
+
+### Label 5
+
+GOVERNMENTWARNING: (8] ACCORDING TO THE SURGEON GENERAL, WOMEM SHOULD
+NOT  DRINK ALCOHOLIC BEVERAGES DURLNG PREGNANCY BECAUSE OF ThE  RISK OF
+BIRTH DEFECTS. (2| COMSUMPTLOM OF ALCOHOLC BEVERAGES VMPAUAS VOUR AbIL;
+ITY TO DRIE A CAR OR OPERATE MACHINERV AND MAY CAUSE HEALTH PROBLEMS
+Per 1,5 fl, 0Z,
+Average Analysis: Calories 122.0, Carbohydrates 0,Og; Protein Og, Fat Og
+750 mL | 50% Alc_/VOL;
+ME VT REF 154 * IA REF 54
+dstiLled AND BOTTLED BY
+KNOB CReEK DISTILLING COMPANY;
+1
+CLERMONT, KeNTUCKY
+WWW KNOBCREEK COM
+2
+WWW.DRINKSMART. COM
+'80686
+01678

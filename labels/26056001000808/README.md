@@ -24,3 +24,92 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+### Back Label
+
+TRADE wh yVCWAgy a MARK
+
+—
+
+Ballards
+
+L-=> FULL THROTTLE ~~~
+
+HISKE
+
+tan
+
+kok
+
+ok
+
+kk
+
+KK
+
+x *
+
+USA’
+
+| il
+
+|
+
+50040
+
+ti eT)
+
+ja
+
+=
+
+### Front Label
+
+TRADE ISlARs = MARK
+
+ay Ballanis =
+
+.-=> FULL THROTTLE + ~
+
+SKE
+
+ae
+
+Y
+
+omits
+
+STABLISHED
+
+Te SAL OLORS oe
+
+SS
+
+SA nm sits ANTES NS
+
+kkk
+
+kkk
+
+1776-2026
+
+2250
+
+ANNIVERSARY C
+
+: TUES
+
+SLEUSEA reer sn envEekolenes®
+
+Pa
+
+a
+
+sah
+
+Lp

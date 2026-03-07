@@ -22,3 +22,30 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+### Front Label
+
+\ y a
+\Y iy
+AN J
+a Xl | Ae
+Sy 7
+i} Dy r, %
+PENELOPE
+VP ot YA
+\| iN Y
+y U\F
+en Ny
+\
+PENELOPE DISTILLED IN LAWRENCEBURG, IN
+NE One eg STRAIGHT BOURBON WHISKEY BOTTLED BY PENELOPE BOURBON
+WHESTED BOURBON Pea se BOTTLING COMPANY IN DALLAS, TX
+375 ML 9, 04 Di ING a» 3) D Wet ast
+aoe
+olligssszliaszel | BROOnEO9) TALC RYVOU: at a Oe AN AR
+CAUSE HEALTH PROBLEMS

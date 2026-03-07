@@ -18,3 +18,14 @@
 
 ![Back Label](./back_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+WILD
+TURKEY
+101
+CRAFTED WITH
+CONVICTION

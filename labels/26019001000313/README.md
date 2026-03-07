@@ -18,3 +18,36 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+GLENNS CREEK
+
+“A LITTLE DIFFERENT. A LOT BETTER!”
+
+GCD
+
+&
+
+P='O
+
+Fl |
+
+RYE
+
+AGED AT LEAST
+
+24
+
+mo.
+
+375ML
+
+a
+
+DISTILLED, AGED & BOTTLED BY GLENNS CREEK DISTILLING, LLC
+
+FRANKFORT, KY

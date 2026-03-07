@@ -28,3 +28,27 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*2 image(s) excluded: text did not meet readability threshold*
+
+### Front Label
+
+UNBRIDLED
+
+SPIRIT
+
+KENTUCKY STRAIGHT BOURBON
+
+WHISKEY
+
+100 PROOF
+
+90% ALC/VOL, 730 mL
+
+### Label 4
+
+a J a
+REE TO Live THE LIFE i yoU CHO

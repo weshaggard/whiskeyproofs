@@ -30,3 +30,89 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+### Back Label
+
+SOUR MASH
+Jnenk 3
+H
+0
+M
+E
+S
+T E A
+D
+TM
+Shenk 's Homestead Sour Mash Whiskey
+honors the legacy of American whiskey figure
+John Shenk, who in 1753 founded a distillery
+that was to become known as Michter s in
+the 2oth Century. Please join US in toasting and
+celebrating American Whiskey History.
+GOVERNMENT WARNING: (1 ) ACCORDING
+TO THE   SURGEON   GENERAL,  WOMEN
+SHOULD
+NOT
+DRINK
+ALCOHOLIC
+BEVERAGES   DURING   PREGNANCY  BE:
+g
+CAUSE OF THE RISK OF BIRTH DEFECTS.
+(21
+CONSUMPTHON
+OF
+ALCOHOLIC
+BEVERAGES IMPAIRS YOUR ABILITY TO
+DRIVE A CAR OR OPERATE MACHINERY,
+8
+AND MAY CAUSE HEALTH PROBLEMS ,
+BottLed BY
+MICHTERS DISTILLERY LLC
+LOUISVILLE; KENTUCKY 40216
+KENTUCKY
+WHISKEY
+
+### Front Label
+
+=~
+
+OTTLE
+
+~
+
+OF
+
+LAs
+
+Me
+
+Bet
+
+BATCH #
+
+4 dstilled and bottled in Kentucky ,
+
+### Label 2
+
+SOUR
+fkenk ;
+H 0 M E
+S T E A D @
+Small Batch
+45.69ALC VOL
+912 PROOF
+750 ML
+Tliskey
+2018
+RELEASE
+Small @atrh Virnturky Suur Iarh @fislry
+MICHTER 'S DISTILLERY
+LOUISVILLE , KENTUCKY
+MASH
+KENTUCKY
+WHISKEY

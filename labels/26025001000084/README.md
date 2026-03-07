@@ -22,3 +22,52 @@
 
 ![Front Label](./front_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+Larrikin (n): Australian slang. person who disregards convention; a maverick.
+Lariknism was reaction to rules imposed by Bish officials onthe young
+country of usta Our whiskey reflect this bod sprit of good-natured
+ireverece, and lies on character, not ceremony.
+
+Weare Larkin Bourbon Co. Veteran Owned Veteran Distilled.
+
+Katie Keeley, Co-Founder
+
+GOVERNMENT WARNING:
+
+{crag Sener rome sl at ike
+ing pregnancy because of hk det
+
+(2) Consumption acon eboveageslnpas you ayo vee
+
+‘ar or operate machinery, and may cause heath pol
+
+### Front Label
+
+)
+
+ARR
+
+iKIN
+
+— BOURBON Co.—
+
+KENTUCKY
+
+ORIGIN
+
+KENTUCKY STRAIGHT
+
+BOURBON WHISKEY
+
+| VETERAN OWNED = VETERAN DISTILLED.
+
+ALC/VOL
+
+‘NEVER CHILL FILTERED
+
+PROOF

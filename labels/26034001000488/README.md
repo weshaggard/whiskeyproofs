@@ -22,3 +22,70 @@
 
 ![Front Label](./front_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+### Back Label
+
+Aged aVinimum o Years:
+
+Created to honor America’s 250th Anniversary, SPIRIT
+
+OF AMERICA is a celebration of grit, freedom, and the
+
+independent spirit that defines us. This Limited
+
+Edition Bottled-in-Bond Tennessee Straight Bourbon
+
+Whiskey is hand selected by Pitmaster Carey Bringle
+
+and finished using our signature Hickory Charcoal
+
+Filtering Process, delivering a smooth sip with a bold,
+
+smoky character that’s unmistakably Peg Leg Porker.
+
+Carey’s journey from losing his leg to bone cancer to
+
+building the Peg Leg Porker brand truly reflects the
+
+same grit, resilience and determination that define
+
+the true Spirit of America.
+
+Raise a glass to 250 years and to the spirit that
+
+keeps us moving forward.
+
+1 Wy
+
+GOVERNMENT WARNING:
+
+(1) According to the Surgeon General, woman should not drink
+
+alcoholic beverages during pregnancy because of the risks of
+
+birth defects. (2) Consumption of alcoholic beverages impairs
+
+your ability to drive a car or operate machinery, and may cause
+
+health problems.
+
+|
+
+q
+
+06926 © 00032
+
+4
+
+Bottled by Peg Leg Porker Spirits /
+
+Teal Hollow Distilling
+
+DSP-TN-21113
+
+Nashville, TN USA

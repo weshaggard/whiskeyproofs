@@ -18,3 +18,58 @@
 
 ![Front Label](./front_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Front Label
+
+AOR RAK
+
+KR
+
+Ql! g
+
+RR
+
+A
+
+Dy
+
+RAOA
+
+RR
+
+RR
+
+RR
+
+RR)
+
+we
+
+‘
+
+¢) FeQk CANCER ,,
+
+A POUR FOR THE
+
+Cigar
+
+Blend
+
+Alc.) %
+
+by vol.
+
+Ge 0) i)
+
+SSK TREC
+
+y/
+
+l
+
+Blend of Straight Whisheys, finished in
+
+), BOTTLE # Tawny Port, Foursquare Rum, & Cognac XO~ 759 v1,

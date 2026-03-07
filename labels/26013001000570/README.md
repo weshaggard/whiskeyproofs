@@ -38,3 +38,54 @@
 
 ![Label 6](./label_6.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*3 image(s) excluded: text did not meet readability threshold*
+
+### Label 3
+
+: ss
+
+CELLAR COLLECTION
+
+VOLUME NO. 006
+
+CELLAR COLLECTION
+
+VOLUME NO. 006
+
+ee —_»<,
+
+### Label 4
+
+DISTILLED IN KENTUCKY. BOTTLED BY LOUISVILLE DISTILLING COMPANY, LOUISVILLE, KY
+
+CAMAETT IA S¢ ME/VT 15¢
+
+GOVERNMENT WARNING: (1) According to the Surgeon General, women should not
+
+drink alcoholic beverages during pregnancy because of the risk of birth defects.
+
+(2) Consumption of alcoholic beverages impairs your ability to drive a car or
+
+operate machinery, and may cause health problems
+
+©2025. ANGEL'S ENVY, ITS TRADE DRESS AND THE ANGEL WINGS LOGO ARE TRADEMARKS.
+
+ANGELSENVY.COM DRINK RESPONSIBLY. WWW.RESPONSIBILITY.ORG
+
+8141066502
+
+### Label 5
+
+AMT S ENVY
+|S § STRAIGHT RYE WHISKEY FINISHED IN
+Hl NG et al cil NW [Lo PEACH BRANDY & TOASTED OAK BARRELS
+
+THIS EXCEPTIONAL RELEASE BRINGS TOGETHER KENTUCKY STRAIGHT RYE AND THE NUANCED INFLUENCE OF PEACH
+5 BRANDY. AGED IN AMERICAN OAK THEN FINISHED IN A COMBINATION OF TOASTED OAK AND PEACH BRANDY BARRELS,
+IT OFFERS UNEXPECTED DEPTH, BLENDING TOGETHER NOTES OF SWEET FRUIT WITH SPICED RYE AND LAYERS OF OAK
+
+00S9901LP LE

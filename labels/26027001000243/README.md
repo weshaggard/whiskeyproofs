@@ -26,3 +26,43 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+### Front Label
+
+OLD
+
+STEELHOUSE
+
+GOVERNMENT WARNING:
+() According to the Surgeon
+General, women’ should not
+drink alcoholic beverages during
+pregnancy because of the risk of
+birth. defects. (2) Consumption,
+Of alcoholic beverages impairs
+your ability to drive a car_or
+‘Operate machinery, and, may
+‘use health problems:
+
+### Label 3
+
+==
+
+KENTUCKY STRAIGHT
+
+BOURBON WHISKEY
+
+J
+
+i——}
+
+ABV% = SINGLE BARREL NO
+
+AGED
+
+YEARS

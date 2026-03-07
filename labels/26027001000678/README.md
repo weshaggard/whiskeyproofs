@@ -28,3 +28,6 @@
 
 ![Label 4](./label_4.jpg)
 
+## Extracted Label Text
+
+*No readable text could be extracted from the label images.*

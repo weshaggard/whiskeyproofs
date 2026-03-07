@@ -16,3 +16,33 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+Distilled from grain 100ml
+
+OVERNMENT WARNING: (1) Accor, tothe
+seca General, women should not drink
+See, olic beverages during feanancy.becallse
+Ol the risk of bi defects (2)
+.
+
+( onsumption of
+coholic beverages impairs your ability
+ive a caf or operate machinery, and may
+use health problems.
+
+7 50099)
+
+z —— alcoh
+
+<2 a
+CO EES
+aE
+
+SS
+
+61878 0

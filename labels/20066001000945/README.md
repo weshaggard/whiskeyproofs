@@ -26,3 +26,63 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 1
+
+FouRoses
+Dup / Fpx
+Small Batch 2020 Release
+BARREL STaEnGTH
+KENTUCKY STRAIGHT BOURBON WHISKEY
+ALC/VOL;
+5K,02
+
+### Label 2
+
+Four distinct Bourbon recipes bring remarkable character to this refined
+Limited Edition release. Aromas of apple, orange peel, honey and vanilla
+mingle with soft fruit flavors of apricot, pear and hints of red berries.
+This is balanced with notes of rye spice and light oak, leading to a long,
+
+soft finish with refreshing fruit tones. Sip, savor and enjoy.
+
+les
+
+KENTUCKY STRAIGHT BOURBON WHISKEY
+
+DISTILLED AND AGED BY FOUR ROSES DISTILLERY LLC
+
+LAWRENCEBURG, KENTUCKY: FourRosesBourbon.com
+750ML
+
+GOVERNMENT WARNING:
+
+(1) ACCORDING TO THE SURGEON GENERAL,
+WOMEN SHOULD NOT DRINK ALCOHOLIC
+
+BEVERAGES DURING PREGNANCY BECAUSE
+
+OF THE RISK OF BIRTH DEFECTS.
+
+(2) CONSUMPTION OF ALCOHOLIC BEVERAGES
+
+IMPAIRS YOUR ABILITY TO DRIVE A CAR OR
+
+OPERATE MACHINERY, AND MAY CAUSE
+
+HEALTH PROBLEMS.
+
+Sediment from the barrel may be present
+in this non-chill filtered Bourbon.
+
+### Label 3
+
+Loe
+Limited Edition << £4) Small Bate
+mited | oe 7) 9Mall Bat
+as vd ONS i a
+ASS Se
+-— 2020-—=

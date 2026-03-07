@@ -21,3 +21,20 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+### Label 1
+
+LITTLE BOOK’
+
+o cele Gop Mook at an foret GE
+np flaedadly Msp and tut thabed
+tate wii Che wotld,
+
+Fitucio. (rm Satie ;
+
+AENTUGKY STRAIGHT BOURBON WHISKEY O19 RELEASE

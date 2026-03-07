@@ -18,3 +18,23 @@
 
 ![Front Label](./front_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Front Label
+
+Con
+
+BLAC ieee)
+Ee Cy Tapel.
+Sea
+
+——.
+
+—<“
+
+PREMIUM TENNESSEE BOURBON WHISKEY
+
+mG
+r 94 PROOF 750ML is)

@@ -20,3 +20,27 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+### Label 1
+
+PREMIUM
+VODKA
+Iroduct of91964
+Gistilled [vom Gvain
+BOTTLED BY
+409
+HEAVEN HILL
+DISTILLERIES, INC
+80
+BARDSTOWN, KY
+HEAVEN
+HILL
+QUALITY
+HOUSE
+) PROOF
+AIC/VOL

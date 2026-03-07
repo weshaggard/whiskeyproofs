@@ -24,3 +24,43 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+### Label 1
+
+KY-US
+
+HARDINS
+
+© op»
+
+544 ALVOL CLERMONTIY
+acer GJ ves aaum (Ye) sonowr-no ORD
+
+THIS WHISKEY BLOOMED AT THE LOWER END OF OUR DISTILLATION
+SPECTRUM. WITH ABUNDANT FLAVOR COMPOUNDS,
+A RICH AND LUSH PROFILE FLOURISHES.
+
+### Label 3
+
+DISTILLED AND BOTTLED BY
+
+CLERMONT
+
+KENTUCKY
+
+4
+
+°
+
+t
+
+JAMES BBEAM
+
+DISTILLING CO.
+
+A WHOLE NEW WORLD BEGINS AT HARDIN'S CREEK

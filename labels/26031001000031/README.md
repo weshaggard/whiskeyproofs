@@ -20,3 +20,46 @@
 
 ![Front Label](./front_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+GOVERMENT WARNING:
+
+(1) According to the Surgeon General,
+
+women should not consume alcohol
+
+during pregnancy because the risk of
+
+birth effects. (2) Consumption of
+
+alcoholic beverages impairs the ability
+
+to drive a car or operate machinery,
+
+and may cause health problems.
+
+### Front Label
+
+ANDY
+
+DANCER
+
+“Limited S Small Batch Release *
+
+BARREL AGED OVER TWO YEARS
+
+Pennsylvania Straight
+
+RYE
+
+WHISKEY
+Batch#____ Release#
+45% 90 750 ml
+Alc./Vol Proof Vol
+
+Distilled and Bottled by New Castle Union Station Craft Distillery Inc.
+334 E. Washington St. New Castle, PA 16101

@@ -16,3 +16,28 @@
 
 ![Back Label](./back_label.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+MULLIGAN
+
+HARBOR |
+——
+
+Distilled in Indiana
+Aged at Least One Year
+
+GOVERNMENT WARNING: (1) ACCORDING TO
+THE SURGEON GENERAL, WOMEN SHOULD
+NOT DRINK ALCOHOLIC BEVERAGES DUR-
+ING PREGNANCY BECAUSE OF THE RISK OF
+BIRTH DEFECTS. (2) CONSUMPTION OF AL-
+COHOLIC BEVERAGES IMPAIRS YOUR ABIL-
+ITY TO DRIVE A CAR OR OPERATE MACHIN-
+ERY, AND MAY CAUSE HEALTH PROBLEMS.
+
+Aged and Bottled by
+Chicagoland Spirits, Inc. Elk Grove Village, IL

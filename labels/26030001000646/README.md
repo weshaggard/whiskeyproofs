@@ -24,3 +24,62 @@
 
 ![Label 2](./label_2.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*2 image(s) excluded: text did not meet readability threshold*
+
+### Label 2
+
+bint
+
+i
+
+=<
+
+eee
+
+roasted French
+
+oak casks
+
+jjielévate the flavor |
+
+with candiéd apricot,
+
+25 BARRE
+
+OA
+
+eet nell eral we
+
+marshmallow, caramel,
+
+desevecees
+
+BATCH $)
+
+a
+
+orange zest, & a warm,
+
+BOTTLED.
+
+this
+
+refined spice finish.
+
+Peco rrrry
+
+Y)
+
+iO)
+
+ud
+
+RO
+
+Pip,
+
+561/53 :

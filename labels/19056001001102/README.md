@@ -35,3 +35,70 @@
 
 ![Label 5](./label_5.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*2 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 105
+
+### Back Label
+
+Didhday Poucbon
+
+AGED FOR OVER11 YEARS IN OAK CASKS
+
+‘This whisky is distilled by us only, and we are responsible for its richness and
+
+Jine quality. Its elegant flavor is solely due to original fineness developed with
+
+‘care. There is nothing better in the market,
+
+‘GEORGE OARVIN BROWN, FOUNDER.
+
+7 a
+
+GOVERNMENT WARNING: (I) ACCORDING TO THE SURGEON
+
+DISTILLED & BOTTLED BY
+
+GENERAL
+
+DRINK ALC ae foe
+
+STER DISTILLING CO.
+
+DURING PREGNANCY BECAUSE OF THE RISK OF
+
+P| COSUNPHGN OF ALCONOUC EVeAceS Means Yon ATOUSYILEN ENTRY
+
+ILITY.
+
+DRIVE A CAR OR OPERATE MACHINERY, AND MAY
+
+CAUSE HEALTH PROBLE!
+
+RESPONSIBILITY org
+
+### Label 1
+
+Barrelled
+OLD
+Ltd. Bottling
+2008
+2019
+FORESTER
+KENTUCKY STRAIGHT BOURBON WHISKY
+Bidhday Gowbon
+OLD FORESTER DISTILLING CO, AT LOUISVILLE IN KY 750mL 52.590 ALC OL (105 pROOF)
+
+### Label 4
+
+Tapes Ne teat asa
+
+j
+
+|
+
+ene weer
