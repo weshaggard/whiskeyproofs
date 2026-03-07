@@ -94,16 +94,17 @@ def validate_url(url: str, timeout: int = 10) -> Tuple[bool, str]:
         return False, f"Error: {str(e)}"
 
 
-def validate_csv_urls(filename: str, delay: float = 0.3) -> bool:
+def validate_csv_urls(filename: str, delay: float = 0.3, apply: bool = False) -> bool:
     """
     Validate all URLs in the CSV file with caching for duplicate URLs.
     
     Args:
         filename: Path to the CSV file
         delay: Delay between requests to be polite to servers
+        apply: When True, clear broken URLs from the CSV instead of failing
     
     Returns:
-        True if all URLs are valid, False otherwise
+        True if all URLs are valid (or all broken ones were cleared), False otherwise
     """
     # Read CSV and collect all URLs
     urls_to_check = []
@@ -177,16 +178,45 @@ def validate_csv_urls(filename: str, delay: float = 0.3) -> bool:
             print(f"\n❌ {entry['name']} - {entry['batch']}")
             print(f"   URL: {entry['url']}")
             print(f"   Error: {entry['error']}")
-        return False
+
+        if apply:
+            # Build a set of broken URLs to clear
+            broken_urls = {e['url'] for e in invalid_urls}
+
+            # Re-read the full CSV, clear url field for broken entries, write back
+            rows = []
+            fieldnames = None
+            with open(filename, 'r', newline='') as f:
+                reader = csv.DictReader(f)
+                fieldnames = reader.fieldnames
+                for row in reader:
+                    if row.get('url', '').strip() in broken_urls:
+                        row['url'] = ''
+                    rows.append(row)
+
+            with open(filename, 'w', newline='') as f:
+                writer = csv.DictWriter(f, fieldnames=fieldnames)
+                writer.writeheader()
+                writer.writerows(rows)
+
+            print(f"\n✅ Cleared {len(invalid_urls)} broken URL(s) from {filename}")
+            return True
+        else:
+            return False
     else:
         print("\n✅ All URLs are valid!")
         return True
 
 
 if __name__ == '__main__':
-    filename = '_data/whiskeyindex.csv'
-    if len(sys.argv) > 1:
-        filename = sys.argv[1]
-    
-    success = validate_csv_urls(filename)
+    import argparse
+
+    parser = argparse.ArgumentParser(description='Validate URLs in whiskeyindex.csv')
+    parser.add_argument('filename', nargs='?', default='_data/whiskeyindex.csv',
+                        help='Path to the CSV file (default: _data/whiskeyindex.csv)')
+    parser.add_argument('--apply', action='store_true',
+                        help='Clear broken URLs from the CSV instead of failing')
+    args = parser.parse_args()
+
+    success = validate_csv_urls(args.filename, apply=args.apply)
     sys.exit(0 if success else 1)
