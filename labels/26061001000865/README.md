@@ -1,0 +1,114 @@
+# TTB COLA Label Images - TTBID 26061001000865
+
+**Brand Name:** REVERE
+
+**Issue Date:** 03/04/2026
+
+**Origin Code:** 22
+
+**Product Class/Type:** 101
+
+**Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=26061001000865)
+
+## Label Images
+
+### Label 1
+
+![Label 1](./label_1.jpg)
+
+### Label 2
+
+![Label 2](./label_2.jpg)
+
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 100
+
+### Label 1
+
+APRIL 18
+APRIL 19
+JULY 4
+bt
+SzL ~
+R E V E R E
+PAUL
+1775
+REVERES
+THE
+1775
+SHOT HEARD
+THE
+1776
+DECLARATION
+MIDNIGHT RIDE
+'ROUND THE WORLD
+OF INDEPENDENCE
+MMaater
+DISTILLED in Kentucky. Aged
+and
+bottled
+by  Casey
+Jones
+Distillery;
+Hopkinsville,
+KY
+CASEYJONESDISTILLERY COM
+GOVERNMENT
+WARNING:
+(1) ACCORDING
+To THE
+SURGEON  GENERAL,
+WOMEN   SHOULD NOT DRINK
+ALCOHOLIC
+BEVERAGES
+DURING
+PREGNANCY
+50%
+BECAUSE
+OF
+THE
+RISK
+OF
+BIRTH
+DEFECTS (2)
+CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS
+ALC: BY VOL:
+YOUR
+ABILITY
+To
+DRIVE
+CAR
+OR
+OPERATE
+MACHINERY; AND MAY CAUSE HEALTH PROBLEMS
+CASEY
+BOTTLED IN CELEBRATION OF
+JONES
+W
+DT STTLLE R Y
+PRC
+VERY SMALL BATCH
+THE
+2501
+BIRTHDAY
+1776-2026
+Kentucky
+Proud.
+YEARS
+dt
+CYSTRAAIGHT
+SEMIQUINCENTENNIAL
+51624
+00616
+5
+750;
+ML
+AGED
+BOJRE   WHISKEY
+OF THE
+UNITED STATES OF AMERICA
