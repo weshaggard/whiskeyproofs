@@ -39,10 +39,22 @@ jobs:
           COPILOT_GITHUB_TOKEN: ${{ secrets.COPILOT_GITHUB_TOKEN }}
         run: |
           test -f .github/prompts/find-new-releases.prompt.md
-          copilot -p .github/prompts/find-new-releases.prompt.md
+          copilot -p "$(cat .github/prompts/find-new-releases.prompt.md)" \
+            --allow-all-tools --allow-all-urls --autopilot --no-ask-user
 
       - name: Run data validation script
         run: python3 .github/scripts/validate_whiskey_data.py
+
+      - name: Fix broken URLs
+        env:
+          COPILOT_GITHUB_TOKEN: ${{ secrets.COPILOT_GITHUB_TOKEN }}
+        run: |
+          test -f .github/prompts/fix-broken-urls.prompt.md
+          copilot -p "$(cat .github/prompts/fix-broken-urls.prompt.md)" \
+            --allow-all-tools --allow-all-urls --autopilot --no-ask-user
+
+      - name: Fix broken TTB URLs
+        run: python3 .github/scripts/validate_ttb_urls.py --apply
 
       - name: Run URL validation script
         run: python3 .github/scripts/validate_urls.py
