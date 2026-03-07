@@ -47,7 +47,8 @@ def validate_url(url: str, timeout: int = 10) -> Tuple[bool, str]:
         # Check if domain matches known bot-protected sites
         # Allow exact match or subdomain (e.g., www.angelsenvy.com)
         return domain == 'angelsenvy.com' or domain.endswith('.angelsenvy.com') or \
-               domain == 'jackdaniels.com' or domain.endswith('.jackdaniels.com')
+               domain == 'jackdaniels.com' or domain.endswith('.jackdaniels.com') or \
+               domain == 'fredminnick.com' or domain.endswith('.fredminnick.com')
     
     # Try with default SSL context first
     try:

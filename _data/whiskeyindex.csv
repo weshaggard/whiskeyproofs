@@ -7,6 +7,7 @@ Name,Batch,Age,Proof,ReleaseYear,Distillery,Type,TTB_ID,url
 1792 Bourbon,Full Proof,,125,2015-2025,Barton 1792,Bourbon,,https://1792bourbon.com/full-proof/
 1792 Bourbon,Bottled in Bond,4,100,2017-2025,Barton 1792,Bourbon,,https://1792bourbon.com/bottled-in-bond/
 1792 Bourbon,Aged Twelve Years,12,96.6,2019-2025,Barton 1792,Bourbon,,https://1792bourbon.com/
+A. Smith Bowman Cask Strength,Cask Strength #5,10,137.6,2026,A. Smith Bowman,Bourbon,,https://asmithbowman.com/cask-strength-5-lottery-2026/
 Angel's Envy Cask Strength,2025,10,122.6,2025,Angel's Envy,Bourbon,23132001000515,https://www.angelsenvy.com/us/en/product/angels-envy-10-cask-strength/
 Angel's Envy Cask Strength,2024,8,118.8,2024,Angel's Envy,Bourbon,23132001000515,https://www.angelsenvy.com/us/en/product/2024-cask-strength-bourbon/
 Angel's Envy Cask Strength,2023,,118.2,2023,Angel's Envy,Bourbon,23132001000515,https://www.angelsenvy.com/us/en/product/cask-strength/
@@ -115,14 +116,14 @@ Bomberger's Declaration,2020,,108,2020,Michter's,Bourbon,17347001000282,https://
 Bomberger's Declaration,2019,,108,2019,Michter's,Bourbon,17347001000282,https://michters.com/bombergers-declaration/
 Bomberger's Declaration,2018,,108,2018,Michter's,Bourbon,17347001000282,https://michters.com/bombergers-declaration/
 Booker's,2025-04 Phantom Pipes Batch,7,126.4,2025,Jim Beam,Bourbon,24320001000076,https://www.beamdistilling.com/bookersbourbon/whiskies/phantom-pipes-batch
-Booker's,2025-03 Jerry's Batch,7,124.7,2025,Jim Beam,Bourbon,24320001000072,https://www.beamdistilling.com/2025-03-jerry-batch-bourbon
+Booker's,2025-03 Jerry's Batch,7,124.7,2025,Jim Beam,Bourbon,24320001000072,https://www.beamdistilling.com/bookersbourbon/whiskies/2025-03-jerry-batch-bourbon
 Booker's,2025-02 By The Pond Batch,7,125.8,2025,Jim Beam,Bourbon,24320001000069,https://www.beamdistilling.com/bookersbourbon/whiskies/2025-02-by-the-pond-bourbon
 Booker's,2025-01 Barry's Batch,7,125.7,2025,Jim Beam,Bourbon,24320001000063,https://www.beamdistilling.com/bookersbourbon/whiskies/2025-01-barrys-batch-bourbon
-Booker's,2024-04 Jimmy's Batch,7,125.8,2024,Jim Beam,Bourbon,24193001000203,https://www.beamdistilling.com/bookersbourbon/whiskies/2024-04-jimmys-batch-bourbon
+Booker's,2024-04 Jimmy's Batch,7,125.8,2024,Jim Beam,Bourbon,24193001000203,https://www.beamdistilling.com/bookersbourbon/whiskies/2024-04-jimmy-batch-bourbon
 Booker's,2024-03 Master Distillers,7,130.3,2024,Jim Beam,Bourbon,23331001000178,https://www.beamdistilling.com/bookersbourbon/whiskies/2024-03-the-master-distillers-batch-bourbon
 Booker's,2024-02 The Beam House Batch,7,124.6,2024,Jim Beam,Bourbon,23331001000175,https://www.beamdistilling.com/bookersbourbon/whiskies/2024-02-the-beam-house-batch-bourbon
 Booker's,2024-01 Springfield Batch,7,124.5,2024,Jim Beam,Bourbon,23331001000172,https://www.beamdistilling.com/bookersbourbon/whiskies/2024-01-springfield-bourbon
-Booker's,2023-04 Storyteller Batch,7,127.8,2023,Jim Beam,Bourbon,22315001000378,https://www.beamdistilling.com/bookersbourbon/whiskies/2023-04-storyteller
+Booker's,2023-04 Storyteller Batch,7,127.8,2023,Jim Beam,Bourbon,22315001000378,https://www.beamdistilling.com/bookersbourbon/whiskies/2023-04-Storyteller-Bourbon
 Booker's,2023-03 Mighty Fine Batch,7,126.6,2023,Jim Beam,Bourbon,22315001000363,https://www.beamdistilling.com/bookersbourbon/whiskies/2023-03-mighty-fine-batch-bourbon
 Booker's,2023-02 Apprentice Batch,7,125.5,2023,Jim Beam,Bourbon,23017001000089,https://www.beamdistilling.com/bookersbourbon/whiskies/2023-02-apprentice-batch-bourbon
 Booker's,2023-01 Charlie's Batch,7,126.6,2023,Jim Beam,Bourbon,22315001000371,https://www.beamdistilling.com/bookersbourbon/whiskies/2023-01-charlies-batch-bourbon
@@ -130,7 +131,7 @@ Booker's,2022-04 Pinkie's Batch,6,122.4,2022,Jim Beam,Bourbon,21341001000711,htt
 Booker's,2022-03 Kentucky Tea Batch,7,126.5,2022,Jim Beam,Bourbon,21341001000704,https://www.beamdistilling.com/bookersbourbon/whiskies/2022-03-kentucky-tea-batch-bourbon
 Booker's,2022-02 The Lumberyard Batch,7,124.8,2022,Jim Beam,Bourbon,21341001000694,https://www.beamdistilling.com/bookersbourbon/whiskies/2022-02-lumberyard-batch-bourbon
 Booker's,2022-01 Ronnie's Batch,6,124.3,2022,Jim Beam,Bourbon,21341001000664,https://www.beamdistilling.com/bookersbourbon/whiskies/2022-01-ronnies-batch-bourbon
-Booker's,2021-04 Noe Strangers Batch,6,124.4,2021,Jim Beam,Bourbon,20356001000163,https://www.beamdistilling.com/bookersbourbon/whiskies/2021-04-noe-strangers-batch-bourbon
+Booker's,2021-04 Noe Strangers Batch,6,124.4,2021,Jim Beam,Bourbon,20356001000163,https://www.beamdistilling.com/bookersbourbon/whiskies/2021-04-strangers-batch-bourbon
 Booker's,2021-03 Bardstown Batch,6,125.5,2021,Jim Beam,Bourbon,20356001000158,https://www.beamdistilling.com/bookersbourbon/whiskies/2021-03-bardstown-batch-bourbon
 Booker's,2021-02 Tagalong Batch,6,127.9,2021,Jim Beam,Bourbon,21091001000135,https://www.beamdistilling.com/bookersbourbon/whiskies/2021-02-tagalong-batch-bourbon
 Booker's,2021-01 Donohoe's Batch,6,125.3,2021,Jim Beam,Bourbon,20356001000153,https://www.beamdistilling.com/bookersbourbon/whiskies/2021-01-donohoes-batch-bourbon
@@ -163,7 +164,7 @@ Booker's,2015-02 Dot's Batch,6,127.9,2015,Jim Beam,Bourbon,14232001000329,https:
 Booker's,2015-01 Big Man Small Batch,6,128.7,2015,Jim Beam,Bourbon,14232001000329,https://www.beamdistilling.com/bookersbourbon/whiskies/2015-01-big-man-small-batch-bourbon
 Booker's 25th,25th Anniversary,10,130.8,2014,Jim Beam,Bourbon,14232001000329,https://www.breakingbourbon.com/review/bookers-25th-anniversary
 Booker's 30th,30th Anniversary,9,125.8,2019,Jim Beam,Bourbon,18169001000311,https://www.beamdistilling.com/bookersbourbon
-Booker's Reserve,2025,8,123.3,2025,Jim Beam,Bourbon,25049001000438,https://www.beamdistilling.com/booker-the-reserves-2025
+Booker's Reserve,2025,8,123.3,2025,Jim Beam,Bourbon,25049001000438,https://www.breakingbourbon.com/review/bookers-the-reserves-2025
 Booker's Reserve,2024,8,125.9,2024,Jim Beam,Bourbon,24106001000079,https://www.beamdistilling.com/bookersbourbon/whiskies/bookers-the-reserves-limited-edition-bourbon
 Booker's Rye,2016-LE Big Time Batch,6,136.2,2016,Jim Beam,Rye,16034001000224,https://www.beamdistilling.com/bookersbourbon
 Buffalo Trace,standard,,90,1999-2025,Buffalo Trace,Bourbon,25048001000235,https://www.buffalotracedistillery.com/our-brands/buffalo-trace/
@@ -260,6 +261,8 @@ Elijah Craig Barrel Proof (ECBP),A314,12,132.4,2014,Heaven Hill,Bourbon,13232001
 Elijah Craig Barrel Proof (ECBP),C913,12,133.2,2013,Heaven Hill,Bourbon,13232001000241,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),B713,12,137,2013,Heaven Hill,Bourbon,13232001000241,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),A313,12,134.2,2013,Heaven Hill,Bourbon,13232001000241,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof Rye (ECBPR),A126,11.9,120.4,2026,Heaven Hill,Rye,25049001000197,https://elijahcraig.com/barrel-proof-rye
+Elijah Craig Barrel Proof Rye (ECBPR),A925,12.25,108,2025,Heaven Hill,Rye,25049001000197,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/elijah-craig-launches-its-first-ever-barrel-proof-kentucky-straight-rye-whiskey
 Elmer T. Lee,standard,,90,1986-2025,Buffalo Trace,Bourbon,19072001000124,https://www.buffalotracedistillery.com/our-brands/elmer-t-lee-single-barrel/
 Evan Williams,Bottled-in-Bond,,100,2012-2025,Heaven Hill,Bourbon,16180001000393,https://heavenhilldistillery.com/ew-bottled-in-bond.php
 Evan Williams,Black Label,,86,1957-2025,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/evan-williams-single-barrel.php
@@ -434,6 +437,10 @@ Michter's US 1,Bourbon,,91.4,2000-2025,Michter's,Bourbon,16085001000517,https://
 Michter's US 1,Barrel Strength Rye,,107.4-115.2,2025,Michter's,Rye,19274001000463,https://michters.com/whiskey/us-1-barrel-strength-rye/
 Michter's US 1,Barrel Strength Bourbon,,108-112,2017-2025,Michter's,Bourbon,17010001000238,https://michters.com/whiskey/us-1-limited-release-barrel-strength-bourbon/
 Michter's US 1,American Whiskey,,83.4,2000-2025,Michter's,Whiskey,16085001000490,https://michters.com/us1-american-whiskey/
+New Riff Silver Grove Bourbon,2026,6,116.4,2026,New Riff,Bourbon,25015001000070,https://www.fredminnick.com/2026/03/06/new-riff-announces-6-year-silver-grove-bourbon-and-rye/
+New Riff Silver Grove Bourbon,2025,4,110.3,2025,New Riff,Bourbon,25015001000070,https://www.fredminnick.com/2025/03/28/new-riff-releases-two-new-silver-grove-whiskeys/
+New Riff Silver Grove Rye,2026,6,115,2026,New Riff,Rye,25015001000072,https://www.fredminnick.com/2026/03/06/new-riff-announces-6-year-silver-grove-bourbon-and-rye/
+New Riff Silver Grove Rye,2025,4,110.2,2025,New Riff,Rye,25015001000072,https://www.fredminnick.com/2025/03/28/new-riff-releases-two-new-silver-grove-whiskeys/
 Old Fitzgerald Bottled-in-Bond,Fall 2025,11,100,2025,Heaven Hill,Bourbon,24324001000478,https://heavenhilldistillery.com/old-fitzgerald.php
 Old Fitzgerald Bottled-in-Bond,Spring 2025,9,100,2025,Heaven Hill,Bourbon,24324001000478,https://heavenhilldistillery.com/old-fitzgerald.php
 Old Fitzgerald Bottled-in-Bond,Fall 2024,8,100,2024,Heaven Hill,Bourbon,24324001000478,https://heavenhilldistillery.com/old-fitzgerald.php
