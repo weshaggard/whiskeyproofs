@@ -24,3 +24,42 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 93.7
+
+### Front Label
+
+ee
+
+SMALL BATCH
+$$$ —_____—.
+
+oa
+
+KENTUCKY STRAIGHT BOURBON WHISKEY
+46.85% ALC / VOL (93.7 PROOF)
+
+### Label 3
+
+SMALL BATCH
+—————e
+
+Named in honor of the year Kentucky joined the
+United States, 1792 Small Batch Bourbon is made
+from a marriage of a few select barrels carefully
+
+chosen by our Master Distiller. This refined bourbon
+
+elevates Kentucky distilling to exceptional new heights
+Celebrated by whiskey connoisseurs worldwide,
+the subtleties of 1792 make it incomparably brash
+and bold, yet smooth and balanced.
+
+88004
+
+06372

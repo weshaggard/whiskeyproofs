@@ -22,3 +22,22 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 91.2
+
+### Label 1
+
+a
+
+SWEET WHEAT
+een
+
+=
+
+KENTUCKY STRAIGHT BOURBON WHISKEY
+45.6% ALC / VOL (91.2 PROOF)

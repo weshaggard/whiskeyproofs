@@ -32,3 +32,16 @@
 
 ![Label 5](./label_5.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*4 image(s) excluded: text did not meet readability threshold*
+
+### Label 5
+
+DISTILLED AND BOTTLED BY
+
+JAMESBBEAM
+
+DISTILLING CO.

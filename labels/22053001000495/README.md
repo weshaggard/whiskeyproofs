@@ -40,3 +40,18 @@
 
 ![Label 7](./label_7.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*6 image(s) excluded: text did not meet readability threshold*
+
+### Label 3
+
+Distilled and bottled by
+
+FS BBEAM DISTILLING
+
+Distillers Since 1795
+
+JAY

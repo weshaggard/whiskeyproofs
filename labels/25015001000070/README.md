@@ -24,3 +24,112 @@
 
 ![Label 3](./label_3.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 113.6
+
+### Back Label
+
+Inspired by a 1933
+
+bottling of ‘Silver Grove’ Bourbon
+
+(A WHISKEY DISTILLED BEFORE
+
+PROHIBITION IN CINCINNATI, OHIO)
+
+we submit this 2025 limited edition of New Riff
+
+SitveR GROVE
+
+Distilled in Newport, Kentucky by
+
+NEW RIPE® DISTIELING
+
+this special barrel proof blend from
+
+Master Distiller Brian Sprance highlights the
+
+artistry of blending and the depth and
+
+character of whiskey in its purest form
+
+pesto
+
+Proceeds from this release will benefit
+
+the Silver Grove Community Foundation
+
+MASHBILL
+
+AGED
+
+65% CORN
+
+Cee Ass
+
+30% RYE
+
+5% MALTED BARLEY
+
+YEARS
+
+GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL,
+
+WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREG
+
+NANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION
+
+OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR
+
+OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
+
+DISTILLED, AGED, AND BOTTLED
+
+BY NEW RIFF® DISTILLING
+
+AMT
+
+ll
+
+|
+
+NEWPORT, KENTUCKY,
+
+56302
+
+00545
+
+4
+
+DSP-KY-20016
+
+### Front Label
+
+SILVER GROVE
+
+STRAIGHT
+
+BOURBON WHISKEY
+
+BARREL PROOF
+
+Without Chill Filtration
+
+AGED
+
+YEARS
+
+Distilled, Aged and Bottled by
+
+NEW RIFF® DISTILLING
+
+INCORPORATED
+
+NEWPORT, KENTUCKY
+
+113.6 PROOF | 56.8% ALC/VOL | 750 ML

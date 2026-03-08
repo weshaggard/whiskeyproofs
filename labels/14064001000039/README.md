@@ -22,3 +22,19 @@
 
 ![Label 1](./label_1.jpg)
 
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Proof:** 94.3
+
+### Label 1
+
+HIGH RYE
+
+oe
+
+KENTUCKY STRAIGHT BOURBON WHISKEY
+47.15% ALC / VOL (94.3 PROOF)
