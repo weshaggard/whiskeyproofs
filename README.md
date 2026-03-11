@@ -1,8 +1,8 @@
 [![Buy me a drink](assets/buymeadrink.png "Buy me a drink")](https://www.buymeacoffee.com/whiskeyproofs)
 
-# Whiskey proof index
+# Whiskey Proof Index
 
-A Jekyll-based static website for storing and displaying whiskey information. This site serves as a reference guide for finding specific details about whiskey batches, release years, and proof values.
+**[whiskeyproofs.com](https://whiskeyproofs.com)** — A comprehensive, searchable whiskey proof index for bourbon, rye, and barrel proof releases. Find batch-specific proof values, age statements, and distillery details for limited releases including George T. Stagg, Elijah Craig Barrel Proof, Booker's Bourbon, and hundreds more.
 
 ## 🥃 Use Cases
 
@@ -99,8 +99,8 @@ To run the site on your local machine for development:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/weshaggard/whiskeydata.git
-   cd whiskeydata
+   git clone https://github.com/weshaggard/whiskeyproofs.git
+   cd whiskeyproofs
    ```
 
 2. **Install dependencies**
@@ -144,7 +144,7 @@ This site is designed to work seamlessly with GitHub Pages.
    - Edit `_config.yml` and update the `url` and `baseurl` fields:
      ```yaml
      url: "https://weshaggard.github.io"
-     baseurl: "/whiskeydata"
+     baseurl: "/whiskeyproofs"
      ```
 
 ### Automatic Updates
@@ -173,7 +173,7 @@ whiskeyproofs/
 ## 🎨 Customization
 
 ### Changing the Theme
-The site uses the `minima` theme by default. To change it:
+The site uses the `jekyll-theme-minimal` theme. To change it:
 1. Edit `_config.yml`
 2. Change the `theme` value to another [supported GitHub Pages theme](https://pages.github.com/themes/)
 
@@ -212,5 +212,3 @@ This project is open source and available for use and modification.
 ## 🤝 Contributing
 
 Feel free to submit issues or pull requests to improve the site!
-
-<meta name="google-site-verification" content="UVyD9Njr1Y-rCRJ-uMoNbUMZ0l9yIeH84uoyxQKJGsE" />
