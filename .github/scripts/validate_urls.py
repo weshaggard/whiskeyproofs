@@ -18,8 +18,8 @@ def validate_url(url: str, timeout: int = 10) -> Tuple[bool, str, bool]:
     Validate a URL by making a HEAD request.
 
     Handles two special cases:
-    1. Bot protection: Many distillery/retailer sites return 403 for automated requests but
-       work fine in browsers. These are treated as valid with a warning.
+    1. Bot protection: Sites commonly return 403 for automated requests but work fine in
+       browsers. All 403 responses are treated as transient warnings rather than failures.
     2. SSL certificate errors: Sites with expired or invalid certificates are retried with
        lenient SSL verification. This is acceptable for URL existence checking where no
        sensitive data is transmitted.
@@ -32,31 +32,11 @@ def validate_url(url: str, timeout: int = 10) -> Tuple[bool, str, bool]:
           False when it is definitively broken (404, 410, DNS failure, etc.)
     """
     import socket
-    from urllib.parse import urlparse
-
-    # Known bot-protected domains: return 403 for automated HEAD requests but work in browsers
-    BOT_PROTECTED_DOMAINS = {
-        'angelsenvy.com',
-        'jackdaniels.com',
-        'fredminnick.com',
-        'greenriverwhiskey.com',
-        'garrisonbros.com',
-        'github.com',
-        'github.blog',
-    }
-
-    def is_bot_protected(code: int, url: str) -> bool:
-        """Return True if the 403 is from a known bot-protection domain."""
-        if code != 403:
-            return False
-        domain = urlparse(url).netloc.lower()
-        # Strip leading 'www.' for comparison
-        bare = domain[4:] if domain.startswith('www.') else domain
-        return bare in BOT_PROTECTED_DOMAINS or domain in BOT_PROTECTED_DOMAINS
 
     def is_transient_http_error(code: int) -> bool:
-        """Return True for HTTP errors that are likely transient (server-side or rate-limiting)."""
-        return code == 429 or (500 <= code < 600)
+        """Return True for HTTP errors that are likely transient (server-side, rate-limiting, or bot-protection)."""
+        # 403 is treated as transient: many sites block automated requests but work in browsers
+        return code == 403 or code == 429 or (500 <= code < 600)
 
     def classify_url_error(e: urllib.error.URLError) -> Tuple[bool, str, bool]:
         """
@@ -86,8 +66,6 @@ def validate_url(url: str, timeout: int = 10) -> Tuple[bool, str, bool]:
             # 4xx/5xx reached without raising HTTPError (unusual but handle gracefully)
             return False, f"HTTP {response.status}", is_transient_http_error(response.status)
         except urllib.error.HTTPError as e:
-            if is_bot_protected(e.code, url):
-                return True, "HTTP 403 (bot protection - URL valid in browser)", False
             return False, f"HTTP {e.code}", is_transient_http_error(e.code)
         except urllib.error.URLError as e:
             if isinstance(e.reason, ssl.SSLError):
