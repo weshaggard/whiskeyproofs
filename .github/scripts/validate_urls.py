@@ -13,99 +13,125 @@ import time
 from typing import Dict, List, Tuple
 
 
-def validate_url(url: str, timeout: int = 10) -> Tuple[bool, str]:
+def validate_url(url: str, timeout: int = 10) -> Tuple[bool, str, bool]:
     """
     Validate a URL by making a HEAD request.
-    
+
     Handles two special cases:
-    1. Bot protection: Some sites (angelsenvy.com, jackdaniels.com) return 403 for automated
-       requests but work in browsers. These are treated as valid with a warning.
+    1. Bot protection: Many distillery/retailer sites return 403 for automated requests but
+       work fine in browsers. These are treated as valid with a warning.
     2. SSL certificate errors: Sites with expired or invalid certificates are retried with
        lenient SSL verification. This is acceptable for URL existence checking where no
-       sensitive data is transmitted. For production use with sensitive data, consider
-       alternative approaches like certificate pinning or custom CA bundles.
-    
+       sensitive data is transmitted.
+
     Returns:
-        Tuple of (is_valid, error_message)
+        Tuple of (is_valid, error_message, is_transient)
+        - is_valid: True if the URL is considered reachable
+        - error_message: description of any error or warning
+        - is_transient: True when the failure is likely temporary (network/server issue),
+          False when it is definitively broken (404, 410, DNS failure, etc.)
     """
+    import socket
+    from urllib.parse import urlparse
+
+    # Known bot-protected domains: return 403 for automated HEAD requests but work in browsers
+    BOT_PROTECTED_DOMAINS = {
+        'angelsenvy.com',
+        'jackdaniels.com',
+        'fredminnick.com',
+        'greenriverwhiskey.com',
+        'garrisonbros.com',
+        'github.com',
+        'github.blog',
+    }
+
     def is_bot_protected(code: int, url: str) -> bool:
-        """
-        Check if HTTP 403 is due to bot protection on known sites.
-        
-        Note: This only checks a hardcoded list of known sites and may return false
-        negatives for other bot-protected sites not in the list.
-        """
-        from urllib.parse import urlparse
-        
+        """Return True if the 403 is from a known bot-protection domain."""
         if code != 403:
             return False
-        
-        # Parse URL to get the domain
-        parsed = urlparse(url)
-        domain = parsed.netloc.lower()
-        
-        # Check if domain matches known bot-protected sites
-        # Allow exact match or subdomain (e.g., www.angelsenvy.com)
-        return domain == 'angelsenvy.com' or domain.endswith('.angelsenvy.com') or \
-               domain == 'jackdaniels.com' or domain.endswith('.jackdaniels.com') or \
-               domain == 'fredminnick.com' or domain.endswith('.fredminnick.com')
-    
-    # Try with default SSL context first
+        domain = urlparse(url).netloc.lower()
+        # Strip leading 'www.' for comparison
+        bare = domain[4:] if domain.startswith('www.') else domain
+        return bare in BOT_PROTECTED_DOMAINS or domain in BOT_PROTECTED_DOMAINS
+
+    def is_transient_http_error(code: int) -> bool:
+        """Return True for HTTP errors that are likely transient (server-side or rate-limiting)."""
+        return code == 429 or (500 <= code < 600)
+
+    def classify_url_error(e: urllib.error.URLError) -> Tuple[bool, str, bool]:
+        """
+        Classify a URLError into (is_valid=False, message, is_transient).
+
+        DNS resolution failures (socket.gaierror) are permanent — the hostname
+        does not exist. All other connection-level errors (refused, reset, etc.)
+        are treated as transient.
+        """
+        reason = e.reason
+        if isinstance(reason, socket.gaierror):
+            # DNS lookup failure — the domain does not resolve; this is a definitive error
+            return False, f"DNS Error: {reason}", False
+        return False, f"URL Error: {reason}", True
+
+    def _try_head_request(context=None) -> Tuple[bool, str, bool]:
+        """Make a single HEAD request, optionally with a custom SSL context."""
+        try:
+            req = urllib.request.Request(url, method='HEAD')
+            kwargs: dict = {'timeout': timeout}
+            if context is not None:
+                kwargs['context'] = context
+            response = urllib.request.urlopen(req, **kwargs)
+            # urllib follows redirects, so any 2xx/3xx result here means success
+            if 200 <= response.status < 400:
+                return True, "", False
+            # 4xx/5xx reached without raising HTTPError (unusual but handle gracefully)
+            return False, f"HTTP {response.status}", is_transient_http_error(response.status)
+        except urllib.error.HTTPError as e:
+            if is_bot_protected(e.code, url):
+                return True, "HTTP 403 (bot protection - URL valid in browser)", False
+            return False, f"HTTP {e.code}", is_transient_http_error(e.code)
+        except urllib.error.URLError as e:
+            if isinstance(e.reason, ssl.SSLError):
+                # Signal caller to retry with lenient SSL
+                raise
+            return classify_url_error(e)
+        except TimeoutError as e:
+            return False, f"Timeout: {str(e)}", True
+        except Exception as e:
+            return False, f"Error: {str(e)}", True
+
+    # First attempt with default SSL context
     try:
-        req = urllib.request.Request(url, method='HEAD')
-        response = urllib.request.urlopen(req, timeout=timeout)
-        if response.status == 200:
-            return True, ""
-        else:
-            return False, f"HTTP {response.status}"
-    except urllib.error.HTTPError as e:
-        # Angel's Envy and Jack Daniel's block bots with 403, but URLs work in browsers
-        if is_bot_protected(e.code, url):
-            return True, "HTTP 403 (bot protection - URL valid in browser)"
-        return False, f"HTTP {e.code}"
+        return _try_head_request()
     except urllib.error.URLError as e:
-        # SSL errors come wrapped in URLError with the SSLError in the reason attribute
-        if isinstance(e.reason, ssl.SSLError):
-            # Retry with lenient SSL verification (see docstring for justification)
-            try:
-                ssl_context = ssl.create_default_context()
-                ssl_context.check_hostname = False
-                ssl_context.verify_mode = ssl.CERT_NONE
-                
-                req = urllib.request.Request(url, method='HEAD')
-                response = urllib.request.urlopen(req, timeout=timeout, context=ssl_context)
-                
-                if response.status == 200:
-                    return True, ""
-                else:
-                    return False, f"HTTP {response.status}"
-            except urllib.error.HTTPError as e2:
-                # Check for bot protection on retry
-                if is_bot_protected(e2.code, url):
-                    return True, "HTTP 403 (bot protection - URL valid in browser)"
-                return False, f"HTTP {e2.code}"
-            except urllib.error.URLError as e2:
-                return False, f"URL Error: {e2.reason}"
-            except TimeoutError as e2:
-                return False, f"Timeout: {str(e2)}"
-        else:
-            # Non-SSL URLError
-            return False, f"URL Error: {e.reason}"
-    except Exception as e:
-        return False, f"Error: {str(e)}"
+        # Only SSL errors are re-raised by _try_head_request; retry with lenient verification
+        try:
+            ssl_context = ssl.create_default_context()
+            ssl_context.check_hostname = False
+            ssl_context.verify_mode = ssl.CERT_NONE
+            return _try_head_request(context=ssl_context)
+        except urllib.error.URLError as e2:
+            return classify_url_error(e2)
+        except Exception as e2:
+            return False, f"Error: {str(e2)}", True
 
 
 def validate_csv_urls(filename: str, delay: float = 0.3, apply: bool = False) -> bool:
     """
     Validate all URLs in the CSV file with caching for duplicate URLs.
-    
+
+    Failures are split into two tiers:
+    - Transient failures (timeouts, connection errors, 429, 5xx): printed as warnings,
+      do NOT cause the script to exit with a non-zero status.
+    - Definitive failures (404, 410, DNS errors): printed as errors and cause a non-zero
+      exit unless ``apply`` is True (which clears them from the CSV instead).
+
     Args:
         filename: Path to the CSV file
         delay: Delay between requests to be polite to servers
-        apply: When True, clear broken URLs from the CSV instead of failing
-    
+        apply: When True, clear definitively broken URLs from the CSV instead of failing
+
     Returns:
-        True if all URLs are valid (or all broken ones were cleared), False otherwise
+        True if there are no definitive failures (or all were cleared), False otherwise
     """
     # Read CSV and collect all URLs
     urls_to_check = []
@@ -118,38 +144,49 @@ def validate_csv_urls(filename: str, delay: float = 0.3, apply: bool = False) ->
                     'batch': row['Batch'],
                     'url': row['url'].strip()
                 })
-    
+
     # Count unique URLs
     unique_urls = set(entry['url'] for entry in urls_to_check)
-    
+
     print(f"Validating {len(urls_to_check)} URL entries ({len(unique_urls)} unique URLs) from {filename}...\n")
-    
-    # Cache for URL validation results
-    url_cache: Dict[str, Tuple[bool, str]] = {}
+
+    # Cache for URL validation results: url -> (is_valid, error, is_transient)
+    url_cache: Dict[str, Tuple[bool, str, bool]] = {}
     cache_hits = 0
-    
+
     # Test each URL
-    invalid_urls = []
+    invalid_urls = []      # definitive failures
+    transient_urls = []    # transient / likely-temporary failures
     for i, entry in enumerate(urls_to_check, 1):
         name = entry['name']
         batch = entry['batch']
         url = entry['url']
-        
+
         # Check cache first
         if url in url_cache:
-            is_valid, error = url_cache[url]
+            is_valid, error, is_transient = url_cache[url]
             cache_hits += 1
         else:
             # Validate URL and cache the result
-            is_valid, error = validate_url(url)
-            url_cache[url] = (is_valid, error)
-            
+            is_valid, error, is_transient = validate_url(url)
+            url_cache[url] = (is_valid, error, is_transient)
+
             # Be polite to servers (only for new URLs)
             if i < len(urls_to_check):
                 time.sleep(delay)
-        
+
         if is_valid:
             print(f"✓ [{i}/{len(urls_to_check)}] {name} - {batch}")
+        elif is_transient:
+            print(f"⚠ [{i}/{len(urls_to_check)}] {name} - {batch}")
+            print(f"   URL: {url}")
+            print(f"   Warning (transient): {error}")
+            transient_urls.append({
+                'name': name,
+                'batch': batch,
+                'url': url,
+                'error': error
+            })
         else:
             print(f"❌ [{i}/{len(urls_to_check)}] {name} - {batch}")
             print(f"   URL: {url}")
@@ -160,7 +197,7 @@ def validate_csv_urls(filename: str, delay: float = 0.3, apply: bool = False) ->
                 'url': url,
                 'error': error
             })
-    
+
     # Print summary
     print(f"\n{'='*60}")
     print(f"VALIDATION SUMMARY")
@@ -168,12 +205,22 @@ def validate_csv_urls(filename: str, delay: float = 0.3, apply: bool = False) ->
     print(f"Total URL entries: {len(urls_to_check)}")
     print(f"Unique URLs validated: {len(unique_urls)}")
     print(f"Cache hits: {cache_hits}")
-    print(f"Valid URLs: {len(urls_to_check) - len(invalid_urls)}")
-    print(f"Invalid URLs: {len(invalid_urls)}")
-    
+    print(f"Valid URLs: {len(urls_to_check) - len(invalid_urls) - len(transient_urls)}")
+    print(f"Transient warnings: {len(transient_urls)}")
+    print(f"Definitively invalid URLs: {len(invalid_urls)}")
+
+    if transient_urls:
+        print(f"\n{'='*60}")
+        print(f"TRANSIENT WARNINGS (likely temporary - not blocking):")
+        print(f"{'='*60}")
+        for entry in transient_urls:
+            print(f"\n⚠ {entry['name']} - {entry['batch']}")
+            print(f"   URL: {entry['url']}")
+            print(f"   Warning: {entry['error']}")
+
     if invalid_urls:
         print(f"\n{'='*60}")
-        print(f"INVALID URLs FOUND:")
+        print(f"DEFINITIVELY INVALID URLs FOUND:")
         print(f"{'='*60}")
         for entry in invalid_urls:
             print(f"\n❌ {entry['name']} - {entry['batch']}")
@@ -205,7 +252,10 @@ def validate_csv_urls(filename: str, delay: float = 0.3, apply: bool = False) ->
         else:
             return False
     else:
-        print("\n✅ All URLs are valid!")
+        if transient_urls:
+            print(f"\n⚠ {len(transient_urls)} transient warning(s) - URLs may be temporarily unreachable.")
+        else:
+            print("\n✅ All URLs are valid!")
         return True
 
 

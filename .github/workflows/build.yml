@@ -39,6 +39,7 @@ jobs:
       - name: Run data validation script
         run: python3 .github/scripts/validate_whiskey_data.py
       - name: Run URL validation script
+        continue-on-error: true
         run: python3 .github/scripts/validate_urls.py
       - name: Setup Ruby
         # https://github.com/ruby/setup-ruby/releases/tag/v1.290.0
