@@ -28,6 +28,7 @@ Acceptance criteria:
 3. No duplicate row is introduced for the same `Name`, `Batch`, and `ReleaseYear`.
 4. Existing releases with unchanged attributes are updated by extending `ReleaseYear` range instead of adding duplicates.
 5. Errors in individual entries are isolated — a single bad entry does not block valid additions. Validation scripts complete successfully on the final set of kept changes.
+6. For every **new** brand or product added, research and add all earlier/historical releases of that product as well. The index should be as complete as possible — not just the current release.
 
 ## Required data quality rules
 
@@ -48,6 +49,10 @@ When adding rows:
 1. Follow existing conventions in `_data/whiskeyindex.csv`.
 2. Keep sort order valid (Name ascending, Batch descending with repository sort logic).
 3. Avoid duplicates (`Name`, `Batch`, `ReleaseYear`).
+4. **Name grouping rule**: Use the brand/distillery name as `Name` to group all expressions of that brand together. Use the `Batch` field to differentiate individual expressions within a brand. Only use a more specific `Name` for sub-series that have multiple distinct annual/numbered releases under a shared sub-brand name.
+   - ✅ `Chicken Cock` + `Bourbon` / `Rye` / `Small Batch` / `Inked Cask` — all core and limited expressions grouped under the brand name
+   - ✅ `Chicken Cock Annual Tin` + `Red Stave` / `Mizunara` / `Chanticleer` — separate Name for the annual tin sub-series because it has multiple distinctly-named yearly releases under that sub-brand
+   - ❌ `Chicken Cock Rye`, `Chicken Cock Small Batch` — avoid encoding the expression type in the Name when Batch can serve that purpose
 
 ## Label (TTB) lookup requirements
 

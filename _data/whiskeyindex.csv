@@ -59,6 +59,16 @@ Barrell Bourbon,Batch 004,,120.6,2014,Barrell Craft Spirits,Bourbon,,https://www
 Barrell Bourbon,Batch 003,,122.6,2014,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
 Barrell Bourbon,Batch 002,,117.8,2014,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
 Barrell Bourbon,Batch 001,,121.6,2014,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
+Barrell Bourbon,New Year 2026,,110.3,2025,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
+Barrell Bourbon,New Year 2025,,116.24,2024,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
+Barrell Bourbon,New Year 2024,,112.78,2023,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
+Barrell Bourbon,New Year 2023,,113.54,2022,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
+Barrell Bourbon,New Year 2022,,115.34,2021,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
+Barrell Bourbon,New Year 2021,,113.9,2020,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
+Barrell Bourbon,New Year 2020,,109.4,2019,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
+Barrell Bourbon,New Year 2019,,112.1,2018,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
+Barrell Bourbon,New Year 2018,,111.2,2017,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
+Barrell Bourbon,New Year 2017,,117,2016,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
 Benchmark,Top Floor,,86,2019-2025,Buffalo Trace,Bourbon,19319001000048,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-top-floor/
 Benchmark,Small Batch,,90,2019-2025,Buffalo Trace,Bourbon,19319001000047,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-small-batch/
 Benchmark,Single Barrel,,95,2019-2025,Buffalo Trace,Bourbon,19319001000044,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-single-barrel/
@@ -169,7 +179,20 @@ Booker's Reserve,2024,8,125.9,2024,Jim Beam,Bourbon,24106001000079,https://www.b
 Booker's Rye,2016-LE Big Time Batch,6,136.2,2016,Jim Beam,Rye,16034001000224,https://www.beamdistilling.com/bookersbourbon
 Buffalo Trace,standard,,90,1999-2025,Buffalo Trace,Bourbon,25048001000235,https://www.buffalotracedistillery.com/our-brands/buffalo-trace/
 Bulleit,standard,,90,1999-2025,Bulleit,Bourbon,25059001000397,https://www.bulleit.com/
+Bulleit Mesquite Smoked Malt,2026,,93,2026,Bulleit,Bourbon,25195001000166,https://www.bulleit.com/whiskeys/bulleit-mesquite-smoked-malt
 Bulleit Rye,standard,,90,2011-2025,Bulleit,Rye,25093001000227,https://www.bulleit.com/
+Chicken Cock,Wheated,5,94,2026,Chicken Cock,Bourbon,,https://chickencockwhiskey.com/whiskey/wheated-bourbon/
+Chicken Cock,Small Batch,4,100,2024-2025,Chicken Cock,Bourbon,,https://chickencockwhiskey.com/whiskey/small-batch/
+Chicken Cock,Rye,2,90,2020-2025,Chicken Cock,Rye,,https://chickencockwhiskey.com/whiskey/kentucky-straight-rye-whiskey/
+Chicken Cock,Miller's Reserve,,115,2025,Chicken Cock,American Whiskey,,https://chickencockwhiskey.com/whiskey/millers-reserve/
+Chicken Cock,Island Rooster,,95,2024,Chicken Cock,Rye,,https://chickencockwhiskey.com/whiskey/island-rooster/
+Chicken Cock,Inked Cask,,125,2025,Chicken Cock,Bourbon,,https://chickencockwhiskey.com/chicken-cock-whiskey-x-inked-casked/
+Chicken Cock,Double Oak,8,92,2023-2025,Chicken Cock,Whiskey,,https://chickencockwhiskey.com/whiskey/double-oak-kentucky-whiskey/
+Chicken Cock,Bourbon,4,90,2019-2025,Chicken Cock,Bourbon,,https://chickencockwhiskey.com/whiskey/kentucky-straight-bourbon-whiskey/
+Chicken Cock Annual Tin,Red Stave,,102.4,2023,Chicken Cock,Bourbon,,https://chickencockwhiskey.com/whiskey/red-stave/
+Chicken Cock Annual Tin,Mizunara,,105,2024,Chicken Cock,Bourbon,,https://chickencockwhiskey.com/whiskey/mizunara/
+Chicken Cock Annual Tin,Cotton Club Rye,20,100,2021,Chicken Cock,Rye,,https://chickencockwhiskey.com/whiskey/20-year-old-cotton-club-rye/
+Chicken Cock Annual Tin,Chanticleer,,112,2022,Chicken Cock,Bourbon,,https://chickencockwhiskey.com/whiskey/chanticleer/
 Colonel E.H. Taylor Bottled in Bond,BTAC Fall 2025,15,100,2025,Buffalo Trace,Bourbon,25122001000085,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/e-h-taylor-jr-bottled-in-bond/
 E.H. Taylor Barrel Proof (EHTBP),Batch 15,,127.4,2025,Buffalo Trace,Bourbon,10117001000094,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
 E.H. Taylor Barrel Proof (EHTBP),Batch 14,,127.2,2025,Buffalo Trace,Bourbon,10117001000094,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
@@ -340,6 +363,7 @@ Hardin's Creek,Jacob's Well - Batch 1 (184),15.33,108,2022,Jim Beam,Bourbon,2205
 Hardin's Creek,Golden Origins,11,106,2024,Jim Beam,Corn Whiskey,23348001000580,https://www.beamdistilling.com/hardins-creek
 Hardin's Creek,Colonel James B. Beam,2,108,2022,Jim Beam,Bourbon,22053001000519,https://www.beamdistilling.com/hardins-creek/whiskies/release-2-col-james-b-beam
 Heaven Hill 7 Year Bottled-in-Bond,standard,7,100,1939-2025,Heaven Hill,Bourbon,16271001000296,https://heavenhilldistillery.com/hh-bottled-in-bond.php
+Heaven Hill Deatsville,2026,13,109,2026,Heaven Hill,Bourbon,26023001000575,https://heavenhill.com/news-and-notes/heaven-hill-distillery-honors-a-storied-legacy-with-heaven-hill-deatsville-13-year-old-bourbon-whiskey/
 Heaven Hill Heritage Collection,2026,22,129.2,2026,Heaven Hill,Bourbon,26054001000267,https://heavenhilldistillery.com/heavenhill-heritage-collection.php
 Heaven Hill Heritage Collection,2025,19,100,2025,Heaven Hill,Wheat Whiskey,,https://heavenhilldistillery.com/heavenhill-heritage-collection.php
 Heaven Hill Heritage Collection,2024,18,120,2024,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/heavenhill-heritage-collection.php
@@ -412,6 +436,7 @@ Maker's Mark Cask Strength,standard,7-8,107-114,2014-2025,Maker's Mark,Bourbon,,
 Maker's Mark Cellar Aged,2025,11-14,112.9,2025,Maker's Mark,Bourbon,,https://www.makersmark.com/en-us/bourbons/makers-mark-cellar-aged
 Maker's Mark Cellar Aged,2024,,115,2024,Maker's Mark,Bourbon,,https://www.makersmark.com/en-us/bourbons/makers-mark-cellar-aged
 Maker's Mark Cellar Aged,2023,12-13,115,2023,Maker's Mark,Bourbon,,https://www.makersmark.com/en-us/bourbons/makers-mark-cellar-aged
+Maker's Mark Wood Finishing Series,The Stewards Release,,109.6-113.3,2026,Maker's Mark,Bourbon,,https://www.makersmark.com/bourbons/makers-mark-wood-finishing-series
 Maker's Mark Wood Finishing Series,The Keepers Release,,109.2,2025,Maker's Mark,Bourbon,,https://www.makersmark.com/bourbons/makers-mark-wood-finishing-series
 Maker's Mark Wood Finishing Series,The Heart (BEP),7-8,107-114,2024,Maker's Mark,Bourbon,,https://www.makersmark.com/bourbons/makers-mark-wood-finishing-series
 Maker's Mark Wood Finishing Series,SE4 x PR5,,110.8,2020,Maker's Mark,Bourbon,,https://www.makersmark.com/bourbons/makers-mark-wood-finishing-series
@@ -493,7 +518,7 @@ Old Fitzgerald Bottled-in-Bond,Fall 2019,15,100,2019,Heaven Hill,Bourbon,1804300
 Old Fitzgerald Bottled-in-Bond,Spring 2019,13,100,2019,Heaven Hill,Bourbon,18043001000060,https://heavenhilldistillery.com/old-fitzgerald.php
 Old Fitzgerald Bottled-in-Bond,Fall 2018,9,100,2018,Heaven Hill,Bourbon,18043001000060,https://heavenhilldistillery.com/old-fitzgerald.php
 Old Fitzgerald Bottled-in-Bond,Spring 2018,11,100,2018,Heaven Hill,Bourbon,18043001000060,https://heavenhilldistillery.com/old-fitzgerald.php
-Old Forester,1924,10,100,2024-2025,Old Forester,Bourbon,23144001000517,https://www.oldforester.com/products/old-forester-1924-10-year-old-whisky/
+Old Forester,1924,10,100,2024-2026,Old Forester,Bourbon,23144001000517,https://www.oldforester.com/products/old-forester-1924-10-year-old-whisky/
 Old Forester,1920,,115,2025,Old Forester,Bourbon,24305001000157,https://www.oldforester.com/products/old-forester-1920-style-prohibition-whisky/
 Old Forester,1910,,93,2025,Old Forester,Bourbon,24305001000147,https://www.oldforester.com/products/old-forester-1910-old-fine-whisky/
 Old Forester,1897,4,100,2025,Old Forester,Bourbon,24018001000248,https://www.oldforester.com/products/old-forester-1897-bottled-in-bond/
