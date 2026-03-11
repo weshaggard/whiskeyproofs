@@ -2,7 +2,7 @@
 
 # Whiskey Proof Index
 
-**[whiskeyproofs.com](https://whiskeyproofs.com)** — A comprehensive, searchable whiskey proof index covering bourbon batches, rye whiskey releases, barrel proof values, age statements, and distillery details. Look up batch-specific proof values for limited releases like George T. Stagg, Elijah Craig Barrel Proof, Booker's Bourbon, and hundreds more.
+**[whiskeyproofs.com](https://whiskeyproofs.com)** — A comprehensive, searchable whiskey proof index for bourbon, rye, and barrel proof releases. Find batch-specific proof values, age statements, and distillery details for limited releases including George T. Stagg, Elijah Craig Barrel Proof, Booker's Bourbon, and hundreds more.
 
 ## 🥃 Use Cases
 
