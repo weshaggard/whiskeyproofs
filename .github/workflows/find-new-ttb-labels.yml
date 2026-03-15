@@ -30,6 +30,17 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Switch to PR branch if it already exists
+        run: |
+          if git fetch origin automated/new-ttb-labels 2>/dev/null; then
+            git checkout automated/new-ttb-labels
+            echo "Checked out existing PR branch — new changes will be additive"
+          else
+            echo "Branch does not exist yet — a new branch will be created by create-pull-request"
+          fi
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -164,7 +175,6 @@ jobs:
           token: ${{ steps.generate_token.outputs.token }}
           commit-message: 'Add new TTB labels from ${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }}'
           branch: automated/new-ttb-labels
-          delete-branch: false
           title: 'New TTB Labels: ${{ steps.find_labels.outputs.new_count }} found (${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }})'
           body: |
             ## New TTB COLA Labels Found

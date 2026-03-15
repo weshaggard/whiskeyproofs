@@ -73,6 +73,11 @@ Instead, update the existing `ReleaseYear` value to extend the range (for exampl
 - **Logic/data errors** (failed validation, no match found): retry with small search/query adjustments up to 3 times (for example, broaden date range by 30 days, try product name variations, and check fallback bourbon sources).
 - **Permanent errors** (invalid path, permissions): stop immediately and report the error.
 
+## Git operations
+
+**Do NOT run any git commands.** Do not `git add`, `git commit`, `git push`, or create any branches.  
+Only edit files on disk. The workflow that runs this prompt handles all git and PR operations after the agent finishes.
+
 ## Validation
 
 Process each candidate release independently. If one entry fails validation or cannot be completed, skip that entry, record it as an error in the report, and continue processing the remaining entries. Do **not** let a single bad entry block additions of valid entries.

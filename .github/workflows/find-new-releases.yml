@@ -27,7 +27,7 @@ jobs:
             git checkout automated/find-new-releases
             echo "Checked out existing PR branch — new changes will be additive"
           else
-            echo "Branch does not exist yet — a new branch will be created"
+            echo "Branch does not exist yet — a new branch will be created by create-pull-request"
           fi
 
       - name: Set up Python
@@ -88,7 +88,6 @@ jobs:
           commit-message: 'Automated weekly bourbon and rye release update'
           branch: automated/find-new-releases
           base: main
-          delete-branch: true
           title: 'Weekly bourbon and rye release updates'
           body: |
             ## Automated Weekly Release Discovery
