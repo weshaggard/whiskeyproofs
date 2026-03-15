@@ -175,7 +175,6 @@ jobs:
           token: ${{ steps.generate_token.outputs.token }}
           commit-message: 'Add new TTB labels from ${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }}'
           branch: automated/new-ttb-labels
-          delete-branch: false
           title: 'New TTB Labels: ${{ steps.find_labels.outputs.new_count }} found (${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }})'
           body: |
             ## New TTB COLA Labels Found
