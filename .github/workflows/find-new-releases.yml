@@ -21,6 +21,15 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Switch to PR branch if it already exists
+        run: |
+          if git fetch origin automated/find-new-releases 2>/dev/null; then
+            git checkout automated/find-new-releases
+            echo "Checked out existing PR branch — new changes will be additive"
+          else
+            echo "Branch does not exist yet — a new branch will be created by create-pull-request"
+          fi
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
