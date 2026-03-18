@@ -1,0 +1,30 @@
+# TTB COLA Label Images - TTBID 26068001000353
+
+**Brand Name:** DOC HOLLIDAY
+
+**Issue Date:** 03/13/2026
+
+**Origin Code:** 00
+
+**Product Class/Type:** 101
+
+**Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=26068001000353)
+
+## Label Images
+
+### Front Label
+
+![Front Label](./front_label.jpg)
+
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Front Label
+
+“SWATGOd HITV3H 3SNVD AVN ONY ‘AYINIHDVW ALVtd0 YO UD V IAIUC OL ALITIAY UNOA SUIVAWI S3DVUIAIG JTIOHODTY 40 NOLLAINNSNOD (2) °S193430 HINIa 40
+STH 3HL4O 3SNVD34 ADNVNDSUd ONTUNG SADVUIAIS ITOHODTY YNIHC LON CINOHS NAWOM “IVHIN3D NOJDUNS IHL OL SNICHODDY (1) *SNINYWM LNAWNYA0D
+
+AINSIHM NOGUAOG LHDIVULS
+
+ANIGATILLSIC| WSN 40 L9NGOUd|¥9‘SSVUOUIONId “0D ALIDOS AAYSIHM CTYOM:A8 CELYOdWNT-3u| TWos| "1OA/'DTY 9605 |AANSIHM NOSUNOSLHOIVELS AYDUNAY AVGITIOH 900
