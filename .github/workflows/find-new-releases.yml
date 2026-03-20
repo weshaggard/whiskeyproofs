@@ -82,6 +82,7 @@ jobs:
           repositories: ${{ github.event.repository.name }}
 
       - name: Commit and push changes
+        id: commit_push
         env:
           GH_TOKEN: ${{ steps.generate_token.outputs.token }}
         run: |
@@ -98,13 +99,16 @@ jobs:
 
           if git diff --cached --quiet; then
             echo "No changes to commit"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
           else
             git commit -m "Automated bourbon and rye release update"
             git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
             git push origin automated/find-new-releases
+            echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
 
       - name: Create or update Pull Request
+        if: steps.commit_push.outputs.has_changes == 'true'
         env:
           GH_TOKEN: ${{ steps.generate_token.outputs.token }}
         run: |

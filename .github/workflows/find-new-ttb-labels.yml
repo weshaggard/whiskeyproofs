@@ -39,7 +39,7 @@ jobs:
             git checkout automated/new-ttb-labels
             echo "Checked out existing PR branch — new changes will be additive"
           else
-            echo "Branch does not exist yet — a new branch will be created by create-pull-request"
+            echo "Branch does not exist yet — it will be created from the current checkout"
           fi
       
       - name: Set up Python
@@ -165,51 +165,81 @@ jobs:
           private-key: ${{ secrets.APP_PRIVATE_KEY }}
           repositories: ${{ github.event.repository.name }}
       
-      - name: Create Pull Request
+      - name: Commit and push changes
+        id: commit_push
         if: steps.find_labels.outputs.has_new_labels == 'true'
-        uses: peter-evans/create-pull-request@v7
-        with:
-          # Use GitHub App token for automatic PR workflow triggering
-          # Tokens are auto-generated (1-hour lifetime), no maintenance required
-          # See: .github/GITHUB_APP_SETUP.md for setup instructions
-          token: ${{ steps.generate_token.outputs.token }}
-          commit-message: 'Add new TTB labels from ${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }}'
-          branch: automated/new-ttb-labels
-          title: 'New TTB Labels: ${{ steps.find_labels.outputs.new_count }} found (${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }})'
-          auto-merge: true
-          body: |
-            ## New TTB COLA Labels Found
-            
-            This PR was automatically created by the daily TTB label finder workflow.
-            
-            **Search Date Range:** ${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }}
-            **New Labels Found:** ${{ steps.find_labels.outputs.new_count }}
-            **Download Results:** ${{ steps.download_labels.outputs.success_count }} succeeded, ${{ steps.download_labels.outputs.fail_count }} failed
-            **Total Registry Results:** ${{ steps.find_labels.outputs.total_results }}
-            
-            ### Search Criteria
-            - **Origin Code:** All origin codes (not limited to Kentucky)
-            - **Product Class/Type:** 100-150 (whiskey)
-            - **Pagination:** Enabled (automatically retrieves all pages)
-            
-            ### New TTB IDs
-            
-            The following new TTB IDs were found and downloaded:
-            
-            ${{ steps.download_labels.outputs.ttb_list }}
-            
-            ### Next Steps
-            
-            1. Review the downloaded label images in the `labels/` directory
-            2. Verify the labels are for whiskey products
-            3. Consider adding entries to `_data/whiskeyindex.csv` if these are new products
-            4. Merge this PR to add the labels to the repository
-            
-            ---
-            *Automated by `.github/workflows/find-new-ttb-labels.yml`*
-          labels: |
-            automated
-            ttb-labels
+        env:
+          GH_TOKEN: ${{ steps.generate_token.outputs.token }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Ensure we are on the PR branch (create it from current HEAD if it doesn't exist yet)
+          CURRENT_BRANCH=$(git branch --show-current)
+          if [ "$CURRENT_BRANCH" != "automated/new-ttb-labels" ]; then
+            git checkout -b automated/new-ttb-labels
+          fi
+
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            git commit -m "Add new TTB labels from ${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }}"
+            git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
+            git push origin automated/new-ttb-labels
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create or update Pull Request
+        if: steps.commit_push.outputs.has_changes == 'true'
+        env:
+          GH_TOKEN: ${{ steps.generate_token.outputs.token }}
+        run: |
+          EXISTING_PR=$(gh pr list --head automated/new-ttb-labels --base main --json number --jq '.[0].number' 2>/dev/null)
+
+          if [ -z "$EXISTING_PR" ]; then
+            gh pr create \
+              --head automated/new-ttb-labels \
+              --base main \
+              --title "New TTB Labels: ${{ steps.find_labels.outputs.new_count }} found (${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }})" \
+              --body "## New TTB COLA Labels Found
+
+This PR was automatically created by the daily TTB label finder workflow.
+
+**Search Date Range:** ${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }}
+**New Labels Found:** ${{ steps.find_labels.outputs.new_count }}
+**Download Results:** ${{ steps.download_labels.outputs.success_count }} succeeded, ${{ steps.download_labels.outputs.fail_count }} failed
+**Total Registry Results:** ${{ steps.find_labels.outputs.total_results }}
+
+### Search Criteria
+- **Origin Code:** All origin codes (not limited to Kentucky)
+- **Product Class/Type:** 100-150 (whiskey)
+- **Pagination:** Enabled (automatically retrieves all pages)
+
+### New TTB IDs
+
+The following new TTB IDs were found and downloaded:
+
+${{ steps.download_labels.outputs.ttb_list }}
+
+### Next Steps
+
+1. Review the downloaded label images in the \`labels/\` directory
+2. Verify the labels are for whiskey products
+3. Consider adding entries to \`_data/whiskeyindex.csv\` if these are new products
+4. Merge this PR to add the labels to the repository
+
+---
+*Automated by \`.github/workflows/find-new-ttb-labels.yml\`*" \
+              --label "automated" \
+              --label "ttb-labels"
+
+            gh pr merge --auto --squash --head automated/new-ttb-labels 2>/dev/null || true
+          else
+            echo "PR #${EXISTING_PR} already exists — new commits pushed to existing branch"
+          fi
       
       - name: Upload search results as artifact
         if: steps.find_labels.outputs.has_new_labels == 'true'
