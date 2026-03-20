@@ -221,7 +221,7 @@ def validate_csv_urls(filename: str, delay: float = 0.3, apply: bool = False) ->
                     rows.append(row)
 
             with open(filename, 'w', newline='') as f:
-                writer = csv.DictWriter(f, fieldnames=fieldnames)
+                writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator='\n')
                 writer.writeheader()
                 writer.writerows(rows)
 

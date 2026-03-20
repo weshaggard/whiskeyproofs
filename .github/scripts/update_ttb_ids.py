@@ -126,7 +126,7 @@ def update_csv(csv_file, results, verify=False, dry_run=False):
     if not dry_run and updates_made > 0:
         try:
             with open(csv_file, 'w', newline='') as f:
-                writer = csv.DictWriter(f, fieldnames=fieldnames)
+                writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator='\n')
                 writer.writeheader()
                 writer.writerows(rows)
             print(f"\n✓ CSV file updated successfully")

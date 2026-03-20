@@ -253,7 +253,7 @@ def validate_and_update_csv(filename: str, delay: float = 0.3, dry_run: bool = F
             
             # Write updated CSV
             with open(filename, 'w', newline='') as f:
-                writer = csv.DictWriter(f, fieldnames=fieldnames)
+                writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator='\n')
                 writer.writeheader()
                 writer.writerows(rows)
             
