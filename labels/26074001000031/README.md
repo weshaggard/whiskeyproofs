@@ -1,0 +1,51 @@
+# TTB COLA Label Images - TTBID 26074001000031
+
+**Brand Name:** WELLER
+
+**Fanciful Name:** C.Y.P.B.
+
+**Issue Date:** 03/17/2026
+
+**Origin Code:** 00
+
+**Product Class/Type:** 101
+
+**Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=26074001000031)
+
+## Label Images
+
+### Label 1
+
+![Label 1](./label_1.jpg)
+
+### Label 2
+
+![Label 2](./label_2.jpg)
+
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+**Detected Proof:** 95
+
+### Label 1
+
+sellenv
+THE ORIGINAL
+WHEATED BOURBON
+C.Y P B
+KENTUCKY STRAICHT BOURBON WHISKEY
+47.5% ALC BY VOL | 95 PROOF
+
+### Label 2
+
+EXPORTED TO: UNITED KINGDOM
+7OOML
+RE-IMPORTED BY CONNOISSUER WINES USA PORT WASHINGTON,
+NY
+OBTAINED FROM A PRIVATE COLLECTION"
+GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT
+DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH
+DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A
+CAR OR OPERATE MACHINERY
+AND MAY CAUSE HEALTH PROBLEMS_
