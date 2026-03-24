@@ -1,6 +1,8 @@
 name: Find New Bourbon and Rye Releases
 
 on:
+  push:
+    branches: [main]
   schedule:
     # Daily at 09:00 UTC
     - cron: '0 9 * * *'
@@ -12,6 +14,7 @@ permissions:
 
 jobs:
   find-new-releases:
+    if: github.event_name != 'push'
     runs-on: ubuntu-latest
     environment: automation
 
