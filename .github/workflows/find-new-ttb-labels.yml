@@ -200,39 +200,41 @@ jobs:
           EXISTING_PR=$(gh pr list --head automated/new-ttb-labels --base main --json number --jq '.[0].number' 2>/dev/null)
 
           if [ -z "$EXISTING_PR" ]; then
+            PR_BODY=$(printf '%s\n' \
+              '## New TTB COLA Labels Found' \
+              '' \
+              'This PR was automatically created by the daily TTB label finder workflow.' \
+              '' \
+              '**Search Date Range:** ${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }}' \
+              '**New Labels Found:** ${{ steps.find_labels.outputs.new_count }}' \
+              '**Download Results:** ${{ steps.download_labels.outputs.success_count }} succeeded, ${{ steps.download_labels.outputs.fail_count }} failed' \
+              '**Total Registry Results:** ${{ steps.find_labels.outputs.total_results }}' \
+              '' \
+              '### Search Criteria' \
+              '- **Origin Code:** All origin codes (not limited to Kentucky)' \
+              '- **Product Class/Type:** 100-150 (whiskey)' \
+              '- **Pagination:** Enabled (automatically retrieves all pages)' \
+              '' \
+              '### New TTB IDs' \
+              '' \
+              'The following new TTB IDs were found and downloaded:' \
+              '' \
+              '${{ steps.download_labels.outputs.ttb_list }}' \
+              '' \
+              '### Next Steps' \
+              '' \
+              '1. Review the downloaded label images in the `labels/` directory' \
+              '2. Verify the labels are for whiskey products' \
+              '3. Consider adding entries to `_data/whiskeyindex.csv` if these are new products' \
+              '4. Merge this PR to add the labels to the repository' \
+              '' \
+              '---' \
+              '*Automated by `.github/workflows/find-new-ttb-labels.yml`*')
             gh pr create \
               --head automated/new-ttb-labels \
               --base main \
               --title "New TTB Labels: ${{ steps.find_labels.outputs.new_count }} found (${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }})" \
-              --body "## New TTB COLA Labels Found
-
-This PR was automatically created by the daily TTB label finder workflow.
-
-**Search Date Range:** ${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }}
-**New Labels Found:** ${{ steps.find_labels.outputs.new_count }}
-**Download Results:** ${{ steps.download_labels.outputs.success_count }} succeeded, ${{ steps.download_labels.outputs.fail_count }} failed
-**Total Registry Results:** ${{ steps.find_labels.outputs.total_results }}
-
-### Search Criteria
-- **Origin Code:** All origin codes (not limited to Kentucky)
-- **Product Class/Type:** 100-150 (whiskey)
-- **Pagination:** Enabled (automatically retrieves all pages)
-
-### New TTB IDs
-
-The following new TTB IDs were found and downloaded:
-
-${{ steps.download_labels.outputs.ttb_list }}
-
-### Next Steps
-
-1. Review the downloaded label images in the \`labels/\` directory
-2. Verify the labels are for whiskey products
-3. Consider adding entries to \`_data/whiskeyindex.csv\` if these are new products
-4. Merge this PR to add the labels to the repository
-
----
-*Automated by \`.github/workflows/find-new-ttb-labels.yml\`*" \
+              --body "$PR_BODY" \
               --label "automated" \
               --label "ttb-labels"
 
