@@ -2,9 +2,6 @@
 name: Find New TTB Labels
 
 on:
-  push:
-    branches: [main]
-
   # Run daily at 3 PM UTC (7 AM PST / 8 AM PDT)
   schedule:
     - cron: '0 15 * * *'
@@ -27,7 +24,6 @@ permissions:
 
 jobs:
   find-new-labels:
-    if: github.event_name != 'push'
     runs-on: ubuntu-latest
     environment: automation
     
