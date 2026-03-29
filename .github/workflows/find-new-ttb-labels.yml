@@ -238,7 +238,7 @@ jobs:
               --label "automated" \
               --label "ttb-labels"
 
-            gh pr merge --auto --squash --head automated/new-ttb-labels 2>/dev/null || true
+            gh pr merge automated/new-ttb-labels --auto --squash
           else
             echo "PR #${EXISTING_PR} already exists — new commits pushed to existing branch"
           fi

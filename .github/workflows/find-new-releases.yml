@@ -137,7 +137,7 @@ jobs:
               --label "automated" \
               --label "release-updates"
 
-            gh pr merge --auto --squash --head automated/find-new-releases 2>/dev/null || true
+            gh pr merge automated/find-new-releases --auto --squash
           else
             echo "PR #${EXISTING_PR} already exists — new commits pushed to existing branch"
           fi
