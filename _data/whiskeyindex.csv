@@ -8,6 +8,7 @@ Name,Batch,Age,Proof,ReleaseYear,Distillery,Type,TTB_ID,url
 1792 Bourbon,Bottled in Bond,4,100,2017-2025,Barton 1792,Bourbon,24030001000568,https://1792bourbon.com/bottled-in-bond/
 1792 Bourbon,Aged Twelve Years,12,96.6,2019-2025,Barton 1792,Bourbon,18033001000013,https://1792bourbon.com/
 A. Smith Bowman Cask Strength,Cask Strength #5,10,137.6,2026,A. Smith Bowman,Bourbon,,https://asmithbowman.com/cask-strength-5-lottery-2026/
+Angel's Envy Cask Strength,2026,,117.8,2026,Angel's Envy,Bourbon,,https://www.angelsenvy.com/us/en/product/cask-strength/
 Angel's Envy Cask Strength,2025,10,122.6,2025,Angel's Envy,Bourbon,23132001000515,https://www.angelsenvy.com/us/en/product/angels-envy-10-cask-strength/
 Angel's Envy Cask Strength,2024,8,118.8,2024,Angel's Envy,Bourbon,23132001000515,https://www.angelsenvy.com/us/en/product/2024-cask-strength-bourbon/
 Angel's Envy Cask Strength,2023,,118.2,2023,Angel's Envy,Bourbon,23132001000515,https://www.angelsenvy.com/us/en/product/cask-strength/
@@ -22,6 +23,8 @@ Angel's Envy Cask Strength,2015,,127.9,2015,Angel's Envy,Bourbon,17152001000375,
 Angel's Envy Cask Strength,2014,,119.3,2014,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
 Angel's Envy Cask Strength,2013,,123,2013,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
 Angel's Envy Cask Strength,2012,,121,2012,Angel's Envy,Bourbon,17152001000375,https://www.angelsenvy.com/us/en/product/cask-strength/
+Angel's Envy Cask Strength Rye,2026,10,111.6,2026,Angel's Envy,Rye,,https://www.angelsenvy.com/us/en/product/cask-strength-straight-rye/
+Angel's Envy Cask Strength Rye,2023,,114.4,2023,Angel's Envy,Rye,23150001000249,https://www.angelsenvy.com/us/en/product/cask-strength-straight-rye/
 Bardstown Bourbon Distillery Reserve,Normandie Calvados Brandy Barrel,,104.2,2025,Bardstown Bourbon,Bourbon,,https://www.bardstownbourbon.com/products/normandie-calvados-brandy-barrel-finish/
 Bardstown Bourbon Distillery Reserve,Hokkaido Mizunara Oak,,109.3,2025,Bardstown Bourbon,Bourbon,,https://www.bardstownbourbon.com/products/hokkaido-mizunara-oak-barrel-finish/
 Bardstown Bourbon Distillery Reserve,Cathedral French Oak,,110.1,2025,Bardstown Bourbon,Bourbon,,https://www.bardstownbourbon.com/products/cathedral-french-oak/
@@ -733,6 +736,7 @@ Thomas H. Handy (THH),BTAC Fall 2011,6,128.6,2011,Buffalo Trace,Rye,061940000000
 Thomas H. Handy (THH),BTAC Fall 2010,6,126.9,2010,Buffalo Trace,Rye,06194000000025,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
 Tumblin' Dice,Small Batch,4,100,2016-2026,Proof & Wood,Bourbon,,https://www.proofandwood.com/tumblin-dice
 Tumblin' Dice,11 Year Bottled in Bond,11,100,2026,Proof & Wood,Bourbon,,https://www.proofandwood.com/tumblin-dice
+Unbridled Spirit,standard,,100,2026,Unbridled Spirit,Bourbon,26022001000191,https://fortheunbridled.com
 Very Olde St. Nick,Resurrection,,103.4,2026,Preservation Distillery,Bourbon,26071001000992,https://preservationdistillery.com/
 W.L. Weller,Special Reserve,,90,1999-2025,Buffalo Trace,Bourbon,16232001000355,https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-special-reserve/
 W.L. Weller,Single Barrel,,97,2020-2025,Buffalo Trace,Bourbon,19344001000045,https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-single-barrel/
