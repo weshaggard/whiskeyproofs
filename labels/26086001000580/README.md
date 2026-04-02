@@ -1,0 +1,77 @@
+# TTB COLA Label Images - TTBID 26086001000580
+
+**Brand Name:** CEDAR RIDGE
+
+**Issue Date:** 03/30/2026
+
+**Origin Code:** 20
+
+**Product Class/Type:** 141
+
+**Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=26086001000580)
+
+## Label Images
+
+### Back Label
+
+![Back Label](./back_label.jpg)
+
+### Front Label
+
+![Front Label](./front_label.jpg)
+
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+**Detected Proof:** 120.4
+**Detected Age:** 6 Years
+
+### Back Label
+
+HAND-SELECTED BY
+MASTER DISTILLER MURPHY QUINT
+AGED
+6
+YEARS
+CedarRidgeDistillerycom
+GOVERNMENT WARNING:
+ACCORDING TO
+DISTILLED
+BOTTLED BY
+THE SURGEON GENERAL, WOMEN SHOULD
+CEDAR RIDGE DISTILLERY
+NOT DRINK ALCOHOLIC BEVERAGES DURING
+PREGNANCY BECAUSE OF THE RISK OF BIRTH
+SWISHER, IOWA, USA
+DEFECTS. (2) CONSUMPTION OF ALCOHOLIC
+BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE
+A CAR OR OPERATE MACHINERY, AND MAY
+CAUSE HEALTH PROBLEMS.
+ME VT REF 150
+IA REF 5c
+8
+50029
+72100
+CA CRV
+Kn _
+
+### Front Label
+
+20.0246
+1
+SHED NO
+BARREL NO_
+BOTTLE NO.
+REDGE
+IOWA BOURBON WHISKEY
+SINGLE
+BARREL
+60.2%
+COLLECTION
+750 ML
+ALC BY VOL
+PROOF
+HAND-SELECTED
+120.4
+CASK STRENGTH
