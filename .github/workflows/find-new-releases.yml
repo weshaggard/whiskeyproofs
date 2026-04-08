@@ -86,8 +86,13 @@ jobs:
         env:
           GH_TOKEN: ${{ steps.generate_token.outputs.token }}
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "whiskey-automation[bot]"
+          git config user.email "262019200+whiskey-automation[bot]@users.noreply.github.com"
+
+          # Replace checkout's GITHUB_TOKEN credential with the app token so the
+          # push is authenticated as the app (required to trigger other workflows)
+          git config --local --unset-all http.https://github.com/.extraheader || true
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
 
           # Ensure we are on the PR branch (create it from current HEAD if it doesn't exist yet)
           CURRENT_BRANCH=$(git branch --show-current)
@@ -102,7 +107,6 @@ jobs:
             echo "has_changes=false" >> $GITHUB_OUTPUT
           else
             git commit -m "Automated bourbon and rye release update"
-            git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
             git push origin automated/find-new-releases
             echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
