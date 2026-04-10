@@ -273,7 +273,7 @@ def validate_and_update_csv(filename: str, delay: float = 0.3, dry_run: bool = F
     print(f"Total TTB ID entries: {len(ttb_entries)}")
     print(f"Unique TTB IDs validated: {len(unique_ttb_ids)}")
     print(f"Cache hits: {cache_hits}")
-    print(f"Valid TTB IDs: {len(ttb_entries) - len(invalid_entries) - len(warning_entries)}")
+    print(f"Verified valid TTB IDs: {len(ttb_entries) - len(invalid_entries) - len(warning_entries)}")
     print(f"Invalid TTB IDs: {len(invalid_entries)}")
     print(f"Warnings (transient errors): {len(warning_entries)}")
     
