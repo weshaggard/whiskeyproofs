@@ -37,6 +37,33 @@ TTB_ERROR_MESSAGE = 'Unable to process request'
 # Error messages appear early in the response, no need to read entire page
 MAX_CONTENT_BYTES = 10000  # 10KB should be enough to catch error messages
 
+# Prefix used to tag transient network errors (connection reset, timeout, etc.)
+# These are NOT invalid TTB IDs — the server was simply unreachable.
+TRANSIENT_ERROR_PREFIX = 'Transient: '
+
+# Substrings that indicate a transient / network-level failure rather than
+# the TTB ID itself being invalid.  Checked case-insensitively.
+TRANSIENT_ERROR_PATTERNS = [
+    'Connection reset by peer',
+    'Connection refused',
+    'timed out',
+    'RemoteDisconnected',
+    'IncompleteRead',
+    'ConnectionAbortedError',
+    'ConnectionResetError',
+    'BrokenPipeError',
+    'CannotSendRequest',
+    'CannotSendHeader',
+    'ResponseNotReady',
+    'BadStatusLine',
+]
+
+
+def _is_transient_error(error_message: str) -> bool:
+    """Return True if *error_message* looks like a transient network problem."""
+    lower = error_message.lower()
+    return any(pattern.lower() in lower for pattern in TRANSIENT_ERROR_PATTERNS)
+
 
 def generate_ttb_url(ttb_id: str) -> str:
     """
@@ -131,12 +158,21 @@ def validate_ttb_url(ttb_id: str, timeout: int = 10) -> Tuple[bool, str, str]:
             except urllib.error.HTTPError as e2:
                 return False, url, f"HTTP {e2.code}"
             except Exception as e2:
-                return False, url, f"Error: {str(e2)}"
+                error_msg = str(e2)
+                if _is_transient_error(error_msg):
+                    return False, url, f"{TRANSIENT_ERROR_PREFIX}Error: {error_msg}"
+                return False, url, f"Error: {error_msg}"
         else:
             # Non-SSL error
-            return False, url, f"URL Error: {e.reason if hasattr(e, 'reason') else str(e)}"
+            error_msg = str(e.reason) if hasattr(e, 'reason') else str(e)
+            if _is_transient_error(error_msg):
+                return False, url, f"{TRANSIENT_ERROR_PREFIX}URL Error: {error_msg}"
+            return False, url, f"URL Error: {error_msg}"
     except Exception as e:
-        return False, url, f"Error: {str(e)}"
+        error_msg = str(e)
+        if _is_transient_error(error_msg):
+            return False, url, f"{TRANSIENT_ERROR_PREFIX}Error: {error_msg}"
+        return False, url, f"Error: {error_msg}"
 
 
 def validate_and_update_csv(filename: str, delay: float = 0.3, dry_run: bool = False) -> bool:
@@ -181,6 +217,7 @@ def validate_and_update_csv(filename: str, delay: float = 0.3, dry_run: bool = F
     
     # Track invalid entries
     invalid_entries = []
+    warning_entries = []
     rows_to_clear = set()
     
     # Validate each TTB ID
@@ -204,6 +241,18 @@ def validate_and_update_csv(filename: str, delay: float = 0.3, dry_run: bool = F
         
         if is_valid:
             print(f"✓ [{i}/{len(ttb_entries)}] {name} - {batch} (TTB: {ttb_id})")
+        elif error.startswith(TRANSIENT_ERROR_PREFIX):
+            # Transient network error — not the TTB ID's fault
+            print(f"⚠️ [{i}/{len(ttb_entries)}] {name} - {batch} (TTB: {ttb_id})")
+            print(f"   URL: {url}")
+            print(f"   Warning: {error[len(TRANSIENT_ERROR_PREFIX):]}")
+            warning_entries.append({
+                'name': name,
+                'batch': batch,
+                'ttb_id': ttb_id,
+                'url': url,
+                'error': error[len(TRANSIENT_ERROR_PREFIX):]
+            })
         else:
             print(f"❌ [{i}/{len(ttb_entries)}] {name} - {batch} (TTB: {ttb_id})")
             print(f"   URL: {url}")
@@ -224,8 +273,20 @@ def validate_and_update_csv(filename: str, delay: float = 0.3, dry_run: bool = F
     print(f"Total TTB ID entries: {len(ttb_entries)}")
     print(f"Unique TTB IDs validated: {len(unique_ttb_ids)}")
     print(f"Cache hits: {cache_hits}")
-    print(f"Valid TTB IDs: {len(ttb_entries) - len(invalid_entries)}")
+    print(f"Valid TTB IDs: {len(ttb_entries) - len(invalid_entries) - len(warning_entries)}")
     print(f"Invalid TTB IDs: {len(invalid_entries)}")
+    print(f"Warnings (transient errors): {len(warning_entries)}")
+    
+    # Report warnings (transient network errors)
+    if warning_entries:
+        print(f"\n{'='*70}")
+        print(f"TRANSIENT ERRORS (not treated as invalid):")
+        print(f"{'='*70}")
+        for entry in warning_entries:
+            print(f"\n⚠️ {entry['name']} - {entry['batch']}")
+            print(f"   TTB ID: {entry['ttb_id']}")
+            print(f"   URL: {entry['url']}")
+            print(f"   Warning: {entry['error']}")
     
     # Report invalid entries
     if invalid_entries:
