@@ -1,0 +1,34 @@
+# TTB COLA Label Images - TTBID 26099001000222
+
+**Brand Name:** BLANTON'S
+
+**Fanciful Name:** 2020 SPECIAL RESERVE
+
+**Issue Date:** 04/09/2026
+
+**Origin Code:** 00
+
+**Product Class/Type:** 101
+
+**Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=26099001000222)
+
+## Label Images
+
+### Label 3
+
+![Label 3](./label_3.jpg)
+
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Label 3
+
+EXPORTED TO: UNTED KINGDOM
+RE-IMPORTED BY: CONNOISSEUR WNES & SPIRITS CALIFORNIA NAPA, CA
+OBTAINED FROM A PRIVATE COLLECTION"
+GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT
+DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH
+DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A
+CAR OR OPERATE MACHINERY
+AND MAY CAUSE HEALTH PROBLEMS_
