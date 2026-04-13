@@ -73,6 +73,10 @@ Instead, update the existing `ReleaseYear` value to extend the range (for exampl
 - **Logic/data errors** (failed validation, no match found): retry with small search/query adjustments up to 3 times (for example, broaden date range by 30 days, try product name variations, and check fallback bourbon sources).
 - **Permanent errors** (invalid path, permissions): stop immediately and report the error.
 
+## File restrictions
+
+**Only modify `_data/whiskeyindex.csv` and files under `labels/`.** Do not modify any files under `.github/scripts/`, `.github/workflows/`, or `.github/prompts/`. These scripts and workflows are critical infrastructure — modifying them may break the pipeline. If a validation script reports an error, fix the data in `_data/whiskeyindex.csv`, not the script.
+
 ## Git operations
 
 **Do NOT run any git commands.** Do not `git add`, `git commit`, `git push`, or create any branches.  
