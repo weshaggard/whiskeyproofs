@@ -53,9 +53,6 @@ jobs:
           copilot -p "$(cat .github/prompts/find-new-releases.prompt.md)" \
             --allow-all-tools --allow-all-urls --autopilot --no-ask-user
 
-      - name: Restore validation scripts before data validation
-        run: git checkout HEAD -- .github/scripts/
-
       - name: Run data validation script
         run: python3 .github/scripts/validate_whiskey_data.py
 
@@ -66,9 +63,6 @@ jobs:
           test -f .github/prompts/fix-broken-urls.prompt.md
           copilot -p "$(cat .github/prompts/fix-broken-urls.prompt.md)" \
             --allow-all-tools --allow-all-urls --autopilot --no-ask-user
-
-      - name: Restore validation scripts before TTB fix
-        run: git checkout HEAD -- .github/scripts/
 
       - name: Fix broken TTB URLs
         run: python3 .github/scripts/validate_ttb_urls.py --apply
