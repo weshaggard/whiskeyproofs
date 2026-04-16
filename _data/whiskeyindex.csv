@@ -7,7 +7,7 @@ Name,Batch,Age,Proof,ReleaseYear,Distillery,Type,TTB_ID,url
 1792 Bourbon,Full Proof,,125,2015-2025,Barton 1792,Bourbon,24009001000220,https://1792bourbon.com/full-proof/
 1792 Bourbon,Bottled in Bond,4,100,2017-2025,Barton 1792,Bourbon,24030001000568,https://1792bourbon.com/bottled-in-bond/
 1792 Bourbon,Aged Twelve Years,12,96.6,2019-2025,Barton 1792,Bourbon,18033001000013,https://1792bourbon.com/
-A. Smith Bowman Cask Strength,Cask Strength #5,10,137.6,2026,A. Smith Bowman,Bourbon,,https://asmithbowman.com/cask-strength-5-lottery-2026/
+A. Smith Bowman Cask Strength,Cask Strength #5,10,137.6,2026,A. Smith Bowman,Bourbon,,https://asmithbowman.com/cask-strength/
 Ampersand,Opimus,15,117,2025,Foley Family,Bourbon,,https://ampersandspirits.com/
 Angel's Envy Cask Strength,2026,,117.8,2026,Angel's Envy,Bourbon,,https://www.angelsenvy.com/us/en/product/cask-strength/
 Angel's Envy Cask Strength,2025,10,122.6,2025,Angel's Envy,Bourbon,23132001000515,https://www.angelsenvy.com/us/en/product/angels-envy-10-cask-strength/
@@ -91,6 +91,12 @@ Barrell Seagrass,Toasted,,122,2026,Barrell Craft Spirits,Rye,26079001000283,http
 Barrell Seagrass,Gray Label 19 Year,19,128.3,2024,Barrell Craft Spirits,Rye,,https://www.barrellbourbon.com/seagrass
 Barrell Seagrass,Gray Label 16 Year,16,133.34,2023,Barrell Craft Spirits,Rye,,https://www.barrellbourbon.com/seagrass
 Barrell Seagrass,Gray Label 16 Year,16,130.82,2022,Barrell Craft Spirits,Rye,,https://www.barrellbourbon.com/seagrass
+Basil Hayden,standard,,80,1992-2026,Jim Beam,Bourbon,,https://www.basilhaydenbourbon.com/whiskies/basil-hayden-kentucky-straight-bourbon
+Basil Hayden,Toast,,80,2021-2026,Jim Beam,Bourbon,,https://www.basilhaydenbourbon.com/whiskies/basil-hayden-toast-bourbon
+Basil Hayden,Malted Rye,,80,2019-2025,Jim Beam,Rye,,https://www.basilhaydenbourbon.com/whiskies/basil-hayden-malted-rye-whiskey
+Basil Hayden,Golden Rye,,80,2026,Jim Beam,Rye,,https://www.basilhaydenbourbon.com/whiskies/basil-hayden-golden-rye-whiskey
+Basil Hayden,Dark Rye,,80,2016-2026,Jim Beam,Rye,,https://www.basilhaydenbourbon.com/whiskies/basil-hayden-dark-rye-whiskey
+Basil Hayden,10 Year,10,80,2014-2026,Jim Beam,Bourbon,,https://www.basilhaydenbourbon.com/whiskies/basil-hayden-10-year-bourbon
 Benchmark,Top Floor,,86,2019-2025,Buffalo Trace,Bourbon,19319001000048,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-top-floor/
 Benchmark,Small Batch,,90,2019-2025,Buffalo Trace,Bourbon,19319001000047,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-small-batch/
 Benchmark,Single Barrel,,95,2019-2025,Buffalo Trace,Bourbon,19319001000044,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-single-barrel/
@@ -217,6 +223,24 @@ Bulleit,standard,,90,1999-2025,Bulleit,Bourbon,25059001000397,https://www.bullei
 Bulleit Mesquite Smoked Malt,2026,,93,2026,Bulleit,Bourbon,25195001000166,https://www.bulleit.com/whiskeys/bulleit-mesquite-smoked-malt
 Bulleit Rye,standard,,90,2011-2025,Bulleit,Rye,25093001000227,https://www.bulleit.com/
 Bulleit Rye,20 Year Cask Strength,20,134,2026,Bulleit,Rye,26089001000528,https://www.bulleit.com/whiskeys
+Casey Jones,Small Batch Mash Bill 2,,108,2020-2026,Casey Jones Distillery,Bourbon,,https://caseyjonesdistillery.com/
+Casey Jones,Small Batch Mash Bill 1,,90,2019-2026,Casey Jones Distillery,Bourbon,,https://caseyjonesdistillery.com/
+Casey Jones,Revere Bourbon,5,100,2026,Casey Jones Distillery,Bourbon,,https://www.caseyjonesdistillery.com/news/2026/4/6/casey-jones-distillery-launches-revere-bourbon-in-celebration-of-americas-250th-anniversary
+Casey Jones,Kentucky Straight Rye,,103,2020-2026,Casey Jones Distillery,Rye,,https://caseyjonesdistillery.com/
+Castle & Key,Restoration Rye 2024 Batch 1,,101.5,2024,Castle & Key Distillery,Rye,,https://castleandkey.com/products/2025-restoration-rye-whiskey
+Castle & Key,Restoration Rye 2023,,106.5,2023,Castle & Key Distillery,Rye,,https://castleandkey.com/products/2025-restoration-rye-whiskey
+Castle & Key,Restoration Rye 2022 Batch 3,,106,2022,Castle & Key Distillery,Rye,,https://castleandkey.com/products/2025-restoration-rye-whiskey
+Castle & Key,Restoration Rye 2021 Batch 3,,105,2021,Castle & Key Distillery,Rye,,https://castleandkey.com/products/2025-restoration-rye-whiskey
+Castle & Key,Restoration Rye 2021 Batch 1,,105,2021,Castle & Key Distillery,Rye,,https://castleandkey.com/products/2025-restoration-rye-whiskey
+Castle & Key,Cherry Liqueur Finished Rye,,115.2,2026,Castle & Key Distillery,Rye,,https://castleandkey.com/collections/spirits
+Chattanooga Whiskey,91,,91,2019-2026,Chattanooga Whiskey Company,Bourbon,,https://chattanoogawhiskey.com/product/chattanooga-whiskey-91/
+Chattanooga Whiskey,Cask 111,,111,2019-2026,Chattanooga Whiskey Company,Bourbon,,https://chattanoogawhiskey.com/product/chattanooga-whiskey-111/
+Chattanooga Whiskey,99 Rye,,99,2020-2026,Chattanooga Whiskey Company,Rye,,https://chattanoogawhiskey.com/product/chattanooga-whiskey-99/
+Chattanooga Whiskey Founder's Blend,14th Anniversary,,100,2026,Chattanooga Whiskey Company,Bourbon,,https://chattanoogawhiskey.com/product/founders-14th-anniversary-blend/
+Chattanooga Whiskey Founder's Blend,13th Anniversary,,100,2025,Chattanooga Whiskey Company,Bourbon,,https://chattanoogawhiskey.com/
+Chattanooga Whiskey Founder's Blend,12th Anniversary,,100,2024,Chattanooga Whiskey Company,Bourbon,,https://chattanoogawhiskey.com/
+Chattanooga Whiskey Founder's Blend,11th Anniversary,,100,2023,Chattanooga Whiskey Company,Bourbon,,https://chattanoogawhiskey.com/
+Chattanooga Whiskey Founder's Blend,10th Anniversary,,100,2022,Chattanooga Whiskey Company,Bourbon,,https://chattanoogawhiskey.com/
 Chicken Cock,Wheated,5,94,2026,Chicken Cock,Bourbon,,https://chickencockwhiskey.com/whiskey/wheated-bourbon/
 Chicken Cock,Small Batch,4,100,2024-2025,Chicken Cock,Bourbon,,https://chickencockwhiskey.com/whiskey/small-batch/
 Chicken Cock,Rye,2,90,2020-2025,Chicken Cock,Rye,,https://chickencockwhiskey.com/whiskey/kentucky-straight-rye-whiskey/
@@ -500,6 +524,9 @@ Knob Creek 2001 Limited Edition,Batch 1,14,100,2016,Knob Creek,Bourbon,160290010
 Knob Creek 21 Year (KC21),2025,21,100,2025,Knob Creek,Bourbon,,https://www.knobcreek.com/whiskies/21-year-old-bourbon-whiskey
 Knob Creek 25th Anniversary,2017,12-13,122,2017,Knob Creek,Bourbon,,https://www.knobcreek.com/
 Knob Creek Blender's Edition,01,10,106,2026,Knob Creek,Bourbon,,https://www.fredminnick.com/2026/03/31/knob-creek-introduces-new-blenders-edition/
+Koopers Whiskey,2026 Cognac Casks Rye,7,96,2026,Koopers Whiskey,Rye,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/koopers-whiskey-unveils-limited-7-year-rye-finished-in-cognac-casks
+Koopers Whiskey,2025 Cognac Casks Rye,7,96,2025,Koopers Whiskey,Rye,,
+Koopers Whiskey,2024 Cognac Casks Rye,7,96,2024,Koopers Whiskey,Rye,,
 Larceny Barrel Proof,C925,,119.6,2025,Heaven Hill,Bourbon,24122001000203,https://heavenhilldistillery.com/larceny-barrel-proof.php
 Larceny Barrel Proof,B525,,117.4,2025,Heaven Hill,Bourbon,24122001000203,https://heavenhilldistillery.com/larceny-barrel-proof.php
 Larceny Barrel Proof,A125,,125,2025,Heaven Hill,Bourbon,24122001000203,https://heavenhilldistillery.com/larceny-barrel-proof.php
@@ -922,6 +949,11 @@ Woodinville Sauternes Cask Finish Bourbon,2024,,105,2024,Woodinville Whiskey Co.
 Woodinville Straight Bourbon,standard,6,90,2015-2025,Woodinville Whiskey Co.,Bourbon,,https://woodinvillewhiskeyco.com/products/straight-bourbon-whiskey-2026
 Woodinville Straight Rye,standard,6,90,2015-2025,Woodinville Whiskey Co.,Rye,,https://woodinvillewhiskeyco.com/products/straight-100-rye-whiskey-2026
 Woodinville Tequila Barrel Finish Bourbon,2025,,100,2025,Woodinville Whiskey Co.,Bourbon,24351001000672,https://woodinvillewhiskeyco.com/products/woodinville-straight-bourbon-finished-in-tequila-barrels
+Woody Creek Colorado Straight Bourbon,standard,,90,2018-2026,Woody Creek Distillers,Bourbon,,https://woodycreekdistillers.com/
+Woody Creek Colorado Straight Rye,standard,,90,2017-2026,Woody Creek Distillers,Rye,,https://woodycreekdistillers.com/
+Woody Creek William H. Macy Reserve Rye,Third Edition,10,100,2026,Woody Creek Distillers,Rye,,https://woodycreekdistillers.com/william-h-macy-reserve/
+Woody Creek William H. Macy Reserve Rye,Second Edition,10,100,2025,Woody Creek Distillers,Rye,,https://woodycreekdistillers.com/william-h-macy-reserve/
+Woody Creek William H. Macy Reserve Rye,First Edition,10,100,2023,Woody Creek Distillers,Rye,,https://woodycreekdistillers.com/william-h-macy-reserve/
 Wyoming Whiskey,Small Batch,5,88,2012-2026,Wyoming Whiskey,Bourbon,,https://www.wyomingwhiskey.com/small-batch
 Wyoming Whiskey,Single Barrel,5,96,2014-2026,Wyoming Whiskey,Bourbon,,https://www.wyomingwhiskey.com/
 Wyoming Whiskey,Double Cask,5,100,2017-2026,Wyoming Whiskey,Bourbon,,https://www.wyomingwhiskey.com/
