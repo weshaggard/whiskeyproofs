@@ -56,6 +56,10 @@ All URLs must pass. If any still fail, repeat step 2–3 for those entries or cl
 - **Network/transient errors** (timeouts, HTTP 5xx): retry the same URL up to 3 times before moving on
 - **No replacement found**: try alternate search queries (product name variations, distillery name) up to 3 times before giving up and clearing the URL
 
+## File restrictions
+
+**Only modify `_data/whiskeyindex.csv`.** Do not modify any files under `.github/scripts/`, `.github/workflows/`, or `.github/prompts/`. These scripts and workflows are critical infrastructure — modifying them may break the pipeline. If a validation script reports an error, fix the data in `_data/whiskeyindex.csv`, not the script.
+
 ## Report
 
 At the end of the run, report:
