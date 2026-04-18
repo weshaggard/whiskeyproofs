@@ -1,0 +1,69 @@
+# TTB COLA Label Images - TTBID 26104001000512
+
+**Brand Name:** BUCK DANCER
+
+**Issue Date:** 04/15/2026
+
+**Origin Code:** 48
+
+**Product Class/Type:** 100
+
+**Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=26104001000512)
+
+## Label Images
+
+### Back Label
+
+![Back Label](./back_label.jpg)
+
+### Front Label
+
+![Front Label](./front_label.jpg)
+
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+eae
+
+PRODUCED AT OUR GEOTHERMAL POWERED FACILITY
+
+BOTTLED & DISTILLED BY DRIFTLESS PURE, LLC
+
+AND LA CROSSE DISTILLING CO., LA CROSSE, WI
+
+CERTIFIED ORGANIC BY MIDWEST ORGANIC SERVICES ASSOCIATION
+
+GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL,
+
+WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING
+
+PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION
+
+OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR
+
+OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
+
+ese
+
+Ve
+
+<
+
+### Front Label
+
+y
+N¥wYOO WOOTYIEFH
+aNd ALIHM Cae
+
+SHHOLVa TIVNS NI 30VW
+
+NISNOOSIM
+
+40 $44n7a HL NI GZLAVHOUNYE
+09 ONITTILSIGA
+aSSOUO VI
+
+SUVAA 9 GADV
