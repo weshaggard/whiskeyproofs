@@ -1,0 +1,125 @@
+# TTB COLA Label Images - TTBID 26103001000477
+
+**Brand Name:** LOUISVILLE RICKHOUSE WHISKEY CO
+
+**Issue Date:** 04/15/2026
+
+**Origin Code:** 22
+
+**Product Class/Type:** 142
+
+**Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=26103001000477)
+
+## Label Images
+
+### Back Label
+
+![Back Label](./back_label.jpg)
+
+### Label 1
+
+![Label 1](./label_1.jpg)
+
+### Label 2
+
+![Label 2](./label_2.jpg)
+
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+**Detected Proof:** 116
+
+### Back Label
+
+BOTTLED BY
+LOUISVILLE RICKHOUSE
+LOUISVILLE, KY DSP-KY-20181 1Ae, MEAT the
+750 ML LOUISVILLERICKHOUSE.COM CA CRV
+GOVERNMENT WARNING: (1) ACCORDING TO THE
+SURGEON GENERAL, WOMEN SHOULD NOT DRINK
+ALCOHOLIC BEVERAGES DURING PREGNANCY
+BECAUSE OF THE RISK OF BIRTH DEFECTS. (2)
+CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS
+YOUR ABILITY TO DRIVE A CAR OR OPERATE
+MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
+
+### Label 1
+
+ve
+
+QOUISWILT
+
+es
+
+Rina oo
+
+WHISKEY Com
+
+E77
+
+lonlong fo
+
+hiie ANDO Taw
+
+uf
+
+ie —"
+
+Cavan AY
+
+LOUISVILLE = KENTUCKY
+
+### Label 2
+
+Maple Cask Finished
+
+AIGHT KENTUCKY
+
+yste
+
+RYE WHISKEY
+
+FINISHED IN A MAPLE CASK
+
+aged [Q) years
+
+HAND BOTTLED
+
+THIS STRAIGHT RYE WAS AGED ADDITIONALLY
+
+IN A SEASONED CASK THAT PREVIOUSLY HELD MAPLE,
+
+THEN BOTTLED WITHOUT CHILL FILTRATION.
+
+BARREL STRENGTH
+
+MONTHS FINISHED
+
+BARREL No.
+
+DISTILLED IN
+
+26
+
+Ri
+
+| KENTUCKY
+
+PROOF
+
+BOTTLE COUNT
+
+ALC./VOL.
+
+116.00
+
+|
+
+120
+
+|
+
+58.00%
+
+NON CHILL-FILTERED
