@@ -16,10 +16,19 @@ jobs:
     environment: automation
 
     steps:
+      - name: Generate GitHub App token
+        id: generate_token
+        uses: actions/create-github-app-token@v3
+        with:
+          app-id: ${{ secrets.APP_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+          repositories: ${{ github.event.repository.name }}
+
       - name: Checkout repository
         uses: actions/checkout@v6
         with:
           fetch-depth: 0
+          token: ${{ steps.generate_token.outputs.token }}
 
       - name: Switch to PR branch if it already exists
         run: |
@@ -73,26 +82,11 @@ jobs:
       - name: Run TTB URL validation script
         run: python3 .github/scripts/validate_ttb_urls.py
 
-      - name: Generate GitHub App token
-        id: generate_token
-        uses: actions/create-github-app-token@v3
-        with:
-          app-id: ${{ secrets.APP_ID }}
-          private-key: ${{ secrets.APP_PRIVATE_KEY }}
-          repositories: ${{ github.event.repository.name }}
-
       - name: Commit and push changes
         id: commit_push
-        env:
-          GH_TOKEN: ${{ steps.generate_token.outputs.token }}
         run: |
           git config user.name "whiskey-automation[bot]"
           git config user.email "262019200+whiskey-automation[bot]@users.noreply.github.com"
-
-          # Replace checkout's GITHUB_TOKEN credential with the app token so the
-          # push is authenticated as the app (required to trigger other workflows)
-          git config --local --unset-all http.https://github.com/.extraheader || true
-          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
 
           # Ensure we are on the PR branch (create it from current HEAD if it doesn't exist yet)
           CURRENT_BRANCH=$(git branch --show-current)
