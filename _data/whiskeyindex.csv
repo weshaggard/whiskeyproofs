@@ -8,6 +8,22 @@ Name,Batch,Age,Proof,ReleaseYear,Distillery,Type,TTB_ID,url
 1792 Bourbon,Bottled in Bond,4,100,2017-2025,Barton 1792,Bourbon,24030001000568,https://1792bourbon.com/bottled-in-bond/
 1792 Bourbon,Aged Twelve Years,12,96.6,2019-2025,Barton 1792,Bourbon,18033001000013,https://1792bourbon.com/
 A. Smith Bowman Cask Strength,Cask Strength #5,10,137.6,2026,A. Smith Bowman,Bourbon,,https://asmithbowman.com/cask-strength/
+Abraham Bowman,26 - Rye,11,110,2026,A. Smith Bowman,Rye,,https://asmithbowman.com/abraham-bowman-special-release-26/
+Abraham Bowman,25 - Hungarian Oak,12,115,2025,A. Smith Bowman,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/a-smith-bowman-distillery-expands-experimental-oak-series-with-hungarian-oak-third-release-exploring-oak-varietals
+Abraham Bowman,24 - American Oak,12,135,2024,A. Smith Bowman,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/a-smith-bowman-distillery-releases-oak-series-american-oak-second-in-its-experimental-series-exploring-oak-varietals
+Abraham Bowman,21 - Rum Finished Bourbon,15,100,2021,A. Smith Bowman,Bourbon,,https://asmithbowman.com/rum-finished-bourbon/
+Abraham Bowman,19 - Twice Finished Bourbon,13,100,2019,A. Smith Bowman,Bourbon,,https://asmithbowman.com/twice-finished-whiskey-2019/
+Abraham Bowman,18 - Bourbon,14,146.1,2019,A. Smith Bowman,Bourbon,,https://asmithbowman.com/bourbon-whiskey-2019/
+Abraham Bowman,17 - Sweet XVI,16,116,2018,A. Smith Bowman,Bourbon,,https://asmithbowman.com/sweet-xvi/
+Abraham Bowman,14 - Wheat Bourbon,9,94,2016,A. Smith Bowman,Bourbon,,https://asmithbowman.com/wheat-bourbon/
+Abraham Bowman,12 - High Rye Bourbon,7,100,2015,A. Smith Bowman,Bourbon,,https://asmithbowman.com/high-rye-bourbon/
+Abraham Bowman,8 - Double Barrel Bourbon,7,100,2014,A. Smith Bowman,Bourbon,,https://asmithbowman.com/double-barrel-bourbon/
+Abraham Bowman,7 - Port Finish,12,100,2013,A. Smith Bowman,Bourbon,,https://asmithbowman.com/port-finished-bourbon-2013/
+Abraham Bowman,5 - Last Millennium,,100,2013,A. Smith Bowman,Bourbon,,https://asmithbowman.com/last-millennium-bourbon-whiskey/
+Abraham Bowman,4 - Port Finish,8,100,2012,A. Smith Bowman,Bourbon,,https://asmithbowman.com/port-finished-bourbon-2012/
+Abraham Bowman,3 - HazMat Bourbon,18,147.5,2012,A. Smith Bowman,Bourbon,,https://asmithbowman.com/bourbon-whiskey-2012/
+Abraham Bowman,2 - Bourbon,18,138.6,2011,A. Smith Bowman,Bourbon,,https://asmithbowman.com/bourbon-whiskey-2011/
+Abraham Bowman,1 - Rye,9,90,2010,A. Smith Bowman,Rye,,https://asmithbowman.com/rye-whiskey/
 Ampersand,Opimus,15,117,2025,Foley Family,Bourbon,,https://ampersandspirits.com/
 Angel's Envy Cask Strength,2026,,117.8,2026,Angel's Envy,Bourbon,,https://www.angelsenvy.com/us/en/product/cask-strength/
 Angel's Envy Cask Strength,2025,10,122.6,2025,Angel's Envy,Bourbon,23132001000515,https://www.angelsenvy.com/us/en/product/angels-envy-10-cask-strength/
@@ -291,6 +307,9 @@ Copper & Cask,Small Batch 003,7,116.2,2024,Copper & Cask,Bourbon,,https://copper
 Copper & Cask,Small Batch 001,8,122.8,2023,Copper & Cask,Bourbon,,https://www.breakingbourbon.com/review/copper-cask-limited-edition-small-batch-series-release-batch-no-001
 Daniel Weller,Spelt Wheat,10,94,2026,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/daniel-weller.html
 Daniel Weller,Emmer Wheat,,94,2023,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/daniel-weller.html
+Dark Arts Whiskey House,Blunt Blend Batch 3,8,113.8,2026,Dark Arts Whiskey House,Rye,,https://www.breakingbourbon.com/review/dark-arts-whiskey-house-blunt-blend-batch-3
+Dark Arts Whiskey House,Blunt Blend Batch 2,7,114.8,2025,Dark Arts Whiskey House,Rye,,
+Dark Arts Whiskey House,Blunt Blend Batch 1,7,113.6,2024,Dark Arts Whiskey House,Rye,,https://www.breakingbourbon.com/review/dark-arts-whiskey-house-blunt-blend-batch-1
 Dragon's Milk Origin Toasted Barrel,2026D Tropical State of Mind,,118.9,2026,New Holland Spirits,Bourbon,,https://www.breakingbourbon.com/review/dragons-milk-origin-toasted-barrel-2026d-tropical-state-of-mind
 Dragon's Milk Origin Toasted Barrel,2026C A Breath of Fresh Air,,117.8,2026,New Holland Spirits,Bourbon,,https://www.breakingbourbon.com/review/dragons-milk-origin-toasted-barrel-2026c-a-breath-of-fresh-air
 Dragon's Milk Origin Toasted Barrel,2026B Quiet Luxury,,116.5,2026,New Holland Spirits,Bourbon,,https://www.breakingbourbon.com/review/dragons-milk-origin-toasted-barrel-2026b-quiet-luxury
