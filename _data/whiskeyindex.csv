@@ -7,7 +7,7 @@ Name,Batch,Age,Proof,ReleaseYear,Distillery,Type,TTB_ID,url
 1792 Bourbon,Full Proof,,125,2015-2025,Barton 1792,Bourbon,24009001000220,https://1792bourbon.com/full-proof/
 1792 Bourbon,Bottled in Bond,4,100,2017-2025,Barton 1792,Bourbon,24030001000568,https://1792bourbon.com/bottled-in-bond/
 1792 Bourbon,Aged Twelve Years,12,96.6,2019-2025,Barton 1792,Bourbon,18033001000013,https://1792bourbon.com/
-A. Smith Bowman Cask Strength,Cask Strength #5,10,137.6,2026,A. Smith Bowman,Bourbon,,https://asmithbowman.com/cask-strength/
+A. Smith Bowman Cask Strength,Cask Strength #5,10,137.6,2026,A. Smith Bowman,Bourbon,25224001000808,https://asmithbowman.com/cask-strength/
 Abraham Bowman,26 - Rye,11,110,2026,A. Smith Bowman,Rye,,https://asmithbowman.com/abraham-bowman-special-release-26/
 Abraham Bowman,25 - Hungarian Oak,12,115,2025,A. Smith Bowman,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/a-smith-bowman-distillery-expands-experimental-oak-series-with-hungarian-oak-third-release-exploring-oak-varietals
 Abraham Bowman,24 - American Oak,12,135,2024,A. Smith Bowman,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/a-smith-bowman-distillery-releases-oak-series-american-oak-second-in-its-experimental-series-exploring-oak-varietals
@@ -53,55 +53,55 @@ Bardstown Bourbon Distillery Reserve,Normandie Calvados Brandy Barrel,,104.2,202
 Bardstown Bourbon Distillery Reserve,Hokkaido Mizunara Oak,,109.3,2025,Bardstown Bourbon,Bourbon,,https://www.bardstownbourbon.com/products/hokkaido-mizunara-oak-barrel-finish/
 Bardstown Bourbon Distillery Reserve,Cathedral French Oak,,110.1,2025,Bardstown Bourbon,Bourbon,,https://www.bardstownbourbon.com/products/cathedral-french-oak/
 Bardstown Bourbon Distillery Reserve,Cascadia Garryana Oak Barrel Finish,,107.5,2026,Bardstown Bourbon,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/bardstown-bourbon-unveils-cascadia-garryana-oak-barrel-finish-bourbon
-Barrell Bourbon,Batch 037,,111.4,2025,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 036,,114.4,2023,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 035,,115.3,2023,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 034,,114.9,2022,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 033,,116.8,2022,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 032,,114.8,2022,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 031,,105.4,2022,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 030,,117.3,2021,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 029,,109.7,2021,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 028,,110.4,2021,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 027,,107.1,2021,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 026,,110.1,2020,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 025,,110.2,2020,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 024,,110.3,2020,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 023,,113.3,2020,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 022,,116.6,2020,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 021,,106.34,2020,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 020,,106.7,2019,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 019,,106.52,2019,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 018,,111.56,2019,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 017,,112.5,2019,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 016,,105.8,2018,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 015,,107.6,2018,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 014,,109.4,2018,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 013,,113,2017,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 012,,108.5,2017,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 011,,114.8,2017,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 010,,122,2016,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 037,,111.4,2025,Barrell Craft Spirits,Bourbon,25086001000953,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 036,,114.4,2023,Barrell Craft Spirits,Bourbon,23269001000899,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 035,,115.3,2023,Barrell Craft Spirits,Bourbon,23051001000554,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 034,,114.9,2022,Barrell Craft Spirits,Bourbon,22243001000285,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 033,,116.8,2022,Barrell Craft Spirits,Bourbon,22101001000756,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 032,,114.8,2022,Barrell Craft Spirits,Bourbon,21316001000278,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 031,,105.4,2022,Barrell Craft Spirits,Bourbon,21227001000036,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 030,,117.3,2021,Barrell Craft Spirits,Bourbon,21173001000518,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 029,,109.7,2021,Barrell Craft Spirits,Bourbon,21096001000746,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 028,,110.4,2021,Barrell Craft Spirits,Bourbon,20358001000219,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 027,,107.1,2021,Barrell Craft Spirits,Bourbon,20309001000389,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 026,,110.1,2020,Barrell Craft Spirits,Bourbon,20246001000078,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 025,,110.2,2020,Barrell Craft Spirits,Bourbon,20170001000467,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 024,,110.3,2020,Barrell Craft Spirits,Bourbon,20066001000233,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 023,,113.3,2020,Barrell Craft Spirits,Bourbon,19240001000534,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 022,,116.6,2020,Barrell Craft Spirits,Bourbon,19240001000526,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 021,,106.34,2020,Barrell Craft Spirits,Bourbon,19189001000307,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 020,,106.7,2019,Barrell Craft Spirits,Bourbon,19100001000737,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 019,,106.52,2019,Barrell Craft Spirits,Bourbon,19030001000866,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 018,,111.56,2019,Barrell Craft Spirits,Bourbon,18260001000158,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 017,,112.5,2019,Barrell Craft Spirits,Bourbon,18220001000253,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 016,,105.8,2018,Barrell Craft Spirits,Bourbon,17124001000081,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 015,,107.6,2018,Barrell Craft Spirits,Bourbon,17124001000081,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 014,,109.4,2018,Barrell Craft Spirits,Bourbon,17124001000081,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 013,,113,2017,Barrell Craft Spirits,Bourbon,17174001000226,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 012,,108.5,2017,Barrell Craft Spirits,Bourbon,17027001000328,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 011,,114.8,2017,Barrell Craft Spirits,Bourbon,17027001000325,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 010,,122,2016,Barrell Craft Spirits,Bourbon,16256001000156,https://www.barrellbourbon.com/
 Barrell Bourbon,Batch 009,,112.1,2016,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 008,,132.8,2016,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 008,,132.8,2016,Barrell Craft Spirits,Bourbon,16351001000461,https://www.barrellbourbon.com/
 Barrell Bourbon,Batch 007,,122.4,2015,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
 Barrell Bourbon,Batch 006,,122.9,2015,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 005,,124.7,2015,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 004,,120.6,2014,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 005,,124.7,2015,Barrell Craft Spirits,Bourbon,15072001000469,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 004,,120.6,2014,Barrell Craft Spirits,Bourbon,14293001000377,https://www.barrellbourbon.com/
 Barrell Bourbon,Batch 003,,122.6,2014,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,Batch 002,,117.8,2014,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
+Barrell Bourbon,Batch 002,,117.8,2014,Barrell Craft Spirits,Bourbon,14191001000299,https://www.barrellbourbon.com/
 Barrell Bourbon,Batch 001,,121.6,2014,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,12-Year Toasted Barrel,12,113.4,2026,Barrell Craft Spirits,Bourbon,,https://www.fredminnick.com/2026/02/25/barrell-releases-12-year-toasted-barrel-bourbon/
-Barrell Bourbon,12-Year French Oak,,108.5,2025,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/frenchoak
-Barrell Bourbon,New Year 2026,,110.3,2025,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,New Year 2025,,116.24,2024,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,New Year 2024,,112.78,2023,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
+Barrell Bourbon,12-Year Toasted Barrel,12,113.4,2026,Barrell Craft Spirits,Bourbon,26057001000122,https://www.fredminnick.com/2026/02/25/barrell-releases-12-year-toasted-barrel-bourbon/
+Barrell Bourbon,12-Year French Oak,,108.5,2025,Barrell Craft Spirits,Bourbon,25178001000556,https://www.barrellbourbon.com/frenchoak
+Barrell Bourbon,New Year 2026,,110.3,2025,Barrell Craft Spirits,Bourbon,25121001000945,https://www.barrellbourbon.com/
+Barrell Bourbon,New Year 2025,,116.24,2024,Barrell Craft Spirits,Bourbon,24212001000512,https://www.barrellbourbon.com/
+Barrell Bourbon,New Year 2024,,112.78,2023,Barrell Craft Spirits,Bourbon,23225001000088,https://www.barrellbourbon.com/
 Barrell Bourbon,New Year 2023,,113.54,2022,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
 Barrell Bourbon,New Year 2022,,115.34,2021,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
 Barrell Bourbon,New Year 2021,,113.9,2020,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,New Year 2020,,109.4,2019,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,New Year 2019,,112.1,2018,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,New Year 2018,,111.2,2017,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
-Barrell Bourbon,New Year 2017,,117,2016,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
+Barrell Bourbon,New Year 2020,,109.4,2019,Barrell Craft Spirits,Bourbon,19227001000684,https://www.barrellbourbon.com/
+Barrell Bourbon,New Year 2019,,112.1,2018,Barrell Craft Spirits,Bourbon,17124001000081,https://www.barrellbourbon.com/
+Barrell Bourbon,New Year 2018,,111.2,2017,Barrell Craft Spirits,Bourbon,17283001000140,https://www.barrellbourbon.com/
+Barrell Bourbon,New Year 2017,,117,2016,Barrell Craft Spirits,Bourbon,16256001000144,https://www.barrellbourbon.com/
 Barrell Bourbon,Cigar Blend,,111.2,2026,Barrell Craft Spirits,Bourbon,,https://www.fredminnick.com/2026/03/11/barrell-craft-spirits-releases-first-cigar-blend-bourbon/
 Barrell Seagrass,standard,,118.4,2021-2025,Barrell Craft Spirits,Rye,,https://www.barrellbourbon.com/seagrass
 Barrell Seagrass,Toasted,,122,2026,Barrell Craft Spirits,Rye,26079001000283,https://www.barrellbourbon.com/seagrass
@@ -154,7 +154,7 @@ Blanton's,Straight From The Barrel,,120-135,1999-2025,Buffalo Trace,Bourbon,2231
 Blanton's,Special Reserve,,80,1999-2025,Buffalo Trace,Bourbon,19222001000003,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-special-reserve/
 Blanton's,Original,,93,1984-2025,Buffalo Trace,Bourbon,19222001000002,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-original-single-barrel/
 Blanton's,Gold Edition,,103,1999-2025,Buffalo Trace,Bourbon,19222001000001,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-gold-edition/
-Blood Oath,Pact 12,7-12,98.6,2026,Lux Row,Bourbon,,https://luxrowdistillers.com/blood-oath/
+Blood Oath,Pact 12,7-12,98.6,2026,Lux Row,Bourbon,25321001000335,https://luxrowdistillers.com/blood-oath/
 Blood Oath,Pact 11,7-14,98.6,2025,Lux Row,Bourbon,24303001000381,https://luxrowdistillers.com/blood-oath/
 Blood Oath,Pact 10,,98.6,2024,Lux Row,Bourbon,23307001000383,https://luxrowdistillers.com/blood-oath/
 Blood Oath,Pact 9,7-16,98.6,2023,Lux Row,Bourbon,23013001000162,https://luxrowdistillers.com/blood-oath/
@@ -306,8 +306,8 @@ Copper & Cask,Small Batch 007,7,116.2,2024,Copper & Cask,Bourbon,,https://www.br
 Copper & Cask,Small Batch 005,6,121.2,2024,Copper & Cask,Rye,,https://copperandcaskspirits.com/products/small-batch-series-005-6-year-rye
 Copper & Cask,Small Batch 003,7,116.2,2024,Copper & Cask,Bourbon,,https://copperandcaskspirits.com/products/small-batch-series-003
 Copper & Cask,Small Batch 001,8,122.8,2023,Copper & Cask,Bourbon,,https://www.breakingbourbon.com/review/copper-cask-limited-edition-small-batch-series-release-batch-no-001
-Daniel Weller,Spelt Wheat,10,94,2026,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/daniel-weller.html
-Daniel Weller,Emmer Wheat,,94,2023,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/w-l-weller/daniel-weller.html
+Daniel Weller,Spelt Wheat,10,94,2026,Buffalo Trace,Bourbon,25251001000368,https://www.buffalotracedistillery.com/our-brands/w-l-weller/daniel-weller.html
+Daniel Weller,Emmer Wheat,,94,2023,Buffalo Trace,Bourbon,23122001000576,https://www.buffalotracedistillery.com/our-brands/w-l-weller/daniel-weller.html
 Dark Arts Whiskey House,Blunt Blend Batch 3,8,113.8,2026,Dark Arts Whiskey House,Rye,,https://www.breakingbourbon.com/review/dark-arts-whiskey-house-blunt-blend-batch-3
 Dark Arts Whiskey House,Blunt Blend Batch 2,7,114.8,2025,Dark Arts Whiskey House,Rye,,
 Dark Arts Whiskey House,Blunt Blend Batch 1,7,113.6,2024,Dark Arts Whiskey House,Rye,,https://www.breakingbourbon.com/review/dark-arts-whiskey-house-blunt-blend-batch-1
@@ -458,7 +458,7 @@ Frank August,Single Barrel,,114-125,2023-2026,Frank August,Bourbon,,https://thef
 Frey Ranch,Four Grain Bourbon,,90,2019-2026,Frey Ranch,Bourbon,,https://freyranch.com/
 Frey Ranch,Farm Strength Rye,6,124.52,2026,Frey Ranch,Rye,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/frey-ranch-distillery-adds-to-its-core-line-up-with-the-launch-of-frey-ranch-farm-strength-uncut-rye
 Frey Ranch,Farm Strength Bourbon,5,124.3,2023-2026,Frey Ranch,Bourbon,,https://freyranch.com/
-Frey Ranch,Bottled-in-Bond Rye,,100,2019-2026,Frey Ranch,Rye,,https://freyranch.com/
+Frey Ranch,Bottled-in-Bond Rye,,100,2019-2026,Frey Ranch,Rye,24317001000750,https://freyranch.com/
 Full Ryde,Batch 002-25,8,115,2026,Middle West Spirits,Bourbon,,https://www.fullrydebourbon.com/
 Full Ryde,Batch 001-25,8,122,2026,Middle West Spirits,Bourbon,,https://www.fullrydebourbon.com/
 Gambit No. 6,2026,6,92,2026,Foley Family,Bourbon,,https://www.gambit6.com/
@@ -483,7 +483,7 @@ Garrison Brothers Cowboy Bourbon,2016,,135.8,2016,Garrison Brothers,Bourbon,,htt
 Garrison Brothers Cowboy Bourbon,2015,,135.6,2015,Garrison Brothers,Bourbon,,https://www.garrisonbros.com/our-babies/cowboy-bourbon/
 Garrison Brothers Cowboy Bourbon,2014,,137.9,2014,Garrison Brothers,Bourbon,,https://www.garrisonbros.com/our-babies/cowboy-bourbon/
 Garrison Brothers Cowboy Bourbon,2013,,135.2,2013,Garrison Brothers,Bourbon,,https://www.garrisonbros.com/our-babies/cowboy-bourbon/
-Gentleman's Cut,Player Exclusive Shacho,11,105,2026,Boone County Distilling Co.,Bourbon,,https://www.gentlemanscutbourbon.com/player-exclusive-shacho
+Gentleman's Cut,Player Exclusive Shacho,11,105,2026,Boone County Distilling Co.,Bourbon,25365001000230,https://www.gentlemanscutbourbon.com/player-exclusive-shacho
 Gentleman's Cut,Player Exclusive Jose Andres,10,107,2025,Boone County Distilling Co.,Bourbon,,https://www.gentlemanscutbourbon.com/player-exclusive-jose-andres
 Gentleman's Cut,Player Exclusive 15-Year,15,95,2024,Boone County Distilling Co.,Bourbon,,https://www.gentlemanscutbourbon.com/player-exclusive
 Gentleman's Cut,Bourbon,,90,2023-2026,Boone County Distilling Co.,Bourbon,,https://www.gentlemanscutbourbon.com/gentlemans-cut
@@ -519,7 +519,7 @@ Hard Truth,7-Year Wheated Bourbon,7,116.1,2026,Hard Truth Distilling,Bourbon,,ht
 Hard Truth,Sweet Mash Wheated Bourbon,5,100,2024-2026,Hard Truth Distilling,Bourbon,,https://hardtruth.com/spirits/sweet-mash-wheated-bourbon/
 Hard Truth,Sweet Mash Rye,,92,2021-2026,Hard Truth Distilling,Rye,,https://hardtruth.com/spirits/sweet-mash-rye-whiskey/
 Hard Truth,Sweet Mash Four Grain Bourbon,5,100,2024-2026,Hard Truth Distilling,Bourbon,,https://hardtruth.com/spirits/sweet-mash-four-grain-bourbon/
-Hard Truth,Sweet Mash Bourbon,,90,2024-2026,Hard Truth Distilling,Bourbon,,https://hardtruth.com/spirits/sweet-mash-bourbon/
+Hard Truth,Sweet Mash Bourbon,,90,2024-2026,Hard Truth Distilling,Bourbon,23040001000342,https://hardtruth.com/spirits/sweet-mash-bourbon/
 Hard Truth,Barrel Finish Reserve French Oak,,106.1,2026,Hard Truth Distilling,Bourbon,,https://hardtruth.com/spirits/barrel-finish-reserve-straight-bourbon-finished-on-french-oak/
 Hard Truth,American Odd Bourbon,4,100,2025,Hard Truth Distilling,Bourbon,,https://hardtruth.com/spirits/american-odd-bourbon/
 Hardin's Creek,Warehouse Series - The Owl,11,110,2025,Jim Beam,Bourbon,25044001001024,https://www.beamdistilling.com/hardins-creek/whiskies/current-releases
@@ -983,7 +983,7 @@ Stagg Jr,3,,132.1,2014,Buffalo Trace,Bourbon,12355001000167,https://www.buffalot
 Stagg Jr,2,,128.7,2014,Buffalo Trace,Bourbon,12355001000167,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Stagg Jr,1,,134.4,2013,Buffalo Trace,Bourbon,12355001000167,https://www.buffalotracedistillery.com/our-brands/george-t-stagg/stagg-bourbon/
 Starlight,Old Rickhouse Rye,,92,2021-2026,Starlight Distillery,Rye,,https://starlightdistillery.com/ryes/old-rickhouse-rye-whiskey/
-Starlight,Dana Huber Bottled-in-Bond,7,100,2026,Starlight Distillery,Bourbon,,https://starlightdistillery.com/bourbons/bottled-in-bond-bourbon-whiskey/
+Starlight,Dana Huber Bottled-in-Bond,7,100,2026,Starlight Distillery,Bourbon,25141001000983,https://starlightdistillery.com/bourbons/bottled-in-bond-bourbon-whiskey/
 Starlight,Carl T. Bourbon,,92,2021-2026,Starlight Distillery,Bourbon,,https://starlightdistillery.com/bourbons/carl-t-bourbon-whiskey/
 Starlight,Bottled-in-Bond,,100,2021-2026,Starlight Distillery,Bourbon,,https://starlightdistillery.com/bourbons/bottled-in-bond-bourbon-whiskey/
 Still Austin,The Musician,,98.4,2020-2026,Still Austin Whiskey Co.,Bourbon,,https://stillaustin.com/spirits/
@@ -1064,8 +1064,8 @@ WhistlePig Boss Hog,7 - Magellan's Atlantic,17,116.2,2020,WhistlePig,Rye,,https:
 WhistlePig Boss Hog,6 - The Samurai Scientist,16,120.4,2019,WhistlePig,Rye,,https://whistlepigwhiskey.com/the-boss-hog-archive
 WhistlePig Boss Hog,5 - The Spirit of Mauve,13,118.4,2018,WhistlePig,Rye,,https://whistlepigwhiskey.com/the-boss-hog-archive
 WhistlePig Boss Hog,4 - The Black Prince,14,124.2,2017,WhistlePig,Rye,,https://whistlepigwhiskey.com/the-boss-hog-archive
-WhistlePig Boss Hog,3 - The Independent,14,122,2015,WhistlePig,Rye,,https://whistlepigwhiskey.com/the-boss-hog-archive
-WhistlePig Boss Hog,2 - Spirit of Mortimer,13.5,119,2014,WhistlePig,Rye,,https://whistlepigwhiskey.com/the-boss-hog-archive
+WhistlePig Boss Hog,3 - The Independent,14,122,2015,WhistlePig,Rye,14301001000214,https://whistlepigwhiskey.com/the-boss-hog-archive
+WhistlePig Boss Hog,2 - Spirit of Mortimer,13.5,119,2014,WhistlePig,Rye,14301001000214,https://whistlepigwhiskey.com/the-boss-hog-archive
 WhistlePig Boss Hog,1 - Spice Dancer,12,121.8,2013,WhistlePig,Rye,,https://whistlepigwhiskey.com/the-boss-hog-archive
 WhistlePig FarmStock,Crop 003,,86.16,2019,WhistlePig,Rye,,https://whistlepigwhiskey.com/whiskeys/
 WhistlePig FarmStock,Crop 002,,86,2018,WhistlePig,Rye,,https://whistlepigwhiskey.com/whiskeys/
@@ -1177,8 +1177,8 @@ Woodinville Ginja Barrel Finish Bourbon,2023,,95,2023,Woodinville Whiskey Co.,Bo
 Woodinville Port Finish Bourbon,standard,6,90,2017-2025,Woodinville Whiskey Co.,Bourbon,25237001000584,https://woodinvillewhiskeyco.com/products/straight-bourbon-whiskey-finished-in-port-barrels-2026
 Woodinville Rye Port Finish,2022,,90,2022,Woodinville Whiskey Co.,Rye,24208001000061,https://woodinvillewhiskeyco.com/products/woodinville-straight-100-rye-whiskey-finished-in-ruby-port-casks
 Woodinville Sauternes Cask Finish Bourbon,2024,,105,2024,Woodinville Whiskey Co.,Bourbon,24215001000530,https://woodinvillewhiskeyco.com/blogs/journal/harvest-release-2024
-Woodinville Straight Bourbon,standard,6,90,2015-2025,Woodinville Whiskey Co.,Bourbon,,https://woodinvillewhiskeyco.com/products/straight-bourbon-whiskey-2026
-Woodinville Straight Rye,standard,6,90,2015-2025,Woodinville Whiskey Co.,Rye,,https://woodinvillewhiskeyco.com/products/straight-100-rye-whiskey-2026
+Woodinville Straight Bourbon,standard,6,90,2015-2025,Woodinville Whiskey Co.,Bourbon,18005001000445,https://woodinvillewhiskeyco.com/products/straight-bourbon-whiskey-2026
+Woodinville Straight Rye,standard,6,90,2015-2025,Woodinville Whiskey Co.,Rye,18005001000445,https://woodinvillewhiskeyco.com/products/straight-100-rye-whiskey-2026
 Woodinville Tequila Barrel Finish Bourbon,2025,,100,2025,Woodinville Whiskey Co.,Bourbon,24351001000672,https://woodinvillewhiskeyco.com/products/woodinville-straight-bourbon-finished-in-tequila-barrels
 Woody Creek Colorado Straight Bourbon,standard,,90,2018-2026,Woody Creek Distillers,Bourbon,,https://woodycreekdistillers.com/
 Woody Creek Colorado Straight Rye,standard,,90,2017-2026,Woody Creek Distillers,Rye,,https://woodycreekdistillers.com/
