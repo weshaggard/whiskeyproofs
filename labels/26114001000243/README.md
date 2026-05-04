@@ -1,0 +1,74 @@
+# TTB COLA Label Images - TTBID 26114001000243
+
+**Brand Name:** JONES HOUSE
+
+**Issue Date:** 04/30/2026
+
+**Origin Code:** 13
+
+**Product Class/Type:** 141
+
+**Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=26114001000243)
+
+## Label Images
+
+### Back Label
+
+![Back Label](./back_label.jpg)
+
+### Front Label
+
+![Front Label](./front_label.jpg)
+
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+**Detected Proof:** 100
+
+### Back Label
+
+ThE
+FAMILY
+JONES
+DISTILLERY
+HAND-SELECTED BLEND
+OF COLORADO & OHIO
+BOURBON WHISKEYS
+PRODUCED & BOTTLED BY
+THE FAMILY JONES, LLC
+DENVER, CO
+THEFAMILYJONES.CO
+BOTTLE:
+GOVERNMENT WARNING: (1) ACCORDING TO
+THE SURGEON GENERAL, WOMEN SHOULD
+NOT DRINK ALCOHOLIC BEVERAGES DURING
+PREGNANCY BECAUSE OF THE RISK OF BIRTH
+DEFECTS. (2) CONSUMPTION OF ALCOHOLIC
+BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE
+A
+CAR OR OPERATE MACHINERY; AND
+MAY
+CAUSE HEALTH PROBLEMS.
+HwM
+8
+58073
+00718
+
+### Front Label
+
+JoNES
+HOUsE
+F
+BOURBON
+WHISKEY
+COLORADO
+WATER
+BOTTLED
+AT 100 PROOF
+NoN-CHILL FILTERED _
+NO ADDITIVES
+VEGAN
+ALC 50% BY VOLUME
+100 PROOF
+75OML
