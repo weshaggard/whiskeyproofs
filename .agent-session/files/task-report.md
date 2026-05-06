@@ -1,42 +1,37 @@
 # Task Report
 
 ## Task
-Set up an agentic workflow that runs weekly to find new bourbon/rye releases from official updates, update the whiskey index with correct fields/URLs/labels, and extend release-year ranges instead of duplicating unchanged entries.
+Fix the failing GitHub Actions job `find-new-releases` by analyzing run logs, identifying the root cause, and implementing a minimal repository fix.
 
 ## Result
 ✅ Success
 
 ## Summary
-- Items processed: 2
-- Succeeded: 2
+- Items processed: 1
+- Succeeded: 1
 - Failed: 0
 - Skipped: 0
 
 ## Completed
-- Added `.github/workflows/find-new-releases.yml`:
-  - Weekly schedule configured (`0 9 * * 1`) plus manual trigger.
-  - Runs Copilot CLI against `.github/prompts/find-new-releases.prompt.md`.
-  - Runs `validate_whiskey_data.py`, `validate_urls.py`, and `validate_ttb_urls.py`.
-  - Creates automated PRs using GitHub App token (`actions/create-github-app-token` + `peter-evans/create-pull-request`).
-- Added `.github/prompts/find-new-releases.prompt.md`:
-  - Encodes Task → Requirements → Retry → Report framework.
-  - Prioritizes official press releases/websites and bourbon/rye-only scope.
-  - Requires full field correctness and TTB lookup process (repo labels first, then public registry).
-  - Instructs extending `ReleaseYear` ranges for unchanged recurring releases instead of adding duplicates.
-- Validation run after edits:
-  - `python3 .github/scripts/validate_whiskey_data.py` passed.
-  - Full validation chain (`validate_whiskey_data.py`, `validate_urls.py`, `validate_ttb_urls.py`) passed.
-- Security scanning:
-  - `codeql_checker` reported 0 alerts.
+- Investigated Actions run `25462388587` / job `74707583381` and reviewed failure logs.
+- Identified root cause in the `Commit and push changes` step:
+  - `fatal: could not read Username for 'https://github.com': No such device or address`
+  - This indicates missing persisted git credentials for push.
+- Implemented minimal fix in `.github/workflows/find-new-releases.yml`:
+  - Added `persist-credentials: true` to the `actions/checkout@v6` step using the GitHub App token.
+- Ran targeted validation:
+  - `python3 .github/scripts/validate_whiskey_data.py` (pass)
+  - `secret_scanning` on changed workflow file (pass)
+  - `parallel_validation` (Code Review pass, CodeQL skipped as trivial change)
 
 ## Errors
-- Baseline local build attempt with `bundle exec jekyll build` initially failed because `bundle` was missing.
-- Installing bundler globally failed with permission errors writing to `/var/lib/gems/3.2.0`.
-- Resolved by installing user-scoped bundler and setting local bundle path (`bundle config set --local path vendor/bundle`), then `bundle install && bundle exec jekyll build` succeeded.
+None.
 
 ## Remaining Work
 None.
 
 ## State
-- New workflow is committed and pushed on branch `copilot/setup-weekly-agentic-workflow`.
-- New prompt path used by workflow: `.github/prompts/find-new-releases.prompt.md`.
+- Branch: `copilot/fix-finding-new-releases-job`
+- Commit containing fix: `c7c3ffb`
+- Changed file: `.github/workflows/find-new-releases.yml`
+- Recommended verification: re-run `Find New Bourbon and Rye Releases` workflow to confirm push/PR steps now authenticate successfully.
