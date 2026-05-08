@@ -122,7 +122,7 @@ jobs:
               '### What this workflow does' \
               '- Searches for newly announced bourbon and rye releases' \
               '- Prefers official press releases and official product pages' \
-              '- Updates `_data/whiskeyindex.csv` with complete fields, URLs, and TTB labels when verified' \
+              '- Updates `_data/whiskeyindex.csv` with complete fields, URLs, and TTB label IDs when verified' \
               '- Extends `ReleaseYear` ranges for unchanged recurring releases instead of adding duplicate rows' \
               '- Runs repository validation scripts before creating this PR' \
               '' \
