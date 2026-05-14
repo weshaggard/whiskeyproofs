@@ -60,7 +60,7 @@ For each candidate release:
 
 1. Search existing `labels/` files first for matching TTB IDs or label evidence.
 2. If needed, search the public TTB COLA registry.
-3. Add `TTB_ID` when confident; leave blank if not verifiable.
+3. Add `TTB_ID` for each newly added release when confidently verified from label evidence or TTB registry; leave blank only when not verifiable.
 
 ## Existing-release update rule
 
