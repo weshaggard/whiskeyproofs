@@ -83,11 +83,24 @@ jobs:
       - name: Run TTB URL validation script
         run: python3 .github/scripts/validate_ttb_urls.py
 
+      - name: Refresh GitHub App token
+        id: refresh_token
+        uses: actions/create-github-app-token@v3
+        with:
+          client-id: ${{ secrets.APP_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+          repositories: ${{ github.event.repository.name }}
+
       - name: Commit and push changes
         id: commit_push
+        env:
+          GITHUB_APP_TOKEN: ${{ steps.refresh_token.outputs.token }}
         run: |
           git config user.name "whiskey-automation[bot]"
           git config user.email "262019200+whiskey-automation[bot]@users.noreply.github.com"
+
+          # Refresh git credentials — the initial token may have expired after the long agent run
+          git remote set-url origin https://x-access-token:${GITHUB_APP_TOKEN}@github.com/${{ github.repository }}.git
 
           # Ensure we are on the PR branch (create it from current HEAD if it doesn't exist yet)
           CURRENT_BRANCH=$(git branch --show-current)
@@ -109,7 +122,7 @@ jobs:
       - name: Create or update Pull Request
         if: steps.commit_push.outputs.has_changes == 'true'
         env:
-          GH_TOKEN: ${{ steps.generate_token.outputs.token }}
+          GH_TOKEN: ${{ steps.refresh_token.outputs.token }}
         run: |
           EXISTING_PR=$(gh pr list --head automated/find-new-releases --base main --json number --jq '.[0].number' 2>/dev/null)
 
