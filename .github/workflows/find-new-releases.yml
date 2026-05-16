@@ -99,6 +99,9 @@ jobs:
           git config user.name "whiskey-automation[bot]"
           git config user.email "262019200+whiskey-automation[bot]@users.noreply.github.com"
 
+          # Remove stale checkout auth header so refreshed app token is used for push
+          git config --local --unset-all http.https://github.com/.extraheader || true
+
           # Refresh git credentials — the initial token may have expired after the long agent run
           git remote set-url origin https://x-access-token:${GITHUB_APP_TOKEN}@github.com/${{ github.repository }}.git
 
