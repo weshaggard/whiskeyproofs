@@ -29,10 +29,14 @@ jobs:
         with:
           fetch-depth: 0
           token: ${{ steps.generate_token.outputs.token }}
-          persist-credentials: true
+          persist-credentials: false
 
       - name: Switch to PR branch if it already exists
+        env:
+          GITHUB_APP_TOKEN: ${{ steps.generate_token.outputs.token }}
         run: |
+          git remote set-url origin https://x-access-token:${GITHUB_APP_TOKEN}@github.com/${{ github.repository }}.git
+
           if git fetch origin automated/find-new-releases 2>/dev/null; then
             git checkout automated/find-new-releases
             echo "Checked out existing PR branch — new changes will be additive"
@@ -98,9 +102,6 @@ jobs:
         run: |
           git config user.name "whiskey-automation[bot]"
           git config user.email "262019200+whiskey-automation[bot]@users.noreply.github.com"
-
-          # Remove stale checkout auth header so refreshed app token is used for push
-          git config --local --unset-all http.https://github.com/.extraheader || true
 
           # Refresh git credentials — the initial token may have expired after the long agent run
           git remote set-url origin https://x-access-token:${GITHUB_APP_TOKEN}@github.com/${{ github.repository }}.git
