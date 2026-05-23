@@ -1,0 +1,95 @@
+# TTB COLA Label Images - TTBID 26135001000171
+
+**Brand Name:** BCD
+
+**Issue Date:** 05/20/2026
+
+**Origin Code:** 35
+
+**Product Class/Type:** 141
+
+**Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=26135001000171)
+
+## Label Images
+
+### Back Label
+
+![Back Label](./back_label.jpg)
+
+### Front Label
+
+![Front Label](./front_label.jpg)
+
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+**Detected Proof:** 92
+
+### Back Label
+
+Buffalo City Train Crew~1905
+GOVERNMENT WARNING: (1) ACCORDING 70 THE
+SURGEON GENERAL, WOMEN SHOULD NOT DRINK
+
+ALCOHOLIC BEVERAGES DURING PREGNANCY
+BECAUSE OF THE RISK OF BIRTH DEFECTS. (2)
+CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS
+
+YOUR ABILITY TO DRIVE A CAR OR OPERATE
+
+MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
+
+DISTILLED AND BOTTLED BY
+BCD DISTILLERY, POINT HARBOR, NC.
+
+88
+
+7" 938 72257" 4
+DPD PPP PPP PPA
+
+### Front Label
+
+THE STORY
+
+Buffalo City was a once thriving mill town
+in Dare County, NC established by the
+Buffalo Timber Co. after the Civil War.
+“Buffalo City” thrived until the 1920's when
+depletion of timber coincided with prohibition,
+
+To make up for declining timber revenue,
+
+townspeople turned to large-scale illicit
+
+production of high-quality whiskeys that
+were smuggled and became famous up
+and down the Eastern Seaboard,
+
+day the Alligator River swamps have
+swallowed up Buffalo City. The surrounding
+coastal basin landscape was formed following
+the last American Ice Age as sediment from
+melting glaciers created some of the richest
+soils on earth. BCD is a “farm to hottle”
+operation using this fertile and to grow
+exceptionally flavorful grains to produce
+premium spirits with a unique coastal terroir,
+
+—
+
+>
+ww
+
+Ms
+
+NII
+
+OUTER BANKS
+NORTH CAROLINA
+
+EAST LAKE’
+
+BOURBON WHISKEY
+
+ALC/VOL. 46% (92 PROOF) 750 ML
