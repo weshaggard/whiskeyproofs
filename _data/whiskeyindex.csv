@@ -53,6 +53,7 @@ Bardstown Bourbon Distillery Reserve,Normandie Calvados Brandy Barrel,,104.2,202
 Bardstown Bourbon Distillery Reserve,Hokkaido Mizunara Oak,,109.3,2025,Bardstown Bourbon,Bourbon,,https://www.bardstownbourbon.com/products/hokkaido-mizunara-oak-barrel-finish/
 Bardstown Bourbon Distillery Reserve,Cathedral French Oak,,110.1,2025,Bardstown Bourbon,Bourbon,,https://www.bardstownbourbon.com/products/cathedral-french-oak/
 Bardstown Bourbon Distillery Reserve,Cascadia Garryana Oak Barrel Finish,,107.5,2026,Bardstown Bourbon,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/bardstown-bourbon-unveils-cascadia-garryana-oak-barrel-finish-bourbon
+Barrell Bourbon,Batch 038,,116.96,2026,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
 Barrell Bourbon,Batch 037,,111.4,2025,Barrell Craft Spirits,Bourbon,25086001000953,https://www.barrellbourbon.com/
 Barrell Bourbon,Batch 036,,114.4,2023,Barrell Craft Spirits,Bourbon,23269001000899,https://www.barrellbourbon.com/
 Barrell Bourbon,Batch 035,,115.3,2023,Barrell Craft Spirits,Bourbon,23051001000554,https://www.barrellbourbon.com/
@@ -447,6 +448,10 @@ Evan Williams,Black Label,,86,1957-2025,Heaven Hill,Bourbon,19087001000069,https
 Evan Williams,America 250 Single Barrel,,117.76,2026,Heaven Hill,Bourbon,,https://thewhiskeywash.com/whiskey-news/evan-williams-launches-america250-bourbon-for-us-250th-anniversary/
 Evan Williams,1783 Small Batch,,86,2015-2025,Heaven Hill,Bourbon,19344001000656,https://heavenhilldistillery.com/evan-williams-1783-small-batch.php
 Filmland Spirits,The Crimson Cask,4,90,2026,Undisclosed Kentucky,Bourbon,,https://www.filmlandspirits.com/
+First West,Toasted Oak,5,98,2025,15 STARS,Bourbon,,https://15stars.com/first-west/
+First West,Small Batch,5,102,2025,15 STARS,Bourbon,,https://15stars.com/first-west/
+First West,Extra Aged,8,100,2025,15 STARS,Bourbon,,https://15stars.com/first-west/
+First West,Explorer,5,95,2026,15 STARS,Bourbon,,https://15stars.com/first-west/
 Four Branches Bourbon,Liberty Reserve,10,100,2026,Four Branches Bourbon,Bourbon,,https://www.fourbranches.com/products/liberty-reserve
 Four Branches Bourbon,Founders Reserve,,96,2026,Four Branches Bourbon,Bourbon,26085001000545,https://fourbranches.com
 Four Branches Bourbon,Founders Blend,,96,2023-2025,Four Branches Bourbon,Bourbon,22354001000032,https://www.fourbranches.com/products/four-branches-bourbon
@@ -514,6 +519,8 @@ Garrison Brothers Cowboy Bourbon,2016,,135.8,2016,Garrison Brothers,Bourbon,,htt
 Garrison Brothers Cowboy Bourbon,2015,,135.6,2015,Garrison Brothers,Bourbon,,https://www.garrisonbros.com/our-babies/cowboy-bourbon/
 Garrison Brothers Cowboy Bourbon,2014,,137.9,2014,Garrison Brothers,Bourbon,,https://www.garrisonbros.com/our-babies/cowboy-bourbon/
 Garrison Brothers Cowboy Bourbon,2013,,135.2,2013,Garrison Brothers,Bourbon,,https://www.garrisonbros.com/our-babies/cowboy-bourbon/
+Garrison Brothers Ranch Reserve,PX Sherry Cask,8,109,2026,Garrison Brothers,Bourbon,,https://www.garrisonbros.com/our-babies/px/
+Garrison Brothers Ranch Reserve,Oloroso Sherry Cask,8,110,2026,Garrison Brothers,Bourbon,,https://www.garrisonbros.com/our-babies/oloroso/
 Gentleman's Cut,Player Exclusive Shacho,11,105,2026,Boone County Distilling Co.,Bourbon,25365001000230,https://www.gentlemanscutbourbon.com/player-exclusive-shacho
 Gentleman's Cut,Player Exclusive Jose Andres,10,107,2025,Boone County Distilling Co.,Bourbon,,https://www.gentlemanscutbourbon.com/player-exclusive-jose-andres
 Gentleman's Cut,Player Exclusive 15-Year,15,95,2024,Boone County Distilling Co.,Bourbon,,https://www.gentlemanscutbourbon.com/player-exclusive
@@ -587,6 +594,8 @@ Horse Soldier,Straight Bourbon,4,87,2019-2026,Horse Soldier,Bourbon,,https://hor
 Horse Soldier,Small Batch,,95,2019-2026,Horse Soldier,Bourbon,22264001000284,https://horsesoldierbourbon.com/pages/signature-bourbon
 Horse Soldier,Liberty Edition,13,100,2026,Horse Soldier,Bourbon,,https://horsesoldierbourbon.com/blogs/news/introducing-horse-solider-bourbon-liberty-edition
 Horse Soldier,Commander's Select 12 Year,12,120,2019-2026,Horse Soldier,Bourbon,,https://horsesoldierbourbon.com/
+J. Henry & Sons,Small Batch,5,92,2015-2026,J. Henry & Sons,Bourbon,,https://jhenryandsons.com/
+J. Henry & Sons,Patton Road Reserve Single Barrel,,120,2017-2026,J. Henry & Sons,Bourbon,,https://jhenryandsons.com/
 Jack Daniel's 10 Year (JD10),Batch 5,10,97,2026,Jack Daniel's,Tennessee Whiskey,25176001000385,https://www.jackdaniels.com/en-us/whiskey/10-year-old-tennessee-whiskey
 Jack Daniel's 10 Year (JD10),Batch 4,10,97,2025,Jack Daniel's,Tennessee Whiskey,24002001000457,https://www.jackdaniels.com/en-us/whiskey/10-year-old-tennessee-whiskey
 Jack Daniel's 10 Year (JD10),Batch 3,10,97,2024,Jack Daniel's,Tennessee Whiskey,23010001000241,https://www.jackdaniels.com/en-us/whiskey/10-year-old-tennessee-whiskey
@@ -678,11 +687,23 @@ Larrikin,Cigar Lounge,9,110,2026,Larrikin Bourbon Co.,Bourbon,26132001000835,htt
 Larrikin,Bottled in Bond,8,100,2024,Larrikin Bourbon Co.,Bourbon,,https://larrikinbourbon.com/bottledinbond
 Larrikin Pour for the Roses,2026 Running,9,90,2026,Larrikin Bourbon Co.,Bourbon,,https://thewhiskeywash.com/whiskey-news/larrikin-bourbon-releases-3rd-annual-pour-for-the-roses-for-kentucky-derby/
 Larrikin Pour for the Roses,2024 Running,8,126.3,2024,Larrikin Bourbon Co.,Bourbon,,https://www.fredminnick.com/2024/04/16/lawrenceburg-bourbon-company-releases-pour-for-the-roses/
+Lasso Motel,Tokaji Cask Finish,,100,2024-2026,Green River,Bourbon,,https://lassomotelwhiskey.com/
+Lasso Motel,Single Barrel Rye 10 Year,10,122.4,2024-2026,MGP,Rye,,https://lassomotelwhiskey.com/
+Lasso Motel,Sherry Cask Finish,,100,2024-2026,Green River,Bourbon,,https://lassomotelwhiskey.com/
+Lasso Motel,Rosé Cask Finish,,100,2024-2026,Green River,Bourbon,,https://lassomotelwhiskey.com/
+Lasso Motel,Port Cask Finish,,100,2024-2026,Green River,Bourbon,,https://lassomotelwhiskey.com/
+Lasso Motel,Naranja Cask Finish,,100,2024-2026,Green River,Bourbon,,https://lassomotelwhiskey.com/
+Lasso Motel,Mizunara Cask Finish,,100,2024-2026,Green River,Bourbon,,https://lassomotelwhiskey.com/
+Lasso Motel,Le Stave,,100,2024-2026,Green River,Bourbon,,https://lassomotelwhiskey.com/
+Lasso Motel,James Dean 13-Year Rye,13,112,2026,MGP,Rye,,https://www.fredminnick.com/2026/05/28/lasso-motel-whiskey-releases-commemorative-james-dean-rye/
+Lasso Motel,Cognac Cask Finish,,100,2024-2026,Green River,Bourbon,,https://lassomotelwhiskey.com/
+Lasso Motel,Amburana Cask Finish,,100,2024-2026,Green River,Bourbon,,https://lassomotelwhiskey.com/
 Laws Whiskey House,Special Release,,95,2026,Laws Whiskey House,Bourbon,26090001000944,https://lawswhiskeyhouse.com/
 Laws Whiskey House,San Luis Valley Rye,,95,2014-2026,Laws Whiskey House,Rye,,https://lawswhiskeyhouse.com/
 Laws Whiskey House,Four Grain Bourbon,,95,2014-2026,Laws Whiskey House,Bourbon,,https://lawswhiskeyhouse.com/
 Laws Whiskey House,Bonded Rye,7,100,2024,Laws Whiskey House,Rye,,https://lawswhiskeyhouse.com/
 Laws Whiskey House,Bonded Bourbon,7,100,2024,Laws Whiskey House,Bourbon,,https://lawswhiskeyhouse.com/
+Little & Foster,Marriage of Mashbills Bourbon,9,107,2026,Little & Foster,Bourbon,,https://www.littleandfoster.com
 Little Book,Chapter 10: All the Wiser,,122.6,2026,Jim Beam,Bourbon,25346001000127,https://www.beamdistilling.com/littlebook
 Little Book,Chapter 9: None For Granted,,121.8,2025,Jim Beam,Bourbon,24032001000586,https://www.beamdistilling.com/littlebook/whiskies/little-book-chapter-9-none-for-granted
 Little Book,Chapter 8: Path Not Taken,,120,2024,Jim Beam,Bourbon,23060001000800,https://www.beamdistilling.com/littlebook/whiskies/little-book-chapter-8-path-not-taken
@@ -731,26 +752,11 @@ Maker's Mark Wood Finishing Series,BRT-01,,109.4,2022,Maker's Mark,Bourbon,22025
 Maker's Mark Wood Finishing Series,BEP,,110,2023,Maker's Mark,Bourbon,22199001000565,https://www.makersmark.com/bourbons/makers-mark-wood-finishing-series
 McCracken Jubilee,standard,,90,2026,McCracken Curve Distillery,Bourbon,26128001000815,https://mccrackencurve.com/
 Mellow Corn,standard,4,100,1945-2025,Heaven Hill,Corn Whiskey,,https://heavenhilldistillery.com/mellow-corn.php
+Michter's 10 Year Bourbon,2015-2024,10,94.4,2015-2024,Michter's,Bourbon,16085001000498,https://michters.com/whiskey/10-year-kentucky-straight-bourbon/
 Michter's 10 Year Bourbon,2025,10,94.4,2025,Michter's,Bourbon,25138001000027,https://michters.com/whiskey/10-year-kentucky-straight-bourbon/
-Michter's 10 Year Bourbon,2024,10,94.4,2024,Michter's,Bourbon,16085001000498,https://michters.com/whiskey/10-year-kentucky-straight-bourbon/
-Michter's 10 Year Bourbon,2023,10,94.4,2023,Michter's,Bourbon,16085001000498,https://michters.com/whiskey/10-year-kentucky-straight-bourbon/
-Michter's 10 Year Bourbon,2021,10,94.4,2021,Michter's,Bourbon,16085001000498,https://michters.com/whiskey/10-year-kentucky-straight-bourbon/
-Michter's 10 Year Bourbon,2020,10,94.4,2020,Michter's,Bourbon,16085001000498,https://michters.com/whiskey/10-year-kentucky-straight-bourbon/
-Michter's 10 Year Bourbon,2019,10,94.4,2019,Michter's,Bourbon,16085001000498,https://michters.com/whiskey/10-year-kentucky-straight-bourbon/
-Michter's 10 Year Bourbon,2018,10,94.4,2018,Michter's,Bourbon,16085001000498,https://michters.com/whiskey/10-year-kentucky-straight-bourbon/
-Michter's 10 Year Bourbon,2017,10,94.4,2017,Michter's,Bourbon,16085001000498,https://michters.com/whiskey/10-year-kentucky-straight-bourbon/
-Michter's 10 Year Bourbon,2016,10,94.4,2016,Michter's,Bourbon,16085001000498,https://michters.com/whiskey/10-year-kentucky-straight-bourbon/
-Michter's 10 Year Bourbon,2015,10,94.4,2015,Michter's,Bourbon,16085001000498,https://michters.com/whiskey/10-year-kentucky-straight-bourbon/
-Michter's 10 Year Rye,2025,10,92.8,2025,Michter's,Rye,,https://michters.com/whiskey/10-year-kentucky-straight-rye/
-Michter's 10 Year Rye,2024,10,92.8,2024,Michter's,Rye,16085001000483,https://michters.com/whiskey/10-year-kentucky-straight-rye/
-Michter's 10 Year Rye,2023,10,92.8,2023,Michter's,Rye,16085001000483,https://michters.com/whiskey/10-year-kentucky-straight-rye/
-Michter's 10 Year Rye,2021,10,92.8,2021,Michter's,Rye,16085001000483,https://michters.com/whiskey/10-year-kentucky-straight-rye/
-Michter's 10 Year Rye,2020,10,92.8,2020,Michter's,Rye,16085001000483,https://michters.com/whiskey/10-year-kentucky-straight-rye/
+Michter's 10 Year Rye,2025-2026,10,92.8,2025-2026,Michter's,Rye,,https://michters.com/whiskey/10-year-kentucky-straight-rye/
+Michter's 10 Year Rye,2015-2024,10,92.8,2015-2024,Michter's,Rye,16085001000483,https://michters.com/whiskey/10-year-kentucky-straight-rye/
 Michter's 10 Year Rye,2019,10,92.8,2019,Michter's,Rye,20195001000459,https://michters.com/whiskey/10-year-kentucky-straight-rye/
-Michter's 10 Year Rye,2018,10,92.8,2018,Michter's,Rye,16085001000483,https://michters.com/whiskey/10-year-kentucky-straight-rye/
-Michter's 10 Year Rye,2017,10,92.8,2017,Michter's,Rye,16085001000483,https://michters.com/whiskey/10-year-kentucky-straight-rye/
-Michter's 10 Year Rye,2016,10,92.8,2016,Michter's,Rye,16085001000483,https://michters.com/whiskey/10-year-kentucky-straight-rye/
-Michter's 10 Year Rye,2015,10,92.8,2015,Michter's,Rye,16085001000483,https://michters.com/whiskey/10-year-kentucky-straight-rye/
 Michter's 20 Year Bourbon (M20),2025,20,114.2,2025,Michter's,Bourbon,16085001000501,https://michters.com/20-year-kentucky-straight-bourbon/
 Michter's 20 Year Bourbon (M20),2024,20,114.2,2024,Michter's,Bourbon,16085001000501,https://michters.com/20-year-kentucky-straight-bourbon/
 Michter's 20 Year Bourbon (M20),2022,20,114.2,2022,Michter's,Bourbon,16085001000501,https://michters.com/20-year-kentucky-straight-bourbon/
@@ -781,6 +787,13 @@ Michter's US 1,Bourbon,,91.4,2000-2025,Michter's,Bourbon,16085001000517,https://
 Michter's US 1,Barrel Strength Rye,,107.4-115.2,2025,Michter's,Rye,19274001000463,https://michters.com/whiskey/us-1-barrel-strength-rye/
 Michter's US 1,Barrel Strength Bourbon,,108-112,2017-2025,Michter's,Bourbon,17010001000238,https://michters.com/whiskey/us-1-limited-release-barrel-strength-bourbon/
 Michter's US 1,American Whiskey,,83.4,2000-2025,Michter's,Whiskey,16085001000490,https://michters.com/us1-american-whiskey/
+Milam & Greene,Very Small Batch Straight Bourbon,,108,2023-2026,Milam & Greene,Bourbon,,https://milamandgreenewhiskey.com/
+Milam & Greene,Triple Cask Straight Bourbon,,94,2019-2026,Milam & Greene,Bourbon,,https://milamandgreenewhiskey.com/pages/triple-cask-bourbon/
+Milam & Greene,Provisions Bourbon,,80,2025-2026,Milam & Greene,Bourbon,,https://milamandgreenewhiskey.com/
+Milam & Greene,Port Cask Rye,,94,2019-2026,Milam & Greene,Rye,,https://milamandgreenewhiskey.com/
+Milam & Greene,Bottled in Bond,,100,2024-2026,Milam & Greene,Bourbon,,https://milamandgreenewhiskey.com/pages/bottled-in-bond-bourbon
+Milam & Greene Wildlife Collection,Live Oak Straight Bourbon,6,123.4,2026,Milam & Greene,Bourbon,,https://milamandgreenewhiskey.com/pages/wildlife-collections/
+Milam & Greene Wildlife Collection,Bluebonnet Straight Bourbon,5,113.5,2026,Milam & Greene,Bourbon,,https://milamandgreenewhiskey.com/pages/wildlife-collections/
 New Riff Balboa Rye,2026,4,100,2026,New Riff,Rye,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/award-winning-balboa-rye-returns-as-new-riff-distilling-announces-release
 New Riff Bottled in Bond,standard,4,100,2018-2026,New Riff,Bourbon,24318001000303,https://www.newriffdistilling.com/spirits/kentucky-straight-bourbon-whiskey/
 New Riff Bottled in Bond Rye,standard,4,100,2018-2026,New Riff,Rye,,https://www.newriffdistilling.com/spirits/kentucky-straight-rye-whiskey/
@@ -1051,14 +1064,17 @@ Still Austin,The Artist,,98.4,2020-2026,Still Austin Whiskey Co.,Rye,,https://st
 Still Austin,Tanager Cigar Blend Bourbon,6,107.5,2025-2026,Still Austin Whiskey Co.,Bourbon,24124001000496,https://stillaustin.com/tanager-cigar-blend-bourbon-whiskey
 Still Austin,Cask Strength Rye,,116,2022-2026,Still Austin Whiskey Co.,Rye,,https://stillaustin.com/spirits/
 Still Austin,Cask Strength Bourbon,,118,2021-2026,Still Austin Whiskey Co.,Bourbon,,https://stillaustin.com/spirits/
-Still Austin Bottled in Bond,Spring 2026 Rye,4,100,2026,Still Austin Whiskey Co.,Rye,,https://stillaustin.com/spirits/bottled-in-bond
+Still Austin Bottled in Bond,Fall 2026 High Rye Bourbon,,100,2026,Still Austin Whiskey Co.,Bourbon,26138001000469,https://stillaustin.com/spirits/bottled-in-bond
+Still Austin Bottled in Bond,Spring 2026 Rye,4,100,2026,Still Austin Whiskey Co.,Rye,26138001000453,https://stillaustin.com/spirits/bottled-in-bond
 Still Austin Bottled in Bond,Fall 2025 High Rye Bourbon,7,100,2025,Still Austin Whiskey Co.,Bourbon,,https://stillaustin.com/spirits/bottled-in-bond
 Still Austin Bottled in Bond,Spring 2025 Rye,4,100,2025,Still Austin Whiskey Co.,Rye,,https://stillaustin.com/spirits/bottled-in-bond
 Still Austin Bottled in Bond,Fall 2024 High Rye Bourbon,6,100,2024,Still Austin Whiskey Co.,Bourbon,,https://stillaustin.com/spirits/bottled-in-bond
 Still Austin Bottled in Bond,Spring 2024 Rye,4,100,2024,Still Austin Whiskey Co.,Rye,,https://stillaustin.com/spirits/bottled-in-bond
 Still Austin Bottled in Bond,Fall 2023 High Rye Bourbon,4,100,2023,Still Austin Whiskey Co.,Bourbon,,https://stillaustin.com/spirits/bottled-in-bond
+Still Austin Bottled in Bond,Winter 2025 Blue Corn Bourbon,6,100,2025,Still Austin Whiskey Co.,Bourbon,,https://stillaustin.com/spirits/bottled-in-bond
 Still Austin Bottled in Bond,Winter 2024 Blue Corn Bourbon,5,100,2024,Still Austin Whiskey Co.,Bourbon,,https://stillaustin.com/spirits/bottled-in-bond
 Still Austin Bottled in Bond,Winter 2023 Blue Corn Bourbon,4,100,2023,Still Austin Whiskey Co.,Bourbon,,https://stillaustin.com/spirits/bottled-in-bond
+Still Austin Bottled in Bond,Summer 2026 Red Corn Bourbon,7,100,2026,Still Austin Whiskey Co.,Bourbon,26138001000484,https://stillaustin.com/spirits/bottled-in-bond
 Still Austin Bottled in Bond,Summer 2025 Red Corn Bourbon,6,100,2025,Still Austin Whiskey Co.,Bourbon,,https://stillaustin.com/spirits/bottled-in-bond
 Still Austin Bottled in Bond,Summer 2024 Red Corn Bourbon,5,100,2024,Still Austin Whiskey Co.,Bourbon,,https://stillaustin.com/spirits/bottled-in-bond
 Still Austin Bottled in Bond,Summer 2023 Red Corn Bourbon,4,100,2023,Still Austin Whiskey Co.,Bourbon,,https://stillaustin.com/spirits/bottled-in-bond
@@ -1095,8 +1111,13 @@ Thomas H. Handy (THH),BTAC Fall 2013,6,128.4,2013,Buffalo Trace,Rye,061940000000
 Thomas H. Handy (THH),BTAC Fall 2012,6,132.4,2012,Buffalo Trace,Rye,06194000000025,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
 Thomas H. Handy (THH),BTAC Fall 2011,6,128.6,2011,Buffalo Trace,Rye,06194000000025,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
 Thomas H. Handy (THH),BTAC Fall 2010,6,126.9,2010,Buffalo Trace,Rye,06194000000025,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Town Branch,6-Year Wheated,6,99,2026,Town Branch Distillery,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/town-branch-distillery-releases-age-stated-wheated-bourbon
+Town Branch,standard,,90,2012-2026,Town Branch Distillery,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/town-branch-just-doubled-down
+Town Branch,Rye,,100,2014-2026,Town Branch Distillery,Rye,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/town-branch-kentucky-straight-rye-whiskey
 Tumblin' Dice,Small Batch,4,100,2016-2026,Proof & Wood,Bourbon,,https://www.proofandwood.com/tumblin-dice
 Tumblin' Dice,11 Year Bottled in Bond,11,100,2026,Proof & Wood,Bourbon,,https://www.proofandwood.com/tumblin-dice
+Two Souls Spirits,J. Henry 7yr Rye Rum Cask,7,124.58,2026,J. Henry & Sons,Rye,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/two-souls-spirits-and-j-henry-sons-release-first-ever-rum-cask-finished-whiskeys-in-a-historic-collaboration
+Two Souls Spirits,J. Henry 7yr Bourbon Rum Cask,7,115.32,2026,J. Henry & Sons,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/two-souls-spirits-and-j-henry-sons-release-first-ever-rum-cask-finished-whiskeys-in-a-historic-collaboration
 Unbridled Spirit,standard,,100,2026,Unbridled Spirit,Bourbon,26022001000191,https://fortheunbridled.com
 Very Olde St. Nick,Resurrection,,103.4,2026,Preservation Distillery,Bourbon,26071001000992,https://preservationdistillery.com/
 Very Olde St. Nick,Immaculata 2026,,118.2,2026,Preservation Distillery,Bourbon,,https://preservationdistillery.com/
@@ -1199,6 +1220,7 @@ William Larue Weller (WLW),BTAC Fall 2013,12,136.2,2013,Buffalo Trace,Bourbon,05
 William Larue Weller (WLW),BTAC Fall 2012,12,123.4,2012,Buffalo Trace,Bourbon,05209000000014,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
 William Larue Weller (WLW),BTAC Fall 2011,11,133.5,2011,Buffalo Trace,Bourbon,05209000000014,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
 William Larue Weller (WLW),BTAC Fall 2010,12,126.6,2010,Buffalo Trace,Bourbon,05209000000014,https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller/
+Woodford Reserve Distillery Series,2026 Red Corn,,90.4,2026,Woodford Reserve,Bourbon,,https://www.woodfordreserve.com/whiskey/distillery-series/
 Woodford Reserve Distillery Series,2026 Double Double Oaked,,90.4,2026,Woodford Reserve,Bourbon,,https://www.woodfordreserve.com/whiskey/distillery-series/
 Woodford Reserve Distillery Series,2026 Cabernet Sauvignon Barrel Finish,,90.4,2026,Woodford Reserve,Bourbon,25223001000130,https://www.woodfordreserve.com/whiskey/distillery-series/
 Woodford Reserve Distillery Series,2025 Tawny Port Finish,,90.4,2025,Woodford Reserve,Bourbon,24312001000096,https://www.breakingbourbon.com/review/woodford-reserve-distillery-series-tawny-port-finish
