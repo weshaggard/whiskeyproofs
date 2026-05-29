@@ -594,6 +594,8 @@ Horse Soldier,Straight Bourbon,4,87,2019-2026,Horse Soldier,Bourbon,,https://hor
 Horse Soldier,Small Batch,,95,2019-2026,Horse Soldier,Bourbon,22264001000284,https://horsesoldierbourbon.com/pages/signature-bourbon
 Horse Soldier,Liberty Edition,13,100,2026,Horse Soldier,Bourbon,,https://horsesoldierbourbon.com/blogs/news/introducing-horse-solider-bourbon-liberty-edition
 Horse Soldier,Commander's Select 12 Year,12,120,2019-2026,Horse Soldier,Bourbon,,https://horsesoldierbourbon.com/
+J. Henry & Sons,Small Batch,5,92,2015-2026,J. Henry & Sons,Bourbon,,https://jhenryandsons.com/
+J. Henry & Sons,Patton Road Reserve Single Barrel,,120,2017-2026,J. Henry & Sons,Bourbon,,https://jhenryandsons.com/
 Jack Daniel's 10 Year (JD10),Batch 5,10,97,2026,Jack Daniel's,Tennessee Whiskey,25176001000385,https://www.jackdaniels.com/en-us/whiskey/10-year-old-tennessee-whiskey
 Jack Daniel's 10 Year (JD10),Batch 4,10,97,2025,Jack Daniel's,Tennessee Whiskey,24002001000457,https://www.jackdaniels.com/en-us/whiskey/10-year-old-tennessee-whiskey
 Jack Daniel's 10 Year (JD10),Batch 3,10,97,2024,Jack Daniel's,Tennessee Whiskey,23010001000241,https://www.jackdaniels.com/en-us/whiskey/10-year-old-tennessee-whiskey
@@ -685,6 +687,17 @@ Larrikin,Cigar Lounge,9,110,2026,Larrikin Bourbon Co.,Bourbon,26132001000835,htt
 Larrikin,Bottled in Bond,8,100,2024,Larrikin Bourbon Co.,Bourbon,,https://larrikinbourbon.com/bottledinbond
 Larrikin Pour for the Roses,2026 Running,9,90,2026,Larrikin Bourbon Co.,Bourbon,,https://thewhiskeywash.com/whiskey-news/larrikin-bourbon-releases-3rd-annual-pour-for-the-roses-for-kentucky-derby/
 Larrikin Pour for the Roses,2024 Running,8,126.3,2024,Larrikin Bourbon Co.,Bourbon,,https://www.fredminnick.com/2024/04/16/lawrenceburg-bourbon-company-releases-pour-for-the-roses/
+Lasso Motel,Tokaji Cask Finish,,100,2024-2026,Green River,Bourbon,,https://lassomotelwhiskey.com/
+Lasso Motel,Single Barrel Rye 10 Year,10,122.4,2024-2026,MGP,Rye,,https://lassomotelwhiskey.com/
+Lasso Motel,Sherry Cask Finish,,100,2024-2026,Green River,Bourbon,,https://lassomotelwhiskey.com/
+Lasso Motel,Rosé Cask Finish,,100,2024-2026,Green River,Bourbon,,https://lassomotelwhiskey.com/
+Lasso Motel,Port Cask Finish,,100,2024-2026,Green River,Bourbon,,https://lassomotelwhiskey.com/
+Lasso Motel,Naranja Cask Finish,,100,2024-2026,Green River,Bourbon,,https://lassomotelwhiskey.com/
+Lasso Motel,Mizunara Cask Finish,,100,2024-2026,Green River,Bourbon,,https://lassomotelwhiskey.com/
+Lasso Motel,Le Stave,,100,2024-2026,Green River,Bourbon,,https://lassomotelwhiskey.com/
+Lasso Motel,James Dean 13-Year Rye,13,112,2026,MGP,Rye,,https://www.fredminnick.com/2026/05/28/lasso-motel-whiskey-releases-commemorative-james-dean-rye/
+Lasso Motel,Cognac Cask Finish,,100,2024-2026,Green River,Bourbon,,https://lassomotelwhiskey.com/
+Lasso Motel,Amburana Cask Finish,,100,2024-2026,Green River,Bourbon,,https://lassomotelwhiskey.com/
 Laws Whiskey House,Special Release,,95,2026,Laws Whiskey House,Bourbon,26090001000944,https://lawswhiskeyhouse.com/
 Laws Whiskey House,San Luis Valley Rye,,95,2014-2026,Laws Whiskey House,Rye,,https://lawswhiskeyhouse.com/
 Laws Whiskey House,Four Grain Bourbon,,95,2014-2026,Laws Whiskey House,Bourbon,,https://lawswhiskeyhouse.com/
@@ -1098,8 +1111,13 @@ Thomas H. Handy (THH),BTAC Fall 2013,6,128.4,2013,Buffalo Trace,Rye,061940000000
 Thomas H. Handy (THH),BTAC Fall 2012,6,132.4,2012,Buffalo Trace,Rye,06194000000025,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
 Thomas H. Handy (THH),BTAC Fall 2011,6,128.6,2011,Buffalo Trace,Rye,06194000000025,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
 Thomas H. Handy (THH),BTAC Fall 2010,6,126.9,2010,Buffalo Trace,Rye,06194000000025,https://www.buffalotracedistillery.com/our-brands/sazerac-rye/thomas-h-handy-sazerac/
+Town Branch,6-Year Wheated,6,99,2026,Town Branch Distillery,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/town-branch-distillery-releases-age-stated-wheated-bourbon
+Town Branch,standard,,90,2012-2026,Town Branch Distillery,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/town-branch-just-doubled-down
+Town Branch,Rye,,100,2014-2026,Town Branch Distillery,Rye,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/town-branch-kentucky-straight-rye-whiskey
 Tumblin' Dice,Small Batch,4,100,2016-2026,Proof & Wood,Bourbon,,https://www.proofandwood.com/tumblin-dice
 Tumblin' Dice,11 Year Bottled in Bond,11,100,2026,Proof & Wood,Bourbon,,https://www.proofandwood.com/tumblin-dice
+Two Souls Spirits,J. Henry 7yr Rye Rum Cask,7,124.58,2026,J. Henry & Sons,Rye,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/two-souls-spirits-and-j-henry-sons-release-first-ever-rum-cask-finished-whiskeys-in-a-historic-collaboration
+Two Souls Spirits,J. Henry 7yr Bourbon Rum Cask,7,115.32,2026,J. Henry & Sons,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/two-souls-spirits-and-j-henry-sons-release-first-ever-rum-cask-finished-whiskeys-in-a-historic-collaboration
 Unbridled Spirit,standard,,100,2026,Unbridled Spirit,Bourbon,26022001000191,https://fortheunbridled.com
 Very Olde St. Nick,Resurrection,,103.4,2026,Preservation Distillery,Bourbon,26071001000992,https://preservationdistillery.com/
 Very Olde St. Nick,Immaculata 2026,,118.2,2026,Preservation Distillery,Bourbon,,https://preservationdistillery.com/
