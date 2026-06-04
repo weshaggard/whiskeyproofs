@@ -474,7 +474,7 @@ First West,Explorer,5,95,2026,15 STARS,Bourbon,,https://15stars.com/first-west/
 Four Branches Bourbon,Liberty Reserve,10,100,2026,Four Branches Bourbon,Bourbon,,https://www.fourbranches.com/products/liberty-reserve
 Four Branches Bourbon,Founders Reserve,,96,2026,Four Branches Bourbon,Bourbon,26085001000545,https://fourbranches.com
 Four Branches Bourbon,Founders Blend,,96,2023-2025,Four Branches Bourbon,Bourbon,22354001000032,https://www.fourbranches.com/products/four-branches-bourbon
-Four Roses Anthology,Chapter 01: Origin,21,100,2026,Four Roses,Bourbon,25174001000230,https://www.fourrosesbourbon.com/bourbon/limited-edition
+Four Roses Anthology,Chapter 01: Origin,21,102.5-124.9,2026,Four Roses,Bourbon,25174001000230,https://www.fourrosesbourbon.com/bourbon/anthology
 Four Roses Limited Edition Small Batch,2025,13-19,109,2025,Four Roses,Bourbon,25084001000462,https://www.fourrosesbourbon.com/bourbon/limited-edition
 Four Roses Limited Edition Small Batch,2024,12-20,108.2,2024,Four Roses,Bourbon,24050001000660,https://www.fourrosesbourbon.com/bourbon/limited-edition
 Four Roses Limited Edition Small Batch,2023,12-25,108,2023,Four Roses,Bourbon,23051001000526,https://www.fourrosesbourbon.com/bourbon/limited-edition
@@ -851,6 +851,10 @@ Milam & Greene Wildlife Collection,Bluebonnet Straight Bourbon,5,113.5,2026,Mila
 New Riff Balboa Rye,2026,4,100,2026,New Riff,Rye,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/award-winning-balboa-rye-returns-as-new-riff-distilling-announces-release
 New Riff Bottled in Bond,standard,4,100,2018-2026,New Riff,Bourbon,24318001000303,https://www.newriffdistilling.com/spirits/kentucky-straight-bourbon-whiskey/
 New Riff Bottled in Bond Rye,standard,4,100,2018-2026,New Riff,Rye,,https://www.newriffdistilling.com/spirits/kentucky-straight-rye-whiskey/
+New Riff High Note Bourbon,2026,10,116.9,2026,New Riff,Bourbon,26037001000262,https://newriffdistilling.com/spirits/high-note-10-year-old-kentucky-straight-bourbon-whiskey/
+New Riff High Note Bourbon,First Decade,10,120.5,2025,New Riff,Bourbon,,https://newriffdistilling.com/spirits/high-note-10-year-old-kentucky-straight-bourbon-whiskey/
+New Riff High Note Rye,2026,10,118.8,2026,New Riff,Rye,26037001000271,https://newriffdistilling.com/spirits/high-note-10-year-old-kentucky-straight-rye-whiskey/
+New Riff High Note Rye,First Decade,10,120.5,2025,New Riff,Rye,,https://newriffdistilling.com/spirits/high-note-10-year-old-kentucky-straight-rye-whiskey/
 New Riff Silver Grove Bourbon,2026,6,116.4,2026,New Riff,Bourbon,25015001000070,https://www.fredminnick.com/2026/03/06/new-riff-announces-6-year-silver-grove-bourbon-and-rye/
 New Riff Silver Grove Bourbon,2025,4,110.3,2025,New Riff,Bourbon,25015001000070,https://www.fredminnick.com/2025/03/28/new-riff-releases-two-new-silver-grove-whiskeys/
 New Riff Silver Grove Rye,2026,6,115,2026,New Riff,Rye,25015001000072,https://www.fredminnick.com/2026/03/06/new-riff-announces-6-year-silver-grove-bourbon-and-rye/
@@ -1028,12 +1032,14 @@ Russell's Reserve,Single Barrel Rye,,104,2015-2025,Wild Turkey,Rye,2203100100108
 Russell's Reserve,Single Barrel Bourbon,,110,2006-2025,Wild Turkey,Bourbon,22014001000277,https://www.russellsreserve.com/en-us/our-products/single-barrel-bourbon/
 Russell's Reserve,6 Year Rye,6,90,2012-2025,Wild Turkey,Rye,05075001000811,https://www.russellsreserve.com/en-us/our-products/6-year-old-rye/
 Russell's Reserve,10 Year,10,90,2001-2025,Wild Turkey,Bourbon,22014001000233,https://www.russellsreserve.com/en-us/our-products/10-year-old-bourbon/
+Russell's Reserve 13 Year,7 - LA/OE (Spring 2026),13,121.2,2026,Wild Turkey,Bourbon,26007001000473,https://www.russellsreserve.com/en-us/our-products/13-year-old-bourbon/
 Russell's Reserve 13 Year,6 - LA/NE (Spring 2025),13,123.8,2025,Wild Turkey,Bourbon,25008001000469,https://www.russellsreserve.com/our-products/13-year-old-bourbon/
 Russell's Reserve 13 Year,5 - LL/LE (May 2023),13,114.8,2023,Wild Turkey,Bourbon,22263001000357,https://www.russellsreserve.com/our-products/13-year-old-bourbon/
 Russell's Reserve 13 Year,4 - LL/LC (March 2023),13,114.8,2023,Wild Turkey,Bourbon,22263001000357,https://www.russellsreserve.com/our-products/13-year-old-bourbon/
 Russell's Reserve 13 Year,3 - LL/KE (May 2022),13,114.8,2022,Wild Turkey,Bourbon,22263001000357,https://www.russellsreserve.com/our-products/13-year-old-bourbon/
 Russell's Reserve 13 Year,2 - LL/JL (December 2021),13,114.8,2021,Wild Turkey,Bourbon,20259001000333,https://www.russellsreserve.com/our-products/13-year-old-bourbon/
 Russell's Reserve 13 Year,1 - LL/JD (April 2021),13,114.8,2021,Wild Turkey,Bourbon,20259001000333,https://www.russellsreserve.com/our-products/13-year-old-bourbon/
+Russell's Reserve Single Rickhouse,2026 - Camp Nelson D,,120.8,2026,Wild Turkey,Bourbon,26064001000707,https://www.russellsreserve.com/en-us/our-products/single-rickhouse/
 Russell's Reserve Single Rickhouse,2025 - Camp Nelson E,,128,2025,Wild Turkey,Bourbon,25077001000050,https://www.russellsreserve.com/en-us/our-products/single-rickhouse/
 Russell's Reserve Single Rickhouse,2024 - Camp Nelson B,,120.2,2024,Wild Turkey,Bourbon,23347001000544,https://www.russellsreserve.com/en-us/our-products/single-rickhouse/
 Russell's Reserve Single Rickhouse,2023 - Camp Nelson F,,117.6,2023,Wild Turkey,Bourbon,22326001000282,https://www.russellsreserve.com/en-us/our-products/single-rickhouse/
