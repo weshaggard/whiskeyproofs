@@ -1,0 +1,61 @@
+# TTB COLA Label Images - TTBID 26146001000732
+
+**Brand Name:** BOOKER NOE
+
+**Fanciful Name:** "BOSTON BATCH"
+
+**Issue Date:** 06/01/2026
+
+**Origin Code:** 22
+
+**Product Class/Type:** 101
+
+**Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=26146001000732)
+
+## Label Images
+
+### Label 1
+
+![Label 1](./label_1.jpg)
+
+### Label 2
+
+![Label 2](./label_2.jpg)
+
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+**Detected Proof:** 126.5
+**Detected Age:** 6 Years
+
+### Label 1
+
+BOOKER NOE
+KENTUCKY STRAIGHT BOURBON WHISKEY
+7OOML
+63.25% ALC/VOL.
+PRODUCT OF USA
+CA CASH REFUND CA CRV
+RE-IMPORTED BY: CONNOISSEUR WINES & SPIRITS CALIFORNIA NAPA, CA
+"OBTAINED FROM A PRIVATE COLLECTION"
+GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN
+SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF
+THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES
+IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE
+HEALTH PROBLEMS
+
+### Label 2
+
+63.25%
+Age
+actval
+3
+6YRs 3M0
+126.5 0roof)
+10 DAYS
+1
+Batgu m8
+KENTUCKY STRAIGHT BOURBON WHISKEY
+2020-021 8axgzzz
+MASTER DISTILLER:1960-1992
