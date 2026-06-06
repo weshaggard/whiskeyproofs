@@ -123,7 +123,7 @@ Benchmark,Small Batch,,90,2019-2025,Buffalo Trace,Bourbon,19319001000047,https:/
 Benchmark,Single Barrel,,95,2019-2025,Buffalo Trace,Bourbon,19319001000044,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-single-barrel/
 Benchmark,Old No. 8,,80,1969-2025,Buffalo Trace,Bourbon,19079001000525,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-old-no-8-brand/
 Benchmark,Full Proof,,125,2019-2025,Buffalo Trace,Bourbon,19318001000798,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-full-proof/
-Benchmark,Bonded,4,100,2019-2025,Buffalo Trace,Bourbon,19318001000780,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-bonded/
+Benchmark,Bonded,4,100,2019-2026,Buffalo Trace,Bourbon,19318001000780,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-bonded/
 Bernheim Original Wheat,standard,7,90,2005-2025,Heaven Hill,Wheat Whiskey,23213001000417,https://heavenhilldistillery.com/bernheim-straight-wheat-whiskey.php
 Birthday Bourbon,2025,12,92,2025,Old Forester,Bourbon,25013001000088,https://www.breakingbourbon.com/review/old-forester-2025-birthday-bourbon
 Birthday Bourbon,2024,,96,2024,Old Forester,Bourbon,24031001000098,https://www.breakingbourbon.com/review/old-forester-2024-birthday-bourbon
@@ -458,6 +458,7 @@ Evan Williams,Black Label,,86,1957-2025,Heaven Hill,Bourbon,19087001000069,https
 Evan Williams,America 250 Single Barrel,,117.76,2026,Heaven Hill,Bourbon,,https://thewhiskeywash.com/whiskey-news/evan-williams-launches-america250-bourbon-for-us-250th-anniversary/
 Evan Williams,1783 Small Batch,,86,2015-2025,Heaven Hill,Bourbon,19344001000656,https://heavenhilldistillery.com/evan-williams-1783-small-batch.php
 Filmland Spirits,The Crimson Cask,4,90,2026,Undisclosed Kentucky,Bourbon,,https://www.filmlandspirits.com/
+Final Flight Reserve,standard,,108,2026,Bespoken Spirits,Bourbon,,https://thewhiskeywash.com/whiskey-news/final-flight-reserve-bourbon-honors-av-8b-harrier-retirement/
 Fireside,standard,,80,2014-2026,Mile High Spirits,Bourbon,,https://drinkmhs.com/spirits
 Fireside,Wheated Bottled in Bond,,100,2024-2026,Mile High Spirits,Bourbon,,https://drinkmhs.com/spirits/wheated-bottled-in-bond
 Fireside,Hazmat Proof,8,143.5,2025-2026,Mile High Spirits,Bourbon,,https://drinkmhs.com/spirits/fireside-hazmat
@@ -1085,6 +1086,9 @@ Shenk's Homestead,2021,,91.2,2021,Michter's,Bourbon,17354001000797,https://micht
 Shenk's Homestead,2020,,91.2,2020,Michter's,Bourbon,17354001000797,https://michters.com/shenks-homestead/
 Shenk's Homestead,2019,,91.2,2019,Michter's,Bourbon,17354001000797,https://michters.com/shenks-homestead/
 Shenk's Homestead,2018,,91.2,2018,Michter's,Bourbon,17347001000293,https://michters.com/shenks-homestead/
+Shiner,Texas Legend Rye,,125.4,2026,K. Spoetzl Distillery,Rye,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/big-flavor-texas-spirit-shiner-releases-new-straight-rye-whiskey
+Shiner,Texas Legend Bourbon,,109,2025,K. Spoetzl Distillery,Bourbon,,https://www.gambrinus.com/news/shiner-releases-texas-legend-bourbon
+Shiner,Texas Bourbon,2,90,2026,K. Spoetzl Distillery,Bourbon,26148001000828,https://shiner.com/spirits/
 Shortbarrel,Toasted Barrel,,94,2021-2026,Shortbarrel,Bourbon,,https://shortbarrelbourbon.com/toasted-barrel-bourbon/
 Shortbarrel,Sapsquatch,,110,2026,Shortbarrel,Bourbon,,https://shortbarrelbourbon.com/sapsquatch/
 Shortbarrel,Rye 101,,101,2021-2026,Shortbarrel,Rye,,https://shortbarrelbourbon.com/rye101/
