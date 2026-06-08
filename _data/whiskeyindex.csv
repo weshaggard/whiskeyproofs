@@ -7,6 +7,9 @@ Name,Batch,Age,Proof,ReleaseYear,Distillery,Type,TTB_ID,url
 1792 Bourbon,Full Proof,,125,2015-2025,Barton 1792,Bourbon,24009001000220,https://1792bourbon.com/full-proof/
 1792 Bourbon,Bottled in Bond,4,100,2017-2025,Barton 1792,Bourbon,24030001000568,https://1792bourbon.com/bottled-in-bond/
 1792 Bourbon,Aged Twelve Years,12,96.6,2019-2025,Barton 1792,Bourbon,18033001000013,https://1792bourbon.com/
+2XO,White Oak Rye,,92,2025-2026,Prestige Beverage Group,Rye,25134001000588,https://2xowhiskey.com/white-oak-rye/
+2XO,French Oak,,92,2024-2026,Prestige Beverage Group,Bourbon,24071001000367,https://2xowhiskey.com/french-oak/
+2XO,American Oak,,92,2023-2026,Prestige Beverage Group,Bourbon,23213001000122,https://2xowhiskey.com/american-oak/
 A. Smith Bowman Cask Strength,Cask Strength #5,10,137.6,2026,A. Smith Bowman,Bourbon,25224001000808,https://asmithbowman.com/cask-strength/
 Abraham Bowman,26 - Rye,11,110,2026,A. Smith Bowman,Rye,,https://asmithbowman.com/abraham-bowman-special-release-26/
 Abraham Bowman,25 - Hungarian Oak,12,115,2025,A. Smith Bowman,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/a-smith-bowman-distillery-expands-experimental-oak-series-with-hungarian-oak-third-release-exploring-oak-varietals
@@ -123,7 +126,7 @@ Benchmark,Small Batch,,90,2019-2025,Buffalo Trace,Bourbon,19319001000047,https:/
 Benchmark,Single Barrel,,95,2019-2025,Buffalo Trace,Bourbon,19319001000044,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-single-barrel/
 Benchmark,Old No. 8,,80,1969-2025,Buffalo Trace,Bourbon,19079001000525,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-old-no-8-brand/
 Benchmark,Full Proof,,125,2019-2025,Buffalo Trace,Bourbon,19318001000798,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-full-proof/
-Benchmark,Bonded,4,100,2019-2025,Buffalo Trace,Bourbon,19318001000780,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-bonded/
+Benchmark,Bonded,4,100,2019-2026,Buffalo Trace,Bourbon,19318001000780,https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-bonded/
 Bernheim Original Wheat,standard,7,90,2005-2025,Heaven Hill,Wheat Whiskey,23213001000417,https://heavenhilldistillery.com/bernheim-straight-wheat-whiskey.php
 Birthday Bourbon,2025,12,92,2025,Old Forester,Bourbon,25013001000088,https://www.breakingbourbon.com/review/old-forester-2025-birthday-bourbon
 Birthday Bourbon,2024,,96,2024,Old Forester,Bourbon,24031001000098,https://www.breakingbourbon.com/review/old-forester-2024-birthday-bourbon
@@ -457,7 +460,19 @@ Evan Williams,Bottled-in-Bond,,100,2012-2025,Heaven Hill,Bourbon,16180001000393,
 Evan Williams,Black Label,,86,1957-2025,Heaven Hill,Bourbon,19087001000069,https://heavenhilldistillery.com/evan-williams-single-barrel.php
 Evan Williams,America 250 Single Barrel,,117.76,2026,Heaven Hill,Bourbon,,https://thewhiskeywash.com/whiskey-news/evan-williams-launches-america250-bourbon-for-us-250th-anniversary/
 Evan Williams,1783 Small Batch,,86,2015-2025,Heaven Hill,Bourbon,19344001000656,https://heavenhilldistillery.com/evan-williams-1783-small-batch.php
+Fathertime Bourbon,The Caboose - Empty Nester Strength,,121,2026,Fathertime Bourbon,Bourbon,26062001000246,https://www.breakingbourbon.com/review/fathertime-precious-batch-bourbon-the-caboose
+Fathertime Bourbon,The Caboose,,92.4,2026,Fathertime Bourbon,Bourbon,26062001000230,https://www.breakingbourbon.com/review/fathertime-precious-batch-bourbon-the-caboose
+Fathertime Bourbon,Second Child Syndrome - Empty Nester Strength,,118.8,2024,Fathertime Bourbon,Bourbon,24284001000075,https://fathertime-bourbon.com/
+Fathertime Bourbon,Second Child Syndrome,,92.4,2024,Fathertime Bourbon,Bourbon,24284001000073,https://fathertime-bourbon.com/
+Fathertime Bourbon,Santa's Reward,15,110.7,2025,Fathertime Bourbon,Bourbon,,https://www.breakingbourbon.com/review/fathertime-bourbon-santas-reward
+Fathertime Bourbon,Mother of the Century,,99.1,2026,Fathertime Bourbon,Bourbon,,https://fathertime-bourbon.com/mother-of-the-century/
+Fathertime Bourbon,Middle Child Mystery - Empty Nester Strength,,121.4,2025,Fathertime Bourbon,Bourbon,25045001000048,https://fathertime-bourbon.com/
+Fathertime Bourbon,Middle Child Mystery,,92.4,2025,Fathertime Bourbon,Bourbon,25027001000191,https://fathertime-bourbon.com/
+Fathertime Bourbon,Fourth and Long - Empty Nester Strength,,125.6,2025,Fathertime Bourbon,Bourbon,25248001000099,https://www.breakingbourbon.com/review/fathertime-precious-batch-bourbon-empty-nester-strength-fourth-long
+Fathertime Bourbon,Fourth and Long,,92.4,2025,Fathertime Bourbon,Bourbon,25238001000532,https://www.breakingbourbon.com/review/fathertime-precious-batch-bourbon-empty-nester-strength-fourth-long
+Fathertime Bourbon,Firstborn Edition,,92.4,2024,Fathertime Bourbon,Bourbon,24061001000075,https://fathertime-bourbon.com/
 Filmland Spirits,The Crimson Cask,4,90,2026,Undisclosed Kentucky,Bourbon,,https://www.filmlandspirits.com/
+Final Flight Reserve,standard,,108,2026,Bespoken Spirits,Bourbon,,https://thewhiskeywash.com/whiskey-news/final-flight-reserve-bourbon-honors-av-8b-harrier-retirement/
 Fireside,standard,,80,2014-2026,Mile High Spirits,Bourbon,,https://drinkmhs.com/spirits
 Fireside,Wheated Bottled in Bond,,100,2024-2026,Mile High Spirits,Bourbon,,https://drinkmhs.com/spirits/wheated-bottled-in-bond
 Fireside,Hazmat Proof,8,143.5,2025-2026,Mile High Spirits,Bourbon,,https://drinkmhs.com/spirits/fireside-hazmat
@@ -1085,6 +1100,9 @@ Shenk's Homestead,2021,,91.2,2021,Michter's,Bourbon,17354001000797,https://micht
 Shenk's Homestead,2020,,91.2,2020,Michter's,Bourbon,17354001000797,https://michters.com/shenks-homestead/
 Shenk's Homestead,2019,,91.2,2019,Michter's,Bourbon,17354001000797,https://michters.com/shenks-homestead/
 Shenk's Homestead,2018,,91.2,2018,Michter's,Bourbon,17347001000293,https://michters.com/shenks-homestead/
+Shiner,Texas Legend Rye,,125.4,2026,K. Spoetzl Distillery,Rye,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/big-flavor-texas-spirit-shiner-releases-new-straight-rye-whiskey
+Shiner,Texas Legend Bourbon,,109,2025,K. Spoetzl Distillery,Bourbon,,https://www.gambrinus.com/news/shiner-releases-texas-legend-bourbon
+Shiner,Texas Bourbon,2,90,2026,K. Spoetzl Distillery,Bourbon,26148001000828,https://shiner.com/spirits/
 Shortbarrel,Toasted Barrel,,94,2021-2026,Shortbarrel,Bourbon,,https://shortbarrelbourbon.com/toasted-barrel-bourbon/
 Shortbarrel,Sapsquatch,,110,2026,Shortbarrel,Bourbon,,https://shortbarrelbourbon.com/sapsquatch/
 Shortbarrel,Rye 101,,101,2021-2026,Shortbarrel,Rye,,https://shortbarrelbourbon.com/rye101/
