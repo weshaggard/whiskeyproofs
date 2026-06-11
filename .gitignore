@@ -10,7 +10,7 @@ wget-log
 scripts/__pycache__/
 
 # Copilot agent session state
-.copilot/
+.copilot/session-state/
 
 # TTB workflow temporary files
 new_labels.json
