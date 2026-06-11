@@ -9,6 +9,9 @@ wget-log
 *.pyc
 scripts/__pycache__/
 
+# Copilot agent session state
+.copilot/
+
 # TTB workflow temporary files
 new_labels.json
 search_output.txt
