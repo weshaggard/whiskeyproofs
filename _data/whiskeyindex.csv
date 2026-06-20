@@ -1,4 +1,12 @@
 Name,Batch,Age,Proof,ReleaseYear,Distillery,Type,TTB_ID,url
+13th Colony,Southern Rye,,95,2014-2026,Thirteenth Colony Distilleries,Rye,,https://www.13thcolonydistillery.com/products/southern-rye-whiskey/
+13th Colony,Southern Bourbon,,95,2014-2026,Thirteenth Colony Distilleries,Bourbon,,https://www.13thcolonydistillery.com/products/southern-bourbon-whiskey/
+13th Colony,Cask Strength Rye 2025,,120.7,2025,Thirteenth Colony Distilleries,Rye,,https://www.13thcolonydistillery.com/
+13th Colony,113 Rye,,113,2014-2026,Thirteenth Colony Distilleries,Rye,,https://www.13thcolonydistillery.com/
+13th Colony,113 Bourbon,,113,2014-2026,Thirteenth Colony Distilleries,Bourbon,,https://www.13thcolonydistillery.com/
+13th Colony Cask Strength Southern Bourbon,2026,,120.82,2026,Thirteenth Colony Distilleries,Bourbon,,https://www.breakingbourbon.com/review/13th-colony-2026-cask-strength-southern-bourbon
+13th Colony Cask Strength Southern Bourbon,2025,,120.65,2025,Thirteenth Colony Distilleries,Bourbon,,https://www.13thcolonydistillery.com/13th-colony-releases-2025-cask-strength-southern-bourbon/
+13th Colony Cask Strength Southern Bourbon,2024,,120.64,2024,Thirteenth Colony Distilleries,Bourbon,,https://www.13thcolonydistillery.com/13th-colony-releases-new-cask-strength-southern-bourbon
 1620 Distilling Company,Commander's Reserve,,100,2026,1620 Distilling Company,Bourbon,26153001000939,
 1792 Bourbon,Sweet Wheat,,91.2,2015-2025,Barton 1792,Bourbon,14064001000038,https://1792bourbon.com/sweet-wheat/
 1792 Bourbon,Small Batch,,93.7,2002-2025,Barton 1792,Bourbon,24009001000225,https://1792bourbon.com/our-bourbon/
@@ -161,6 +169,7 @@ Blackfork Farms,Heritage Reserve,,120,2026,Blackfork Spirits,Bourbon,26139001000
 Blade and Bow,standard,,91,2015-2026,Blade and Bow,Bourbon,25093001000789,https://www.bladeandbowwhiskey.com/
 Blade and Bow,30 Year,30,109,2025,Blade and Bow,Bourbon,,https://www.fredminnick.com/2025/11/14/blade-and-bow-releases-30-year-old-bourbon/
 Blade and Bow,22 Year,22,92,2015-2026,Blade and Bow,Bourbon,,https://www.bladeandbowwhiskey.com/
+Blade and Bow,12 Year Solera Reserve,12,104,2026,Blade and Bow,Bourbon,25357001000108,https://www.prnewswire.com/news-releases/blade-and-bow-unveils-a-new-limited-annual-expression-12-year-old-solera-reserve-302804759.html
 Blanton's,Straight From The Barrel,,120-135,1999-2025,Buffalo Trace,Bourbon,22313001000951,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-straight-from-the-barrel/
 Blanton's,Special Reserve,,80,1999-2025,Buffalo Trace,Bourbon,19222001000003,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-special-reserve/
 Blanton's,Original,,93,1984-2025,Buffalo Trace,Bourbon,19222001000002,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-original-single-barrel/
