@@ -1,4 +1,12 @@
 Name,Batch,Age,Proof,ReleaseYear,Distillery,Type,TTB_ID,url
+13th Colony,Southern Rye,,95,2014-2026,Thirteenth Colony Distilleries,Rye,,https://www.13thcolonydistillery.com/products/southern-rye-whiskey/
+13th Colony,Southern Bourbon,,95,2014-2026,Thirteenth Colony Distilleries,Bourbon,,https://www.13thcolonydistillery.com/products/southern-bourbon-whiskey/
+13th Colony,Cask Strength Rye 2025,,120.7,2025,Thirteenth Colony Distilleries,Rye,,https://www.13thcolonydistillery.com/
+13th Colony,113 Rye,,113,2014-2026,Thirteenth Colony Distilleries,Rye,,https://www.13thcolonydistillery.com/
+13th Colony,113 Bourbon,,113,2014-2026,Thirteenth Colony Distilleries,Bourbon,,https://www.13thcolonydistillery.com/
+13th Colony Cask Strength Southern Bourbon,2026,,120.82,2026,Thirteenth Colony Distilleries,Bourbon,,https://www.breakingbourbon.com/review/13th-colony-2026-cask-strength-southern-bourbon
+13th Colony Cask Strength Southern Bourbon,2025,,120.65,2025,Thirteenth Colony Distilleries,Bourbon,,https://www.13thcolonydistillery.com/13th-colony-releases-2025-cask-strength-southern-bourbon/
+13th Colony Cask Strength Southern Bourbon,2024,,120.64,2024,Thirteenth Colony Distilleries,Bourbon,,https://www.13thcolonydistillery.com/13th-colony-releases-new-cask-strength-southern-bourbon
 1620 Distilling Company,Commander's Reserve,,100,2026,1620 Distilling Company,Bourbon,26153001000939,
 1792 Bourbon,Sweet Wheat,,91.2,2015-2025,Barton 1792,Bourbon,14064001000038,https://1792bourbon.com/sweet-wheat/
 1792 Bourbon,Small Batch,,93.7,2002-2025,Barton 1792,Bourbon,24009001000225,https://1792bourbon.com/our-bourbon/
@@ -161,6 +169,7 @@ Blackfork Farms,Heritage Reserve,,120,2026,Blackfork Spirits,Bourbon,26139001000
 Blade and Bow,standard,,91,2015-2026,Blade and Bow,Bourbon,25093001000789,https://www.bladeandbowwhiskey.com/
 Blade and Bow,30 Year,30,109,2025,Blade and Bow,Bourbon,,https://www.fredminnick.com/2025/11/14/blade-and-bow-releases-30-year-old-bourbon/
 Blade and Bow,22 Year,22,92,2015-2026,Blade and Bow,Bourbon,,https://www.bladeandbowwhiskey.com/
+Blade and Bow,12 Year Solera Reserve,12,104,2026,Blade and Bow,Bourbon,25357001000108,https://www.prnewswire.com/news-releases/blade-and-bow-unveils-a-new-limited-annual-expression-12-year-old-solera-reserve-302804759.html
 Blanton's,Straight From The Barrel,,120-135,1999-2025,Buffalo Trace,Bourbon,22313001000951,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-straight-from-the-barrel/
 Blanton's,Special Reserve,,80,1999-2025,Buffalo Trace,Bourbon,19222001000003,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-special-reserve/
 Blanton's,Original,,93,1984-2025,Buffalo Trace,Bourbon,19222001000002,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-original-single-barrel/
@@ -258,6 +267,11 @@ Booker's 30th,30th Anniversary,9,125.8,2019,Jim Beam,Bourbon,18169001000311,http
 Booker's Reserve,2025,8,123.3,2025,Jim Beam,Bourbon,25049001000438,https://www.breakingbourbon.com/review/bookers-the-reserves-2025
 Booker's Reserve,2024,8,125.9,2024,Jim Beam,Bourbon,24106001000079,https://www.beamdistilling.com/bookersbourbon/whiskies/bookers-the-reserves-limited-edition-bourbon
 Booker's Rye,2016-LE Big Time Batch,6,136.2,2016,Jim Beam,Rye,16034001000224,https://www.beamdistilling.com/bookersbourbon
+Bourbon de Luxe,2025-05 Single Barrel,6,112.6,2025,Rolling Fork Spirits,Bourbon,,https://seelbachs.com/products/bourbon-de-luxe-6-year-single-barrel-254047-112-6-proof-selected-by-seelbachs
+Bourbon de Luxe,2025-04 Rum Cask,7,111,2025,Rolling Fork Spirits,Bourbon,,https://www.thebourbondeluxe.com/
+Bourbon de Luxe,2025-03 Vintage Series,16,126.1,2025,Rolling Fork Spirits,Bourbon,,https://www.thebourbondeluxe.com/
+Bourbon de Luxe,2025-02,8,119,2025,Rolling Fork Spirits,Bourbon,,https://www.thebourbondeluxe.com/
+Bourbon de Luxe,2024-01,8,119,2024,Rolling Fork Spirits,Bourbon,,https://www.thebourbondeluxe.com/
 Boxer Bourbon,5 Year Single Barrel,5,120,2026,Boxer Bourbon,Bourbon,26126001001088,
 Boxer Bourbon,5 Year,5,93,2026,Boxer Bourbon,Bourbon,26126001001087,
 Bradshaw Bourbon,standard,5.5,103.8,2020-2026,Green River Distilling,Bourbon,,https://bradshawbourbon.com/bourbons/bradshaw-straight-bourbon-flagship/
@@ -762,6 +776,8 @@ Knob Creek 2001 Limited Edition,Batch 1,14,100,2016,Knob Creek,Bourbon,160290010
 Knob Creek 21 Year (KC21),2025,21,100,2025,Knob Creek,Bourbon,,https://www.knobcreek.com/whiskies/21-year-old-bourbon-whiskey
 Knob Creek 25th Anniversary,2017,12-13,122,2017,Knob Creek,Bourbon,,https://www.knobcreek.com/
 Knob Creek Blender's Edition,01,10,106,2026,Knob Creek,Bourbon,,https://www.fredminnick.com/2026/03/31/knob-creek-introduces-new-blenders-edition/
+Knob Creek Eli Manning's Bold Pick,2026,10,112.2-121.6,2026,Jim Beam,Bourbon,,https://www.suntoryglobalspirits.com/news/knob-creek-releases-eli-mannings-bold-pick
+Knob Creek Eli Manning's Bold Pick,2025,9,120,2025,Jim Beam,Bourbon,,https://www.suntoryglobalspirits.com/news/knob-creek-releases-eli-mannings-bold-pick
 Koopers Whiskey,10-Year Buffalo Trace Barrel Finish,10,100,2026,Koopers Whiskey,Rye,,https://thewhiskeywash.com/whiskey-news/koopers-10-year-rye-finished-in-buffalo-trace-barrel/
 Koopers Whiskey,Father's Office Cigar Blend,8,114,2026,Koopers Whiskey,Bourbon,,https://www.kooperswhiskey.com/product/fathers-office-cigar-blend-bourbon
 Koopers Whiskey,2026 Cognac Casks Rye,7,96,2026,Koopers Whiskey,Rye,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/koopers-whiskey-unveils-limited-7-year-rye-finished-in-cognac-casks
@@ -1039,6 +1055,7 @@ Pursuit United,Double Oak Rye,,108,2024-2025,Pursuit Spirits,Rye,,https://pursui
 Pursuit United,Double Oak Bourbon,,108,2024-2025,Pursuit Spirits,Bourbon,,https://pursuitspirits.com/double-oak-bourbon/
 Pursuit United,Bourbon,,108,2021-2025,Pursuit Spirits,Bourbon,,https://pursuitspirits.com/pursuit-united-bourbon/
 Pursuit x Meat Church,Honey Hog,,105,2026,Pursuit Spirits,Bourbon,26089001000031,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/pursuit-spirits-and-meat-church-bbq-fuse-ky-tn-and-tx-in-new-honey-hog-bourbon-release
+REWCO Rye,2026-01,6,109.4,2026,Rolling Fork Spirits,Rye,26056001000140,https://seelbachs.com/products/rolling-fork-spirits-6-year-rewco-rye-whiskey
 ROW 94,standard,4,94,2024-2026,Green River,Bourbon,,https://row94whiskey.com/
 ROW 94,Full Proof,4,120,2025-2026,Green River,Bourbon,,https://row94whiskey.com/
 ROW 94,Broken Branches 2026,5,100,2026,Green River,Bourbon,25162001000031,https://www.prnewswire.com/news-releases/dierks-bentleys-row-94-one-of-americas-highest-rated-new-bourbons-expands-nationwide-with-its-broken-branches-release-302743257.html
@@ -1239,6 +1256,7 @@ TX Whiskey Experimental Series,2026 Texas Straight Rye Full Proof,7,120,2026,Fir
 TX Whiskey Experimental Series,2025 Straight Bourbon Rye Texas Seasoned Barrels,,98,2025,Firestone & Robertson Distilling Co.,Bourbon,,https://www.northamericandistillers.com/news/tx-whiskey-to-launch-13th-edition-of-experimental-series-line-on-national-bourbon-day/
 TX Whiskey Experimental Series,2025 7-Year Anniversary BIB Bourbon,7,100,2025,Firestone & Robertson Distilling Co.,Bourbon,,https://www.northamericandistillers.com/news/tx-whiskey-launches-7-year-anniversary-batch-for-12th-edition-of-experimental-series-line/
 TX Whiskey Experimental Series,2023 Straight Rye Bottled in Bond,,100,2023,Firestone & Robertson Distilling Co.,Rye,,https://www.fredminnick.com/2023/04/27/tx-whiskey-releases-bottled-in-bond-rye/
+Task Force 20,2026,,100,2026,Adventure Spirits Distilling,Bourbon,26065001000604,https://adventurespiritsdistilling.com/products/
 Templeton Rye,Single Barrel,6,117.1,2026,Templeton Rye Distillery,Rye,26082001000325,https://templetonamericanwhiskey.com/products/single-barrel
 Templeton Rye,Barrel Strength,,113,2019-2026,MGP,Rye,,https://templetonamericanwhiskey.com/products
 Templeton Rye,6 Year,6,91.5,2014-2026,MGP,Rye,,https://templetonamericanwhiskey.com/products
