@@ -1,73 +1,36 @@
 # Task Report
 
 ## Task
-Search the specified whiskey news sites and official brand pages for bourbon and rye releases announced between May 20 and May 29, 2026, and extract release details.
+Research new bourbon and rye whiskey releases announced in late June 2026 from the specified whiskey news and distillery sources, and compile a structured list with release details and source URLs.
 
 ## Result
 ✅ Success
 
 ## Summary
-- Items processed: 12 sources/pages
-- Succeeded: 12
+- Items processed: 8 sources/pages
+- Succeeded: 2 qualifying releases found
 - Failed: 0
-- Skipped: 0
+- Skipped: 6 sources/pages with no qualifying late-June 2026 bourbon/rye release announcements
 
 ## Completed
-- Checked the requested media sources:
-  - Breaking Bourbon
-  - Bourbon Culture
-  - The Whiskey Wash
-  - Whisky Advocate
-- Checked the requested official brand pages/domains:
-  - Buffalo Trace Distillery
-  - Heaven Hill
-  - Jim Beam
-  - Wild Turkey
-  - Four Roses Distillery
-  - Knob Creek
-  - Woodford Reserve
-  - Maker's Mark
-- Verified in-scope late-May-2026 bourbon/rye findings from Breaking Bourbon:
-  - Two Souls Spirits / J. Henry & Sons: The Hero (7-year rum-cask finished bourbon) and The Genius (7-year rum-cask finished rye) — May 29, 2026
-  - Garrison Brothers Ranch Reserve Series inaugural releases: PX Sherry Cask Finished and Oloroso Sherry Cask Finished Texas straight bourbons — May 27, 2026
-  - 15 STARS First West Explorer bourbon — May 27, 2026
-  - Barrell Bourbon Batch 038 — May 26, 2026
-  - Colonel E.H. Taylor, Jr. Four Grain and Colonel E.H. Taylor, Jr. Cured Oak bourbons — May 21, 2026
-  - Bluegrass Distillers High Rye Blue Corn Single Barrels bourbon — May 21, 2026
-  - Rittenhouse United States 250th Anniversary Commemorative Edition Straight Rye Whisky — May 21, 2026
-- Verified in-scope late-May-2026 findings from The Whiskey Wash:
-  - Michter’s 10 Year Rye returns in June 2026 release — May 28, 2026
-  - 15 STARS First West Explorer — May 27, 2026
-  - Garrison Brothers Ranch Reserve Series inaugural bourbons — May 27, 2026
-- Verified in-scope late-May-2026 findings from Whisky Advocate:
-  - May 22, 2026 roundup article covering bourbon/rye releases including Evan Williams America250 bourbons, WhistlePig Rye, White & Blue PiggyBank Rye, and Rittenhouse 250th Anniversary rye
-  - May 21, 2026 article covering Heaven Hill’s 2026 Grain to Glass wheated bourbon trio
-- Verified official-brand-page result in range:
-  - Heaven Hill official site announcement for Rittenhouse United States 250th Anniversary Commemorative Edition Straight Rye Whisky — May 21, 2026
-- Verified requested pages with no in-range bourbon/rye release announcements found:
-  - Bourbon Culture
-  - Buffalo Trace official site
-  - Jim Beam
-  - Wild Turkey
-  - Four Roses Distillery
-  - Woodford Reserve
-  - Maker’s Mark
-- Confirmed Knob Creek’s Blender’s Edition 01 page exists but is dated May 23, 2024, so it is outside the requested May 20–29, 2026 window.
+- Checked the specified source set: Breaking Bourbon homepage, Breaking Bourbon news path, Bourbon Culture news category, The Whiskey Wash bourbon/news coverage, Heaven Hill news, Whiskey Myers, Knob Creek news, and Maker's Mark news/product pages.
+- Confirmed **Bulleit 20-Year-Old Straight Rye** from Breaking Bourbon press-release coverage dated June 24, 2026.
+- Confirmed **Old Fitzgerald Bottled-in-Bond Decanter Series Spring 2026 Edition** from Heaven Hill’s official news page dated June 24, 2026.
+- Verified that Knob Creek’s relevant limited release page (Blender’s Edition 01) was dated 2026-04-15, so it was excluded from a late-June-only result set.
+- Verified Maker’s Mark’s Stewards Release product page existed for 2026, but did not have a qualifying late-June news announcement page in the requested source set, so it was excluded.
+- Found no qualifying late-June bourbon/rye release announcements from Bourbon Culture or Whiskey Myers in the requested scope.
 
 ## Errors
-- Attempted `bundle exec jekyll build` to satisfy repository validation guidance, but the environment does not have Bundler installed:
-  - `bash: bundle: command not found`
-  - No repository files were changed for this task, so this did not affect research completeness.
-- Direct `web_fetch` requests to some Whisky Advocate article URLs returned `TypeError: fetch failed`; retried with alternate URL form and then used `web_search` to recover article details and URLs.
-- Direct `web_fetch` request to `https://www.knobcreek.com/news/knob-creek-blenders-edition-01` returned HTTP 403; used `web_search` to verify the page date instead.
+- `https://www.breakingbourbon.com/news` returned HTTP 404 on initial fetch. Retry strategy: searched Breaking Bourbon directly and via site-specific web search; no additional qualifying late-June bourbon/rye announcement page was confirmed from that path.
+- `https://bourbonculture.com/category/news/` redirected with HTTP 308, then the final URL returned HTTP 404. Retry strategy: retried with the final URL and used site-specific web search; no qualifying late-June bourbon/rye announcement was found.
+- `https://www.heavenhill.com/news` redirected; retried with `https://heavenhill.com/news`, which returned 404. Retry strategy: site-specific web search located the active Heaven Hill news-and-notes article used in the final result.
+- `https://thewhiskeywash.com/category/whiskey-styles/american-whiskey/bourbon-whiskey/` returned HTTP 404. Retry strategy: used site-specific web search and direct article fetches from The Whiskey Wash’s current news URLs.
+- `https://www.makersmark.com/news` returned HTTP 404. Retry strategy: searched the site’s current product/limited-release pages; no qualifying late-June news announcement was confirmed.
 
 ## Remaining Work
 None.
 
 ## State
-- Research only; no repository source files were modified.
-- Final answer should report both unique releases and duplicate coverage where useful, and should note that only Heaven Hill had an in-range official brand-site release announcement among the specified brand pages.
-- Key official URL confirmed: `https://heavenhill.com/news-and-notes/heaven-hill-distillery-unveils-rittenhouse-united-states-250th-anniversary-commemorative-edition-straight-rye-whisky/`
-- Exact late-May Whisky Advocate article URLs used:
-  - `https://www.whiskyadvocate.com/whisky-watch-evan-williams-whistlepig-and-rittenhouse-celebrate-americas-250th-birthday/`
-  - `https://whiskyadvocate.com/heaven-hill-grain-to-glass-2026-year-of-wheat`
+- Final confirmed releases:
+  1. Bulleit 20-Year-Old Straight Rye — 20 years old, 137 proof, Diageo/Bulleit, Rye, source: https://www.breakingbourbon.com/bourbon-whiskey-press-releases/bulleit-goes-two-decades-deep-with-new-20-year-old-straight-rye-whiskey
+  2. Old Fitzgerald Bottled-in-Bond Decanter Series Spring 2026 Edition — 10 years old, 100 proof, Heaven Hill, Bourbon, source: https://heavenhill.com/news-and-notes/heaven-hill-distillery-announces-spring-2026-edition-of-the-old-fitzgerald-bottled-in-bond-decanter-series/
