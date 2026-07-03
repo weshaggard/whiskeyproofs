@@ -1,0 +1,141 @@
+# TTB COLA Label Images - TTBID 26176001000087
+
+**Brand Name:** REDWOOD EMPIRE
+
+**Fanciful Name:** HAYSTACK NEEDLE
+
+**Issue Date:** 06/30/2026
+
+**Origin Code:** 01
+
+**Product Class/Type:** 102
+
+**Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=26176001000087)
+
+## Label Images
+
+### Back Label
+
+![Back Label](./back_label.jpg)
+
+### Label 1
+
+![Label 1](./label_1.jpg)
+
+### Label 3
+
+![Label 3](./label_3.jpg)
+
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+**Detected Proof:** 124.6
+
+### Back Label
+
+HAYSTACK NEEDLE
+
+= SINGLE BARRED =
+STRAIGHT RYE WHISKEY
+
+MASHBILL: 90% RYE, 5% MALTEO BARLEY, 5% WHEAT
+
+no: 2 60 aceD: QO YEARS
+. 3 MONTHS
+N : . PROOF: 124.6
+
+BARREL TYPE: NEW AMERICAN OAK
+
+CHAR LEVEL: 3
+
+DISTILLED GRAIN-TO-GLASS IN SONOMA COUNTY, CA
+
+LEARN MORE AT REDWOODEMPIREWHISKEY.COM
+
+6
+
+BOTTLED BY REDWOOD EMPIRE DISTILLING,
+VALLEJO, CA DISTILLED IN CALIFORNIA, USA
+
+GOVERNMENT WARNING: (1) ACCORDING 10 THE
+SURGEON GENERAL WOMEN SHOULD NOT DRINK
+ALCOHOLIC BEVERAGES DURING PREGNANCY
+BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CON-
+SUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS
+YOUR ABILITY 10 DRIVE A CAR OR OPERATE MA-
+CHINERY, AND MAY CAUSE HEALTH PROBLEMS.
+
+IAS¢ ME/VTI5¢ AS CA CRV
+
+RICKHOUSE: 38°26'08.5”N 122°52'14.6"W
+
+TREES
+FOR THE
+
+(de)
+wy = FUTURE
+
+51718°00082
+“Of all the paths you take in life, make sure a few of them are dirt” JOHN MUIR
+
+WHISKEY
+WITH IMPACT
+
+8 |
+
+### Label 1
+
+REDWOOD
+
+THUUVA ATINIS
+
+“HAYSTACK NEEDLE
+
+STRAIGHT RYE WHISKEY
+
+SO.2% ALC BY VOL
+
+TSOML + 124.4 PROOF -
+
+### Label 3
+
+HAYSTACK NEEDLE
+
+I
+
+MY
+
+fe
+
+EY
+
+aon!
+
+7
+
+CPZ
+
+&
+
+SINGLE BARREL « GRAIN-TO-GLASS
+
+QDuckhor
+
+SSS?
+
+ER
+
+DISTILLER
+
+&
+
+STRAIGHT RYE WHISKEY
+
+BO
+
+SS
+
+a
+
+sas
