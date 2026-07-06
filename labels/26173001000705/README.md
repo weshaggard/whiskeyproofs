@@ -1,0 +1,104 @@
+# TTB COLA Label Images - TTBID 26173001000705
+
+**Brand Name:** REDWOOD EMPIRE
+
+**Fanciful Name:** HAYSTACK NEEDLE
+
+**Issue Date:** 06/30/2026
+
+**Origin Code:** 01
+
+**Product Class/Type:** 101
+
+**Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=26173001000705)
+
+## Label Images
+
+### Back Label
+
+![Back Label](./back_label.jpg)
+
+### Label 1
+
+![Label 1](./label_1.jpg)
+
+### Label 3
+
+![Label 3](./label_3.jpg)
+
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+**Detected Proof:** 116.4
+
+### Back Label
+
+RICKHOUSE: 38°26'08.5”N 122°52'14.6"W
+
+HAYSTACK NEEDLE
+
+7 SINGLE BARKEL ———
+STRAIGHT BOURBON WHISKEY
+
+MASHBILL: 51% CORN, 41% RYE, 5% WHEAT, 3%MALTEO BARLEY
+
+xo. 0567 ace: O YEARS
+
+3 MONTHS
+PROOF: 116.4
+CHAR LEVEL: 3 | BARREL TYPE: NEW AMERICAN OAK
+ae GRAIN TO GLASS BARREL PICK SELECTED BY
+IN NORTHERN CALIFORNIA
+CUSTOMER
+
+mcrsspenyes | NAME
+
+BOTTLED BY REDWOOD EMPIRE DISTILLING,
+VALLEJO, CA DISTILLED IN CALIFORNIA, USA
+
+6
+
+wef
+GOVERNMENT WARNING: (I) ACCORDING OTHE x2 ——=o5
+SURGEON GENERAL WOMEN SHOULD NOT DRINK FS es
+ALCOHOLIC BEVERAGES DURING PREGNANCY Qs
+BECAUSE OF THERISK OF BIRTH DEFECTS. (2) COU: 2” ——c.,
+SUMPTION OF ALCOMOLIC BEVERAGES INFARS && ———
+HAKKAR —h
+CHINERY, AND MAY CAUSE HEALTH PROBLEMS. [—
+
+In Sc ME/VT15¢ ago CA CRV
+
+“Of all the paths you take in life, make sure a few of them are dirt” JOHN MUIR
+
+### Label 1
+
+REDWOOD
+ESTD
+BMPIRB
+MMXV
+1
+1
+1
+7
+2
+02
+HAYS TAC K
+NEEDL E
+ST RAIGHT BOURBON WHISKEY
+750ML - 116.4 PROOF
+59.29 AlC BY VOL
+
+### Label 3
+
+HAYSTACK NEEDLE
+SINGLE BARREL + GRAIN-TO-GLASS
+STRAIGHT BOURBON WHISKEY
+
+“wire DISTILLER
+
+TaaavVa
+ATONIS
+SINGLE
+BARREL
