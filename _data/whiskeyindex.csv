@@ -8,9 +8,11 @@ Name,Batch,Age,Proof,ReleaseYear,Distillery,Type,TTB_ID,url
 13th Colony Cask Strength Southern Bourbon,2025,,120.65,2025,Thirteenth Colony Distilleries,Bourbon,,https://www.13thcolonydistillery.com/13th-colony-releases-2025-cask-strength-southern-bourbon/
 13th Colony Cask Strength Southern Bourbon,2024,,120.64,2024,Thirteenth Colony Distilleries,Bourbon,,https://www.13thcolonydistillery.com/13th-colony-releases-new-cask-strength-southern-bourbon
 1620 Distilling Company,Commander's Reserve,,100,2026,1620 Distilling Company,Bourbon,26153001000939,
+1792 Bourbon,XV,15,124.2,2026,Barton 1792,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/barton-1792-distillery-adds-two-landmark-expressions-to-its-whiskey-lineup-1792-kentucky-straight-rye-whiskey-and-1792-xv
 1792 Bourbon,Sweet Wheat,,91.2,2015-2025,Barton 1792,Bourbon,14064001000038,https://1792bourbon.com/sweet-wheat/
 1792 Bourbon,Small Batch,,93.7,2002-2025,Barton 1792,Bourbon,24009001000225,https://1792bourbon.com/our-bourbon/
 1792 Bourbon,Single Barrel,,98.6,2015-2025,Barton 1792,Bourbon,24030001000597,https://1792bourbon.com/single-barrel/
+1792 Bourbon,Rye,,100,2026,Barton 1792,Rye,26009001000221,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/barton-1792-distillery-adds-two-landmark-expressions-to-its-whiskey-lineup-1792-kentucky-straight-rye-whiskey-and-1792-xv
 1792 Bourbon,Port Finish,8,88.9,2015,Barton 1792,Bourbon,15119001000484,https://1792bourbon.com/
 1792 Bourbon,High Rye,,94.3,2016-2025,Barton 1792,Bourbon,14064001000039,https://1792bourbon.com/
 1792 Bourbon,Full Proof,,125,2015-2025,Barton 1792,Bourbon,24009001000220,https://1792bourbon.com/full-proof/
@@ -615,7 +617,8 @@ Full Ryde,Batch 001-25,8,122,2026,Middle West Spirits,Bourbon,,https://www.fullr
 Gambit No. 6,2026,6,92,2026,Foley Family,Bourbon,,https://www.gambit6.com/
 Garrison Brothers,Sonora,7,108,2025,Garrison Brothers,Bourbon,25141001000849,https://www.garrisonbros.com/our-babies/sonora/
 Garrison Brothers,Small Batch,3,94,2010-2026,Garrison Brothers,Bourbon,26111001000315,https://www.garrisonbros.com/our-babies/small-batch/
-Garrison Brothers,Laguna Madre,8,101,2020-2025,Garrison Brothers,Bourbon,25346001000137,https://www.garrisonbros.com/our-babies/laguna-madre/
+Garrison Brothers,Laguna Madre Cask Strength Single Barrel,8,135.4,2026,Garrison Brothers,Bourbon,,https://www.garrisonbros.com/press/press-releases/garrison-brothers-distillery-sets-summer-release-for-2026-laguna-madre/
+Garrison Brothers,Laguna Madre,8,101,2020-2026,Garrison Brothers,Bourbon,25346001000137,https://www.garrisonbros.com/our-babies/laguna-madre/
 Garrison Brothers,Lady Bird Cask Strength,8,135,2026,Garrison Brothers,Bourbon,25346001000143,https://www.garrisonbros.com/our-babies/lady-bird/
 Garrison Brothers,Lady Bird,8,114,2023-2026,Garrison Brothers,Bourbon,24113001000370,https://www.garrisonbros.com/our-babies/lady-bird/
 Garrison Brothers,Hye Rye,5,98,2020-2025,Garrison Brothers,Rye,,https://www.garrisonbros.com/our-babies/hye-rye/
@@ -834,6 +837,7 @@ Knob Creek Blender's Edition,01,10,106,2026,Knob Creek,Bourbon,,https://www.fred
 Knob Creek Eli Manning's Bold Pick,2026,10,112.2-121.6,2026,Jim Beam,Bourbon,,https://www.suntoryglobalspirits.com/news/knob-creek-releases-eli-mannings-bold-pick
 Knob Creek Eli Manning's Bold Pick,2025,9,120,2025,Jim Beam,Bourbon,,https://www.suntoryglobalspirits.com/news/knob-creek-releases-eli-mannings-bold-pick
 Koopers Whiskey,10-Year Buffalo Trace Barrel Finish,10,100,2026,Koopers Whiskey,Rye,,https://thewhiskeywash.com/whiskey-news/koopers-10-year-rye-finished-in-buffalo-trace-barrel/
+Koopers Whiskey,Sweetheart of Rodeo Bourbon,,90,2026,Koopers Whiskey,Bourbon,26106001000175,https://www.breakingbourbon.com/review/sweetheart-of-the-rodeo-bourbon
 Koopers Whiskey,Father's Office Cigar Blend,8,114,2026,Koopers Whiskey,Bourbon,,https://www.kooperswhiskey.com/product/fathers-office-cigar-blend-bourbon
 Koopers Whiskey,2026 Cognac Casks Rye,7,96,2026,Koopers Whiskey,Rye,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/koopers-whiskey-unveils-limited-7-year-rye-finished-in-cognac-casks
 Koopers Whiskey,2025 Cognac Casks Rye,7,96,2025,Koopers Whiskey,Rye,,
