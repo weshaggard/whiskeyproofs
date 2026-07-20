@@ -1,36 +1,33 @@
 # Task Report
 
 ## Task
-Research new bourbon and rye whiskey releases announced in late June 2026 from the specified whiskey news and distillery sources, and compile a structured list with release details and source URLs.
+Verify the reviewed `_data/whiskeyindex.csv` entry for Four Roses at the commented line and make the smallest valid correction if the entry is not supported.
 
 ## Result
 ✅ Success
 
 ## Summary
-- Items processed: 8 sources/pages
-- Succeeded: 2 qualifying releases found
+- Items processed: 1
+- Succeeded: 1
 - Failed: 0
-- Skipped: 6 sources/pages with no qualifying late-June 2026 bourbon/rye release announcements
+- Skipped: 0
 
 ## Completed
-- Checked the specified source set: Breaking Bourbon homepage, Breaking Bourbon news path, Bourbon Culture news category, The Whiskey Wash bourbon/news coverage, Heaven Hill news, Whiskey Myers, Knob Creek news, and Maker's Mark news/product pages.
-- Confirmed **Bulleit 20-Year-Old Straight Rye** from Breaking Bourbon press-release coverage dated June 24, 2026.
-- Confirmed **Old Fitzgerald Bottled-in-Bond Decanter Series Spring 2026 Edition** from Heaven Hill’s official news page dated June 24, 2026.
-- Verified that Knob Creek’s relevant limited release page (Blender’s Edition 01) was dated 2026-04-15, so it was excluded from a late-June-only result set.
-- Verified Maker’s Mark’s Stewards Release product page existed for 2026, but did not have a qualifying late-June news announcement page in the requested source set, so it was excluded.
-- Found no qualifying late-June bourbon/rye release announcements from Bourbon Culture or Whiskey Myers in the requested scope.
+- Confirmed the only actionable PR thread was comment `3615416034` on `_data/whiskeyindex.csv`.
+- Inspected the current Four Roses rows around line 610 and traced authorship with `git blame`.
+- Verified the suspicious row `Four Roses,100 Proof,,100,2026,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/four-roses-bourbon` was introduced by commit `f86ddf5`.
+- Confirmed `e37901c` did not modify the Four Roses section; it only added Village Garage rows.
+- Ran `python3 .github/scripts/validate_whiskey_data.py` before and after the change; both runs passed.
+- Verified via official Four Roses sources and reputable whiskey coverage that 2026 100-proof Four Roses releases exist only as named `Single Barrel Collection` recipe bottlings, not as a standalone `Four Roses 100 Proof` product.
+- Removed the unsupported generic row from `/tmp/workspace/_data/whiskeyindex.csv`.
 
 ## Errors
-- `https://www.breakingbourbon.com/news` returned HTTP 404 on initial fetch. Retry strategy: searched Breaking Bourbon directly and via site-specific web search; no additional qualifying late-June bourbon/rye announcement page was confirmed from that path.
-- `https://bourbonculture.com/category/news/` redirected with HTTP 308, then the final URL returned HTTP 404. Retry strategy: retried with the final URL and used site-specific web search; no qualifying late-June bourbon/rye announcement was found.
-- `https://www.heavenhill.com/news` redirected; retried with `https://heavenhill.com/news`, which returned 404. Retry strategy: site-specific web search located the active Heaven Hill news-and-notes article used in the final result.
-- `https://thewhiskeywash.com/category/whiskey-styles/american-whiskey/bourbon-whiskey/` returned HTTP 404. Retry strategy: used site-specific web search and direct article fetches from The Whiskey Wash’s current news URLs.
-- `https://www.makersmark.com/news` returned HTTP 404. Retry strategy: searched the site’s current product/limited-release pages; no qualifying late-June news announcement was confirmed.
+None.
 
 ## Remaining Work
 None.
 
 ## State
-- Final confirmed releases:
-  1. Bulleit 20-Year-Old Straight Rye — 20 years old, 137 proof, Diageo/Bulleit, Rye, source: https://www.breakingbourbon.com/bourbon-whiskey-press-releases/bulleit-goes-two-decades-deep-with-new-20-year-old-straight-rye-whiskey
-  2. Old Fitzgerald Bottled-in-Bond Decanter Series Spring 2026 Edition — 10 years old, 100 proof, Heaven Hill, Bourbon, source: https://heavenhill.com/news-and-notes/heaven-hill-distillery-announces-spring-2026-edition-of-the-old-fitzgerald-bottled-in-bond-decanter-series/
+- Modified files: `/tmp/workspace/_data/whiskeyindex.csv`, `/tmp/workspace/.agent-session/files/task-report.md`.
+- Validation command used: `python3 .github/scripts/validate_whiskey_data.py`.
+- Relevant evidence: official Four Roses `single-barrel-collection` page and whiskey coverage confirming the 2026 100-proof releases are recipe-specific collection entries, not a separate core product.
