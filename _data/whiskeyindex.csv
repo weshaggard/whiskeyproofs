@@ -89,6 +89,7 @@ Bardstown Bourbon Distillery Reserve,Normandie Calvados Brandy Barrel,,104.2,202
 Bardstown Bourbon Distillery Reserve,Hokkaido Mizunara Oak,,109.3,2025,Bardstown Bourbon,Bourbon,,https://www.bardstownbourbon.com/products/hokkaido-mizunara-oak-barrel-finish/
 Bardstown Bourbon Distillery Reserve,Cathedral French Oak,,110.1,2025,Bardstown Bourbon,Bourbon,,https://www.bardstownbourbon.com/products/cathedral-french-oak/
 Bardstown Bourbon Distillery Reserve,Cascadia Garryana Oak Barrel Finish,,107.5,2026,Bardstown Bourbon,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/bardstown-bourbon-unveils-cascadia-garryana-oak-barrel-finish-bourbon
+Bardstown Bourbon Finishing Series,Victoria Pineapple Barrel Finish,,106,2026,Bardstown Bourbon,Bourbon,,https://www.bardstownbourbon.com/news/victoria-pineapple-a-tropical-twist-on-bourbon-exploration/
 Barrell Bourbon,Batch 038,,116.96,2026,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
 Barrell Bourbon,Batch 037,,111.4,2025,Barrell Craft Spirits,Bourbon,25086001000953,https://www.barrellbourbon.com/
 Barrell Bourbon,Batch 036,,114.4,2023,Barrell Craft Spirits,Bourbon,23269001000899,https://www.barrellbourbon.com/
@@ -606,8 +607,10 @@ First West,Explorer,5,95,2026,15 STARS,Bourbon,,https://15stars.com/first-west/
 Four Branches Bourbon,Liberty Reserve,10,100,2026,Four Branches Bourbon,Bourbon,,https://www.fourbranches.com/products/liberty-reserve
 Four Branches Bourbon,Founders Reserve,,96,2026,Four Branches Bourbon,Bourbon,26085001000545,https://fourbranches.com
 Four Branches Bourbon,Founders Blend,,96,2023-2025,Four Branches Bourbon,Bourbon,22354001000032,https://www.fourbranches.com/products/four-branches-bourbon
+Four Roses,Yellow Label,,80,2002-2026,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/four-roses-bourbon
 Four Roses Anthology,Chapter 01: Origin,21,102.5-124.9,2026,Four Roses,Bourbon,25174001000230,https://www.fourrosesbourbon.com/bourbon/anthology
 Four Roses Experimental Series,No. 001,6,104,2026,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/experimental-collection
+Four Roses Limited Edition Small Batch,2027,,112,2027,Four Roses,Bourbon,26166001000751,https://www.fourrosesbourbon.com/bourbon/limited-edition
 Four Roses Limited Edition Small Batch,2025,13-19,109,2025,Four Roses,Bourbon,25084001000462,https://www.fourrosesbourbon.com/bourbon/limited-edition
 Four Roses Limited Edition Small Batch,2024,12-20,108.2,2024,Four Roses,Bourbon,24050001000660,https://www.fourrosesbourbon.com/bourbon/limited-edition
 Four Roses Limited Edition Small Batch,2023,12-25,108,2023,Four Roses,Bourbon,23051001000526,https://www.fourrosesbourbon.com/bourbon/limited-edition
@@ -657,7 +660,7 @@ Garrison Brothers,Laguna Madre Cask Strength Single Barrel,8,135.4,2026,Garrison
 Garrison Brothers,Laguna Madre,8,101,2020-2026,Garrison Brothers,Bourbon,25346001000137,https://www.garrisonbros.com/our-babies/laguna-madre/
 Garrison Brothers,Lady Bird Cask Strength,8,135,2026,Garrison Brothers,Bourbon,25346001000143,https://www.garrisonbros.com/our-babies/lady-bird/
 Garrison Brothers,Lady Bird,8,114,2023-2026,Garrison Brothers,Bourbon,24113001000370,https://www.garrisonbros.com/our-babies/lady-bird/
-Garrison Brothers,Hye Rye,5,98,2020-2025,Garrison Brothers,Rye,,https://www.garrisonbros.com/our-babies/hye-rye/
+Garrison Brothers,Hye Rye,5,98,2020-2028,Garrison Brothers,Bourbon,,https://www.garrisonbros.com/our-babies/hye-rye/
 Garrison Brothers,Guadalupe,6,107,2021-2026,Garrison Brothers,Bourbon,25106001000284,https://www.garrisonbros.com/our-babies/guadalupe/
 Garrison Brothers,Bottled in Bond,6,100,2026,Garrison Brothers,Bourbon,25210001000672,https://www.fredminnick.com/2026/01/27/garrison-brothers-to-release-its-first-ever-bottled-in-bond/
 Garrison Brothers,Balmorhea,5,115,2017-2025,Garrison Brothers,Bourbon,,https://www.garrisonbros.com/our-babies/balmorhea/
@@ -879,6 +882,7 @@ Knob Creek Independence Edition,2026,9,100,2026,Jim Beam,Bourbon,,https://bevinf
 Koopers Whiskey,10-Year Buffalo Trace Barrel Finish,10,100,2026,Koopers Whiskey,Rye,,https://thewhiskeywash.com/whiskey-news/koopers-10-year-rye-finished-in-buffalo-trace-barrel/
 Koopers Whiskey,Sweetheart of Rodeo Bourbon,,90,2026,Koopers Whiskey,Bourbon,26106001000175,https://www.breakingbourbon.com/review/sweetheart-of-the-rodeo-bourbon
 Koopers Whiskey,Father's Office Cigar Blend,8,114,2026,Koopers Whiskey,Bourbon,,https://www.kooperswhiskey.com/product/fathers-office-cigar-blend-bourbon
+Koopers Whiskey,Barrel Reserve Bourbon,,116,2023-2026,Koopers Whiskey,Bourbon,,https://www.kooperswhiskey.com/product/barrel-reserve-bourbon
 Koopers Whiskey,2026 Cognac Casks Rye,7,96,2026,Koopers Whiskey,Rye,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/koopers-whiskey-unveils-limited-7-year-rye-finished-in-cognac-casks
 Koopers Whiskey,2025 Cognac Casks Rye,7,96,2025,Koopers Whiskey,Rye,,
 Koopers Whiskey,2024 Cognac Casks Rye,7,96,2024,Koopers Whiskey,Rye,,
@@ -1359,6 +1363,10 @@ Starlight,Dana Huber Bottled-in-Bond,7,100,2026,Starlight Distillery,Bourbon,251
 Starlight,Carl T. Bourbon,,92,2021-2026,Starlight Distillery,Bourbon,,https://starlightdistillery.com/bourbons/carl-t-bourbon-whiskey/
 Starlight,Bottled-in-Bond,,100,2021-2026,Starlight Distillery,Bourbon,,https://starlightdistillery.com/bourbons/bottled-in-bond-bourbon-whiskey/
 Starlight,25th Anniversary 10-Year Single Barrel,10,120.4,2026,Starlight Distillery,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/starlight-distillery-celebrating-25th-anniversary-with-new-releases-of-20-year-reserve-brandy-and-10-year-reserve-bourbon
+Still 630,Small Batch,5,90,2020-2026,StilL 630,Bourbon,,https://internetwines.com/products/still-630-missouri-straight-bourbon-whiskey
+Still 630,Mother Road,5.5,100,2026,StilL 630,Bourbon,,https://theoldrickhouse.com/products/mother-road-missouri-straight-bourbon-whiskey-bottled-in-bond
+Still 630,Indomitable Spirit of America 250th Birthday,5,100,2026,StilL 630,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/still-630-unveils-limited-edition-bourbon-series-for-2026
+Still 630,Due Process,5,130.6,2026,StilL 630,Bourbon,,https://huntsmanheritage.com/products/due-process-missouri-straight-bourbon-whiskey-130-6-proof
 Still Austin,The Musician,,98.4,2020-2026,Still Austin Whiskey Co.,Bourbon,,https://stillaustin.com/spirits/
 Still Austin,The Artist,,98.4,2020-2026,Still Austin Whiskey Co.,Rye,,https://stillaustin.com/spirits/
 Still Austin,Tanager Cigar Blend Bourbon,6,107.5,2025-2026,Still Austin Whiskey Co.,Bourbon,24124001000496,https://stillaustin.com/tanager-cigar-blend-bourbon-whiskey
@@ -1434,6 +1442,10 @@ Two Souls Spirits,J. Henry 7yr Bourbon Rum Cask,7,115.32,2026,J. Henry & Sons,Bo
 Unbridled Spirit,standard,,100,2026,Unbridled Spirit,Bourbon,26022001000191,https://fortheunbridled.com
 Very Olde St. Nick,Resurrection,,103.4,2026,Preservation Distillery,Bourbon,26071001000992,https://preservationdistillery.com/
 Very Olde St. Nick,Immaculata 2026,,118.2,2026,Preservation Distillery,Bourbon,,https://preservationdistillery.com/
+Village Garage,Vermont Republic Rye,5,127,2026,Village Garage Distillery,Rye,,https://www.villagegarage.com/vermont-republic-rye
+Village Garage,Rye,,90,2023-2026,Village Garage Distillery,Rye,,https://www.villagegarage.com/our-spirits/
+Village Garage,Bourbon,5,90,2021-2026,Village Garage Distillery,Bourbon,25104001000118,https://www.villagegarage.com/our-spirits/
+Village Garage,Bonfire,5,90,2021-2026,Village Garage Distillery,Bourbon,25104001000123,https://www.villagegarage.com/bonfire
 W.L. Weller,Special Reserve,,90,1999-2025,Buffalo Trace,Bourbon,16232001000355,https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-special-reserve/
 W.L. Weller,Single Barrel,,97,2020-2025,Buffalo Trace,Bourbon,19344001000045,https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-single-barrel/
 W.L. Weller,Full Proof,,114,2017-2025,Buffalo Trace,Bourbon,19057001000673,https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-full-proof/
@@ -1444,6 +1456,7 @@ Warbringer,Batch 22,,98,2025,Sespe Creek Distillery,Bourbon,,https://www.breakin
 Warbringer,Batch 20,,98,2024,Sespe Creek Distillery,Bourbon,,https://www.breakingbourbon.com/review/warbringer-mesquite-smoked-bourbon
 Warbringer,Cowboy Edition,,110,2026,Sespe Creek Distillery,Bourbon,,https://warbringerbourbon.com/warbringer-cowboy-edition
 Watch Hill Chef Series,Batch 01,12,130.4,2025,MGP,Rye,,https://www.breakingbourbon.com/review/watch-hill-whiskey-chef-series-batch-01
+Watch Hill Definitive Series,Batch 10,8,124.18,2026,Undisclosed Kentucky & Indiana,Bourbon,26189001000264,https://theoldrickhouse.com/products/watch-hill-definitive-series-8-year-bourbon-whiskey-2026
 Watch Hill Definitive Series,Batch 01,,126.5,2024,Undisclosed Kentucky,Bourbon,,https://www.fredminnick.com/2024/10/23/watch-hill-whiskey-company-launches-with-limited-release/
 Watch Hill Exceptional Series,Batch 03,18,128,2026,Undisclosed Kentucky,Bourbon,,https://www.breakingbourbon.com/review/watch-hill-exceptional-series-batch-03
 Watch Hill Exceptional Series,Batch 02,20,124.1,2024,Undisclosed Kentucky,Bourbon,,https://www.breakingbourbon.com/review/watch-hill-exceptional-series-batch-02
@@ -1606,6 +1619,8 @@ Woodinville Ginja Barrel Finish Bourbon,2023,,95,2023,Woodinville Whiskey Co.,Bo
 Woodinville Port Finish Bourbon,standard,6,90,2017-2025,Woodinville Whiskey Co.,Bourbon,25237001000584,https://woodinvillewhiskeyco.com/products/straight-bourbon-whiskey-finished-in-port-barrels-2026
 Woodinville Rye Port Finish,2022,,90,2022,Woodinville Whiskey Co.,Rye,24208001000061,https://www.ryecentral.com/products/woodinville-port-finished-rye-review
 Woodinville Sauternes Cask Finish Bourbon,2024,,105,2024,Woodinville Whiskey Co.,Bourbon,24215001000530,https://woodinvillewhiskeyco.com/blogs/journal/harvest-release-2024
+Woodinville Single Barrel Cask Strength Bourbon,standard,7,113-125,2026,Woodinville Whiskey Co.,Bourbon,25262001000472,https://woodinvillewhiskeyco.com/products/single-barrel-bourbon-whiskey-aged-7-years
+Woodinville Single Barrel Cask Strength Rye,standard,7,113-125,2026,Woodinville Whiskey Co.,Rye,25262001000474,https://woodinvillewhiskeyco.com/products/single-barrel-100-rye-whiskey-aged-7-years
 Woodinville Straight Bourbon,standard,6,90,2015-2025,Woodinville Whiskey Co.,Bourbon,18005001000445,https://woodinvillewhiskeyco.com/products/straight-bourbon-whiskey-2026
 Woodinville Straight Rye,standard,6,90,2015-2025,Woodinville Whiskey Co.,Rye,18005001000445,https://woodinvillewhiskeyco.com/products/straight-100-rye-whiskey-2026
 Woodinville Tequila Barrel Finish Bourbon,2025,,100,2025,Woodinville Whiskey Co.,Bourbon,24351001000672,https://woodinvillewhiskeyco.com/blogs/journal/announcing-woodinville-straight-bourbon-finished-in-tequila-barrels
