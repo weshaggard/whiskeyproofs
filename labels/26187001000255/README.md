@@ -1,0 +1,234 @@
+# TTB COLA Label Images - TTBID 26187001000255
+
+**Brand Name:** 117 WEST SPIRITS
+
+**Issue Date:** 07/20/2026
+
+**Origin Code:** 01
+
+**Product Class/Type:** 101
+
+**Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=26187001000255)
+
+## Label Images
+
+### Back Label
+
+![Back Label](./back_label.jpg)
+
+### Front Label
+
+![Front Label](./front_label.jpg)
+
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+o>mouzia
+
+> MmaAoIO
+
+opmma
+
+ca<1m4me
+
+mazozon
+
+>4I>dac
+
+(IU?
+
+oanz
+
+Zoe
+
+am’ gq
+
+zon
+
+BOURBON
+
+calf tit
+
+40
+
+o>O4
+
+rIus~
+
+WHISKEY
+
+MUp 50
+
+See es
+
+a>
+
+OpOnp
+
+a>
+
+azcimg
+
+ADMIRAL
+
+DISTILLED FROM
+
+om®®unn0Zzz
+
+CALIFORNIA GROWN
+
+cCmenms
+
+MALTINGS
+
+nz
+
+MALTED CORN, WHEAT
+
+MzgZ
+
+09
+
+>o
+
+Caer ee
+
+AND BARLEY.
+
+Z>c
+
+4a70Fr"
+
+on
+
+am
+
+i.o
+
+Lara
+
+mms~
+
+aap
+
+cOa
+
+>zZ0
+
+DISTILLED FROM CALIFORNIA-GROWN AND
+
+<i nuomo
+
+<pAMZO
+
+MALTED CORN, WHEAT, AND BARLEY, AND AGED
+
+ar
+
+Oo a
+
+FOR AT LEAST TWO YEARS IN 30-GALLON
+
+zog
+
+09
+
+70
+
+NEW AMERICAN OAK, THIS SPIRIT REPRESENTS
+
+oOrgac
+
+09
+
+THE FLAVOR OF A TRUE CALIFORNIA WHISKEY—,
+
+z20n2
+
+c
+
+SWEET, YOUTHFUL, AND VIBRANT.
+
+<Cazra
+
+<morgaoo
+
+THE IMPORTANCE OF SOURCING QUALITY
+
+INGREDIENTS IS CENTRAL TO DEVELOPING THE
+
+UNIQUE PROFILE OF EACH SPIRIT. THIS MODERN
+
+APPROACH AIMS TO PROVIDE CUSTOMERS WITH AN
+
+UNEXPECTED EXPERIENCE UNLIKE ANYTHING ELSE.
+
+et 7
+
+—
+
+=
+
+=>
+
+DISTILLED & BOTTLED BY 117° WEST SPIRITS
+
+——
+
+Ds} ———
+
+2332 LA MIRADA DRIVE
+
+STE. 800
+
+VISTA, CA
+
+117WESTSPIRITS.COM
+
+### Front Label
+
+750 ML
+
+117° WEST SPIRITS IS DEDICATED TO THE SAME PASSION AND
+ARTFUL CRAFTSMANSHIP THAT SAN DIEGO BREWING HAS COME TO
+BE KNOWN FOR. LIKE CRAFT BEER, THE IMPORTANCE OF SOURCING
+QUALITY INGREDIENTS IS KEY IN DEVELOPING THE UNIQUE PROFILES
+OF EACH SPIRIT. THIS MODERN APPROACH AIMS TO PROVIDE THE
+CUSTOMER WITH AN UNEXPECTED EXPERIENCE UNLIKE ANYWHERE
+ELSE. THIS IS WEST COAST DISTILLING AT IT’S FINEST.
+
+lll)
+117° WEST
+BOURBON
+WHISKEY
+
+<
+18)
+<
+EF
+4
+>
+a
+Q
+Wl
+FE
+L
+<
+4
+oO
+Q
+r 4
+<
+I
+
+SMALL BATCH DISTILLERS
+
+3sv99w Niisnr
+
+“IDA @ eC
+Ag ft
+
+2I90OHOOINYE aa tt.sasia 7 HOAiva
