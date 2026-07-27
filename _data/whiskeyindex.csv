@@ -24,6 +24,10 @@ Name,Batch,Age,Proof,ReleaseYear,Distillery,Type,TTB_ID,url
 2XO,American Oak,,92,2023-2026,Prestige Beverage Group,Bourbon,23213001000122,https://2xowhiskey.com/american-oak/
 A. Overholt,Monongahela Mash,4,95,2024-2025,Jim Beam,Rye,,https://www.beamdistilling.com/old-overholt/whiskies/a-overholt-monongahela-mash
 A. Smith Bowman Cask Strength,Cask Strength #5,10,137.6,2026,A. Smith Bowman,Bourbon,25224001000808,https://asmithbowman.com/cask-strength/
+ASW,Resurgens Rye,,86,2017-2026,ASW Distillery,Rye,,https://www.resurgenswhiskey.com/
+ASW,Fiddler Steel Plow Rye,8,112,2026,ASW Distillery,Rye,,https://www.fredminnick.com/2026/07/14/asw-distillery-john-deere-collaborate-to-launch-new-soil-to-still-whiskey-series/
+ASW,Fiddler Soloist Straight Bourbon,,100,2019-2026,ASW Distillery,Bourbon,,https://www.aswdistillery.com/fiddler
+ASW,Fiddler Combine Bourbon,8,112,2026,ASW Distillery,Bourbon,,https://www.fredminnick.com/2026/07/14/asw-distillery-john-deere-collaborate-to-launch-new-soil-to-still-whiskey-series/
 Abraham Bowman,26 - Rye,11,110,2026,A. Smith Bowman,Rye,,https://asmithbowman.com/abraham-bowman-special-release-26/
 Abraham Bowman,25 - Hungarian Oak,12,115,2025,A. Smith Bowman,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/a-smith-bowman-distillery-expands-experimental-oak-series-with-hungarian-oak-third-release-exploring-oak-varietals
 Abraham Bowman,24 - American Oak,12,135,2024,A. Smith Bowman,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/a-smith-bowman-distillery-releases-oak-series-american-oak-second-in-its-experimental-series-exploring-oak-varietals
@@ -1553,6 +1557,14 @@ Wild Turkey Master's Keep,2016 - Decades,10-20,104,2016,Wild Turkey,Bourbon,1526
 Wild Turkey Master's Keep,2015 - 17 Year,17,86.8,2015,Wild Turkey,Bourbon,14352001000297,https://www.wildturkeybourbon.com/products/masters-keep-17-year/
 Wildcask,2026,,100,2026,Beam Institute,Bourbon,,https://www.fredminnick.com/2026/03/25/jbbi-set-to-release-2026-edition-of-wildcask-bourbon/
 Wildcask,2025,,100,2025,Beam Institute,Bourbon,,https://uknow.uky.edu/campus-news/james-b-beam-institute-launches-kentucky-wildcask-bourbon-groundbreaking-student-created
+Wilderness Trail,6-Year Private Barrel High-Rye Bourbon,6,119,2026,Wilderness Trail,Bourbon,,https://www.fredminnick.com/2025/12/02/wilderness-trail-rolls-out-6-year-private-barrel-whiskeys/
+Wilderness Trail,6-Year Private Barrel Rye Whiskey,6,105,2026,Wilderness Trail,Rye,,https://www.fredminnick.com/2025/12/02/wilderness-trail-rolls-out-6-year-private-barrel-whiskeys/
+Wilderness Trail,6-Year Private Barrel Wheated Bourbon,6,110-116.1,2026,Wilderness Trail,Bourbon,,https://www.fredminnick.com/2025/12/02/wilderness-trail-rolls-out-6-year-private-barrel-whiskeys/
+Wilderness Trail,10-Year Wheated Bourbon (250th Anniversary),10,122,2025,Wilderness Trail,Bourbon,,https://www.prnewswire.com/news-releases/wilderness-trail-distillery-unveils-rare-limited-edition-10-year-old-wheated-bourbon-celebrating-250-years-of-the-wilderness-road-302639712.html
+Wilderness Trail,8-Year Bottled-in-Bond Wheated Bourbon,8,100,2023,Wilderness Trail,Bourbon,,https://www.fredminnick.com/2023/08/07/wilderness-trail-to-release-wheated-8-year-on-aug-23/
+Wilderness Trail,Bottled-in-Bond Wheated Bourbon,,100,2018-2026,Wilderness Trail,Bourbon,,https://www.wildernesstraildistillery.com/whiskeys/wheated-bourbon/
+Wilderness Trail,Bottled-in-Bond Rye Whiskey,,100,2018-2026,Wilderness Trail,Rye,,https://www.wildernesstraildistillery.com/whiskeys/rye-whiskey/
+Wilderness Trail,Bottled-in-Bond High-Rye Bourbon,,100,2019-2026,Wilderness Trail,Bourbon,,https://www.wildernesstraildistillery.com/whiskeys/high-rye-bourbon/
 Wildrye Distilling,Five Drops Bourbon,,90,2016-2026,WildRye Distilling,Bourbon,,https://wildryedistilling.com/spirits/
 Wildrye Distilling,Bourbon Barrel Rye,7.5,100,2026,WildRye Distilling,Rye,,https://shop.wildryedistilling.com/products/bourbon-barrel-rye-bib
 Willett,Small Batch Rye,4,109.6-112.8,2014-2026,Willett Distillery,Rye,,https://www.kentuckybourbonwhiskey.com/
