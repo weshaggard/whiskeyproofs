@@ -1,0 +1,63 @@
+# TTB COLA Label Images - TTBID 26207001000050
+
+**Brand Name:** SPIRITS OF WICHITA
+
+**Issue Date:** 07/31/2026
+
+**Origin Code:** 10
+
+**Product Class/Type:** 140
+
+**Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=26207001000050)
+
+## Label Images
+
+### Front Label
+
+![Front Label](./front_label.jpg)
+
+### Label 2
+
+![Label 2](./label_2.jpg)
+
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Front Label
+
+BOWERY
+PRESENTS
+UA
+OF
+NHISKEY
+750 ML
+WHEAT
+WHISKEY
+54.5
+109
+% ALC  BY VOL
+8
+PROOF
+YEAR
+SPIRITS
+AK _
+PIRLTS:
+WICHI
+
+### Label 2
+
+GOVERNMENT WARNING:
+(1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK
+ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH
+DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY
+TO DRIVEA CAR OR OPERATE MACHINERY,AND MAY CAUSE HEALTH PROBLEMS.
+84400
+35710
+BOTTLED BY OAK BOWERY SPIRITS, 1200 1ST AVE . OPELIKA, AL 36801
+DISTILLED IN KANSAS
+WWW OAKBOWERYSPIRITS
+ENJOY
+.COM
+RESPONSIBLY
+PLEASE
