@@ -818,15 +818,15 @@ Ironroot Republic,Apotheosis IV,,113.2,2023,Likarish Enterprises,Bourbon,,https:
 J. Henry & Sons,Small Batch,5,92,2015-2026,J. Henry & Sons,Bourbon,,https://jhenryandsons.com/
 J. Henry & Sons,Patton Road Reserve Single Barrel,,120,2017-2026,J. Henry & Sons,Bourbon,,https://jhenryandsons.com/
 J.B. Mullins,Private Reserve Highland,5,126,2026,Davis Valley Distillery,Bourbon,26132001000079,https://davisvalleywinery.com/distillery
-Jack Daniel's 10 Year (JD10),Batch 5,10,97,2026,Jack Daniel's,Tennessee Whiskey,25176001000385,https://www.jackdaniels.com/en-us/whiskey/10-year-old-tennessee-whiskey
-Jack Daniel's 10 Year (JD10),Batch 4,10,97,2025,Jack Daniel's,Tennessee Whiskey,24002001000457,https://www.jackdaniels.com/en-us/whiskey/10-year-old-tennessee-whiskey
-Jack Daniel's 10 Year (JD10),Batch 3,10,97,2024,Jack Daniel's,Tennessee Whiskey,23010001000241,https://www.jackdaniels.com/en-us/whiskey/10-year-old-tennessee-whiskey
-Jack Daniel's 10 Year (JD10),Batch 2,10,97,2023,Jack Daniel's,Tennessee Whiskey,22073001000708,https://www.jackdaniels.com/en-us/whiskey/10-year-old-tennessee-whiskey
-Jack Daniel's 10 Year (JD10),Batch 1,10,97,2021,Jack Daniel's,Tennessee Whiskey,21091001000930,https://www.jackdaniels.com/en-us/whiskey/10-year-old-tennessee-whiskey
-Jack Daniel's 12 Year (JD12),Batch 4,12,107,2026,Jack Daniel's,Tennessee Whiskey,25176001000390,https://www.jackdaniels.com/en-us/whiskey/12-year-old-tennessee-whiskey
-Jack Daniel's 12 Year (JD12),Batch 3,12,107,2025,Jack Daniel's,Tennessee Whiskey,24002001000458,https://www.jackdaniels.com/en-us/whiskey/12-year-old-tennessee-whiskey
-Jack Daniel's 12 Year (JD12),Batch 2,12,107,2024,Jack Daniel's,Tennessee Whiskey,23010001000270,https://www.jackdaniels.com/en-us/whiskey/12-year-old-tennessee-whiskey
-Jack Daniel's 12 Year (JD12),Batch 1,12,107,2023,Jack Daniel's,Tennessee Whiskey,22073001000711,https://www.jackdaniels.com/en-us/whiskey/12-year-old-tennessee-whiskey
+Jack Daniel's 10 Year (JD10),Batch 5,10,97,2026,Jack Daniel's,Tennessee Whiskey,25176001000385,https://www.jackdaniels.com/en-us/whiskey/jack-daniels-10-year-old-tennessee-whiskey
+Jack Daniel's 10 Year (JD10),Batch 4,10,97,2025,Jack Daniel's,Tennessee Whiskey,24002001000457,https://www.jackdaniels.com/en-us/whiskey/jack-daniels-10-year-old-tennessee-whiskey
+Jack Daniel's 10 Year (JD10),Batch 3,10,97,2024,Jack Daniel's,Tennessee Whiskey,23010001000241,https://www.jackdaniels.com/en-us/whiskey/jack-daniels-10-year-old-tennessee-whiskey
+Jack Daniel's 10 Year (JD10),Batch 2,10,97,2023,Jack Daniel's,Tennessee Whiskey,22073001000708,https://www.jackdaniels.com/en-us/whiskey/jack-daniels-10-year-old-tennessee-whiskey
+Jack Daniel's 10 Year (JD10),Batch 1,10,97,2021,Jack Daniel's,Tennessee Whiskey,21091001000930,https://www.jackdaniels.com/en-us/whiskey/jack-daniels-10-year-old-tennessee-whiskey
+Jack Daniel's 12 Year (JD12),Batch 4,12,107,2026,Jack Daniel's,Tennessee Whiskey,25176001000390,https://www.jackdaniels.com/en-us/whiskey/jack-daniels-12-year-old-tennessee-whiskey
+Jack Daniel's 12 Year (JD12),Batch 3,12,107,2025,Jack Daniel's,Tennessee Whiskey,24002001000458,https://www.jackdaniels.com/en-us/whiskey/jack-daniels-12-year-old-tennessee-whiskey
+Jack Daniel's 12 Year (JD12),Batch 2,12,107,2024,Jack Daniel's,Tennessee Whiskey,23010001000270,https://www.jackdaniels.com/en-us/whiskey/jack-daniels-12-year-old-tennessee-whiskey
+Jack Daniel's 12 Year (JD12),Batch 1,12,107,2023,Jack Daniel's,Tennessee Whiskey,22073001000711,https://www.jackdaniels.com/en-us/whiskey/jack-daniels-12-year-old-tennessee-whiskey
 Jack Daniel's 14 Year (JD14),Batch 2,14,117.6,2026,Jack Daniel's,Tennessee Whiskey,25182001000563,https://www.jackdaniels.com/en-us/whiskey/14-year-old-tennessee-whiskey
 Jack Daniel's 14 Year (JD14),Batch 1,14,126.3,2025,Jack Daniel's,Tennessee Whiskey,24065001000085,https://www.jackdaniels.com/en-us/whiskey/14-year-old-tennessee-whiskey
 Jack Daniel's Special Release,2025 - Tanyard Hill Rye,9-10,130.2-148.8,2025,Jack Daniel's,Rye,25028001000211,https://www.jackdaniels.com/en-us/whiskey/single-barrel-heritage-barrel-special-release
@@ -1090,6 +1090,7 @@ Nashville Barrel Company,Founders Fourteen Series,8,126-130,2020-2026,MGP,Bourbo
 Nashville Barrel Company,Club Marzipan Rye,7,127.98,2026,Undisclosed Kentucky,Rye,,https://nashvillebarrelco.com/bottles/nbc-fred-minnick-club-marzipan
 Nashville Barrel Company,Club Marzipan Bourbon,8,127.84,2026,Undisclosed Kentucky,Bourbon,,https://nashvillebarrelco.com/bottles/nbc-fred-minnick-club-marzipan
 Nashville Barrel Company,C-Series,8,115.78-119.3,2025-2026,Wild Turkey,Bourbon,,https://nashvillebarrelco.com/bottles/nbc-c-series-dsp-ky67
+Never Say Die,Small Batch,6,95,2022-2026,Wilderness Trail Distillery,Bourbon,24213001000517,https://neversaydiebourbon.com/englands-bourbon/
 New Riff Balboa Rye,2026,4,100,2026,New Riff,Rye,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/award-winning-balboa-rye-returns-as-new-riff-distilling-announces-release
 New Riff Bottled in Bond,standard,4,100,2018-2026,New Riff,Bourbon,24318001000303,https://www.newriffdistilling.com/spirits/kentucky-straight-bourbon-whiskey/
 New Riff Bottled in Bond Rye,standard,4,100,2018-2026,New Riff,Rye,,https://www.newriffdistilling.com/spirits/kentucky-straight-rye-whiskey/
@@ -1273,8 +1274,8 @@ Redemption,Wheated Bourbon,,96,2020-2026,MGP,Bourbon,,https://www.redemptionwhis
 Redemption,The Ancients 36 Year Bourbon,36,97.6,2021-2026,MGP,Bourbon,,https://www.redemptionwhiskey.com/whiskeys/36-year-old-bourbon/
 Redemption,The Ancients 18 Year Rye,18,109.9,2021-2026,MGP,Rye,,https://www.redemptionwhiskey.com/whiskeys/18-year-old-rye/
 Redemption,The Ancients 18 Year Bourbon,18,103.4,2025-2026,MGP,Bourbon,,https://www.redemptionwhiskey.com/whiskeys/18-year-old-bourbon/
-Redemption,Straight Rye,,92,2010-2026,MGP,Rye,,https://www.redemptionwhiskey.com/whiskeys/straight-rye-whiskey/
-Redemption,Straight Bourbon,,92,2010-2026,MGP,Bourbon,,https://www.redemptionwhiskey.com/whiskeys/straight-bourbon-whiskey/
+Redemption,Straight Rye,,92,2010-2026,MGP,Rye,,https://www.redemptionwhiskey.com/whiskeys/rye/
+Redemption,Straight Bourbon,,92,2010-2026,MGP,Bourbon,,https://www.redemptionwhiskey.com/whiskeys/bourbon-whiskey/
 Redemption,High Rye Bourbon,,92,2010-2026,MGP,Bourbon,,https://www.redemptionwhiskey.com/whiskeys/high-rye-bourbon/
 Redemption,Cognac Cask Finish Rye,,99,2021-2026,MGP,Rye,,https://www.redemptionwhiskey.com/whiskeys/cognac-cask-finish/
 Redemption,9 Year Barrel Proof Bourbon,9,108.2,2016-2026,MGP,Bourbon,25268001000839,https://www.redemptionwhiskey.com/whiskeys/9-years-aged-barrel-proof-bourbon/
