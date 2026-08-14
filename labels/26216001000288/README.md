@@ -1,0 +1,96 @@
+# TTB COLA Label Images - TTBID 26216001000288
+
+**Brand Name:** DOC HOLLIDAY
+
+**Fanciful Name:** SPICY PINEAPPLE FLAVORED WHISKEY
+
+**Issue Date:** 08/11/2026
+
+**Origin Code:** 08
+
+**Product Class/Type:** 149
+
+**Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=26216001000288)
+
+## Label Images
+
+### Back Label
+
+![Back Label](./back_label.jpg)
+
+### Front Label
+
+![Front Label](./front_label.jpg)
+
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+{pueJ dliay
+INTRODTCING
+TIE
+Doc
+HoLLIDAY
+SPIcy PINEAPPLE FLAVORED  MUISKEX EDITION,
+AN EXCLUSIVE FLAYORED VHISKEY INSPIRED BY TIE CoCHISE CoUNty COwpoys
+THAT Doc HoLLIDAY AND THE EARP BROTHERS FOUGHT
+TIE O.K, CoRL;
+Tus EXCEPTIONAL FLAVORED VHTSKEY IS
+TRIBUTE T0 THE BOLD AND FEARLESS
+SPIRIT OF TIIE MILD MEST, VITI
+NODERN TVIST OF SoUTHVEST FLAVOR ; QJUr
+MASTER   BLENDER  HAS   CAREF ULLY   SELECTED
+CLASSIC WHISKEY PROFILE
+BLENDED WITI TIE BRIGHI; FIERY TASTE OF SPICK HILIS AND JUICY PINEAPPLE
+10 CREATC
+FLAVORED YHISKEY  THAT EMBODIES TIE PERFECT BALANCE OF
+SVEEINESS AND IIEIT , TuE VIBRANT NOES OF   SUN-RIPENED PINEAPPLE AND
+BOLD SPICE NELD SEAMLESSLY VITH THE SIGNATURE  SMOOTINESS AND GREAT
+TASIE
+TIE Doc HoLLIDAY SERIES
+OFFERING
+DYMAMIC AND FLMVORFUL
+EXPERIENCE: WITH EVERY  SIP, YOU RE TRANSPORTED TO
+WiLD ADVENTURE,
+YHERE  THE BOLD ESSENCE OF
+VIISKEY MEETS THE  IRRESISTIBLE  TASTE OF
+TROPICAL FRUIT VITH
+FERLESS EICK:
+Botuled Dj:
+World Whiskey Society Co ,
+Pendergrass; GA:
+Colored with Turmeric
+42761
+05467
+750ML
+GOVERMMENT WARNING: (I) According t0 the Surgeon Gencral; women should not
+drink alcoholic beverades during pregancy DBCAUSE of the risk df birth defects.
+(21 Consumplon of alcoholic beverages Impalrs Your abllity
+drive
+caf Ur
+opbrate machnOr, anD May Cause hpalu probloms.
+
+### Front Label
+
+PRODUCT OF THE UNITED STATES OF AMERICA
+MCHtua
+L
+SPKCY PINEAPPLE
+FLAVORED WHISKEY
+LIMITED EDITION
+~FMYOURHUCKLEBERRY
+WE ShlUTE juc hulliday AS
+A TRUE FRIEND AND LOYAL COMPANION
+AMEERIGANGALMLBLER; GUNFIGHKIER
+Eie
+ANQDENIST
+;
+gWislingee iW
+FLAVOR ED
+WHTSKEX
+E
+Wsest
+slicliest '
+tbe
