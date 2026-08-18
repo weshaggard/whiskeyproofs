@@ -1,0 +1,70 @@
+# TTB COLA Label Images - TTBID 26211001000389
+
+**Brand Name:** WILD TURKEY
+
+**Fanciful Name:** GOLD FOIL
+
+**Issue Date:** 08/05/2026
+
+**Origin Code:** 01
+
+**Product Class/Type:** 101
+
+**Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=26211001000389)
+
+## Label Images
+
+### Label 1
+
+![Label 1](./label_1.jpg)
+
+### Label 2
+
+![Label 2](./label_2.jpg)
+
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+**Detected Age:** 16 Years
+
+### Label 1
+
+WiLd TURKEY
+AU STIN
+NIC HOLS
+ARCHVES
+GOLD
+FOIL
+E D [ TI 0 N
+120
+AGED
+16YEARs
+non-Chill
+PRooF
+FILTERED
+An ODE To THE ORIginAL GOLD FoIL
+RELEASE
+KeMTucky StRAiG HT
+B 0 U R B 0 N
+WHIS K EY
+1
+0L ALCNO
+'750ML
+BOLD
+
+### Label 2
+
+RE-IMPORTED BY: CONNOISSEUR WINES & SPIRITS CALIFORNIA NAPA,CA
+
+"OBTAINED FROM A PRIVATE COLLECTION"
+
+CACASHED REFUND CACRV
+
+GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN
+
+SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE
+
+RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR
+
+ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.

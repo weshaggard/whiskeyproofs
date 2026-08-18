@@ -1,0 +1,67 @@
+# TTB COLA Label Images - TTBID 26217001000837
+
+**Brand Name:** JUST
+
+**Issue Date:** 08/12/2026
+
+**Origin Code:** 07
+
+**Product Class/Type:** 137
+
+**Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=26217001000837)
+
+## Label Images
+
+### Front Label
+
+![Front Label](./front_label.jpg)
+
+### Label 2
+
+![Label 2](./label_2.jpg)
+
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+**Detected Proof:** 80
+
+### Front Label
+
+JuST
+PREMIUM
+SMALL
+BATCH
+WHISKY
+BLENDED
+WHISKY
+Alc: by Vol. 40%
+80 PROOF
+
+### Label 2
+
+JUST
+WHISKY
+JUST WHISKY IS CRAFTED FOR
+THOSE WHO APPRECIATE QUALITY,
+TRADITION, AND REAL CHARACTER.
+OUR BLENDED WHISKY DELIVERS
+A SMOOTH, BALANCED SIP WITH
+RICH FLAVOR AND A
+WARM, LASTING FINISH.
+MADE
+TO BE ENJOYED.
+BLENDED
+AND BOTTLED BY
+LAJOYE CELLARS
+AUBURN ,
+WA
+GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON
+GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES
+DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS_
+(2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR
+ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY
+CAUSE HEALTH PROBLEMS_
+1.75L
+BATCH
+NO_

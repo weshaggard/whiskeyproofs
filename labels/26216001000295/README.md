@@ -1,0 +1,93 @@
+# TTB COLA Label Images - TTBID 26216001000295
+
+**Brand Name:** DOC HOLLIDAY
+
+**Fanciful Name:** MAPLE PEACH FLAVORED WHISKEY
+
+**Issue Date:** 08/11/2026
+
+**Origin Code:** 08
+
+**Product Class/Type:** 149
+
+**Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=26216001000295)
+
+## Label Images
+
+### Back Label
+
+![Back Label](./back_label.jpg)
+
+### Front Label
+
+![Front Label](./front_label.jpg)
+
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+### Back Label
+
+'Jpo liibv
+INTRODUCING
+THE   Doc   HotLTDAY PEACH
+MApLE   FLVORED
+VATSKEY   EDITION,
+CLMSSIC
+ADDITION TO THE FLAVORED VHTSKEY LINE INSPTRED BY Doc HocLTDAY S HONE
+STATE OF GEORGIA, Tus EXCEPTIONAL FLAVORED WHISEEY IS
+TRIBTTE TO THE
+BOLD AND FEARLESS SPIRIT OF THE WILD
+VITI
+MODERN TWIST OF SVEEI,
+ORCHARD-INSPIRED FLAVOR , OTR MASTER BLENDER LAS CrEFuLLX SELECIED
+CLASSIC VHISKEY PROFILE BLENDED WITH THE TENDER, SUN-RIPENED TASTE OF
+PEACHES ANDMAPLE T0 CREATE
+FLAVORED  VHISKEY   TILAT EMBODIES   THIE
+PERFECT BALANCE OF FRUITINESS AND MARNTL, TE DELICATE NOTES OF FHESH,
+JWICY PEACHES AND COLDEN MAPLE SYRUP MELD SEAMLESSLY WiTI YIE SIGNATURE
+SHOOTHNESS AND GREAT TASTE OF THE Doc HoLLIDAY   SERIES,
+OFFERING
+DYNANIC AND FLAVORFUL EXPERIENCE; Mi8h EVERY SIF , YoV RE TRANSPORCD T0
+LMGUID SUMMER MORNING, VERE TME BOLD ESSENCE
+VHISKEY MELIS TIE
+IRRESISTIBLE TASTE OF MAPLE DRIZZLED ORCIARD-FRESI FRUIT
+Botiled bj:
+Morld Whiskey Society Co;,
+Pendergrass, CA;
+Caramel Color Added
+75 OML
+42761
+05470
+GOVERMMENT WARNING: [1] According
+the Surgeon General, women should not
+drink alcoholic beverages during pregnancy because ot the risk 0l birth defects_
+Consumption
+alcoholic beverages impairs your ability t0 drive
+car Or
+operate Machinery; and May cause health probdems:
+VEsl,
+
+### Front Label
+
+PRODUCT OF THE UNITED STATES OF AMERICA
+[DMmdn
+1
+4
+MAPLE PEACH
+FLAVOREB WHISKEY
+LIMITED EDITION
+"PYYGURHCCKLEBERRY
+WE SALiTe vuc hiLlijay AS
+1
+A TRUE FRIEND AND LOYAL COMPANION
+(AMERLCANGAMBLER GUMFIGHIER
+Sfe
+HSDDENNSI"
+7
+'guulsiiugee iw
+FLAVORED
+WHISKBY
+TD
+Nbest _
+sliaiest
