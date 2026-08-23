@@ -1,0 +1,63 @@
+# TTB COLA Label Images - TTBID 26212001000496
+
+**Brand Name:** COCK OF THE WALK
+
+**Fanciful Name:** AGED 25 YEARS
+
+**Issue Date:** 08/20/2026
+
+**Origin Code:** 00
+
+**Product Class/Type:** 101
+
+**Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=26212001000496)
+
+## Label Images
+
+### Label 1
+
+![Label 1](./label_1.jpg)
+
+### Label 2
+
+![Label 2](./label_2.jpg)
+
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+**Detected Proof:** 101.7
+
+### Label 1
+
+0f
+WALK
+KENTUCKY STRAIGHT
+BOURBON
+WHTSKEY
+AGED 25
+AGED
+YEARS
+IN WOOD
+FOR
+PERFECTION
+50.85% ALC /VOL:
+750ML
+'tbe
+CocK
+
+### Label 2
+
+RE-IMPORTED BY: CONNOISSEUR WINES & SPIRITS CALIFORNIA NAPA,CA
+
+"OBTAINED FROM A PRIVATE COLLECTION"
+
+CACASHED REFUND CACRV
+
+GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN
+
+SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE
+
+RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR
+
+ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.
