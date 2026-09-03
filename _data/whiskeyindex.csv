@@ -85,6 +85,7 @@ Augusta Distillery,Buckner's 13 Year,13,135-140,2022-2026,Augusta Distillery,Bou
 Augusta Distillery,Buckner's 10 Year,10,110-134,2023-2026,Augusta Distillery,Bourbon,,https://augustakydistillery.com/collections/bourbon/products/buckners-single-barrel-10-year
 Baker's,Single Barrel,7,107,2019-2026,Jim Beam,Bourbon,,https://www.beamdistilling.com/bakers/whiskies/bakers-single-barrel-bourbon
 Baker's,7 Year Small Batch,7,107,1992-2019,Jim Beam,Bourbon,,https://www.breakingbourbon.com/review/bakers-bourbon-7-year
+Baker's 13 Year Old Limited Edition,2026,13,107,2026,Jim Beam,Bourbon,,https://www.beamdistilling.com/bakers/whiskies/bakers-13-year-old-bourbon
 Baker's 13 Year Old Limited Edition,2025,13,107,2025,Jim Beam,Bourbon,,https://www.breakingbourbon.com/review/bakers-13-year-old-limited-edition-single-barrel-2025
 Baker's 13 Year Old Limited Edition,2024,13,107,2024,Jim Beam,Bourbon,,https://www.breakingbourbon.com/review/bakers-bourbon-13-year-old-limited-edition-single-barrel-2024
 Baker's 13 Year Old Limited Edition,2023,13,107,2023,Jim Beam,Bourbon,,https://www.breakingbourbon.com/review/bakers-13-year-old-single-barrel-bourbon-2023-release
@@ -426,6 +427,7 @@ Cedar Ridge Anniversary Edition,2025,,110,2025,Cedar Ridge Distillery,Bourbon,,h
 Chattanooga Whiskey,91,,91,2019-2026,Chattanooga Whiskey Company,Bourbon,22264001000793,https://chattanoogawhiskey.com/product/chattanooga-whiskey-91/
 Chattanooga Whiskey,Cask 111,,111,2019-2026,Chattanooga Whiskey Company,Bourbon,22264001000815,https://chattanoogawhiskey.com/product/chattanooga-whiskey-111/
 Chattanooga Whiskey,99 Rye,,99,2020-2026,Chattanooga Whiskey Company,Rye,23299001000796,https://chattanoogawhiskey.com/product/chattanooga-whiskey-99/
+Chattanooga Whiskey Bottled-in-Bond,Fall 2022,4,100,2026,Chattanooga Whiskey Company,Bourbon,,https://chattanoogawhiskey.com/product/bib-fall-2022/
 Chattanooga Whiskey Bottled-in-Bond,Spring 2022,4,100,2026,Chattanooga Whiskey Company,Bourbon,,https://chattanoogawhiskey.com/product/bib-spring-2022/
 Chattanooga Whiskey Bottled-in-Bond,Fall 2021,4,100,2025,Chattanooga Whiskey Company,Bourbon,,https://chattanoogawhiskey.com/product/bib-fall-2021/
 Chattanooga Whiskey Bottled-in-Bond,Spring 2021,4,100,2025,Chattanooga Whiskey Company,Bourbon,,https://chattanoogawhiskey.com/
@@ -676,7 +678,7 @@ Four Roses,100 Proof,,100,2026,Four Roses,Bourbon,,https://www.fredminnick.com/2
 Four Roses Anthology,Chapter 01: Origin,21,102.5-124.9,2026,Four Roses,Bourbon,25174001000230,https://www.fourrosesbourbon.com/bourbon/anthology
 Four Roses Experimental Series,No. 002,,104,2026,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/honey-cask-finish
 Four Roses Experimental Series,No. 001,6,104,2026,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/experimental-collection
-Four Roses Limited Edition Small Batch,2027,,112,2027,Four Roses,Bourbon,26166001000751,https://www.fourrosesbourbon.com/bourbon/limited-edition
+Four Roses Limited Edition Small Batch,2026,14-23,109.2,2026,Four Roses,Bourbon,26166001000751,https://www.fourrosesbourbon.com/bourbon/limited-edition
 Four Roses Limited Edition Small Batch,2025,13-19,109,2025,Four Roses,Bourbon,25084001000462,https://www.fourrosesbourbon.com/bourbon/limited-edition
 Four Roses Limited Edition Small Batch,2024,12-20,108.2,2024,Four Roses,Bourbon,24050001000660,https://www.fourrosesbourbon.com/bourbon/limited-edition
 Four Roses Limited Edition Small Batch,2023,12-25,108,2023,Four Roses,Bourbon,23051001000526,https://www.fourrosesbourbon.com/bourbon/limited-edition
@@ -983,6 +985,7 @@ Koopers Whiskey,Barrel Reserve Bourbon,,116,2023-2026,Koopers Whiskey,Bourbon,,h
 Koopers Whiskey,2026 Cognac Casks Rye,7,96,2026,Koopers Whiskey,Rye,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/koopers-whiskey-unveils-limited-7-year-rye-finished-in-cognac-casks
 Koopers Whiskey,2025 Cognac Casks Rye,7,96,2025,Koopers Whiskey,Rye,,
 Koopers Whiskey,2024 Cognac Casks Rye,7,96,2024,Koopers Whiskey,Rye,,
+Larceny Barrel Proof,C926,,124.4,2026,Heaven Hill,Bourbon,,https://heavenhilldistillery.com/larceny-barrel-proof.php
 Larceny Barrel Proof,C925,,119.6,2025,Heaven Hill,Bourbon,24122001000203,https://heavenhilldistillery.com/larceny-barrel-proof.php
 Larceny Barrel Proof,B525,,117.4,2025,Heaven Hill,Bourbon,24122001000203,https://heavenhilldistillery.com/larceny-barrel-proof.php
 Larceny Barrel Proof,A125,,125,2025,Heaven Hill,Bourbon,24122001000203,https://heavenhilldistillery.com/larceny-barrel-proof.php
@@ -1481,6 +1484,10 @@ Silverbelly,Batch 1: Here In The Real World,2,91,2022,Silverbelly Whiskey,Bourbo
 Silverbelly,Single Barrel - Mattie's Pick,,115,2024,Silverbelly Whiskey,Bourbon,,https://silverbellywhiskey.com/
 Silverbelly,Single Barrel - AJ's Pick,5.5,115,2024,Silverbelly Whiskey,Bourbon,,https://silverbellywhiskey.com/
 Silverbelly,Last Call,6.7,101.7,2025,Silverbelly Whiskey,Bourbon,,https://silverbellywhiskey.com/last-call-2025-release/
+Silverthorn Reserve,Finisher's Art Port Finish,10,100,2026,Silverthorn Reserve Inc.,Rye,,https://www.silverthornreserve.com
+Silverthorn Reserve,Blender's Art Rye,10,110,2026,Silverthorn Reserve Inc.,Rye,,https://www.silverthornreserve.com
+Silverthorn Reserve,Blender's Art Bourbon,10,115,2026,Silverthorn Reserve Inc.,Bourbon,,https://www.silverthornreserve.com
+Silverthorn Reserve,13 Year Single Barrel,13,120,2026,Silverthorn Reserve Inc.,Rye,,https://www.silverthornreserve.com
 Single Oak,Rye Bourbon,8,90,2026,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/single-oak-project
 Skindog,standard,,90,2026,Drift Distillery,Bourbon,26131001000816,https://driftdistillery.com
 Soldier Valley,Lee Greenwood Signature,,90,2021-2026,Soldier Valley Spirits,Bourbon,,https://www.soldiervalleyspirits.com/products/soldier-valley-lee-greenwood-signature-bourbon
@@ -1602,6 +1609,9 @@ Thomas H. Handy (THH),BTAC Fall 2010,6,126.9,2010,Buffalo Trace,Rye,061940000000
 Town Branch,6-Year Wheated,6,99,2026,Town Branch Distillery,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/town-branch-distillery-releases-age-stated-wheated-bourbon
 Town Branch,standard,,90,2012-2026,Town Branch Distillery,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/town-branch-just-doubled-down
 Town Branch,Rye,,100,2014-2026,Town Branch Distillery,Rye,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/town-branch-kentucky-straight-rye-whiskey
+Town Branch Imperium,MMXXVI,,115.1,2026,Town Branch Distillery,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/town-branch-imperium-mmxxvi-bourbon-celebrates-bourbon-heritage-month-limited-release
+Town Branch Imperium,MMXXV,,105,2025,Town Branch Distillery,Bourbon,,https://www.breakingbourbon.com/review/town-branch-imperium-mmxxv
+Town Branch Imperium,MMXXIV,,96,2024,Town Branch Distillery,Bourbon,,https://kybourbon.com/industry-news/town-branch-imperium-mmxxiv-kentucky-straight-bourbon-release-limited-annual-wheated-bourbon-blend/
 Traverse City Barrel Proof Cherry,2026,,108.4,2026,Traverse City Whiskey Co.,Bourbon,,https://www.tcwhiskey.com/product/barrel-proof-cherry/
 Traverse City Barrel Proof Cherry,2023,,109.4,2023,Traverse City Whiskey Co.,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/traverse-city-whiskey-co-makes-limited-release-barrel-proof-cherry-whiskey-available-beyond-michigan
 Tumblin' Dice,Small Batch,4,100,2016-2026,Proof & Wood,Bourbon,,https://www.proofandwood.com/tumblin-dice
