@@ -22,6 +22,7 @@ Name,Batch,Age,Proof,ReleaseYear,Distillery,Type,TTB_ID,url
 1792 Bourbon,Aged Twelve Years,12,96.6,2019-2025,Barton 1792,Bourbon,18033001000013,https://1792bourbon.com/
 1927,Century,,100,2026,Hartman's Distilling Co.,Bourbon,26174001000407,https://www.hartmansdistilling.com/buy-spirits
 2XO,White Oak Rye,,92,2025-2026,Prestige Beverage Group,Rye,25134001000588,https://2xowhiskey.com/white-oak-rye/
+2XO,Rapper's Delight,,104,2026,Prestige Beverage Group,Bourbon,26035001000373,https://www.breakingbourbon.com/review/2xo-rappers-delight-the-hip-hop-blend
 2XO,French Oak,,92,2024-2026,Prestige Beverage Group,Bourbon,24071001000367,https://2xowhiskey.com/french-oak/
 2XO,American Oak,,92,2023-2026,Prestige Beverage Group,Bourbon,23213001000122,https://2xowhiskey.com/american-oak/
 A. Overholt,Monongahela Mash,4,95,2024-2025,Jim Beam,Rye,,https://www.beamdistilling.com/old-overholt/whiskies/a-overholt-monongahela-mash
@@ -173,6 +174,7 @@ Basil Hayden,Toast,,80,2021-2026,Jim Beam,Bourbon,,https://www.basilhaydenbourbo
 Basil Hayden,Malted Rye,,80,2019-2025,Jim Beam,Rye,22182001000059,https://www.basilhaydenbourbon.com/whiskies/basil-hayden-malted-rye-whiskey
 Basil Hayden,Golden Rye,,80,2026,Jim Beam,Rye,25248001000053,https://www.basilhaydenbourbon.com/whiskies/basil-hayden-golden-rye-whiskey
 Basil Hayden,Dark Rye,,80,2016-2026,Jim Beam,Rye,21036001000377,https://www.basilhaydenbourbon.com/whiskies/basil-hayden-dark-rye-whiskey
+Basil Hayden,Cognac Cask Reserve,,80,2026,Jim Beam,Bourbon,,https://www.basilhaydenbourbon.com/whiskies/limited-edition-basil-haydenr-cognac-cask-reserve
 Basil Hayden,10 Year,10,80,2014-2026,Jim Beam,Bourbon,21042001000810,https://www.basilhaydenbourbon.com/whiskies/basil-hayden-10-year-bourbon
 Ben Holladay,Rickhouse Proof,6,120.1,2023-2026,Holladay Distillery,Bourbon,,https://holladaybourbon.com/rickhouse-proof/
 Ben Holladay,Bottled-in-Bond,6,100,2022-2026,Holladay Distillery,Bourbon,,https://holladaybourbon.com/ben-holladay-bourbon/
@@ -1383,6 +1385,7 @@ Remus Gatsby Reserve,2024,15,104.9,2024,MGP,Bourbon,22074001000848,https://remus
 Remus Gatsby Reserve,2023,15,98.1,2023,MGP,Bourbon,22074001000848,https://remusbourbon.com/the-bourbons/remus-gatsby-reserve/
 Remus Gatsby Reserve,2022,15,97.8,2022,MGP,Bourbon,22074001000848,https://remusbourbon.com/the-bourbons/remus-gatsby-reserve/
 Remus Lou Gehrig Reserve,2026,,109,2026,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-lou-gehrig-reserve/
+Remus Repeal Reserve,Series X,,107,2026,MGP,Bourbon,26033001000104,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-x/
 Remus Repeal Reserve,Series IX,11,104,2025,MGP,Bourbon,17091001000011,https://www.breakingbourbon.com/review/remus-repeal-reserve-series-ix
 Remus Repeal Reserve,Series VIII,10.63,101,2024,MGP,Bourbon,22074001000858,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-viii/
 Remus Repeal Reserve,Series VII,9.94,100,2023,MGP,Bourbon,22074001000858,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-vii/
@@ -1392,6 +1395,7 @@ Remus Repeal Reserve,Series IV,12,100,2020,MGP,Bourbon,20023001000276,https://re
 Remus Repeal Reserve,Series III,11.12,100,2019,MGP,Bourbon,18241001000238,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-iii/
 Remus Repeal Reserve,Series II,10.25,100,2018,MGP,Bourbon,18241001000238,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-ii/
 Remus Repeal Reserve,Series I,11.5,94,2017,MGP,Bourbon,18241001000238,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-i/
+Remus Repeal Reserve,Rye,,111,2026,MGP,Rye,26057001000751,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-rye/
 Rittenhouse Rye,standard,4,100,1934-2025,Heaven Hill,Rye,22167001000558,https://heavenhilldistillery.com/rittenhouse-rye.php
 Rittenhouse Rye,United States 250th Anniversary,10,100,2026,Heaven Hill,Rye,,https://heavenhill.com/news-and-notes/heaven-hill-distillery-unveils-rittenhouse-united-states-250th-anniversary-commemorative-edition-straight-rye-whisky/
 River City Whiskey,standard,,120,2026,Brown Water Select LLC,Rye,26131001000043,https://www.brownwaterselect.com/
@@ -1424,7 +1428,8 @@ Sagamore Spirit,High Rye Bourbon,6,108,2025-2026,Sagamore Spirit,Bourbon,2609700
 Sagamore Spirit,Double Oak Rye,,96.6,2020-2026,Sagamore Spirit,Rye,,https://sagamorespirit.com/spirits/
 Sagamore Spirit,Cognac Cask Finish Rye,6,110,2026,Sagamore Spirit,Rye,26161001000517,https://sagamorespirit.com/spirits/
 Sagamore Spirit,Cask Strength Rye,,112-120,2018-2026,Sagamore Spirit,Rye,,https://sagamorespirit.com/spirits/
-Sagamore Spirit,Bottled-in-Bond Rye,7,100,2024-2026,Sagamore Spirit,Rye,,https://sagamorespirit.com/spirits/
+Sagamore Spirit,Bottled-in-Bond Rye 2026,8,100,2026,Sagamore Spirit,Rye,,https://sagamorespirit.com/spirits/sagamore-bottled-in-bond-straight-rye-whiskey
+Sagamore Spirit,Bottled-in-Bond Rye,7,100,2024-2025,Sagamore Spirit,Rye,,https://sagamorespirit.com/spirits/
 Sagamore Spirit,Barrel Reserve White Moscatel Cask Finish,,111.6,2026,Sagamore Spirit,Rye,26201001000422,https://sagamorespirit.com/spirits/
 Sagamore Spirit,Barrel Reserve Cognac Cask Finish,,115.8,2026,Sagamore Spirit,Rye,26201001000431,https://sagamorespirit.com/spirits/
 Sagamore Spirit,Amontillado Cask Finish Rye,8,98,2026,Sagamore Spirit,Rye,26161001000682,https://sagamorespirit.com/spirits/
@@ -1787,6 +1792,7 @@ Woodford Reserve Distillery Series,2017 Blended Rye Whiskey,,90.4,2017,Woodford 
 Woodford Reserve Distillery Series,2016 Frosty Four Wood,,90.4,2016,Woodford Reserve,Bourbon,15113001000077,https://www.woodfordreserve.com/whiskey/distillery-series/
 Woodford Reserve Distillery Series,2015 Sweet Mash Redux,,90.4,2015,Woodford Reserve,Bourbon,15040001000117,https://www.woodfordreserve.com/whiskey/distillery-series/
 Woodford Reserve Distillery Series,2015 Double Double Oaked,,90.4,2015,Woodford Reserve,Bourbon,15040001000106,https://www.woodfordreserve.com/whiskey/distillery-series/
+Woodford Reserve Master's Collection,2026 Super Seasoned Oak,9,100.4,2026,Woodford Reserve,Bourbon,26048001000075,https://www.woodfordreserve.com/whiskey/masters-collection/
 Woodford Reserve Master's Collection,2025 Sweet Oak,,110.4,2025,Woodford Reserve,Bourbon,25042001000109,https://www.woodfordreserve.com/whiskey/masters-collection/
 Woodford Reserve Master's Collection,2025 Batch Proof,,119.5,2025,Woodford Reserve,Bourbon,24037001000705,https://www.woodfordreserve.com/whiskey/masters-collection/
 Woodford Reserve Master's Collection,2024 Madeira Cask,,90.4,2024,Woodford Reserve,Bourbon,24044001000185,https://www.woodfordreserve.com/whiskey/masters-collection/
