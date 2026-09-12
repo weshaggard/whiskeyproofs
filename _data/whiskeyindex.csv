@@ -22,6 +22,7 @@ Name,Batch,Age,Proof,ReleaseYear,Distillery,Type,TTB_ID,url
 1792 Bourbon,Aged Twelve Years,12,96.6,2019-2025,Barton 1792,Bourbon,18033001000013,https://1792bourbon.com/
 1927,Century,,100,2026,Hartman's Distilling Co.,Bourbon,26174001000407,https://www.hartmansdistilling.com/buy-spirits
 2XO,White Oak Rye,,92,2025-2026,Prestige Beverage Group,Rye,25134001000588,https://2xowhiskey.com/white-oak-rye/
+2XO,Rapper's Delight,,104,2026,Prestige Beverage Group,Bourbon,26035001000373,https://www.breakingbourbon.com/review/2xo-rappers-delight-the-hip-hop-blend
 2XO,French Oak,,92,2024-2026,Prestige Beverage Group,Bourbon,24071001000367,https://2xowhiskey.com/french-oak/
 2XO,American Oak,,92,2023-2026,Prestige Beverage Group,Bourbon,23213001000122,https://2xowhiskey.com/american-oak/
 A. Overholt,Monongahela Mash,4,95,2024-2025,Jim Beam,Rye,,https://www.beamdistilling.com/old-overholt/whiskies/a-overholt-monongahela-mash
@@ -173,6 +174,7 @@ Basil Hayden,Toast,,80,2021-2026,Jim Beam,Bourbon,,https://www.basilhaydenbourbo
 Basil Hayden,Malted Rye,,80,2019-2025,Jim Beam,Rye,22182001000059,https://www.basilhaydenbourbon.com/whiskies/basil-hayden-malted-rye-whiskey
 Basil Hayden,Golden Rye,,80,2026,Jim Beam,Rye,25248001000053,https://www.basilhaydenbourbon.com/whiskies/basil-hayden-golden-rye-whiskey
 Basil Hayden,Dark Rye,,80,2016-2026,Jim Beam,Rye,21036001000377,https://www.basilhaydenbourbon.com/whiskies/basil-hayden-dark-rye-whiskey
+Basil Hayden,Cognac Cask Reserve,,80,2026,Jim Beam,Bourbon,,https://www.basilhaydenbourbon.com/whiskies/limited-edition-basil-haydenr-cognac-cask-reserve
 Basil Hayden,10 Year,10,80,2014-2026,Jim Beam,Bourbon,21042001000810,https://www.basilhaydenbourbon.com/whiskies/basil-hayden-10-year-bourbon
 Ben Holladay,Rickhouse Proof,6,120.1,2023-2026,Holladay Distillery,Bourbon,,https://holladaybourbon.com/rickhouse-proof/
 Ben Holladay,Bottled-in-Bond,6,100,2022-2026,Holladay Distillery,Bourbon,,https://holladaybourbon.com/ben-holladay-bourbon/
@@ -482,10 +484,15 @@ Copper & Cask,Small Batch 001,8,122.8,2023,Copper & Cask,Bourbon,,https://www.br
 Copper & Cask,Boston Rum Party,,120.2,2026,Copper & Cask,Rye,26117001000332,https://copperandcaskspirits.com/
 Daniel Weller,Spelt Wheat,10,94,2026,Buffalo Trace,Bourbon,25251001000368,https://www.buffalotracedistillery.com/our-brands/w-l-weller/daniel-weller.html
 Daniel Weller,Emmer Wheat,,94,2023,Buffalo Trace,Bourbon,23122001000576,https://www.buffalotracedistillery.com/our-brands/w-l-weller/daniel-weller.html
+Dark Arts Whiskey House,Tres Vieux Quintessence 15 Year Indiana Rye,15,116.64,2026,Dark Arts Whiskey House,Rye,,https://www.darkartswhiskey.com/
 Dark Arts Whiskey House,Small Batch Blend 1 Cask Strength,15,108,2026,Dark Arts Whiskey House,Rye,26152001000207,https://www.darkartswhiskey.com/
+Dark Arts Whiskey House,Kentucky Bourbon Festival Exclusive Single Barrel Oloroso Sherry,9,118.4,2026,Dark Arts Whiskey House,Bourbon,,https://www.darkartswhiskey.com/
+Dark Arts Whiskey House,Flight of Icarus 11.5 Year Hazmat,11.5,144.4,2026,Dark Arts Whiskey House,Bourbon,,https://www.darkartswhiskey.com/
+Dark Arts Whiskey House,Chief Alchemist Reserve Cuvée 19 Year Mizunara Cask,19,115,2026,Dark Arts Whiskey House,Bourbon,,https://www.darkartswhiskey.com/
 Dark Arts Whiskey House,Blunt Blend Batch 3,8,113.8,2026,Dark Arts Whiskey House,Rye,,https://www.breakingbourbon.com/review/dark-arts-whiskey-house-blunt-blend-batch-3
 Dark Arts Whiskey House,Blunt Blend Batch 2,7,114.8,2025,Dark Arts Whiskey House,Rye,,
 Dark Arts Whiskey House,Blunt Blend Batch 1,7,113.6,2024,Dark Arts Whiskey House,Rye,,https://www.breakingbourbon.com/review/dark-arts-whiskey-house-blunt-blend-batch-1
+Dark Arts Whiskey House,13 Year Double Oaked French Oak,13,125.2,2026,Dark Arts Whiskey House,Bourbon,,https://www.darkartswhiskey.com/
 Doc Brown Spirits,Uncle Bogue,,120.8,2023,Doc Brown Spirits,Bourbon,,https://reviews.whiskeyfellow.net/2024/11/uncle-bogue-special-reserve-touriga.html
 Doc Brown Spirits,Ella George,,88,2026,Doc Brown Spirits,Bourbon,26160001001023,https://docbrownfarm.com/our-spirits/ella-george/
 Doc Brown Spirits,Effie Jewel,4,101,2026,Doc Brown Spirits,Bourbon,,https://docbrownfarm.com/our-spirits/effie-jewel/
@@ -516,6 +523,10 @@ Dragon's Milk Origin Toasted Barrel,2023D Cherry Turnover,,117.9,2023,New Hollan
 Dragon's Milk Origin Toasted Barrel,2023C Stay Classy,,122.3,2023,New Holland Spirits,Bourbon,,https://www.breakingbourbon.com/review/dragons-milk-origin-toasted-barrel-2023c-stay-classy
 Dry Hills,Four Grain,,90,2020-2026,Dry Hills Distillery,Bourbon,,https://www.dryhillsdistillery.com/montana-farm-to-bottle-spirits-vodka-gin-whiskey.php
 Dry Hills,Barrel Proof Four Grain,,120,2026,Dry Hills Distillery,Bourbon,26224001000583,https://www.dryhillsdistillery.com/montana-farm-to-bottle-spirits-vodka-gin-whiskey.php
+DuBlasé,No.9 - X (10 Year),10,90,2026,DuBlasé Whiskey,Bourbon,,https://thewhiskeywash.com/whiskey-news/dublase-whiskey-debuts-three-aged-straight-bourbons/
+DuBlasé,No.9 - VII (7 Year),7,90,2026,DuBlasé Whiskey,Bourbon,,https://thewhiskeywash.com/whiskey-news/dublase-whiskey-debuts-three-aged-straight-bourbons/
+DuBlasé,No.9 - V (5 Year),5,90,2026,DuBlasé Whiskey,Bourbon,,https://thewhiskeywash.com/whiskey-news/dublase-whiskey-debuts-three-aged-straight-bourbons/
+DuBlasé,No.9,4,90,2023-2025,DuBlasé Whiskey,Bourbon,,https://www.miamilivingmagazine.com/post/florida-spirits-brand-dublase-whiskey-new-bourbon-no-9-bourbon
 Duck Club,Standard,,92,2025-2026,Undisclosed,Bourbon,,https://duckclubbourbon.com/products/duck-club-bourbon-92-proof
 Duck Club,High Brass,,110,2026,Undisclosed,Bourbon,,https://www.breakingbourbon.com/review/duck-club-bourbon-110-proof-high-brass
 E.H. Taylor Barrel Proof (EHTBP),Batch 15,,127.4,2025,Buffalo Trace,Bourbon,10117001000094,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof/
@@ -629,6 +640,7 @@ Evan Williams,Bottled-in-Bond,,100,2012-2026,Heaven Hill,Bourbon,16180001000393,
 Evan Williams,Black Label,,86,1957-2026,Heaven Hill,Bourbon,19087001000069,https://heavenhilldistillery.com/evan-williams-single-barrel.php
 Evan Williams,America 250 Single Barrel,,117.76,2026,Heaven Hill,Bourbon,,https://thewhiskeywash.com/whiskey-news/evan-williams-launches-america250-bourbon-for-us-250th-anniversary/
 Evan Williams,1783 Small Batch,,86,2015-2026,Heaven Hill,Bourbon,19344001000656,https://heavenhilldistillery.com/evan-williams-1783-small-batch.php
+Ezra B,12 Year Single Barrel,12,99,2026,Lux Row Distillers,Bourbon,,https://distiller.com/spirits/ezra-b-single-barrel-bourbon
 Family Jones,Ella Jones,,94,2020-2026,The Family Jones Distillery,Bourbon,,https://thefamilyjones.co/
 Family Jones,Centennial Release Heritage Wheated Bourbon,,94,2026,The Family Jones Distillery,Bourbon,26202001000763,https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=26202001000763
 Fathertime Bourbon,The Caboose - Empty Nester Strength,,121,2026,Fathertime Bourbon,Bourbon,26062001000246,https://www.breakingbourbon.com/review/fathertime-precious-batch-bourbon-the-caboose
@@ -897,11 +909,13 @@ Jefferson's,Reserve Very Old,,90.2,1997-2026,Jefferson's Bourbon,Bourbon,,https:
 Jefferson's,Reserve Cask Strength,8,130,2025,Jefferson's Bourbon,Bourbon,,https://jeffersonsbourbon.com/whiskeys/jeffersons-reserve-cask-strength/
 Jefferson's,Ocean Aged at Sea,,90,2012-2026,Jefferson's Bourbon,Bourbon,,https://jeffersonsbourbon.com/whiskeys/jeffersons-ocean-bourbon/
 Jefferson's,Founder's Reserve 20 Year,20,94,2026,Jefferson's Bourbon,Bourbon,,https://www.bevnet.com/pr/2026/06/30/jeffersons-bourbon-celebrates-americas-250th-anniversary-with-release-of-founders-reserve-20yearold
+Jeptha Creed,Solera Aged,,100,2026,Jeptha Creed Distillery,Bourbon,,https://jepthacreed.com/product/jeptha-creed-solera/
 Jeptha Creed,Bruce's Blue Bourbon,,100,2026,Jeptha Creed Distillery,Bourbon,,https://jepthacreed.com/product/bruces-blue-bourbon/
 Jim Beam,standard,,80,1933-2025,Jim Beam,Bourbon,,https://www.jimbeam.com/en-us/bourbons/jim-beam
 Jim Beam,Ten-Pin,10,100,2026,Jim Beam,Bourbon,26026001000310,https://www.fredminnick.com/2026/08/24/jim-beam-announces-return-of-ten-pin-decanter/
+Jim Beam,Freedom's Finest,6,86,2026,Jim Beam,Bourbon,,https://bourbonhuntusa.com/products/jim-beam-freedom-s-finest-6-year-kentucky-straight-bourbon-whiskey
 Jim Beam,Distillers' Share Pin Bottle (230th Anniversary),8,86.8,2025,Jim Beam,Bourbon,,https://www.fredminnick.com/2025/08/19/beam-to-release-commemorative-lto-pin-bottle/
-Jim Beam Black,standard,7,90,2024-2025,Jim Beam,Bourbon,,https://www.jimbeam.com/bourbons/jim-beam-black
+Jim Beam Black,standard,7,90,2024-2026,Jim Beam,Bourbon,,https://www.jimbeam.com/bourbons/jim-beam-black
 Jim Beam Lineage,Batch 3,15,110,2026,Jim Beam,Bourbon,,https://caskcartel.com/products/jim-beam-lineage-batch-3-kentucky-straight-bourbon-whiskey-2026-limited-release
 Jim Beam Lineage,Batch 2,15,111,2025,Jim Beam,Bourbon,,https://www.fredminnick.com/2025/07/17/beam-releases-lineage-batch-2-15-year-bourbon/
 Jim Beam Lineage,Batch 1,15,111,2021,Jim Beam,Bourbon,,https://thewhiskystudy.com/reviews-1/jim-beam-lineage
@@ -917,6 +931,7 @@ Jos. A. Magnus Cigar Blend Bourbon,Batch 4,,101.46,2017,Jos. A. Magnus & Co.,Bou
 Jos. A. Magnus Cigar Blend Bourbon,Batch 2,,108.7,2017,Jos. A. Magnus & Co.,Bourbon,,https://josephmagnus.com/spirits/cigar-blend-bourbon/
 Jos. A. Magnus Cigar Blend Bourbon,Batch 1,,100.7,2016,Jos. A. Magnus & Co.,Bourbon,,https://josephmagnus.com/spirits/cigar-blend-bourbon/
 Jos. A. Magnus Cigar Blend Bourbon,10th Anniversary,,100.7,2026,Jos. A. Magnus & Co.,Bourbon,,https://josephmagnus.com/spirits/cigar-blend-bourbon/
+Jos. A. Magnus Rye,2026,10.75,113.44,2026,Jos. A. Magnus & Co.,Rye,,https://josephmagnus.com/introducing-joseph-magnus-10-year-cask-strength-rye-whiskey/
 Journeyman,The 1916 Bourbon,,90,2026,Journeyman Distillery,Bourbon,26133001000483,https://www.journeyman.com
 Journeyman,Old Gold Rye,,90,2026,Journeyman Distillery,Rye,26111001000694,https://www.journeyman.com/spirits/old-gold-rye/
 Journeyman,Not a King Rye,,90,2013-2026,Journeyman Distillery,Rye,,https://www.journeyman.com/spirits/not-a-king/
@@ -930,6 +945,7 @@ Journeyman,Conor Daly Bourbon,,90,2026,Journeyman Distillery,Bourbon,26152001000
 Journeyman,85th AMGIT Bourbon,,90,2026,Journeyman Distillery,Bourbon,26133001000478,https://www.journeyman.com
 Kentucke County,6 Year,6,90,2026,15 STARS,Bourbon,26023001000087,https://15stars.com/
 Kentucky Bourbon Festival,Commemorative Release,,113.5,2026,Heaven Hill,Bourbon,26162001000496,https://kybourbon.com/
+Kentucky Boy,2026,,100,2026,Brown-Forman,Bourbon,,https://thewhiskeywash.com/whiskey-news/brown-forman-revives-kentucky-boy-bourbon-for-chris-morris/
 Kentucky Credential,standard,4,90,2026,Kentucky Whiskey Bottling,Bourbon,25349001000258,https://www.wineenthusiast.com/buying-guide/kentucky-credential-bourbon/
 Kentucky Credential,Rye,4,90,2026,Kentucky Whiskey Bottling,Rye,25349001000295,
 Kentucky Credential,Double Oak,4,90,2026,Kentucky Whiskey Bottling,Bourbon,25349001000275,
@@ -1071,6 +1087,7 @@ Lost Lantern,2025 Saratoga Summer II SanTan AZ Bourbon,4,122.8,2025,SanTan Spiri
 Lost Lantern,2024 Saratoga Summer I Kings County NY Bourbon,6,138.6,2024,Kings County Distillery,Bourbon,,https://www.firstfillspirits.com/lost-lantern-kings-county-saratoga-summer-bourbon-store-pick-how-why/
 Lost Whiskey Club,Whiskey Library Single Barrel,6,120,2026,MGP,Bourbon,26147001000495,https://lostwhiskey.com/
 Lux Row Estate Bourbon,2026,5,107,2026,Lux Row Distillers,Bourbon,,https://www.fredminnick.com/2026/03/12/lux-row-releases-grain-to-glass-estate-bourbon/
+MGP,Chapter One: Out of the Shadows,10,111,2026,MGP,Bourbon,26076001000095,https://www.fredminnick.com/2026/09/10/mgp-releases-first-ever-branded-whiskey-chapter-one-out-of-the-shadows/
 Maker's Mark,standard,,90,1953-2025,Maker's Mark,Bourbon,25031001000252,https://www.makersmark.com/
 Maker's Mark,Selfridges Barrel No. 1,,110.8,2026,Maker's Mark,Bourbon,,https://thewhiskeywash.com/whiskey-news/makers-mark-selfridges-debut-limited-edition-bourbon-in-first-collaboration/
 Maker's Mark,New York Knicks Limited Edition,,90,2025-2026,Maker's Mark,Bourbon,26202001000843,https://www.misterwrightfinewines.com/spirits/Maker-s-Mark-Maker-s-Mark-Limited-Edition-2025-2026-New-York-Knicks-Kentucky-Straight-Bourbon-Whisky-w7614947d7
@@ -1148,10 +1165,17 @@ Nashville Barrel Company,Founders Fourteen Series,8,126-130,2020-2026,MGP,Bourbo
 Nashville Barrel Company,Club Marzipan Rye,7,127.98,2026,Undisclosed Kentucky,Rye,,https://nashvillebarrelco.com/bottles/nbc-fred-minnick-club-marzipan
 Nashville Barrel Company,Club Marzipan Bourbon,8,127.84,2026,Undisclosed Kentucky,Bourbon,,https://nashvillebarrelco.com/bottles/nbc-fred-minnick-club-marzipan
 Nashville Barrel Company,C-Series,8,115.78-119.3,2025-2026,Wild Turkey,Bourbon,,https://nashvillebarrelco.com/bottles/nbc-c-series-dsp-ky67
+Neeley Family Distillery,Small Batch Wheated,5,94,2026,Neeley Family Distillery,Bourbon,,https://neeleyfamilydistillery.com
+Neeley Family Distillery,Papaw's Legacy Reserve,10,110,2026,Neeley Family Distillery,Bourbon,,https://neeleyfamilydistillery.com
+Neeley Family Distillery,Bottled in Bond Four Grain,4,100,2025,Neeley Family Distillery,Bourbon,,https://neeleyfamilydistillery.com
+Neeley Family Distillery,Banana Batch Four Grain,5,112.4,2026,Neeley Family Distillery,Bourbon,,https://neeleyfamilydistillery.com
 Nelson Bros,White Wine Cask Finish,,105.3,2025,Nelson's Green Brier Distillery,Bourbon,,https://shop.greenbrierdistillery.com/products/nelson-brothers-white-wine-cask
 Nelson Bros,Sherry Cask Finish,,100,2023,Nelson's Green Brier Distillery,Bourbon,,https://shop.greenbrierdistillery.com/products/nelson-brothers-sherry-cask-finish
 Nelson Bros,Rum Cask Finish,,101.4,2024,Nelson's Green Brier Distillery,Bourbon,,https://greenbrierdistillery.com/pages/distillery-exclusives
 Never Say Die,Small Batch,6,95,2022-2026,Wilderness Trail Distillery,Bourbon,24213001000517,https://neversaydiebourbon.com/englands-bourbon/
+New Era Whiskey,Magic Moonbow at Cumberland Falls,8,115,2026,New Era Whiskey,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/new-era-whiskey-releases-three-cask-strength-bourbons-to-honor-kentucky-parks
+New Era Whiskey,Nature's Crossing at Natural Bridge,8,115,2026,New Era Whiskey,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/new-era-whiskey-releases-three-cask-strength-bourbons-to-honor-kentucky-parks
+New Era Whiskey,Dark Wonders at Mammoth Cave,8,113.8,2026,New Era Whiskey,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/new-era-whiskey-releases-three-cask-strength-bourbons-to-honor-kentucky-parks
 New Riff Balboa Rye,2026,4,100,2026,New Riff,Rye,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/award-winning-balboa-rye-returns-as-new-riff-distilling-announces-release
 New Riff Bottled in Bond,standard,4,100,2018-2026,New Riff,Bourbon,24318001000303,https://www.newriffdistilling.com/spirits/kentucky-straight-bourbon-whiskey/
 New Riff Bottled in Bond Rye,standard,4,100,2018-2026,New Riff,Rye,,https://www.newriffdistilling.com/spirits/kentucky-straight-rye-whiskey/
@@ -1224,6 +1248,32 @@ Old Forester,1897,4,100,2025,Old Forester,Bourbon,24018001000248,https://www.old
 Old Forester,1870,,90,2025,Old Forester,Bourbon,25022001000723,https://www.oldforester.com/products/old-forester-1870-original-batch-whisky/
 Old Forester,President's Choice Rye,7-9,110-125,2025-2026,Old Forester,Rye,26057001000173,https://www.oldforester.com/presidents-choice/
 Old Forester,President's Choice,7-9,110-125,2025-2026,Old Forester,Bourbon,26057001000159,https://www.oldforester.com/presidents-choice/
+Old Forester Birthday Bourbon,2026,11,97,2026,Old Forester,Bourbon,26027001000219,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/old-forester-and-alpha-industries-unveil-limited-edition-distillers-jacket-celebrating-american-craftsmanship
+Old Forester Birthday Bourbon,2025,12,92,2025,Old Forester,Bourbon,,https://www.breakingbourbon.com/review/old-forester-2025-birthday-bourbon
+Old Forester Birthday Bourbon,2024,12,107,2024,Old Forester,Bourbon,,https://www.breakingbourbon.com/review/old-forester-2024-birthday-bourbon
+Old Forester Birthday Bourbon,2023,12,96,2023,Old Forester,Bourbon,,https://www.oldforester.com/products/2023-birthday-bourbon/
+Old Forester Birthday Bourbon,2022,11,96,2022,Old Forester,Bourbon,,https://www.oldforester.com/products/old-forester-2022-birthday-bourbon/
+Old Forester Birthday Bourbon,2021,12,104,2021,Old Forester,Bourbon,21098001000236,https://www.oldforester.com/products/old-forester-2021-birthday-bourbon/
+Old Forester Birthday Bourbon,2020,10,98,2020,Old Forester,Bourbon,,https://www.oldforester.com/products/old-forester-2020-birthday-bourbon/
+Old Forester Birthday Bourbon,2019,11,105,2019,Old Forester,Bourbon,,https://www.oldforester.com/products/2019-birthday-bourbon/
+Old Forester Birthday Bourbon,2018,12,101,2018,Old Forester,Bourbon,,https://www.breakingbourbon.com/review/old-forester-2018-birthday-bourbon
+Old Forester Birthday Bourbon,2017,12,96,2017,Old Forester,Bourbon,,https://www.breakingbourbon.com/review/old-forester-2017-birthday-bourbon
+Old Forester Birthday Bourbon,2016,12,97,2016,Old Forester,Bourbon,,https://www.breakingbourbon.com/review/old-forester-2016-birthday-bourbon
+Old Forester Birthday Bourbon,2015,12,100,2015,Old Forester,Bourbon,,https://www.breakingbourbon.com/review/old-forester-2015-birthday-bourbon
+Old Forester Birthday Bourbon,2014,12,97,2014,Old Forester,Bourbon,,https://www.breakingbourbon.com/review/old-forester-2014-birthday-bourbon
+Old Forester Birthday Bourbon,2013,12,98,2013,Old Forester,Bourbon,,https://www.breakingbourbon.com/review/old-forester-2013-birthday-bourbon
+Old Forester Birthday Bourbon,2012,12,97,2012,Old Forester,Bourbon,,https://www.breakingbourbon.com/review/old-forester-2012-birthday-bourbon
+Old Forester Birthday Bourbon,2011,12,98,2011,Old Forester,Bourbon,,https://www.breakingbourbon.com/review/old-forester-2011-birthday-bourbon
+Old Forester Birthday Bourbon,2010,12,95,2010,Old Forester,Bourbon,,https://debonairgentlemen.com/2024/02/04/old-forester-birthday-bourbon-release-list/
+Old Forester Birthday Bourbon,2009,12,97,2009,Old Forester,Bourbon,,https://debonairgentlemen.com/2024/02/04/old-forester-birthday-bourbon-release-list/
+Old Forester Birthday Bourbon,2008,12,94,2008,Old Forester,Bourbon,,https://debonairgentlemen.com/2024/02/04/old-forester-birthday-bourbon-release-list/
+Old Forester Birthday Bourbon,2007,12,94,2007,Old Forester,Bourbon,,https://debonairgentlemen.com/2024/02/04/old-forester-birthday-bourbon-release-list/
+Old Forester Birthday Bourbon,2006,13,96,2006,Old Forester,Bourbon,,https://debonairgentlemen.com/2024/02/04/old-forester-birthday-bourbon-release-list/
+Old Forester Birthday Bourbon,2005,12,96,2005,Old Forester,Bourbon,,https://debonairgentlemen.com/2024/02/04/old-forester-birthday-bourbon-release-list/
+Old Forester Birthday Bourbon,2004,8,94,2004,Old Forester,Bourbon,,https://debonairgentlemen.com/2024/02/04/old-forester-birthday-bourbon-release-list/
+Old Forester Birthday Bourbon,2003 Fall,13,89,2003,Old Forester,Bourbon,,https://debonairgentlemen.com/2024/02/04/old-forester-birthday-bourbon-release-list/
+Old Forester Birthday Bourbon,2003 Spring,12,93,2003,Old Forester,Bourbon,,https://debonairgentlemen.com/2024/02/04/old-forester-birthday-bourbon-release-list/
+Old Forester Birthday Bourbon,2002,13,95,2002,Old Forester,Bourbon,,https://debonairgentlemen.com/2024/02/04/old-forester-birthday-bourbon-release-list/
 Old Forester The 117 Series,Whiskey Row Fire,,100,2022,Old Forester,Bourbon,,https://www.breakingbourbon.com/review/old-forester-the-117-series-batch-no-004-whiskey-row-fire
 Old Forester The 117 Series,Warehouse K,,110,2021,Old Forester,Bourbon,,https://www.breakingbourbon.com/review/old-forester-the-117-series-batch-no-002
 Old Forester The 117 Series,Warehouse I,11,95,2024,Old Forester,Bourbon,,https://www.breakingbourbon.com/review/old-forester-117-series-warehouse-i
@@ -1256,9 +1306,14 @@ Old Overholt,Cask Strength 11 Year (2020),11,92.6,2020,Jim Beam,Rye,,https://www
 Old Overholt,Cask Strength 10 Year (2023),10,121,2023,Jim Beam,Rye,,https://bottleraiders.com/spirit/old-overholt-cask-strength-rye-aged-10-years/
 Old Overholt,Bonded Rye,4,100,2018-2025,Jim Beam,Rye,,https://www.beamdistilling.com/old-overholt/whiskies/old-overholt-bonded-rye
 Old Pogue Master's Select,standard,9,91,2009-2026,Old Pogue Distillery,Bourbon,18096001000621,https://www.oldpogue.com/whiskeys/old-pogue-bourbon-masters-select
+Old Rip Van Winkle 10 Year,standard,10,107,1983-2026,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/van-winkle/
 Oregon Spirit Distillers,Single Grain Rye,5,90,2013-2026,Oregon Spirit Distillers,Rye,26155001000542,https://oregonspiritdistillers.com/
 Oregon Spirit Distillers,Four Grain Bourbon,5,94,2013-2026,Oregon Spirit Distillers,Bourbon,26155001000523,https://oregonspiritdistillers.com/
 PaPaw's Ridge,standard,4,86,2025-2026,Jeptha Creed Distillery,Bourbon,,https://papawsridge.com/
+Pappy Van Winkle's Family Reserve 15 Year,standard,15,107,2004-2026,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/van-winkle/
+Pappy Van Winkle's Family Reserve 20 Year,standard,20,90.4,1994-2026,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/van-winkle/
+Pappy Van Winkle's Family Reserve 23 Year,standard,23,95.6,1998-2026,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/van-winkle/
+Parker's Heritage Collection,2026 - 14 Year Rye Backset Bourbon,14,118,2026,Heaven Hill,Bourbon,26026001000825,https://heavenhill.com/news-and-notes/heaven-hill-distillery-announces-2026-parkers-heritage-collection-limited-edition-bottling/
 Parker's Heritage Collection,2025 - 11 Year American Whiskey,11-15,122.5,2025,Heaven Hill,American Whiskey,25071001000251,https://heavenhilldistillery.com/parkers-heritage-collection.php
 Parker's Heritage Collection,2024 - 14 Year Malt Whiskey,14,107,2024,Heaven Hill,Malt Whiskey,23156001000960,https://heavenhilldistillery.com/parkers-heritage-collection.php
 Parker's Heritage Collection,2023 - Kentucky Straight Rye,,128.8,2023,Heaven Hill,Rye,22241001000540,https://heavenhilldistillery.com/parkers-heritage-collection.php
@@ -1383,6 +1438,7 @@ Remus Gatsby Reserve,2024,15,104.9,2024,MGP,Bourbon,22074001000848,https://remus
 Remus Gatsby Reserve,2023,15,98.1,2023,MGP,Bourbon,22074001000848,https://remusbourbon.com/the-bourbons/remus-gatsby-reserve/
 Remus Gatsby Reserve,2022,15,97.8,2022,MGP,Bourbon,22074001000848,https://remusbourbon.com/the-bourbons/remus-gatsby-reserve/
 Remus Lou Gehrig Reserve,2026,,109,2026,MGP,Bourbon,,https://remusbourbon.com/the-bourbons/remus-lou-gehrig-reserve/
+Remus Repeal Reserve,Series X,,107,2026,MGP,Bourbon,26033001000104,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-x/
 Remus Repeal Reserve,Series IX,11,104,2025,MGP,Bourbon,17091001000011,https://www.breakingbourbon.com/review/remus-repeal-reserve-series-ix
 Remus Repeal Reserve,Series VIII,10.63,101,2024,MGP,Bourbon,22074001000858,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-viii/
 Remus Repeal Reserve,Series VII,9.94,100,2023,MGP,Bourbon,22074001000858,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-vii/
@@ -1392,6 +1448,7 @@ Remus Repeal Reserve,Series IV,12,100,2020,MGP,Bourbon,20023001000276,https://re
 Remus Repeal Reserve,Series III,11.12,100,2019,MGP,Bourbon,18241001000238,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-iii/
 Remus Repeal Reserve,Series II,10.25,100,2018,MGP,Bourbon,18241001000238,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-ii/
 Remus Repeal Reserve,Series I,11.5,94,2017,MGP,Bourbon,18241001000238,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-series-i/
+Remus Repeal Reserve,Rye,,111,2026,MGP,Rye,26057001000751,https://remusbourbon.com/the-bourbons/remus-repeal-reserve-rye/
 Rittenhouse Rye,standard,4,100,1934-2025,Heaven Hill,Rye,22167001000558,https://heavenhilldistillery.com/rittenhouse-rye.php
 Rittenhouse Rye,United States 250th Anniversary,10,100,2026,Heaven Hill,Rye,,https://heavenhill.com/news-and-notes/heaven-hill-distillery-unveils-rittenhouse-united-states-250th-anniversary-commemorative-edition-straight-rye-whisky/
 River City Whiskey,standard,,120,2026,Brown Water Select LLC,Rye,26131001000043,https://www.brownwaterselect.com/
@@ -1424,7 +1481,8 @@ Sagamore Spirit,High Rye Bourbon,6,108,2025-2026,Sagamore Spirit,Bourbon,2609700
 Sagamore Spirit,Double Oak Rye,,96.6,2020-2026,Sagamore Spirit,Rye,,https://sagamorespirit.com/spirits/
 Sagamore Spirit,Cognac Cask Finish Rye,6,110,2026,Sagamore Spirit,Rye,26161001000517,https://sagamorespirit.com/spirits/
 Sagamore Spirit,Cask Strength Rye,,112-120,2018-2026,Sagamore Spirit,Rye,,https://sagamorespirit.com/spirits/
-Sagamore Spirit,Bottled-in-Bond Rye,7,100,2024-2026,Sagamore Spirit,Rye,,https://sagamorespirit.com/spirits/
+Sagamore Spirit,Bottled-in-Bond Rye 2026,8,100,2026,Sagamore Spirit,Rye,,https://sagamorespirit.com/spirits/sagamore-bottled-in-bond-straight-rye-whiskey
+Sagamore Spirit,Bottled-in-Bond Rye,7,100,2024-2025,Sagamore Spirit,Rye,,https://sagamorespirit.com/spirits/
 Sagamore Spirit,Barrel Reserve White Moscatel Cask Finish,,111.6,2026,Sagamore Spirit,Rye,26201001000422,https://sagamorespirit.com/spirits/
 Sagamore Spirit,Barrel Reserve Cognac Cask Finish,,115.8,2026,Sagamore Spirit,Rye,26201001000431,https://sagamorespirit.com/spirits/
 Sagamore Spirit,Amontillado Cask Finish Rye,8,98,2026,Sagamore Spirit,Rye,26161001000682,https://sagamorespirit.com/spirits/
@@ -1471,6 +1529,10 @@ Shortbarrel,Toasted Barrel,,94,2021-2026,Shortbarrel,Bourbon,,https://shortbarre
 Shortbarrel,Sapsquatch,,110,2026,Shortbarrel,Bourbon,,https://shortbarrelbourbon.com/products/shortbarrel-bourbon-sapsquatch
 Shortbarrel,Rye 101,,101,2021-2026,Shortbarrel,Rye,,https://shortbarrelbourbon.com/products/shortbarrel-bourbon-rye-101-750ml
 Shortbarrel,Four Grain,,92,2021-2026,Shortbarrel,Bourbon,,https://shortbarrelbourbon.com/products/shortbarrel-bourbon-four-grain-750ml
+Shortbarrel,Cigar Batch #4,,107,2026,Shortbarrel,Bourbon,,https://shortbarrelbourbon.com/products/shortbarrel-cigar-batch-iv
+Shortbarrel,Cigar Batch #3,,116,2025,Shortbarrel,Bourbon,,https://www.whiskybase.com/whiskies/whisky/288554/shortbarrel-cigar-batch-3-gauge-36
+Shortbarrel,Cigar Batch #2,,117,2024,Shortbarrel,Bourbon,,https://www.goodfoodbeverages.com/product/shortbarrel-bourbon-cigar-batch-2/
+Shortbarrel,Cigar Batch #1,,120,2023,Shortbarrel,Bourbon,,https://thedailypour.com/spirit/shortbarrel-cigar-batch-1/
 Shortbarrel,Afterswarm Meadowfoam,,108.6,2026,Shortbarrel,Rye,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/announcing-shortbarrel-afterswarm-meadowfoam
 Shortbarrel,Afterswarm Georgia Wildflower,,110.6,2025,Shortbarrel,Rye,,https://thewhiskeywash.com/whiskey-reviews/review-shortbarrel-the-afterswarm-rye-finished-in-honey-casks-review-2026/
 Silk Velvet Whiskey,Small Batch Select,4,107,2024-2026,Western Kentucky Distilling Co.,Bourbon,,https://silkvelvetwhiskey.com
@@ -1624,6 +1686,8 @@ Tumblin' Dice,11 Year Bottled in Bond,11,100,2026,Proof & Wood,Bourbon,,https://
 Two Souls Spirits,J. Henry 7yr Rye Rum Cask,7,124.58,2026,J. Henry & Sons,Rye,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/two-souls-spirits-and-j-henry-sons-release-first-ever-rum-cask-finished-whiskeys-in-a-historic-collaboration
 Two Souls Spirits,J. Henry 7yr Bourbon Rum Cask,7,115.32,2026,J. Henry & Sons,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/two-souls-spirits-and-j-henry-sons-release-first-ever-rum-cask-finished-whiskeys-in-a-historic-collaboration
 Unbridled Spirit,standard,,100,2026,Unbridled Spirit,Bourbon,26022001000191,https://fortheunbridled.com
+Van Winkle Family Reserve Rye 13 Year,standard,13,95.6,1997-2026,Buffalo Trace,Rye,,https://www.buffalotracedistillery.com/our-brands/van-winkle/
+Van Winkle Special Reserve 12 Year (Lot B),standard,12,90.4,1991-2026,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/van-winkle/
 Very Olde St. Nick,Resurrection,,103.4,2026,Preservation Distillery,Bourbon,26071001000992,https://preservationdistillery.com/
 Very Olde St. Nick,Immaculata 2026,,118.2,2026,Preservation Distillery,Bourbon,,https://preservationdistillery.com/
 Village Garage,Vermont Republic Rye,5,127,2026,Village Garage Distillery,Rye,,https://www.villagegarage.com/vermont-republic-rye
@@ -1668,6 +1732,7 @@ WhistlePig,18 Year Double Malt,18,92,2019-2026,WhistlePig,Rye,,https://whistlepi
 WhistlePig,15 Year Estate Oak,15,92,2016-2026,WhistlePig,Rye,,https://whistlepigwhiskey.com/whiskeys/
 WhistlePig,12 Year Old World,12,86,2015-2026,WhistlePig,Rye,,https://whistlepigwhiskey.com/whiskeys/
 WhistlePig,10 Year,10,100,2010-2026,WhistlePig,Rye,,https://whistlepigwhiskey.com/whiskeys/
+WhistlePig Boss Hog,13 - The Golden Pharaoh,,102.6-105.6,2026,WhistlePig,Rye,,https://www.bevnet.com/pr/2026/09/09/whistlepig-unveils-the-boss-hog-xiii-the-golden-pharaoh
 WhistlePig Boss Hog,12 - Feather & Flame,12,106,2025,WhistlePig,Rye,,https://whistlepigwhiskey.com/the-boss-hog-archive
 WhistlePig Boss Hog,11 - Lao Han,,109.2,2024,WhistlePig,Rye,,https://whistlepigwhiskey.com/the-boss-hog-archive
 WhistlePig Boss Hog,10 - The Commandments,,105.3,2023,WhistlePig,Rye,,https://whistlepigwhiskey.com/the-boss-hog-archive
@@ -1787,6 +1852,7 @@ Woodford Reserve Distillery Series,2017 Blended Rye Whiskey,,90.4,2017,Woodford 
 Woodford Reserve Distillery Series,2016 Frosty Four Wood,,90.4,2016,Woodford Reserve,Bourbon,15113001000077,https://www.woodfordreserve.com/whiskey/distillery-series/
 Woodford Reserve Distillery Series,2015 Sweet Mash Redux,,90.4,2015,Woodford Reserve,Bourbon,15040001000117,https://www.woodfordreserve.com/whiskey/distillery-series/
 Woodford Reserve Distillery Series,2015 Double Double Oaked,,90.4,2015,Woodford Reserve,Bourbon,15040001000106,https://www.woodfordreserve.com/whiskey/distillery-series/
+Woodford Reserve Master's Collection,2026 Super Seasoned Oak,9,100.4,2026,Woodford Reserve,Bourbon,26048001000075,https://www.woodfordreserve.com/whiskey/masters-collection/
 Woodford Reserve Master's Collection,2025 Sweet Oak,,110.4,2025,Woodford Reserve,Bourbon,25042001000109,https://www.woodfordreserve.com/whiskey/masters-collection/
 Woodford Reserve Master's Collection,2025 Batch Proof,,119.5,2025,Woodford Reserve,Bourbon,24037001000705,https://www.woodfordreserve.com/whiskey/masters-collection/
 Woodford Reserve Master's Collection,2024 Madeira Cask,,90.4,2024,Woodford Reserve,Bourbon,24044001000185,https://www.woodfordreserve.com/whiskey/masters-collection/
