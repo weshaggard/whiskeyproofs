@@ -1,0 +1,69 @@
+# TTB COLA Label Images - TTBID 26243001000103
+
+**Brand Name:** ALTERGRAIN
+
+**Issue Date:** 09/08/2026
+
+**Origin Code:** 02
+
+**Product Class/Type:** 141
+
+**Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=26243001000103)
+
+## Label Images
+
+### Back Label
+
+![Back Label](./back_label.jpg)
+
+### Front Label
+
+![Front Label](./front_label.jpg)
+
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+**Detected Age:** 4 Years
+
+### Back Label
+
+DISTILLED AND BOTTLED BY MONTAUK DISTILLING CO. RIVERHEAD NY
+VOL ALC PROOF EXCLUSIVELY FOR HF SPIRITS, INC.
+30 GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, HF SPIRITS INC.
+750m 09 WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY 11014 NW 33® ST
+= 40% Vol BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC UNIT 102, DORAL
+BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE  FL33172
+Alter what ¢ CXPEC TED, MACHINERY, AND MAY CAUSE HEALTH PROBLEMS. DRINK RESPONSIBLY. gee oa slog sz gllll
+
+### Front Label
+
+ESTD. 1979
+
+LT ERURAL
+
+SMALL BATCH BOURBON WHISKEY
+
+VIRGIN
+
+BARRELED IN
+
+AMERICAN
+
+LONG ISLAND,
+
+OAK
+
+NEW YORK
+
+BATCH
+
+BOTTLE
+
+AGE
+
+O71
+
+110/2500
+
+4 YEARS
