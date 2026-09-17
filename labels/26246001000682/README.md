@@ -1,0 +1,83 @@
+# TTB COLA Label Images - TTBID 26246001000682
+
+**Brand Name:** THE PRIVATE RICKHOUSE
+
+**Fanciful Name:** THE HOUSE
+
+**Issue Date:** 09/14/2026
+
+**Origin Code:** 44
+
+**Product Class/Type:** 101
+
+**Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=26246001000682)
+
+## Label Images
+
+### Label 1
+
+![Label 1](./label_1.jpg)
+
+### Label 2
+
+![Label 2](./label_2.jpg)
+
+### Label 3
+
+![Label 3](./label_3.jpg)
+
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+*1 image(s) excluded: text did not meet readability threshold*
+
+**Detected Age:** 5 Years
+
+### Label 1
+
+| ESTD. She Sis
+PRIVATE
+RICKHOUSE
+BATCH #1
+Straight Bourbon Whiskey
+
+### Label 3
+
+AT THE PRIVATE RICKHOUSE, WE ARE NOT DISTILLERS. WE ARE CURATORS,
+SEEKING OUT BARRELS WITH REAL CHARACTER AND GIVING EACH ONE A
+SECOND ACT SHAPED BY TEXAS HANDS. EVERY SELECTION IS TASTED,
+DEBATED, AND CHOSEN WITH INTENTION: IN THIS BOTTLE IS A SMALL BATCH
+SELECTED FOR ITS CHARACTER, FINISHED IN DALLAS AND
+READY FOR YOU TO WRITE THE NEXT CHAPTER:
+Rickhouse
+Age
+5 YEARS OLD
+Distlled In
+OLDHAM COUNTY, KY
+Barrels
+XX BARRELS
+Mashbill
+75/21/4
+#R
+BOTTLED BY THE PRIVATE RICKHOUSE
+DALLAS, TEXAS
+THEPRIVATERICKHOUSECOM
+THEPRIVATERICKHOUSE
+RICKHoUsE
+2026 THE PRIVATE RICKHOUSE
+UPC-A
+GOVERNMENT   WARNING: (I) ACCORDING  TO  THE SURGEON
+GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING
+PREGNANCY BECAUSE OFTHE RISKOF BIRTH DEFECTS; (2) CONSUMPTION
+OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILIy TO DRIVE A CAR OR
+OPERATE MACHINERV; AND MaY CAUSE HEALTH PROBLEMS,
+00012"3456
+1
+3
+8
+#
+2
+1
+1
+e
