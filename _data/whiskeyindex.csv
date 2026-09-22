@@ -458,11 +458,12 @@ Chicken Cock,Small Batch,4,100,2024-2025,Chicken Cock,Bourbon,,https://chickenco
 Chicken Cock,Rye,2,90,2020-2025,Chicken Cock,Rye,,https://chickencockwhiskey.com/whiskey/kentucky-straight-rye-whiskey/
 Chicken Cock,Old Glory,4,100,2026,Bardstown Bourbon Company,Rye,,https://chickencockwhiskey.com/
 Chicken Cock,Miller's Reserve,,115,2025,Chicken Cock,American Whiskey,,https://chickencockwhiskey.com/whiskey/millers-reserve/
-Chicken Cock,Legacy Series 170th Anniversary,,115,2026,Chicken Cock,Bourbon,26204001000111,https://chickencockwhiskey.com/
+Chicken Cock,Legacy Series 170th Anniversary,6,115,2026,Chicken Cock,Bourbon,26204001000111,https://www.prnewswire.com/news-releases/chicken-cock-whiskey-celebrates-170th-anniversary-with-limited-edition-rooster-decanter--legacy-kentucky-straight-bourbon-releases-302869212.html
 Chicken Cock,Island Rooster,,95,2024,Chicken Cock,Rye,,https://chickencockwhiskey.com/whiskey/island-rooster/
 Chicken Cock,Inked Cask,,125,2025,Chicken Cock,Bourbon,25268001000088,https://chickencockwhiskey.com/chicken-cock-whiskey-x-inked-casked/
 Chicken Cock,Double Oak,8,92,2023-2025,Chicken Cock,Whiskey,,https://chickencockwhiskey.com/whiskey/double-oak-kentucky-whiskey/
 Chicken Cock,Bourbon,4,90,2019-2025,Chicken Cock,Bourbon,,https://chickencockwhiskey.com/whiskey/kentucky-straight-bourbon-whiskey/
+Chicken Cock,170th Anniversary Rooster Decanter,8,115,2026,Chicken Cock,Bourbon,,https://www.prnewswire.com/news-releases/chicken-cock-whiskey-celebrates-170th-anniversary-with-limited-edition-rooster-decanter--legacy-kentucky-straight-bourbon-releases-302869212.html
 Chicken Cock Annual Tin,Red Stave,,102.4,2023,Chicken Cock,Bourbon,,https://chickencockwhiskey.com/whiskey/red-stave/
 Chicken Cock Annual Tin,Mizunara,,105,2024,Chicken Cock,Bourbon,,https://chickencockwhiskey.com/whiskey/mizunara/
 Chicken Cock Annual Tin,Cotton Club Rye,20,100,2021,Chicken Cock,Rye,,https://chickencockwhiskey.com/whiskey/20-year-old-cotton-club-rye/
@@ -1216,6 +1217,7 @@ New Riff Silver Grove Bourbon,2026,6,116.4,2026,New Riff,Bourbon,25015001000070,
 New Riff Silver Grove Bourbon,2025,4,110.3,2025,New Riff,Bourbon,25015001000070,https://www.fredminnick.com/2025/03/28/new-riff-releases-two-new-silver-grove-whiskeys/
 New Riff Silver Grove Rye,2026,6,115,2026,New Riff,Rye,25015001000072,https://www.fredminnick.com/2026/03/06/new-riff-announces-6-year-silver-grove-bourbon-and-rye/
 New Riff Silver Grove Rye,2025,4,110.2,2025,New Riff,Rye,25015001000072,https://www.fredminnick.com/2025/03/28/new-riff-releases-two-new-silver-grove-whiskeys/
+O.H. Ingram Flagship Bourbon,Batch 6,7,113.8,2026,Ingram Distillery,Bourbon,,https://ingram.kybourbondirect.com/products/o-h-ingram-flagship-batch-6-bourbon-113-8-proof
 O.H. Ingram Flagship Bourbon,Batch 5,,116.5,2025,Ingram Distillery,Bourbon,,https://www.fredminnick.com/2025/10/08/ingram-distillery-releases-2025-flagship-bourbon/
 O.H. Ingram Flagship Bourbon,Batch 4,6.5,117.7,2024,Ingram Distillery,Bourbon,,https://ingramwhiskey.com/2024-flagship-bourbon-has-arrived/
 O.H. Ingram Flagship Bourbon,Batch 3,,102.3,2023,Ingram Distillery,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/o-h-ingram-river-aged-releasing-third-annual-flagship-bourbon
@@ -1520,6 +1522,8 @@ Sagamore Spirit,America 250,8,110,2026,Sagamore Spirit,Rye,26131001000399,https:
 Sagamore Spirit,9 Year Rye,9,112.6,2024,Sagamore Spirit,Rye,,https://sagamorespirit.com/spirits/
 Sagamore Spirit,8 Year Rye,8,111.4,2021-2023,Sagamore Spirit,Rye,,https://sagamorespirit.com/spirits/8-year-old-rye-whiskey/
 Sagamore Spirit,10 Year Rye,10,110.8,2025-2026,Sagamore Spirit,Rye,,https://sagamorespirit.com/spirits/
+Sagamore Spirit Ravens Series,Darkness Falls Bottled in Bond Rye,8,100,2023-2026,Sagamore Spirit,Rye,,https://sagamorespirit.com/spirits/darkness-falls-sagamore-8-year-old-bottled-in-bond-whiskey/
+Sagamore Spirit Ravens Series,Festivus Maximus Small Batch Rye,,93,2025,Sagamore Spirit,Rye,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/sagamore-spirit-releases-limited-edition-baltimore-ravens-festivus-maximus-small-batch-rye-whiskey
 Saints Alley,The Herald,,107,2022-2026,Likarish Enterprises,Bourbon,,https://ironrootrepublic.com
 Saints Alley,Port & Cognac,,100,2022-2026,Likarish Enterprises,Bourbon,,https://ironrootrepublic.com
 Saints Alley,Nobleman Rye,,107,2024-2026,Likarish Enterprises,Rye,,https://ironrootrepublic.com
@@ -1901,6 +1905,9 @@ Woodford Reserve Master's Collection,2018 Batch Proof,,125.8,2018,Woodford Reser
 Woodford Reserve Master's Collection,2017 Cherry Wood,,90.4,2017,Woodford Reserve,Bourbon,17052001000374,https://www.woodfordreserve.com/whiskey/masters-collection/
 Woodford Reserve Master's Collection,2016 Brandy Cask,,90.4,2016,Woodford Reserve,Bourbon,16123001000240,https://www.woodfordreserve.com/whiskey/masters-collection/
 Woodford Reserve Master's Collection,2015 White Corn,,90.4,2015,Woodford Reserve,Bourbon,15070001000108,https://www.woodfordreserve.com/whiskey/masters-collection/
+Woodinville 10 Year Bourbon,2026,10,100,2026,Woodinville Whiskey Co.,Bourbon,,https://woodinvillewhiskeyco.com/blogs/journal/the-2026-woodinville-whiskey-harvest-release
+Woodinville 6 Year Bottled in Bond Bourbon,2026,6,100,2026,Woodinville Whiskey Co.,Bourbon,,https://woodinvillewhiskeyco.com/blogs/journal/the-2026-woodinville-whiskey-harvest-release
+Woodinville 6 Year Bottled in Bond Bourbon,2020 10th Anniversary,5,100,2020,Woodinville Whiskey Co.,Bourbon,,https://www.prnewswire.com/news-releases/woodinville-whiskey-celebrates-ten-years-301000071.html
 Woodinville 8 Year Bourbon,2024,8,100,2024,Woodinville Whiskey Co.,Bourbon,24051001000918,https://www.breakingbourbon.com/review/woodinville-straight-bourbon-whiskey-aged-8-years
 Woodinville 8 Year Rye,2025,8,100,2025,Woodinville Whiskey Co.,Rye,25037001000583,https://woodinvillewhiskeyco.com/products/straight-100-rye-aged-8-years
 Woodinville 9 Year Bourbon,2025,9,100,2025,Woodinville Whiskey Co.,Bourbon,25190001000985,https://woodinvillewhiskeyco.com/blogs/journal/introducing-straight-bourbon-aged-9-years-for-harvest-release-2025
