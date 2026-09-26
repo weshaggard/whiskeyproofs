@@ -1,0 +1,143 @@
+# TTB COLA Label Images - TTBID 26259001000599
+
+**Brand Name:** DEFIANT BOURBON
+
+**Issue Date:** 09/22/2026
+
+**Origin Code:** 35
+
+**Product Class/Type:** 141
+
+**Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=26259001000599)
+
+## Label Images
+
+### Label 1
+
+![Label 1](./label_1.jpg)
+
+### Label 2
+
+![Label 2](./label_2.jpg)
+
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+**Detected Proof:** 90
+
+### Label 1
+
+DISTLLED & BOTTLED BY
+BLUE RIDGE DISTILING Co, INC , BOSTIc, NC
+Gle_Ilission
+DEFIANT
+Ike 9kaaky
+EACH YEAR IN NoVEMBER
+BLuE RIDGE
+OuR DEFIANT PATRIOT 2026 RELEASE IS
+GOVERNMENT WARNING:
+DSTILLING Co.
+WILL BE PRODUCING OUR
+FOUR-GRAIN BOURBON BUILT FOR THOSE WHO
+(1) According to the Surgeon General, women should
+SPECIAL
+DEFIANT PATRIOT WHISKY THE
+ANSWERED THE
+CALL
+BRINGS THE
+not drink alcoholic beverages during pregnancy
+RECIPE AND NUMBER OF BOTTLES PRODUCED
+PATRiOT
+SWEETNESS,
+WHEAT SOFTENS THE EDGES; BARLEY
+because of the risk of birth defects
+WILL CHANGE EVERY YEAR
+ALL PROFITS
+ADDS MALTED DEPTH,
+AND
+RYE LAYS
+DOWN
+FROM THESE AMERICAN FLAGGED BOTTLES
+CLEAN,
+AMERICAN SPICE
+FouR GRAINS_
+ONE
+(2) Consumption of alcoholic beverages impairs your
+WILL GO TO VETERANS' CHARITIES SUPPORTING
+BOTTLE _
+A SALUTE IN EVERY POUR -BOLD,
+ability to drive a car or operate machinery, and may
+THOSE WHO HAVE FOUGHT
+IN OUR
+WARS
+UNAPOLOGETIC
+AND MADE TO HONOR THE MEN
+cause health problems.
+OVERSEAS. WE ARE FOCUSING OUR FUNDING
+BOURBON
+AND WOMEN WHO SERVED OUR NATION.
+ON THOSE VETERANS WHO HAVE
+BEEN
+WOUNDED IN
+COMBAT
+AND SUFFER MAJOR
+DISABILITIES ,
+AND THOSE WITH SEVERE
+WHISKY
+Join the Veterans'
+POST-TRAUMATIC STRESS DISORDER
+(PTSD)
+FROM COMBAT SERVICE
+DDiatilled forIalted Toors
+eed
+REVOLUTION.
+WE SENT THEM INTO
+THE BREACH, THEY
+OBaotey $ Euwe IHoeeodtaam efyirz
+Oaten
+VISIT OUR WEBSITE
+HEEDED
+THE CALL ,
+AND NOW IS THE
+TIME
+defiantwhiskycom
+TO REPAY THEM FOR
+THEIR SACRIFICE .
+BY
+TO LEARN MORE ABOUT US AND WHAT MAKES US
+BLUE RIDGE DISTILLING CO.
+8
+51250"00429
+0
+FROM THE GOLDEN VALLEY
+DEFIANT
+90 PROOF
+750ML
+45% Alc_| VOL.
+CoRN
+Bx=
+
+### Label 2
+
+s
+
+ARI IRIS IRIN IR
+
+is
+
+PIN
+
+=
+
+ail
+
+ct
+
+=
+
+SENPSENEXINININENI NG
+
+a
+
+WAV AV AVAY UAV ATS
