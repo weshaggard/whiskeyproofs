@@ -1,0 +1,85 @@
+# TTB COLA Label Images - TTBID 26266001000642
+
+**Brand Name:** REVEL STOKE
+
+**Fanciful Name:** SMOKED VANILLA
+
+**Issue Date:** 09/24/2026
+
+**Origin Code:** 27
+
+**Product Class/Type:** 149
+
+**Source:** [TTB Public COLA Registry](https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=26266001000642)
+
+## Label Images
+
+### Back Label
+
+![Back Label](./back_label.jpg)
+
+### Label 1
+
+![Label 1](./label_1.jpg)
+
+## Extracted Label Text
+
+*Text extracted via OCR - may contain errors*
+
+**Detected Proof:** 120
+
+### Back Label
+
+LIVING LIFE WITH FLAVOR
+
+REVEL
+STOKE
+
+CONTAINS. ' CONTAINS
+
+750OML | carame covon
+
+Bung the Stoke 10 THE/FUNCTION.
+WE'LL BRING THE FLAVOR. CRAFTED
+FOR Sig/ TIMES & Zo?BROWS:
+
+PRODUCED & BOTTLED BY ED PHILLIPS
+& SONS CO. IN PRINCETON, MN.
+
+| PLEASE Recycle
+2
+| STOKE Leyoarewibdy
+
+RM NO. 652277 | REVELSTOKEWHISKY.COM
+
+0 Mi MMM,
+
+“SWUTTEQHd HLTVSH ISNVO AVIV ONY AHANIHOWN SIVH3d0 HO UV W 3AIHO OL ALIEN HOA SUIVGNI S30VH3A3a
+SITOHOTY 40 NOLLGWNSNOD (2) $193430 HLUIG 40 HSIH 3HL 40 3SNVO38 AONYNGSHd ONTHNG S39VH3A3
+OVTOHOSTV NHC LON CTAOHS NANOM TWHIN3D NOIOUNS 3HL OL SNICHOODY () ‘ONINUWM LNSWNHSAOD
+
+### Label 1
+
+X RRIFWIEI /
+$
+1
+3
+STOICE
+PUT THAT IN YOUR GLASS AND cmobe ?t
+60
+PRoOF
+30%
+ALC/VOL
+Flavoied
+WHISKY
+LIVING
+LIFE
+WAFFLE CONE SOLD SEDARATELY
+WITH
+FLAVOR
+WE LITERALLY DONT KNOW WHO SIGNED THIS
+BOTTLE NO:
+00420
+RM. NO. 612277
+SMOKED
+1
