@@ -4,7 +4,7 @@
 Implement all eight script and automation improvements requested for the Whiskey Proofs repository.
 
 ## Result
-✅ Success
+⚠️ Partial — implementation complete; final Python security re-scan timed out
 
 ## Summary
 - Items processed: 8
@@ -29,14 +29,18 @@ Implement all eight script and automation improvements requested for the Whiskey
 - Secret scans found no secrets. CodeQL analyzed Python and Actions and reported zero alerts.
 - Fixed fallback review findings: relative `nextset` cursor advancement is not retried, and heading-only legacy image inventories can proceed to OCR without overriding known partial manifests.
 - Added explicit `pipefail` to discovery logging so unsuccessful/partial searches cannot be masked by `tee`.
+- The read-only reviewer verified both fixes and pipeline failure propagation; no review findings remain unresolved.
+- Test commands run by implementing agents: `python3 -m unittest discover -s tests -p test_validators.py -v` (27 passed), the equivalent `test_urls.py` command (20 passed), and the equivalent `test_labels.py` command (34 passed).
 
 ## Errors
 - Local Jekyll build tooling is unavailable: `/bin/bash: line 1: bundle: command not found`. No site source was changed; no build attempted.
 - Initial stricter validator failed on 59 pre-existing Age ranges. Removed out-of-scope Age enforcement instead of changing data; rerun passed.
 - Automated code review reported its `autofind` binary unavailable. Read-only specialist review found two issues (legacy inventories and cursor retries); both were fixed and covered by passing regression tests.
+- Initial CodeQL scan completed for Python and Actions with zero alerts. Final re-scan completed Actions with zero alerts but timed out before Python finished: "Validation timed out. The time limit for validation has been reached. Do NOT call parallel_validation again". No further retries were attempted.
 
 ## Remaining Work
-- Final security validation and confirmation of the two fallback review fixes are pending; no implementation work remains.
+- No implementation work remains. Complete a fresh Python CodeQL scan through normal CI or a future session; the current validation tool explicitly forbids another retry after its time limit. Final Actions scan is complete and clean; initial Python scan was clean.
+- Jekyll build was not exercised locally because Bundler is absent. Use the existing Validate, Build, and Deploy workflow to verify the site build in CI.
 
 ## State
 - Repository: `/home/runner/work/whiskeyproofs/whiskeyproofs`.
