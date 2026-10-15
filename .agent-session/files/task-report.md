@@ -18,9 +18,12 @@ Update release discovery to use Breaking Bourbon's bourbon/rye press-release lis
 - Confirmed the requested URL loads and returns release content using web_fetch.
 - `git diff --check` passed; searched automation files and README for the obsolete news URL with no matches.
 - No executable code or whiskey data changed; no applicable documentation tests were found.
+- Secret scanning passed for both modified files.
+- Invoked parallel validation: CodeQL skipped documentation-only changes; automated code review was unavailable because its autofind binary was missing.
 
 ## Errors
 - The initial shell search returned `/bin/bash: line 1: rg: command not found`; used the provided search tool and grep instead.
+- Automated review could not execute: `autofind binary not found`. No retries for the missing executable.
 
 ## Remaining Work
 None.
