@@ -20,11 +20,13 @@ Implement scheduled discovery source-health monitoring with failure alerts.
 - Existing data validator passed for all 2,035 entries; no whiskey data changed. `git diff --check` passed.
 - Documented schedule, notifications, manual recovery, and local commands in `/home/runner/work/whiskeyproofs/whiskeyproofs/.github/WORKFLOW_TRIGGERS.md`.
 - Read-only review agent found no significant issues.
+- Secret scanning passed for all five modified files. Parallel validation returned zero CodeQL alerts but reported analysis skipped because there were no changes since its last run; its automated review executable was unavailable. The separate read-only review agent completed successfully.
 - Live check: 6 sources processed, 5 succeeded, 1 failed. Breaking Bourbon, Bourbon Culture, The Whiskey Wash, Distiller, and Fred Minnick passed.
 
 ## Errors
 - First unit test run exposed a hostname comparison that missed `www.breakingbourbon.com`; fixed the comparison and reran all tests successfully.
 - Live Whisky Advocate check at `https://www.whiskyadvocate.com` failed: `Network error: <urlopen error timed out>`. The checker performed the initial attempt plus three retries and stopped. Live output is saved in `/tmp/whiskeyproofs-source-health.md` (ephemeral).
+- Parallel validation's built-in review could not execute: `autofind binary not found`; no retries for the missing executable.
 
 ## Remaining Work
 - After deployment to the default branch, manually run `Discovery Source Health` to verify real GitHub issue permissions/notifications; alert CLI behavior was tested with mocks only.
