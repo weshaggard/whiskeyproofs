@@ -1,42 +1,15 @@
 #!/usr/bin/env python3
-"""
-Find new TTB COLA labels in the registry that are not yet in the labels directory.
-
-This script searches the TTB COLA Public Registry for new label approvals with:
-- All origin codes (or specific code if provided)
-- Product class/type 100-150 (whiskey)
-- Within a specified date range
-
-It then compares the results against existing labels in the labels/ directory
-and outputs only the new TTB IDs that haven't been downloaded yet.
-
-Requirements:
-    pip install requests beautifulsoup4
-    
-Usage:
-    # Search for labels from the past 7 days
-    python3 .github/scripts/find_new_ttb_labels.py
-
-    # Search for labels in a specific date range
-    python3 .github/scripts/find_new_ttb_labels.py --from 2024-01-01 --to 2024-12-31
-    
-    # Search with verbose output
-    python3 .github/scripts/find_new_ttb_labels.py --verbose
-    
-    # Save results to JSON file
-    python3 .github/scripts/find_new_ttb_labels.py --output new_labels.json
-"""
+"""Discover whiskey labels and queue unfinished local downloads and OCR work."""
 
 import argparse
-import csv
 import json
-import os
 import re
 import sys
 import time
 from datetime import datetime, timedelta
 from pathlib import Path
-from urllib.parse import urlencode
+
+from label_state import ocr_complete
 
 try:
     import requests
@@ -46,413 +19,168 @@ except ImportError:
     DEPENDENCIES_AVAILABLE = False
 
 
+class SearchError(RuntimeError):
+    def __init__(self, message, partial_ids=(), pages_completed=0):
+        super().__init__(message)
+        self.partial_ids = list(dict.fromkeys(partial_ids))
+        self.pages_completed = pages_completed
+
+
 class TTBLabelFinder:
-    """Find new TTB COLA labels in the registry"""
-    
+    """Search using a single registry session; never mistake an error for no results."""
+
     SEARCH_URL = "https://ttbonline.gov/colasonline/publicSearchColasBasicProcess.do?action=search"
     DETAIL_URL = "https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid="
     NEXT_PAGE_URL = "https://ttbonline.gov/colasonline/publicPageBasicCola.do?action=page&pgfcn=nextset"
-    MAX_PAGES = 100  # Safety limit to prevent infinite loops
-    
+    MAX_PAGES = 100
+
     def __init__(self, verbose=False):
         self.verbose = verbose
         self.session = requests.Session()
-        self.session.headers.update({
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-        })
-        # Disable SSL verification warnings
-        # Note: SSL verification is disabled (verify=False) due to known certificate issues
-        # with the TTB website. This is consistent with other TTB scripts in this repository.
+        self.session.headers.update({"User-Agent": "Mozilla/5.0"})
         import urllib3
         urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-    
-    def search_ttb_registry(self, date_from, date_to, origin_code='', class_type_from='100', class_type_to='150'):
-        """
-        Search TTB COLA registry for labels within date range and filters.
-        Automatically handles pagination to retrieve all results.
-        
-        Args:
-            date_from: Start date in MM/DD/YYYY format
-            date_to: End date in MM/DD/YYYY format
-            origin_code: TTB origin code (default: '' for all origin codes)
-            class_type_from: Start of product class/type range (default: 100)
-            class_type_to: End of product class/type range (default: 150)
-            
-        Returns:
-            List of TTB IDs found in the search
-        """
-        if self.verbose:
-            print(f"Searching TTB registry:")
-            print(f"  Date range: {date_from} to {date_to}")
-            if origin_code:
-                print(f"  Origin code: {origin_code}")
-            else:
-                print(f"  Origin code: All origin codes")
-            print(f"  Product class/type: {class_type_from}-{class_type_to} (whiskey)")
-        
-        all_ttb_ids = []
-        
-        # Prepare form data for POST request
+
+    def _request(self, method, url, **kwargs):
+        # At most three retries, exclusively for transient transport/server failures.
+        for attempt in range(4):
+            try:
+                response = getattr(self.session, method)(url, timeout=30, verify=False, **kwargs)
+                response.raise_for_status()
+                return response
+            except (requests.Timeout, requests.ConnectionError, requests.HTTPError) as exc:
+                status = getattr(getattr(exc, "response", None), "status_code", None)
+                transient = (isinstance(exc, (requests.Timeout, requests.ConnectionError))
+                             or status in (408, 429) or (status is not None and 500 <= status < 600))
+                if not transient or attempt == 3:
+                    raise
+                time.sleep(2 ** attempt)
+
+    def search_ttb_registry(self, date_from, date_to, origin_code="",
+                            class_type_from="100", class_type_to="150"):
+        ids = []
+        pages = 0
         form_data = {
-            'searchCriteria.dateCompletedFrom': date_from,
-            'searchCriteria.dateCompletedTo': date_to,
-            'searchCriteria.productOrFancifulName': '',
-            'searchCriteria.productNameSearchType': 'E',
-            'searchCriteria.classTypeFrom': class_type_from,
-            'searchCriteria.classTypeTo': class_type_to,
-            'searchCriteria.originCode': origin_code
+            "searchCriteria.dateCompletedFrom": date_from,
+            "searchCriteria.dateCompletedTo": date_to,
+            "searchCriteria.productOrFancifulName": "",
+            "searchCriteria.productNameSearchType": "E",
+            "searchCriteria.classTypeFrom": class_type_from,
+            "searchCriteria.classTypeTo": class_type_to,
+            "searchCriteria.originCode": origin_code,
         }
-        
         try:
-            # Make initial POST request
-            # Note: verify=False due to known certificate issues with TTB website
-            response = self.session.post(self.SEARCH_URL, data=form_data, timeout=30, verify=False)
-            response.raise_for_status()
-            
-            # Parse first page results
-            ttb_ids, has_next = self._parse_search_results(response.text)
-            all_ttb_ids.extend(ttb_ids)
-            
-            if self.verbose:
-                print(f"  Page 1: Found {len(ttb_ids)} TTB IDs")
-            
-            # Fetch additional pages if they exist
-            page_num = 2
-            while has_next and page_num <= self.MAX_PAGES:
-                if self.verbose:
-                    print(f"  Fetching page {page_num}...")
-                
-                page_ttb_ids, has_next = self._fetch_next_page()
-                all_ttb_ids.extend(page_ttb_ids)
-                
-                if self.verbose:
-                    print(f"  Page {page_num}: Found {len(page_ttb_ids)} TTB IDs")
-                
-                page_num += 1
-                
-                # Add a small delay between page requests to be respectful
-                if has_next:
-                    time.sleep(0.5)
-            
-            # Warn if we hit the limit and there are still more pages
-            if has_next and page_num > self.MAX_PAGES:
-                print(f"  WARNING: Reached maximum page limit ({self.MAX_PAGES}). There may be more results.")
-            
-            if self.verbose or page_num > 2:
-                print(f"  Total: Found {len(all_ttb_ids)} TTB IDs across {page_num - 1} page(s)")
-            
-            return all_ttb_ids
-            
-        except Exception as e:
-            print(f"Error during search: {e}")
-            return []
-    
+            response = self._request("post", self.SEARCH_URL, data=form_data)
+            page_ids, has_next = self._parse_search_results(response.text)
+            while True:
+                ids = list(dict.fromkeys(ids + page_ids))
+                pages += 1
+                if not has_next:
+                    return ids
+                if pages >= self.MAX_PAGES:
+                    raise RuntimeError(f"Reached maximum page limit ({self.MAX_PAGES}); search incomplete")
+                time.sleep(0.5)
+                page_ids, has_next = self._fetch_next_page()
+        except Exception as exc:
+            raise SearchError(str(exc), ids, pages) from exc
+
     def _fetch_next_page(self):
-        """
-        Fetch the next page of search results.
-        Uses the session to maintain state from the initial search.
-        
-        Returns:
-            Tuple of (list of TTB IDs from this page, has_next_page boolean)
-        """
-        try:
-            response = self.session.get(self.NEXT_PAGE_URL, timeout=30, verify=False)
-            response.raise_for_status()
-            return self._parse_search_results(response.text)
-        except Exception as e:
-            print(f"Error fetching next page: {e}")
-            return [], False
-    
+        return self._parse_search_results(self._request("get", self.NEXT_PAGE_URL).text)
+
     def _parse_search_results(self, html_content):
-        """
-        Parse the search results HTML to extract TTB IDs.
-        Returns tuple of (list of unique TTB IDs, has_next_page boolean).
-        """
-        ttb_ids = []
-        seen_ids = set()
-        has_next = False
-        
-        try:
-            soup = BeautifulSoup(html_content, 'html.parser')
-            
-            # Check for "Next >" link to determine if there are more pages
-            next_links = soup.find_all('a', string=re.compile(r'Next\s*>'))
-            has_next = len(next_links) > 0
-            
-            # Look for result tables
-            tables = soup.find_all('table')
-            
-            for table in tables:
-                # Get all rows
-                all_rows = table.find_all('tr', recursive=False)
-                if len(all_rows) < 2:  # Need at least header + 1 data row
-                    continue
-                
-                for row in all_rows[1:]:  # Skip header row
-                    # Look for links containing ttbid
-                    links = row.find_all('a', href=True)
-                    for link in links:
-                        link_href = link.get('href', '')
-                        if 'ttbid=' in link_href:
-                            # Extract TTB ID from URL
-                            match = re.search(r'ttbid=(\d+)', link_href)
-                            if match:
-                                ttb_id = match.group(1)
-                                if ttb_id not in seen_ids:
-                                    seen_ids.add(ttb_id)
-                                    ttb_ids.append(ttb_id)
-                                    if self.verbose:
-                                        print(f"    Found: {ttb_id}")
-        
-        except Exception as e:
-            print(f"Error parsing results: {e}")
-        
-        return ttb_ids, has_next
-    
+        soup = BeautifulSoup(html_content, "html.parser")
+        text = soup.get_text(" ", strip=True)
+        if re.search(r"captcha|unable to process|access denied|session (?:has )?expired|"
+                     r"unexpected error|system error", text, re.IGNORECASE):
+            raise ValueError(f"Registry returned an error: {text[:200]}")
+        ids = list(dict.fromkeys(
+            match.group(1) for link in soup.find_all("a", href=True)
+            if (match := re.search(r"ttbid=(\d+)", link["href"], re.IGNORECASE))))
+        has_next = any(re.search(r"Next\s*>", link.get_text(" ", strip=True), re.IGNORECASE)
+                       for link in soup.find_all("a"))
+        # Only explicit, recognized no-result responses can mean a successful empty search.
+        if not ids and not re.search(
+                r"no\s+(?:(?:matching|approved)\s+)?(?:records?|results?|colas?|labels?)"
+                r"|(?:0|zero)\s+(?:records?|results?)|no\s+.*?found",
+                text, re.IGNORECASE):
+            raise ValueError("Unrecognized registry response (no result IDs or explicit no-results message)")
+        if has_next and not ids:
+            raise ValueError("Empty registry page advertises additional results")
+        return ids, has_next
+
     def get_existing_ttb_ids(self, labels_dir):
-        """
-        Get list of TTB IDs that already exist in the labels directory.
-        
-        Args:
-            labels_dir: Path to labels directory
-            
-        Returns:
-            Set of existing TTB IDs
-        """
-        labels_path = Path(labels_dir)
-        existing_ids = set()
-        
-        if labels_path.exists():
-            # Each subdirectory name is a TTB ID
-            for item in labels_path.iterdir():
-                if item.is_dir() and item.name.isdigit():
-                    existing_ids.add(item.name)
-        
-        if self.verbose:
-            print(f"\nFound {len(existing_ids)} existing TTB IDs in {labels_dir}")
-        
-        return existing_ids
-    
-    def find_new_labels(self, date_from, date_to, labels_dir, origin_code='', 
-                        class_type_from='100', class_type_to='150'):
-        """
-        Find TTB IDs in registry that are not yet in the labels directory.
-        
-        Args:
-            date_from: Start date in MM/DD/YYYY format
-            date_to: End date in MM/DD/YYYY format
-            labels_dir: Path to labels directory
-            origin_code: TTB origin code (default: '' for all origin codes)
-            class_type_from: Start of product class/type range (default: 100)
-            class_type_to: End of product class/type range (default: 150)
-            
-        Returns:
-            Tuple of (list of new TTB IDs, total count from registry)
-        """
-        # Search registry
-        registry_ids = self.search_ttb_registry(
-            date_from, date_to, origin_code, class_type_from, class_type_to
-        )
-        
-        # Get existing IDs
-        existing_ids = self.get_existing_ttb_ids(labels_dir)
-        
-        # Find new IDs
-        new_ids = [ttb_id for ttb_id in registry_ids if ttb_id not in existing_ids]
-        
-        if self.verbose:
-            print(f"\n{'='*60}")
-            print(f"Results:")
-            print(f"  TTB IDs in registry: {len(registry_ids)}")
-            print(f"  Already in labels/: {len(registry_ids) - len(new_ids)}")
-            print(f"  New TTB IDs: {len(new_ids)}")
-            print(f"{'='*60}")
-        
-        return new_ids, len(registry_ids)
+        """Return only labels whose downloads AND OCR are confirmed complete."""
+        path = Path(labels_dir)
+        return {p.name for p in path.iterdir()
+                if p.is_dir() and p.name.isdigit() and ocr_complete(p)} if path.exists() else set()
+
+    def pending_local_ids(self, labels_dir):
+        path = Path(labels_dir)
+        return sorted(p.name for p in path.iterdir()
+                      if p.is_dir() and p.name.isdigit() and not ocr_complete(p)) if path.exists() else []
+
+    def work_ids(self, registry_ids, labels_dir):
+        complete = self.get_existing_ttb_ids(labels_dir)
+        return list(dict.fromkeys([value for value in registry_ids if value not in complete]
+                                  + self.pending_local_ids(labels_dir)))
+
+    def find_new_labels(self, date_from, date_to, labels_dir, origin_code="",
+                        class_type_from="100", class_type_to="150"):
+        ids = self.search_ttb_registry(date_from, date_to, origin_code, class_type_from, class_type_to)
+        return self.work_ids(ids, labels_dir), len(ids)
 
 
 def main():
-    """Main entry point"""
-    parser = argparse.ArgumentParser(
-        description='Find new TTB COLA labels not yet in the labels directory',
-        formatter_class=argparse.RawDescriptionHelpFormatter,
-        epilog="""
-Examples:
-  # Search for labels from the past 7 days
-  python3 .github/scripts/find_new_ttb_labels.py
-
-  # Search for labels in a specific date range
-  python3 .github/scripts/find_new_ttb_labels.py --from 2024-01-01 --to 2024-12-31
-  
-  # Search with verbose output
-  python3 .github/scripts/find_new_ttb_labels.py --verbose
-  
-  # Save results to JSON file
-  python3 .github/scripts/find_new_ttb_labels.py --output new_labels.json
-        """
-    )
-    parser.add_argument(
-        '--from',
-        dest='date_from',
-        help='Start date in YYYY-MM-DD format (default: 7 days ago)'
-    )
-    parser.add_argument(
-        '--to',
-        dest='date_to',
-        help='End date in YYYY-MM-DD format (default: today)'
-    )
-    parser.add_argument(
-        '--origin',
-        default='',
-        help='TTB origin code (default: empty string for all origin codes)'
-    )
-    parser.add_argument(
-        '--class-from',
-        dest='class_from',
-        default='100',
-        help='Start of product class/type range (default: 100)'
-    )
-    parser.add_argument(
-        '--class-to',
-        dest='class_to',
-        default='150',
-        help='End of product class/type range (default: 150)'
-    )
-    parser.add_argument(
-        '--labels-dir',
-        default='labels',
-        help='Path to labels directory (default: labels)'
-    )
-    parser.add_argument(
-        '--output',
-        help='Output file to save results (JSON format)'
-    )
-    parser.add_argument(
-        '--verbose', '-v',
-        action='store_true',
-        help='Enable verbose output'
-    )
-    
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--from", dest="date_from")
+    parser.add_argument("--to", dest="date_to")
+    parser.add_argument("--origin", default="")
+    parser.add_argument("--class-from", default="100")
+    parser.add_argument("--class-to", default="150")
+    parser.add_argument("--labels-dir", default="labels")
+    parser.add_argument("--output")
+    parser.add_argument("--max-pages", type=int, default=TTBLabelFinder.MAX_PAGES)
+    parser.add_argument("--verbose", "-v", action="store_true")
     args = parser.parse_args()
-    
-    # Check if dependencies are available
-    if not DEPENDENCIES_AVAILABLE:
-        print("=" * 60)
-        print("ERROR: Required dependencies not installed")
-        print("=" * 60)
-        print()
-        print("This script requires requests and beautifulsoup4.")
-        print()
-        print("To install:")
-        print("  pip install requests beautifulsoup4")
-        print()
-        sys.exit(1)
-    
-    # Parse dates
-    if args.date_to:
-        try:
-            end_date = datetime.strptime(args.date_to, '%Y-%m-%d')
-        except ValueError:
-            print(f"Error: Invalid end date format '{args.date_to}'. Use YYYY-MM-DD")
-            sys.exit(1)
-    else:
-        end_date = datetime.now()
-    
-    if args.date_from:
-        try:
-            start_date = datetime.strptime(args.date_from, '%Y-%m-%d')
-        except ValueError:
-            print(f"Error: Invalid start date format '{args.date_from}'. Use YYYY-MM-DD")
-            sys.exit(1)
-    else:
-        # Default to 7 days ago
-        start_date = end_date - timedelta(days=7)
-    
-    # Convert to MM/DD/YYYY format for TTB API
-    date_from = start_date.strftime('%m/%d/%Y')
-    date_to = end_date.strftime('%m/%d/%Y')
-    
-    print("=" * 60)
-    print("TTB COLA Registry - New Label Finder")
-    print("=" * 60)
-    print()
-    
-    # Find new labels
-    finder = TTBLabelFinder(verbose=args.verbose)
-    
+    output = {
+        "search_date": datetime.now().isoformat(), "status": "failed", "error": None,
+        "new_ttb_ids": [], "count": 0, "total_registry_results": 0,
+        "partial_ttb_ids": [], "partial_count": 0, "pages_completed": 0,
+        "date_range": {"from": args.date_from, "to": args.date_to},
+        "filters": {"origin_code": args.origin, "class_type_from": args.class_from,
+                    "class_type_to": args.class_to},
+    }
+    finder = None
     try:
-        new_ids, total_registry_results = finder.find_new_labels(
-            date_from=date_from,
-            date_to=date_to,
-            labels_dir=args.labels_dir,
-            origin_code=args.origin,
-            class_type_from=args.class_from,
-            class_type_to=args.class_to
-        )
-    except KeyboardInterrupt:
-        print("\n\nSearch interrupted by user.")
-        sys.exit(1)
-    except Exception as e:
-        print(f"\n\nError: {e}")
-        import traceback
-        traceback.print_exc()
-        sys.exit(1)
-    
-    # Display results
-    print()
-    if new_ids:
-        print(f"Found {len(new_ids)} new TTB ID(s):")
-        for ttb_id in new_ids:
-            url = f"https://www.ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid={ttb_id}"
-            print(f"  - {ttb_id}: {url}")
-        
-        # Save to file if requested
-        if args.output:
-            output_data = {
-                'search_date': datetime.now().isoformat(),
-                'date_range': {
-                    'from': args.date_from or start_date.strftime('%Y-%m-%d'),
-                    'to': args.date_to or end_date.strftime('%Y-%m-%d')
-                },
-                'filters': {
-                    'origin_code': args.origin,
-                    'class_type_from': args.class_from,
-                    'class_type_to': args.class_to
-                },
-                'new_ttb_ids': new_ids,
-                'count': len(new_ids),
-                'total_registry_results': total_registry_results
-            }
-            
-            with open(args.output, 'w') as f:
-                json.dump(output_data, f, indent=2)
-            print(f"\nResults saved to: {args.output}")
-    else:
-        print("No new TTB IDs found.")
-        
-        # Save to file even if no new labels (for workflow to read)
-        if args.output:
-            output_data = {
-                'search_date': datetime.now().isoformat(),
-                'date_range': {
-                    'from': args.date_from or start_date.strftime('%Y-%m-%d'),
-                    'to': args.date_to or end_date.strftime('%Y-%m-%d')
-                },
-                'filters': {
-                    'origin_code': args.origin,
-                    'class_type_from': args.class_from,
-                    'class_type_to': args.class_to
-                },
-                'new_ttb_ids': [],
-                'count': 0,
-                'total_registry_results': total_registry_results
-            }
-            
-            with open(args.output, 'w') as f:
-                json.dump(output_data, f, indent=2)
-    
-    print()
+        if not DEPENDENCIES_AVAILABLE:
+            raise RuntimeError("Required dependencies requests and beautifulsoup4 are not installed")
+        end = datetime.strptime(args.date_to, "%Y-%m-%d") if args.date_to else datetime.now()
+        start = datetime.strptime(args.date_from, "%Y-%m-%d") if args.date_from else end - timedelta(days=7)
+        if start > end or args.max_pages < 1:
+            raise ValueError("Date range must be ordered and --max-pages must be positive")
+        output["date_range"] = {"from": start.strftime("%Y-%m-%d"), "to": end.strftime("%Y-%m-%d")}
+        finder = TTBLabelFinder(args.verbose)
+        finder.MAX_PAGES = args.max_pages
+        ids = finder.search_ttb_registry(start.strftime("%m/%d/%Y"), end.strftime("%m/%d/%Y"),
+                                         args.origin, args.class_from, args.class_to)
+        output.update(status="complete", new_ttb_ids=finder.work_ids(ids, args.labels_dir),
+                      total_registry_results=len(ids))
+    except SearchError as exc:
+        output.update(status="partial" if exc.pages_completed else "failed", error=str(exc),
+                      partial_ttb_ids=exc.partial_ids, partial_count=len(exc.partial_ids),
+                      total_registry_results=len(exc.partial_ids), pages_completed=exc.pages_completed)
+        output["new_ttb_ids"] = finder.work_ids(exc.partial_ids, args.labels_dir)
+    except Exception as exc:
+        output["error"] = str(exc)
+        if finder:
+            output["new_ttb_ids"] = finder.pending_local_ids(args.labels_dir)
+    output["count"] = len(output["new_ttb_ids"])
+    encoded = json.dumps(output, indent=2)
+    if args.output:
+        Path(args.output).write_text(encoded + "\n", encoding="utf-8")
+    print(encoded)
+    return 0 if output["status"] == "complete" else 1
 
 
-if __name__ == '__main__':
-    main()
+if __name__ == "__main__":
+    sys.exit(main())

@@ -1,0 +1,41 @@
+name: Monitor All Links
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: monitor-links
+  cancel-in-progress: false
+
+jobs:
+  validate-links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Validate all product links
+        run: |
+          python3 .github/scripts/validate_urls.py \
+            --report url-report.json --summary "$GITHUB_STEP_SUMMARY"
+      - name: Validate TTB links without modifying data
+        if: always()
+        run: |
+          set -o pipefail
+          python3 .github/scripts/validate_ttb_urls.py 2>&1 | tee ttb-report.txt
+      - name: Upload link diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: full-link-report
+          path: |
+            url-report.json
+            ttb-report.txt
+          retention-days: 30

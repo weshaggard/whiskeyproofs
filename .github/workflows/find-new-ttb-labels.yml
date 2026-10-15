@@ -22,6 +22,10 @@ permissions:
   contents: write
   pull-requests: write
 
+concurrency:
+  group: automated-new-ttb-labels
+  cancel-in-progress: false
+
 jobs:
   find-new-labels:
     runs-on: ubuntu-latest
@@ -42,37 +46,56 @@ jobs:
           fetch-depth: 0
           token: ${{ steps.generate_token.outputs.token }}
       
-      - name: Switch to PR branch if it already exists
+      - name: Synchronize automation branch with main
         run: |
-          if git fetch origin automated/new-ttb-labels 2>/dev/null; then
-            git checkout automated/new-ttb-labels
-            echo "Checked out existing PR branch — new changes will be additive"
+          git config user.name "whiskey-automation[bot]"
+          git config user.email "262019200+whiskey-automation[bot]@users.noreply.github.com"
+          git fetch origin main
+          REMOTE_BRANCH=$(git ls-remote --heads origin automated/new-ttb-labels)
+          if [ -n "$REMOTE_BRANCH" ]; then
+            git fetch origin automated/new-ttb-labels
+            git checkout -B automated/new-ttb-labels FETCH_HEAD
+            git merge --no-edit origin/main
           else
-            echo "Branch does not exist yet — it will be created from the current checkout"
+            git checkout -b automated/new-ttb-labels origin/main
           fi
       
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
-          python-version: '3.x'
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: |
+            .github/scripts/requirements.txt
+            .github/scripts/requirements-test.txt
+
+      - name: Cache OCR models
+        uses: actions/cache@v4.3.0
+        with:
+          path: ~/.EasyOCR
+          key: easyocr-1.7.2-en-${{ runner.os }}
       
       - name: Install dependencies
         run: |
+          sudo apt-get update
           sudo apt-get install -y tesseract-ocr
-          pip install requests beautifulsoup4 pytesseract Pillow easyocr
+          pip install -r .github/scripts/requirements.txt
       
       - name: Find new TTB labels
         id: find_labels
+        env:
+          INPUT_DATE_FROM: ${{ inputs.date_from }}
+          INPUT_DATE_TO: ${{ inputs.date_to }}
         run: |
           # Set date range
-          if [ -n "${{ github.event.inputs.date_from }}" ]; then
-            DATE_FROM="${{ github.event.inputs.date_from }}"
+          if [ -n "$INPUT_DATE_FROM" ]; then
+            DATE_FROM="$INPUT_DATE_FROM"
           else
             DATE_FROM=$(date -d '7 days ago' +%Y-%m-%d)
           fi
           
-          if [ -n "${{ github.event.inputs.date_to }}" ]; then
-            DATE_TO="${{ github.event.inputs.date_to }}"
+          if [ -n "$INPUT_DATE_TO" ]; then
+            DATE_TO="$INPUT_DATE_TO"
           else
             DATE_TO=$(date +%Y-%m-%d)
           fi
@@ -86,7 +109,7 @@ jobs:
             --to "${DATE_TO}" \
             --origin "" \
             --output new_labels.json \
-            --verbose | tee search_output.txt
+            --verbose 2>&1 | tee search_output.txt
           
           # Check if any new labels were found
           NEW_COUNT=$(python3 -c "import json; data=json.load(open('new_labels.json')); print(data.get('count', 0))")
@@ -154,23 +177,28 @@ jobs:
       
       - name: Run OCR on new labels
         if: steps.find_labels.outputs.has_new_labels == 'true'
-        run: |
-          # Extract TTB IDs from JSON and run OCR on each newly downloaded label
-          TTB_IDS=$(python3 -c "import json; data=json.load(open('new_labels.json')); print(' '.join(data['new_ttb_ids']))")
-          
-          for TTB_ID in $TTB_IDS; do
-            if [ -d "labels/$TTB_ID" ]; then
-              echo "Running OCR for TTB ID: $TTB_ID"
-              python3 .github/scripts/extract_label_text.py --ttbid "$TTB_ID" || echo "  ⚠️ OCR failed for $TTB_ID (non-fatal)"
-            fi
-          done
+        id: ocr
+        continue-on-error: true
+        run: python3 .github/scripts/extract_label_text.py --ids-file new_labels.json --output ocr-results.json
+
+      - name: Refresh GitHub App token
+        if: steps.find_labels.outputs.has_new_labels == 'true'
+        id: refresh_token
+        uses: actions/create-github-app-token@v3
+        with:
+          client-id: ${{ secrets.APP_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+          repositories: ${{ github.event.repository.name }}
       
       - name: Commit and push changes
         id: commit_push
         if: steps.find_labels.outputs.has_new_labels == 'true'
+        env:
+          GITHUB_APP_TOKEN: ${{ steps.refresh_token.outputs.token }}
         run: |
           git config user.name "whiskey-automation[bot]"
           git config user.email "262019200+whiskey-automation[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${GITHUB_APP_TOKEN}@github.com/${{ github.repository }}.git
 
           # Ensure we are on the PR branch (create it from current HEAD if it doesn't exist yet)
           CURRENT_BRANCH=$(git branch --show-current)
@@ -178,13 +206,21 @@ jobs:
             git checkout -b automated/new-ttb-labels
           fi
 
-          git add -A
+          git reset --quiet HEAD
+          git add -- labels/
 
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
+          if ! git diff --cached --quiet; then
+            git commit -m "Add new TTB labels from ${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }}"
+          fi
+
+          UPSTREAM=origin/main
+          if git show-ref --verify --quiet refs/remotes/origin/automated/new-ttb-labels; then
+            UPSTREAM=origin/automated/new-ttb-labels
+          fi
+          if git diff --quiet origin/main HEAD -- labels/ ||
+             [ "$(git rev-parse HEAD)" = "$(git rev-parse "$UPSTREAM")" ]; then
             echo "has_changes=false" >> $GITHUB_OUTPUT
           else
-            git commit -m "Add new TTB labels from ${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }}"
             git push origin automated/new-ttb-labels
             echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
@@ -192,7 +228,7 @@ jobs:
       - name: Create or update Pull Request
         if: steps.commit_push.outputs.has_changes == 'true'
         env:
-          GH_TOKEN: ${{ steps.generate_token.outputs.token }}
+          GH_TOKEN: ${{ steps.refresh_token.outputs.token }}
         run: |
           EXISTING_PR=$(gh pr list --head automated/new-ttb-labels --base main --json number --jq '.[0].number' 2>/dev/null)
 
@@ -203,7 +239,7 @@ jobs:
               'This PR was automatically created by the daily TTB label finder workflow.' \
               '' \
               '**Search Date Range:** ${{ steps.find_labels.outputs.date_from }} to ${{ steps.find_labels.outputs.date_to }}' \
-              '**New Labels Found:** ${{ steps.find_labels.outputs.new_count }}' \
+              '**Labels Queued (new or unfinished):** ${{ steps.find_labels.outputs.new_count }}' \
               '**Download Results:** ${{ steps.download_labels.outputs.success_count }} succeeded, ${{ steps.download_labels.outputs.fail_count }} failed' \
               '**Total Registry Results:** ${{ steps.find_labels.outputs.total_results }}' \
               '' \
@@ -214,7 +250,7 @@ jobs:
               '' \
               '### New TTB IDs' \
               '' \
-              'The following new TTB IDs were found and downloaded:' \
+              'The following TTB IDs were queued; see download results and per-label state for completion:' \
               '' \
               '${{ steps.download_labels.outputs.ttb_list }}' \
               '' \
@@ -241,14 +277,32 @@ jobs:
           fi
       
       - name: Upload search results as artifact
-        if: steps.find_labels.outputs.has_new_labels == 'true'
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: new-labels-${{ steps.find_labels.outputs.date_to }}
           path: |
             new_labels.json
             search_output.txt
+            ocr-results.json
           retention-days: 30
+
+      - name: Publish discovery summary
+        if: always()
+        env:
+          SEARCH_OUTCOME: ${{ steps.find_labels.outcome }}
+          NEW_COUNT: ${{ steps.find_labels.outputs.new_count }}
+          DOWNLOAD_FAILED: ${{ steps.download_labels.outputs.fail_count }}
+          OCR_OUTCOME: ${{ steps.ocr.outcome }}
+        run: |
+          {
+            echo "## TTB discovery"
+            echo "- Search: $SEARCH_OUTCOME"
+            echo "- Labels queued: ${NEW_COUNT:-unknown}"
+            echo "- Failed downloads: ${DOWNLOAD_FAILED:-0}"
+            echo "- OCR: $OCR_OUTCOME"
+            echo "See search artifacts and per-label manifests for retry state."
+          } >> "$GITHUB_STEP_SUMMARY"
       
       - name: No new labels found
         if: steps.find_labels.outputs.has_new_labels == 'false'

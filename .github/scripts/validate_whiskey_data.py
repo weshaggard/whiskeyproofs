@@ -1,321 +1,210 @@
 #!/usr/bin/env python3
-"""
-Validation script for whiskeyindex.csv
-Checks data quality and sort order according to repository standards.
-"""
+"""Validate whiskeyindex.csv data quality, schema, and sort order."""
 
 import csv
 import re
 import sys
 from collections import defaultdict
+from decimal import Decimal
+
+
+CSV_FIELDS = ('Name', 'Batch', 'Age', 'Proof', 'ReleaseYear',
+              'Distillery', 'Type', 'TTB_ID', 'url')
+REQUIRED_FIELDS = ('Name', 'Batch', 'Proof', 'ReleaseYear', 'Distillery', 'Type')
+NUMBER = r'[0-9]+(?:\.[0-9]+)?'
 
 
 class ReverseStr:
-    """Wrapper class for reverse string comparison (descending alphabetical order)"""
-    def __init__(self, s):
-        self.s = s
+    """Compare strings in descending alphabetical order."""
+
+    def __init__(self, value):
+        self.s = value
+
     def __lt__(self, other):
         return self.s > other.s
-    def __le__(self, other):
-        return self.s >= other.s
-    def __gt__(self, other):
-        return self.s < other.s
-    def __ge__(self, other):
-        return self.s <= other.s
+
     def __eq__(self, other):
-        return self.s == other.s
+        return isinstance(other, ReverseStr) and self.s == other.s
+
     def __repr__(self):
         return f'ReverseStr({self.s!r})'
 
 
 def extract_numeric_from_batch(batch):
-    """Extract numeric value from batch for numeric sorting"""
-    match = re.search(r'\b(\d+)\b', batch)
-    if match:
-        return int(match.group(1))
-    return None
+    """Extract a standalone numeric batch value."""
+    match = re.search(r'\b([0-9]+)\b', batch)
+    return int(match.group(1)) if match else None
 
 
 def batch_sort_key(batch, release_year):
+    """Return uniformly typed keys, including for mixed batch conventions.
+
+    Preserve established pattern precedence. Year, seasonal, and parenthetical
+    batches share chronological ordering. Pattern-specific text tie breakers
+    retain existing ordering, with parenthetical variants descending.
+    General variants group by descending name before descending release year.
+    Invalid release years use a sentinel here and are diagnosed by validation.
     """
-    Create a sort key for batch ordering (descending - newest/latest first).
-    
-    Handles various batch naming conventions:
-    - Year-batch format (2025-04, 2024-03)
-    - Seasonal batches (Fall 2025, Spring 2024)
-    - Letter-number format (C925, B524, A123)  
-    - Batch N format (Batch 15, Batch 2)
-    - Numeric batches (18, 17, 16)
-    - Chapter format (Chapter 9, Chapter 8)
-    - Year-letter codes (25C, 24D, 23A)
-    - Number prefix with text (6 - LA/NE, 5 - LL/LE)
-    - Year with parenthetical (2017 (Other States))
-    """
-    
-    # Handle year-batch format like "2025-04", "2024-03"
-    year_batch_match = re.match(r'^(\d{4})-(\d+)', batch)
-    if year_batch_match:
-        year = int(year_batch_match.group(1))
-        batch_num = int(year_batch_match.group(2))
-        return (0, -year, -batch_num, batch)
-    
-    # Handle number prefix with text (e.g., "6 - LA/NE", "5 - LL/LE")
-    # MUST come before seasonal check to handle "6 - LA/NE (Spring 2025)" correctly
-    number_prefix_match = re.match(r'^(\d+)\s*-\s*', batch)
-    if number_prefix_match:
-        number = int(number_prefix_match.group(1))
-        year_to_use = release_year.split('-')[0] if '-' in release_year else release_year
-        return (7, -int(year_to_use), -number, batch)
-    
-    # Handle seasonal batches (Fall/Spring)
+    year_text = release_year.split('-')[0]
+    release = int(year_text) if re.fullmatch(r'[0-9]{4}', year_text) else 0
+
+    def key(category, first=0, second=0, descending=False):
+        return (category, first, second, '' if descending else batch,
+                ReverseStr(batch if descending else ''), -release)
+
+    match = re.match(r'^([0-9]{4})-([0-9]+)', batch)
+    if match:
+        return key(0, -int(match[1]), -int(match[2]))
+    match = re.match(r'^([0-9]+)\s*-\s*', batch)
+    if match:
+        return key(7, -release, -int(match[1]))
     if 'Fall' in batch or 'Spring' in batch:
-        year_match = re.search(r'(\d{4})', batch)
-        year_to_use = release_year.split('-')[0] if '-' in release_year else release_year
-        year = int(year_match.group(1)) if year_match else int(year_to_use)
-        season = 'Fall' if 'Fall' in batch else 'Spring'
-        season_order = 0 if season == 'Fall' else 1
-        return (8, -year, season_order, batch)
-    
-    # Handle ECBP-style letter-number format (C925, B524, A123, A314, A215)
-    ecbp_match = re.match(r'^([A-Z])(\d+)$', batch)
-    if ecbp_match and len(ecbp_match.group(2)) in [3, 2]:
-        letter = ecbp_match.group(1)
-        year_to_use = release_year.split('-')[0] if '-' in release_year else release_year
-        year = int(year_to_use)
-        # C > B > A for descending (C is 3rd/latest batch of year)
-        letter_value = ord(letter) - ord('A') + 1
-        return (2, -year, -letter_value, batch)
-    
-    # Handle "Batch N" format
-    if batch.startswith('Batch '):
-        batch_num_match = re.search(r'Batch (\d+)', batch)
-        if batch_num_match:
-            batch_num = int(batch_num_match.group(1))
-            return (3, -batch_num, batch)
-    
-    # Handle pure year batches (e.g., "2018", "2016") - MUST come before generic numeric check
-    if batch.isdigit() and len(batch) == 4:
-        year = int(batch)
-        return (8, -year, batch)
-    
-    # Handle pure numeric batches (e.g., "18", "17", "16" for Stagg Jr)
-    if batch.isdigit():
-        return (4, -int(batch), batch)
-    
-    # Handle "Chapter N" format
-    if 'Chapter' in batch:
-        chapter_match = re.search(r'Chapter (\d+)', batch)
-        if chapter_match:
-            chapter_num = int(chapter_match.group(1))
-            return (5, -chapter_num, batch)
-    
-    # Handle "Pact N" format (Blood Oath)
-    if batch.startswith('Pact '):
-        pact_match = re.search(r'Pact (\d+)', batch)
-        if pact_match:
-            pact_num = int(pact_match.group(1))
-            return (10, -pact_num, batch)
-    
-    # Handle "Series" format with Roman numerals or numbers (e.g., "Series IX", "Series VIII")
-    if batch.startswith('Series '):
-        # Convert Roman numerals to integers for proper sorting
-        roman_map = {'I': 1, 'II': 2, 'III': 3, 'IV': 4, 'V': 5, 'VI': 6, 'VII': 7, 'VIII': 8, 'IX': 9, 'X': 10}
-        series_match = re.search(r'Series ([IVX]+)', batch)
-        if series_match:
-            roman = series_match.group(1)
-            if roman in roman_map:
-                return (11, -roman_map[roman], batch)
-    
-    # Handle Stagg batch codes like "25C", "24D", "23A"
-    batch_code_match = re.match(r'^(\d{2})([A-Z])$', batch)
-    if batch_code_match:
-        year_suffix = int(batch_code_match.group(1))
-        letter = batch_code_match.group(2)
-        year = 2000 + year_suffix
-        letter_value = ord(letter) - ord('A') + 1
-        return (6, -year, -letter_value, batch)
-    
-    # Handle year with parenthetical text (e.g., "2017 (Other States)", "2017 (FL/GA/KY)")
-    year_paren_match = re.match(r'^(\d{4})\s*\(', batch)
-    if year_paren_match:
-        year = int(year_paren_match.group(1))
-        # Sort alphabetically descending by the batch string
-        return (8, -year, ReverseStr(batch))
-    
-    # Default: use alphabetical descending (batch name first), then year descending
-    # Handle year ranges (e.g., "1999-2025") by using the first year
-    year_to_use = release_year.split('-')[0] if '-' in release_year else release_year
-    return (99, ReverseStr(batch), -int(year_to_use))
+        match = re.search(r'[0-9]{4}', batch)
+        year = int(match[0]) if match else release
+        return key(8, -year, 0 if 'Fall' in batch else 1)
+    match = re.fullmatch(r'([A-Z])([0-9]{2,3})', batch)
+    if match:
+        return key(2, -release, -ord(match[1]))
+    match = re.match(r'^Batch ([0-9]+)', batch)
+    if match:
+        return key(3, -int(match[1]))
+    if re.fullmatch(r'[0-9]{4}', batch):
+        return key(8, -int(batch))
+    if re.fullmatch(r'[0-9]+', batch):
+        return key(4, -int(batch))
+    match = re.search(r'\bChapter ([0-9]+)\b', batch)
+    if match:
+        return key(5, -int(match[1]))
+    match = re.match(r'^Pact ([0-9]+)', batch)
+    if match:
+        return key(10, -int(match[1]))
+    match = re.fullmatch(r'Series ([IVX]+|[0-9]+)', batch)
+    if match:
+        roman_map = {'I': 1, 'II': 2, 'III': 3, 'IV': 4, 'V': 5,
+                     'VI': 6, 'VII': 7, 'VIII': 8, 'IX': 9, 'X': 10}
+        value = int(match[1]) if match[1].isdigit() else roman_map.get(match[1])
+        if value is not None:
+            return key(11, -value)
+    match = re.fullmatch(r'([0-9]{2})([A-Z])', batch)
+    if match:
+        return key(6, -(2000 + int(match[1])), -ord(match[2]))
+    match = re.match(r'^([0-9]{4})\s*\(', batch)
+    if match:
+        return key(8, -int(match[1]), descending=True)
+    return key(99, descending=True)
+
+
+def valid_proof(proof):
+    """Accept positive numbers or ascending ranges, without integer decimals."""
+    if not re.fullmatch(rf'{NUMBER}(?:-{NUMBER})?', proof):
+        return False
+    parts = proof.split('-')
+    values = [Decimal(part) for part in parts]
+    if any(value <= 0 for value in values):
+        return False
+    if any('.' in part and value == value.to_integral_value()
+           for part, value in zip(parts, values)):
+        return False
+    return len(values) == 1 or values[0] <= values[1]
+
+
+def valid_year(year):
+    """Allow modern release years and historical standard-release ranges."""
+    if re.fullmatch(r'[0-9]{4}-[0-9]{4}', year):
+        start, end = map(int, year.split('-'))
+        return 1900 <= start <= end <= 2030
+    return bool(re.fullmatch(r'[0-9]{4}', year)) and 2000 <= int(year) <= 2030
 
 
 def validate_csv(filename):
-    """Validate the CSV file for data quality and sort order"""
-    
-    # Read the CSV file
+    """Report invalid data without crashing on malformed input."""
+    issues = []
+    rows = []
     try:
-        with open(filename, 'r') as f:
-            reader = csv.DictReader(f)
-            rows = list(reader)
-    except Exception as e:
-        print(f"❌ Error reading CSV file: {e}")
+        with open(filename, encoding='utf-8-sig', newline='') as source:
+            reader = csv.reader(source, strict=True)
+            header = next(reader, None)
+            if header is None:
+                print('❌ Empty CSV file: missing header and data')
+                return False
+            if len(header) != len(set(header)):
+                issues.append('Header: duplicate column names')
+            missing = sorted(set(CSV_FIELDS) - set(header))
+            unexpected = sorted(set(header) - set(CSV_FIELDS))
+            if missing:
+                issues.append(f"Header: missing columns: {', '.join(missing)}")
+            if unexpected:
+                issues.append(f"Header: unexpected columns: {', '.join(unexpected)}")
+            if issues:
+                for issue in issues:
+                    print(f'❌ {issue}')
+                return False
+            for values in reader:
+                line = reader.line_num
+                if len(values) != len(header):
+                    issues.append(
+                        f'Line {line}: Malformed row: expected {len(header)} fields, '
+                        f'found {len(values)}')
+                    continue
+                rows.append((line, dict(zip(header, (v.strip() for v in values)))))
+    except (OSError, UnicodeError, csv.Error) as error:
+        line = reader.line_num if 'reader' in locals() else '?'
+        print(f'❌ Error reading CSV file at line {line}: {error}')
         return False
-    
-    all_valid = True
-    
-    print("=== Data Quality Checks ===\n")
-    
-    # 1. Check for missing required fields
-    print("1. Checking required fields...")
-    missing_fields = []
-    for i, row in enumerate(rows, start=2):
-        for field in ['Name', 'Batch', 'Proof', 'ReleaseYear', 'Distillery', 'Type']:
-            if not row[field].strip():
-                missing_fields.append(f"Line {i}: Missing {field} for {row['Name']}")
-    
-    if missing_fields:
-        print(f"   ❌ Found {len(missing_fields)} missing fields:")
-        for issue in missing_fields[:10]:
-            print(f"      {issue}")
-        if len(missing_fields) > 10:
-            print(f"      ... and {len(missing_fields) - 10} more")
-        all_valid = False
-    else:
-        print("   ✓ All required fields present")
-    
-    # 2. Check proof values
-    print("\n2. Checking proof values...")
-    invalid_proofs = []
-    for i, row in enumerate(rows, start=2):
-        proof = row['Proof'].strip()
-        # Skip empty proofs (they'll be caught by missing fields check)
-        if proof and not re.match(r'^[\d\.\-]+$', proof):
-            invalid_proofs.append(f"Line {i}: Invalid proof '{proof}' for {row['Name']}")
-    
-    if invalid_proofs:
-        print(f"   ❌ Found {len(invalid_proofs)} invalid proof values:")
-        for issue in invalid_proofs[:10]:
-            print(f"      {issue}")
-        all_valid = False
-    else:
-        print("   ✓ All proof values valid")
-    
-    # 3. Check release years
-    print("\n3. Checking release years...")
-    invalid_years = []
-    for i, row in enumerate(rows, start=2):
-        year = row['ReleaseYear'].strip()
-        # Check for year ranges (e.g., "1999-2025") or single years
-        if re.match(r'^\d{4}-\d{4}$', year):
-            # Year range format
-            start_year, end_year = map(int, year.split('-'))
-            if start_year < 1900 or start_year > end_year or end_year > 2030:
-                invalid_years.append(f"Line {i}: Invalid year range '{year}' for {row['Name']}")
-        elif not re.match(r'^\d{4}$', year):
-            invalid_years.append(f"Line {i}: Invalid year '{year}' for {row['Name']}")
-        elif int(year) < 2000 or int(year) > 2030:
-            invalid_years.append(f"Line {i}: Unusual year '{year}' for {row['Name']}")
-    
-    if invalid_years:
-        print(f"   ⚠ Found {len(invalid_years)} year issues:")
-        for issue in invalid_years[:10]:
-            print(f"      {issue}")
-    else:
-        print("   ✓ All release years valid")
-    
-    # 4. Check for duplicates
-    print("\n4. Checking for duplicates...")
-    seen = set()
-    duplicates = []
-    for i, row in enumerate(rows, start=2):
-        key = (row['Name'], row['Batch'], row['ReleaseYear'])
-        if key in seen:
-            duplicates.append(f"Line {i}: Duplicate {row['Name']} - {row['Batch']} ({row['ReleaseYear']})")
-        seen.add(key)
-    
-    if duplicates:
-        print(f"   ❌ Found {len(duplicates)} duplicates:")
-        for issue in duplicates:
-            print(f"      {issue}")
-        all_valid = False
-    else:
-        print("   ✓ No duplicates found")
-    
-    # 5. Check sort order
-    print("\n5. Checking sort order...")
-    sort_issues = []
-    
-    # Group by product name
+
+    if not rows:
+        issues.append('CSV contains no data rows')
+
     products = defaultdict(list)
-    for i, row in enumerate(rows, start=2):
-        products[row['Name']].append((i, row))
-    
-    # Check alphabetical order of products
-    product_names = list(products.keys())
-    sorted_names = sorted(product_names)
-    
-    if product_names != sorted_names:
-        print("   ❌ Products not in alphabetical order")
-        # Find and show which products are out of order
-        product_order_issues = []
-        for i, (actual, expected) in enumerate(zip(product_names, sorted_names)):
-            if actual != expected:
-                product_order_issues.append(
-                    f"Position {i+1}: Found '{actual}', expected '{expected}'"
-                )
-        
-        if product_order_issues:
-            print("   Product ordering issues:")
-            for issue in product_order_issues[:5]:
-                print(f"      {issue}")
-            if len(product_order_issues) > 5:
-                print(f"      ... and {len(product_order_issues) - 5} more")
-        all_valid = False
-    else:
-        # Check batch order within each product
-        for product_name, product_rows in products.items():
-            prev_key = None
-            prev_batch = None
-            for line_num, row in product_rows:
-                current_key = batch_sort_key(row['Batch'], row['ReleaseYear'])
-                # Keys use negated values for descending, so current < prev is an error
-                # Compare all elements of the sort key to properly validate ordering
-                if prev_key is not None:
-                    if current_key < prev_key:
-                        sort_issues.append(
-                            f"Line {line_num}: {product_name} batch '{row['Batch']}' ({row['ReleaseYear']}) " 
-                            f"should come before '{prev_batch}' (sort keys: {current_key} < {prev_key})"
-                        )
-                prev_key = current_key
-                prev_batch = row['Batch']
-    
-    if sort_issues:
-        print(f"   ❌ Found {len(sort_issues)} sort order issues:")
-        for issue in sort_issues[:10]:
-            print(f"      {issue}")
-        if len(sort_issues) > 10:
-            print(f"      ... and {len(sort_issues) - 10} more")
-        all_valid = False
-    else:
-        print("   ✓ Sort order correct (Name: ascending, Batch: descending)")
-    
-    # Summary
-    print("\n=== Summary ===")
-    print(f"Total entries: {len(rows)}")
-    print(f"Unique products: {len(products)}")
-    print(f"Years covered: {min(r['ReleaseYear'] for r in rows)} - {max(r['ReleaseYear'] for r in rows)}")
-    
-    if all_valid:
-        print("\n✅ All checks passed!")
-        return True
-    else:
-        print("\n❌ Validation failed - please fix the issues above")
-        return False
+    seen = set()
+    previous_name = None
+    closed_products = set()
+    for line, row in rows:
+        name, batch, year = row['Name'], row['Batch'], row['ReleaseYear']
+        for field in REQUIRED_FIELDS:
+            if not row[field]:
+                issues.append(f'Line {line}: Missing {field} for {name}')
+        if row['Proof'] and not valid_proof(row['Proof']):
+            issues.append(f"Line {line}: Invalid proof '{row['Proof']}' for {name}")
+        age = row['Age']
+        if age and not re.fullmatch(r'[0-9]+(?:\.[0-9]{1,2})?', age):
+            issues.append(f"Line {line}: Invalid Age '{age}' for {name}")
+        if not valid_year(year):
+            issues.append(f"Line {line}: Invalid release year '{year}' for {name}")
+        identity = (name, batch, year)
+        if identity in seen:
+            issues.append(f'Line {line}: Duplicate {name} - {batch} ({year})')
+        seen.add(identity)
+        if previous_name is not None and name != previous_name:
+            closed_products.add(previous_name)
+            if name in closed_products:
+                issues.append(f"Line {line}: Product '{name}' is not contiguous")
+            if name < previous_name:
+                issues.append(f"Line {line}: Products not in alphabetical order: "
+                              f"'{name}' follows '{previous_name}'")
+        previous_name = name
+        products[name].append((line, row))
+
+    for name, entries in products.items():
+        previous_key = None
+        previous_batch = None
+        for line, row in entries:
+            current_key = batch_sort_key(row['Batch'], row['ReleaseYear'])
+            if previous_key is not None and current_key < previous_key:
+                issues.append(f"Line {line}: {name} batch '{row['Batch']}' "
+                              f"should come before '{previous_batch}'")
+            previous_key, previous_batch = current_key, row['Batch']
+
+    print('=== Data Quality and Sort Checks ===')
+    for issue in issues:
+        print(f'❌ {issue}')
+    print(f'\nTotal entries: {len(rows)}')
+    print(f'Unique products: {len(products)}')
+    print(f'Validation errors: {len(issues)}')
+    print('\n❌ Validation failed' if issues else '\n✅ All checks passed!')
+    return not issues
 
 
 if __name__ == '__main__':
-    filename = '_data/whiskeyindex.csv'
-    if len(sys.argv) > 1:
-        filename = sys.argv[1]
-    
-    success = validate_csv(filename)
-    sys.exit(0 if success else 1)
+    filename = sys.argv[1] if len(sys.argv) > 1 else '_data/whiskeyindex.csv'
+    sys.exit(0 if validate_csv(filename) else 1)

@@ -12,6 +12,37 @@ This directory contains utility scripts for the Whiskey Proofs database.
 - **[TTB Query Guide](TTB_QUERY_GUIDE.md)** - Complete guide for finding TTB IDs
 - **[TTB Accuracy Notes](TTB_ACCURACY_NOTES.md)** - Important information about TTB IDs
 
+## Automation reliability
+
+Run script regression tests from the repository root with
+`python3 -m unittest discover -s tests -v`. Install the lightweight test dependencies
+with `python3 -m pip install -r .github/scripts/requirements-test.txt`.
+The label workflow installs the pinned OCR dependencies from `requirements.txt`;
+EasyOCR models and pip downloads are cached. Release discovery uses the locked
+Copilot CLI in `.github/automation` (`npm ci --prefix .github/automation`).
+
+Discovery workflows serialize updates to their respective automation branches.
+Existing branches merge `origin/main` before discovery; conflicts stop the run
+without discarding pending additions. Only the CSV and label files are staged
+for release discovery, and only label files for label discovery. App credentials
+are refreshed before publishing.
+
+PR builds validate only URLs absent from the base CSV, using
+`validate_urls.py --base-ref <base-sha> --report url-report.json --summary <path>`.
+The weekly **Monitor All Links** workflow checks all product URLs and TTB IDs
+without changing data, preserving diagnostics as artifacts. Product URL checks
+fall back to GET when HEAD is unsupported. Temporary failures are retried and
+reported separately from confirmed invalid links. TTB `--apply` removes only
+confirmed-invalid IDs, not IDs that could not be verified during an outage.
+
+Label discovery writes explicit complete, partial, or failed search status to
+its JSON output and fails on incomplete searches. Search artifacts are retained
+even for empty or unsuccessful searches. Per-label state tracks expected and
+downloaded images independently of OCR completion so unfinished work can resume.
+`extract_label_text.py --ids-file new_labels.json` processes the queued labels
+in one process, sharing the OCR model. Explicit proof values are preserved;
+only values labeled as ABV are doubled.
+
 ## Available Scripts
 
 ### find_new_ttb_labels.py
