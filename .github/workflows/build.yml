@@ -32,15 +32,33 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
-          python-version: '3.x'
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: .github/scripts/requirements-test.txt
+      - name: Install script test dependencies
+        run: pip install -r .github/scripts/requirements-test.txt
+      - name: Run script regression tests
+        run: python3 -m unittest discover -s tests -v
       - name: Run data validation script
         run: python3 .github/scripts/validate_whiskey_data.py
-      - name: Run URL validation script
-        continue-on-error: true
-        run: python3 .github/scripts/validate_urls.py
+      - name: Check changed URLs
+        if: github.event_name == 'pull_request'
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: |
+          python3 .github/scripts/validate_urls.py \
+            --base-ref "$BASE_SHA" --report url-report.json --summary "$GITHUB_STEP_SUMMARY"
+      - name: Upload link report
+        if: always() && github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: changed-url-report
+          path: url-report.json
       - name: Setup Ruby
         # https://github.com/ruby/setup-ruby/releases/tag/v1.290.0
         uses: ruby/setup-ruby@6ca151fd1bfcfd6fe0c4eb6837eb0584d0134a0c

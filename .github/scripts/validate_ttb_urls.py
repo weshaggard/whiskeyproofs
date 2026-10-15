@@ -11,11 +11,13 @@ Invalid TTB IDs will be removed from the CSV file.
 """
 
 import csv
+import http.client
 import sys
+import urllib.error
 import urllib.request
 import ssl
 import time
-from typing import Dict, List, Tuple
+from typing import Dict, Optional, Tuple
 
 # TTB URL format threshold - prefixes < 9 use old format, >= 9 use new format
 # This matches the logic in index.md and reflects the TTB system change around 2009
@@ -37,32 +39,9 @@ TTB_ERROR_MESSAGE = 'Unable to process request'
 # Error messages appear early in the response, no need to read entire page
 MAX_CONTENT_BYTES = 10000  # 10KB should be enough to catch error messages
 
-# Prefix used to tag transient network errors (connection reset, timeout, etc.)
-# These are NOT invalid TTB IDs — the server was simply unreachable.
-TRANSIENT_ERROR_PREFIX = 'Transient: '
-
-# Substrings that indicate a transient / network-level failure rather than
-# the TTB ID itself being invalid.  Checked case-insensitively.
-TRANSIENT_ERROR_PATTERNS = [
-    'Connection reset by peer',
-    'Connection refused',
-    'timed out',
-    'RemoteDisconnected',
-    'IncompleteRead',
-    'ConnectionAbortedError',
-    'ConnectionResetError',
-    'BrokenPipeError',
-    'CannotSendRequest',
-    'CannotSendHeader',
-    'ResponseNotReady',
-    'BadStatusLine',
-]
-
-
-def _is_transient_error(error_message: str) -> bool:
-    """Return True if *error_message* looks like a transient network problem."""
-    lower = error_message.lower()
-    return any(pattern.lower() in lower for pattern in TRANSIENT_ERROR_PATTERNS)
+MAX_RETRIES = 3
+MAX_BACKOFF_SECONDS = 4
+ValidationResult = Tuple[Optional[bool], str, str]
 
 
 def generate_ttb_url(ttb_id: str) -> str:
@@ -92,87 +71,54 @@ def generate_ttb_url(ttb_id: str) -> str:
         return f"https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid={ttb_id}"
 
 
-def validate_ttb_url(ttb_id: str, timeout: int = 10) -> Tuple[bool, str, str]:
-    """
-    Validate a TTB ID by checking if its generated URL resolves and returns valid content.
-    
-    The TTB website returns HTTP 200 even for invalid IDs, but includes an error message
-    "Unable to process request" in the response body. We need to check the content.
-    
-    Args:
-        ttb_id: The TTB ID to validate
-        timeout: Request timeout in seconds
-    
-    Returns:
-        Tuple of (is_valid, url, error_message)
+def validate_ttb_url(ttb_id: str, timeout: int = 10) -> ValidationResult:
+    """Return (validity, URL, reason), using None for unverified requests.
+
+    Only an explicit TTB error or HTTP 404/410 confirms an invalid ID.
+    Transient failures get at most three retries after the initial attempt.
+    TLS verification is never disabled.
     """
     url = generate_ttb_url(ttb_id)
-    
-    # Try with default SSL context first
-    try:
-        req = urllib.request.Request(url, method=HTTP_METHOD)
-        req.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36')
-        response = urllib.request.urlopen(req, timeout=timeout)
-        
-        if response.status == 200:
-            # Check response content for error messages
-            # TTB returns 200 even for invalid IDs but includes error in the body
-            # Read only first portion of response for efficiency
-            content = response.read(MAX_CONTENT_BYTES).decode('utf-8', errors='ignore')
-            if TTB_ERROR_MESSAGE in content:
-                return False, url, f"TTB Error: {TTB_ERROR_MESSAGE}"
-            return True, url, ""
-        else:
-            return False, url, f"HTTP {response.status}"
-    except urllib.error.HTTPError as e:
-        return False, url, f"HTTP {e.code}"
-    except (ssl.SSLError, urllib.error.URLError) as e:
-        # Check if it's an SSL certificate error
-        error_str = str(e)
-        if 'CERTIFICATE_VERIFY_FAILED' in error_str or 'certificate' in error_str.lower():
-            # TTB government site has certificate chain issues in some environments
-            # This is a known issue with government sites that have intermediate certificate problems
-            # Ideally would use custom CA bundle, but TTB doesn't provide one
-            # Fall back to lenient SSL verification only when strict verification fails
-            # NOTE: This is acceptable for validation purposes as we're only checking URL existence,
-            # not transmitting sensitive data. For production use with sensitive data, 
-            # consider alternative approaches like certificate pinning or custom CA bundles.
-            try:
-                ssl_context = ssl.create_default_context()
-                ssl_context.check_hostname = False
-                ssl_context.verify_mode = ssl.CERT_NONE
-                
-                req = urllib.request.Request(url, method=HTTP_METHOD)
-                req.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36')
-                response = urllib.request.urlopen(req, timeout=timeout, context=ssl_context)
-                
-                if response.status == 200:
-                    # Check response content for error messages
-                    # Read only first portion of response for efficiency
+    for attempt in range(MAX_RETRIES + 1):
+        retry = False
+        try:
+            request = urllib.request.Request(url, method=HTTP_METHOD)
+            request.add_header('User-Agent', 'Mozilla/5.0')
+            with urllib.request.urlopen(request, timeout=timeout) as response:
+                status = response.status
+                if status == 200:
                     content = response.read(MAX_CONTENT_BYTES).decode('utf-8', errors='ignore')
-                    if TTB_ERROR_MESSAGE in content:
+                    if TTB_ERROR_MESSAGE.lower() in content.lower():
                         return False, url, f"TTB Error: {TTB_ERROR_MESSAGE}"
-                    return True, url, ""
-                else:
-                    return False, url, f"HTTP {response.status}"
-            except urllib.error.HTTPError as e2:
-                return False, url, f"HTTP {e2.code}"
-            except Exception as e2:
-                error_msg = str(e2)
-                if _is_transient_error(error_msg):
-                    return False, url, f"{TRANSIENT_ERROR_PREFIX}Error: {error_msg}"
-                return False, url, f"Error: {error_msg}"
-        else:
-            # Non-SSL error
-            error_msg = str(e.reason) if hasattr(e, 'reason') else str(e)
-            if _is_transient_error(error_msg):
-                return False, url, f"{TRANSIENT_ERROR_PREFIX}URL Error: {error_msg}"
-            return False, url, f"URL Error: {error_msg}"
-    except Exception as e:
-        error_msg = str(e)
-        if _is_transient_error(error_msg):
-            return False, url, f"{TRANSIENT_ERROR_PREFIX}Error: {error_msg}"
-        return False, url, f"Error: {error_msg}"
+                    if any(marker in content.lower() for marker in (
+                            'ttb id', 'ttbid', 'publicviewimage',
+                            'cola details', 'certificate of label approval')):
+                        return True, url, ""
+                    return None, url, "Unrecognized or empty TTB response"
+                if status in (404, 410):
+                    return False, url, f"HTTP {status}"
+                error = f"HTTP {status}"
+                retry = status in (408, 425, 429) or 500 <= status <= 599
+        except urllib.error.HTTPError as exc:
+            status = exc.code
+            exc.close()
+            if status in (404, 410):
+                return False, url, f"HTTP {status}"
+            error = f"HTTP {status}"
+            retry = status in (408, 425, 429) or 500 <= status <= 599
+        except ssl.SSLError as exc:
+            return None, url, f"TLS error: {exc}"
+        except (urllib.error.URLError, OSError, http.client.HTTPException) as exc:
+            reason = getattr(exc, 'reason', exc)
+            if isinstance(reason, ssl.SSLError):
+                return None, url, f"TLS error: {reason}"
+            error = f"Network error: {reason}"
+            retry = True
+        except Exception as exc:
+            return None, url, f"Unverified error: {exc}"
+        if not retry or attempt == MAX_RETRIES:
+            return None, url, error
+        time.sleep(min(2 ** attempt, MAX_BACKOFF_SECONDS))
 
 
 def validate_and_update_csv(filename: str, delay: float = 0.3, dry_run: bool = False) -> bool:
@@ -185,12 +131,13 @@ def validate_and_update_csv(filename: str, delay: float = 0.3, dry_run: bool = F
         dry_run: If True, don't modify the file, just report issues
     
     Returns:
-        True if all TTB IDs are valid, False otherwise
+        True if no confirmed invalid IDs remain (including after applying fixes).
+        Unverified requests are warnings and never cause IDs to be removed.
     """
     # Read CSV
     rows = []
     fieldnames = []
-    with open(filename, 'r') as f:
+    with open(filename, 'r', encoding='utf-8', newline='') as f:
         reader = csv.DictReader(f)
         fieldnames = reader.fieldnames
         rows = list(reader)
@@ -212,7 +159,7 @@ def validate_and_update_csv(filename: str, delay: float = 0.3, dry_run: bool = F
     print(f"Validating {len(ttb_entries)} TTB ID entries ({len(unique_ttb_ids)} unique IDs) from {filename}...\n")
     
     # Cache for TTB ID validation results
-    ttb_cache: Dict[str, Tuple[bool, str, str]] = {}
+    ttb_cache: Dict[str, ValidationResult] = {}
     cache_hits = 0
     
     # Track invalid entries
@@ -239,19 +186,18 @@ def validate_and_update_csv(filename: str, delay: float = 0.3, dry_run: bool = F
             # Be polite to servers - add delay after each new validation
             time.sleep(delay)
         
-        if is_valid:
+        if is_valid is True:
             print(f"✓ [{i}/{len(ttb_entries)}] {name} - {batch} (TTB: {ttb_id})")
-        elif error.startswith(TRANSIENT_ERROR_PREFIX):
-            # Transient network error — not the TTB ID's fault
+        elif is_valid is not False:
             print(f"⚠️ [{i}/{len(ttb_entries)}] {name} - {batch} (TTB: {ttb_id})")
             print(f"   URL: {url}")
-            print(f"   Warning: {error[len(TRANSIENT_ERROR_PREFIX):]}")
+            print(f"   Warning (unverified; ID retained): {error}")
             warning_entries.append({
                 'name': name,
                 'batch': batch,
                 'ttb_id': ttb_id,
                 'url': url,
-                'error': error[len(TRANSIENT_ERROR_PREFIX):]
+                'error': error
             })
         else:
             print(f"❌ [{i}/{len(ttb_entries)}] {name} - {batch} (TTB: {ttb_id})")
@@ -271,16 +217,16 @@ def validate_and_update_csv(filename: str, delay: float = 0.3, dry_run: bool = F
     print(f"VALIDATION SUMMARY")
     print(f"{'='*70}")
     print(f"Total TTB ID entries: {len(ttb_entries)}")
-    print(f"Unique TTB IDs validated: {len(unique_ttb_ids)}")
+    print(f"Unique TTB IDs checked: {len(unique_ttb_ids)}")
     print(f"Cache hits: {cache_hits}")
     print(f"Verified valid TTB IDs: {len(ttb_entries) - len(invalid_entries) - len(warning_entries)}")
     print(f"Invalid TTB IDs: {len(invalid_entries)}")
-    print(f"Warnings (transient errors): {len(warning_entries)}")
+    print(f"Warnings (unverified IDs retained): {len(warning_entries)}")
     
     # Report warnings (transient network errors)
     if warning_entries:
         print(f"\n{'='*70}")
-        print(f"TRANSIENT ERRORS (not treated as invalid):")
+        print(f"UNVERIFIED REQUESTS (not treated as invalid; IDs retained):")
         print(f"{'='*70}")
         for entry in warning_entries:
             print(f"\n⚠️ {entry['name']} - {entry['batch']}")
@@ -313,7 +259,7 @@ def validate_and_update_csv(filename: str, delay: float = 0.3, dry_run: bool = F
                 removed_count += 1
             
             # Write updated CSV
-            with open(filename, 'w', newline='') as f:
+            with open(filename, 'w', encoding='utf-8', newline='') as f:
                 writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator='\n')
                 writer.writeheader()
                 writer.writerows(rows)
@@ -322,9 +268,12 @@ def validate_and_update_csv(filename: str, delay: float = 0.3, dry_run: bool = F
         else:
             print(f"\n⚠️  DRY RUN: Would remove {len(rows_to_clear)} invalid TTB IDs (use --apply to actually remove them)")
         
-        return False
+        return not dry_run
     else:
-        print("\n✅ All TTB IDs are valid!")
+        if warning_entries:
+            print("\n⚠️ No confirmed invalid IDs; some IDs remain unverified.")
+        else:
+            print("\n✅ All TTB IDs are verified valid!")
         return True
 
 

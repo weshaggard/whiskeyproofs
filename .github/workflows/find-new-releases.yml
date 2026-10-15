@@ -10,9 +10,14 @@ permissions:
   contents: write
   pull-requests: write
 
+concurrency:
+  group: automated-find-new-releases
+  cancel-in-progress: false
+
 jobs:
   find-new-releases:
     runs-on: ubuntu-latest
+    timeout-minutes: 180
     environment: automation
 
     steps:
@@ -31,31 +36,39 @@ jobs:
           token: ${{ steps.generate_token.outputs.token }}
           persist-credentials: false
 
-      - name: Switch to PR branch if it already exists
+      - name: Synchronize automation branch with main
         env:
           GITHUB_APP_TOKEN: ${{ steps.generate_token.outputs.token }}
         run: |
           git remote set-url origin https://x-access-token:${GITHUB_APP_TOKEN}@github.com/${{ github.repository }}.git
-
-          if git fetch origin automated/find-new-releases 2>/dev/null; then
-            git checkout automated/find-new-releases
-            echo "Checked out existing PR branch — new changes will be additive"
+          git config user.name "whiskey-automation[bot]"
+          git config user.email "262019200+whiskey-automation[bot]@users.noreply.github.com"
+          git fetch origin main
+          REMOTE_BRANCH=$(git ls-remote --heads origin automated/find-new-releases)
+          if [ -n "$REMOTE_BRANCH" ]; then
+            git fetch origin automated/find-new-releases
+            git checkout -B automated/find-new-releases FETCH_HEAD
+            git merge --no-edit origin/main
           else
-            echo "Branch does not exist yet — it will be created from the current checkout"
+            git checkout -b automated/find-new-releases origin/main
           fi
 
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
-          python-version: '3.x'
+          python-version: '3.12'
 
       - name: Set up Node.js
         uses: actions/setup-node@v6
         with:
-          node-version: '20'
+          node-version: '24'
+          cache: npm
+          cache-dependency-path: .github/automation/package-lock.json
 
       - name: Install Copilot CLI
-        run: npm install -g @github/copilot
+        run: |
+          npm ci --prefix .github/automation
+          echo "$GITHUB_WORKSPACE/.github/automation/node_modules/.bin" >> "$GITHUB_PATH"
 
       - name: Run release discovery agent
         env:
@@ -112,13 +125,21 @@ jobs:
             git checkout -b automated/find-new-releases
           fi
 
-          git add -A
+          git reset --quiet HEAD
+          git add -- _data/whiskeyindex.csv labels/
 
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
+          if ! git diff --cached --quiet; then
+            git commit -m "Automated bourbon and rye release update"
+          fi
+
+          UPSTREAM=origin/main
+          if git show-ref --verify --quiet refs/remotes/origin/automated/find-new-releases; then
+            UPSTREAM=origin/automated/find-new-releases
+          fi
+          if git diff --quiet origin/main HEAD -- _data/whiskeyindex.csv labels/ ||
+             [ "$(git rev-parse HEAD)" = "$(git rev-parse "$UPSTREAM")" ]; then
             echo "has_changes=false" >> $GITHUB_OUTPUT
           else
-            git commit -m "Automated bourbon and rye release update"
             git push origin automated/find-new-releases
             echo "has_changes=true" >> $GITHUB_OUTPUT
           fi

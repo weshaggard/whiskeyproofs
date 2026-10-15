@@ -41,10 +41,14 @@ Dependencies:
 """
 
 import argparse
+import json
 import re
 import sys
+from decimal import Decimal
 from pathlib import Path
 
+from label_state import (download_complete, image_files, load_state, ocr_complete,
+                         read_ids_file, save_state)
 
 EXTRACTED_TEXT_HEADER = "## Extracted Label Text"
 
@@ -164,16 +168,13 @@ def extract_proof_and_age(combined_text):
     for m in _PROOF_RE.finditer(combined_text):
         raw = next((v for v in m.groups() if v is not None), None)
         if raw:
-            val = float(raw)
-            # US whiskey minimum is 80 proof, so any matched value below that
-            # is treated as ABV — double it to derive proof.
-            if val < 80:
-                val = val * 2
-            # Preserve integer values as integers; keep at most 1 decimal place
-            if val != int(val):
-                val = round(val, 1)
+            val = Decimal(raw)
+            # Only ABV alternatives (groups 3–5) are converted to US proof.
+            if any(value is not None for value in m.groups()[2:]):
+                val *= 2
+            val = val.quantize(Decimal("0.01"))
             if MIN_PROOF <= val <= MAX_PROOF:
-                proof_val = int(val) if val == int(val) else val
+                proof_val = format(val, "f").rstrip("0").rstrip(".") if "." in format(val, "f") else str(val)
                 break
 
     # Search full combined text for age
@@ -265,11 +266,18 @@ def process_label_directory(ttbid_dir, force=False):
         'no_images'- No image files found in directory
         'failed'   - README not found or other error
     """
+    ttbid_dir = Path(ttbid_dir)
+    state = load_state(ttbid_dir)
     readme_path = ttbid_dir / "README.md"
+
+    def fail(message, outcome="failed"):
+        state["ocr"].update(status="failed", error=message)
+        save_state(ttbid_dir, state)
+        return outcome
 
     if not readme_path.exists():
         print(f"  ⚠️  No README.md found in {ttbid_dir.name}")
-        return "failed"
+        return fail("README.md not found")
 
     # Read current README content
     try:
@@ -279,30 +287,37 @@ def process_label_directory(ttbid_dir, force=False):
         current_content = readme_path.read_text(encoding="latin-1")
 
     # Check if already processed
-    if EXTRACTED_TEXT_HEADER in current_content and not force:
+    if ocr_complete(ttbid_dir, state) and not force:
+        save_state(ttbid_dir, state)
         return "skipped"
 
-    # Find all image files (jpg, png) sorted for consistent ordering
-    image_files = sorted(
-        [f for f in ttbid_dir.iterdir() if f.suffix.lower() in (".jpg", ".jpeg", ".png")]
-    )
+    files = image_files(ttbid_dir)
 
-    if not image_files:
+    if not files:
         print(f"  ⚠️  No images found in {ttbid_dir.name}")
-        return "no_images"
+        return fail("No label images found", "no_images")
+    if not download_complete(ttbid_dir, state):
+        return fail("Image download is incomplete; finish downloads before OCR")
+    files = [ttbid_dir / name for name in state["download"]["expected_images"]]
+    state["ocr"] = {"status": "pending", "images": [], "error": None}
+    save_state(ttbid_dir, state)
 
     # Build the extracted text section
     text_sections = []
     any_text_found = False
     excluded_count = 0
 
-    for img_file in image_files:
-        text = extract_text_from_image(img_file)
+    for img_file in files:
+        try:
+            text = extract_text_from_image(img_file)
+        except Exception as exc:
+            return fail(f"OCR failed for {img_file.name}: {exc}")
         if text is None:
             # OCR tooling not available - abort
-            return "failed"
-        if text:
+            return fail(f"OCR tooling unavailable for {img_file.name}")
+        if text and text.strip():
             any_text_found = True
+            state["ocr"]["images"].append(img_file.name)
             display_name = img_file.stem.replace("_", " ").title()
             text_sections.append(f"### {display_name}\n\n{text}")
         else:
@@ -310,11 +325,7 @@ def process_label_directory(ttbid_dir, force=False):
             excluded_count += 1
 
     if not any_text_found:
-        # No usable text found in any image
-        extracted_section = (
-            f"\n\n{EXTRACTED_TEXT_HEADER}\n\n"
-            "*No readable text could be extracted from the label images.*\n"
-        )
+        return fail("No readable OCR text extracted")
     else:
         # Extract proof and age from the combined OCR text
         combined_text = "\n".join(
@@ -357,16 +368,25 @@ def process_label_directory(ttbid_dir, force=False):
         new_content = current_content.rstrip() + extracted_section
 
     readme_path.write_text(new_content, encoding="utf-8")
-    return "success"
+    state["ocr"].update(status="complete" if excluded_count == 0 else "partial",
+                        error=f"{excluded_count} image(s) had no readable OCR text" if excluded_count else None)
+    save_state(ttbid_dir, state)
+    return "success" if excluded_count == 0 else "failed"
 
 
 def main():
     parser = argparse.ArgumentParser(
         description="Extract text from TTB label images and append to README.md files"
     )
-    parser.add_argument(
+    group = parser.add_mutually_exclusive_group()
+    group.add_argument(
         "--ttbid", type=str, help="Process a specific TTB ID only"
     )
+    group.add_argument("--ids-file", type=Path,
+                       help="JSON array or discovery JSON containing new_ttb_ids")
+    parser.add_argument("--labels-dir", type=Path,
+                        default=Path(__file__).resolve().parents[2] / "labels")
+    parser.add_argument("--output", type=Path, help="Write batch status JSON")
     parser.add_argument(
         "--force",
         action="store_true",
@@ -375,84 +395,45 @@ def main():
     )
     args = parser.parse_args()
 
-    # Verify required OCR dependencies are available before starting
+    result = {"status": "failed", "error": None, "completed_ttb_ids": [],
+              "failed_ttb_ids": [], "partial_ttb_ids": [], "partial_count": 0, "count": 0}
     try:
-        import pytesseract
-        from PIL import Image  # noqa: F401
-    except ImportError as e:
-        print(f"❌ Missing dependency: {e}")
-        print("Install with: pip install pytesseract Pillow")
-        print("Also ensure tesseract-ocr is installed: sudo apt-get install tesseract-ocr")
-        return 1
-
-    # Report optional EasyOCR status
-    reader = _get_easyocr_reader()
-    if reader is not None:
-        print("EasyOCR available — using both Tesseract and EasyOCR engines\n")
-    else:
-        print("EasyOCR not available — using Tesseract only (install with: pip install easyocr)\n")
-
-    # Get repository root (two levels up from this script)
-    repo_root = Path(__file__).parent.parent.parent
-    labels_dir = repo_root / "labels"
-
-    if not labels_dir.exists():
-        print(f"❌ Labels directory not found: {labels_dir}")
-        return 1
-
-    # Determine which directories to process
-    if args.ttbid:
-        ttbid_dirs = [labels_dir / args.ttbid]
-        if not ttbid_dirs[0].exists():
-            print(f"❌ Label directory not found: {ttbid_dirs[0]}")
-            return 1
-        print(f"Processing single TTB ID: {args.ttbid}\n")
-    else:
-        # Process all TTB ID directories (skip non-directory entries like README.md)
-        ttbid_dirs = sorted(
-            [d for d in labels_dir.iterdir() if d.is_dir()]
-        )
-        print(f"Processing {len(ttbid_dirs)} label directories\n")
-
-    # Process each directory
-    success = 0
-    skipped = 0
-    failed = 0
-    no_images = 0
-
-    for i, ttbid_dir in enumerate(ttbid_dirs, 1):
-        if len(ttbid_dirs) > 1:
-            print(f"[{i}/{len(ttbid_dirs)}] {ttbid_dir.name}...", end=" ", flush=True)
-
-        result = process_label_directory(ttbid_dir, force=args.force)
-
-        if result == "success":
-            success += 1
-            if len(ttbid_dirs) > 1:
-                print("✓")
-        elif result == "skipped":
-            skipped += 1
-            if len(ttbid_dirs) > 1:
-                print("(already processed)")
-        elif result == "no_images":
-            no_images += 1
-            if len(ttbid_dirs) > 1:
-                print("(no images)")
-        else:
-            failed += 1
-            if len(ttbid_dirs) > 1:
-                print("✗")
-
-    print(f"\n{'='*60}")
-    print(f"Summary:")
-    print(f"  Extracted: {success}")
-    print(f"  Skipped:   {skipped}")
-    print(f"  No images: {no_images}")
-    print(f"  Failed:    {failed}")
-    print(f"  Total:     {len(ttbid_dirs)}")
-    print(f"{'='*60}")
-
-    return 0 if failed == 0 else 1
+        ids = ([args.ttbid] if args.ttbid else read_ids_file(args.ids_file)
+               if args.ids_file else sorted(p.name for p in args.labels_dir.iterdir()
+                                            if p.is_dir() and p.name.isdigit()))
+        if any(not value.isdigit() for value in ids):
+            raise ValueError("TTB IDs must be numeric strings")
+        result["count"] = len(ids)
+        errors = []
+        # The module-level EasyOCR cache is shared by every label in this batch.
+        for ttbid in ids:
+            directory = args.labels_dir / ttbid
+            try:
+                outcome = process_label_directory(directory, force=args.force)
+            except Exception as exc:
+                outcome = "failed"
+                state = load_state(directory)
+                state["ocr"].update(status="failed", error=str(exc))
+                save_state(directory, state)
+            if outcome in ("success", "skipped"):
+                result["completed_ttb_ids"].append(ttbid)
+            else:
+                result["failed_ttb_ids"].append(ttbid)
+                state = load_state(directory)
+                if state["ocr"].get("images"):
+                    result["partial_ttb_ids"].append(ttbid)
+                errors.append(f"{ttbid}: {state['ocr'].get('error', outcome)}")
+        result.update(status="complete" if not result["failed_ttb_ids"] else
+                      "partial" if result["completed_ttb_ids"] or result["partial_ttb_ids"] else "failed",
+                      error="; ".join(errors) or None)
+    except Exception as exc:
+        result["error"] = str(exc)
+    result["partial_count"] = len(result["partial_ttb_ids"])
+    encoded = json.dumps(result, indent=2)
+    if args.output:
+        args.output.write_text(encoded + "\n", encoding="utf-8")
+    print(encoded)
+    return 0 if result["status"] == "complete" else 1
 
 
 if __name__ == "__main__":

@@ -1,0 +1,4 @@
+-r requirements-test.txt
+pytesseract==0.3.13
+Pillow==12.3.0
+easyocr==1.7.2
