@@ -23,7 +23,7 @@ from label_state import download_complete, load_state, read_ids_file, save_state
 TTB_BASE_URL = "https://ttbonline.gov/colasonline"
 DETAIL_URL = f"{TTB_BASE_URL}/viewColaDetails.do?action=publicFormDisplay&ttbid="
 ATTACHMENT_URL = f"{TTB_BASE_URL}/publicViewAttachment.do"
-ssl_context = ssl._create_unverified_context()
+ssl_context = ssl.create_default_context()
 cookie_jar = http.cookiejar.CookieJar()
 opener = urllib.request.build_opener(
     urllib.request.HTTPCookieProcessor(cookie_jar),
@@ -166,7 +166,6 @@ def download_ttb_labels(ttbid, labels_dir, skip_existing=True):
         expected = [item["output_name"] for item in inventory]
         old_attachments = {item["output_name"]: item["filename"]
                            for item in download.get("attachments", [])}
-        old_expected = download.get("expected_images", [])
         download.update(expected_images=expected, attachments=inventory, metadata=metadata)
         # Changing or re-downloading images invalidates OCR, not download completion.
         state["ocr"] = {"status": "pending", "images": []}

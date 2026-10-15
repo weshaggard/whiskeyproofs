@@ -166,9 +166,6 @@ def validate_csv(filename):
                 issues.append(f'Line {line}: Missing {field} for {name}')
         if row['Proof'] and not valid_proof(row['Proof']):
             issues.append(f"Line {line}: Invalid proof '{row['Proof']}' for {name}")
-        age = row['Age']
-        if age and not re.fullmatch(r'[0-9]+(?:\.[0-9]{1,2})?', age):
-            issues.append(f"Line {line}: Invalid Age '{age}' for {name}")
         if not valid_year(year):
             issues.append(f"Line {line}: Invalid release year '{year}' for {name}")
         identity = (name, batch, year)

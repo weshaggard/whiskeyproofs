@@ -5,7 +5,9 @@ import io
 import json
 from pathlib import Path
 import shutil
+import ssl
 import sys
+import types
 import unittest
 from unittest.mock import MagicMock, patch
 import urllib.error
@@ -42,6 +44,21 @@ class LabelTest(unittest.TestCase):
 
 
 class DiscoveryTests(LabelTest):
+    def setUp(self):
+        super().setUp()
+
+        class HTTPError(Exception):
+            def __init__(self, message, response=None):
+                super().__init__(message)
+                self.response = response
+
+        # Network behavior is mocked even on vanilla Python without requests installed.
+        network = types.SimpleNamespace(Session=MagicMock, HTTPError=HTTPError,
+                                        Timeout=type("Timeout", (Exception,), {}),
+                                        ConnectionError=type("ConnectionError", (Exception,), {}))
+        self.enterContext(patch.object(discovery, "requests", network))
+        self.enterContext(patch.object(discovery, "DEPENDENCIES_AVAILABLE", True))
+
     def finder(self):
         finder = discovery.TTBLabelFinder()
         self.addCleanup(finder.session.close)
@@ -97,6 +114,12 @@ class DiscoveryTests(LabelTest):
                 finder.search_ttb_registry("01/01/2026", "01/02/2026")
         self.assertEqual(post.call_count, 1)
 
+    def test_tls_verification_not_disabled(self):
+        finder = self.finder()
+        with patch.object(finder.session, "get", return_value=MagicMock()) as get:
+            finder._request("get", "https://example.test")
+        self.assertIsNot(get.call_args.kwargs.get("verify", True), False)
+
     def test_pending_local_ids_queued_outside_registry(self):
         self.legacy("100", text=True)
         self.legacy("200", text=False)
@@ -126,6 +149,10 @@ class DiscoveryTests(LabelTest):
 
 
 class DownloadTests(LabelTest):
+    def test_tls_verification_enabled(self):
+        self.assertEqual(download.ssl_context.verify_mode, ssl.CERT_REQUIRED)
+        self.assertTrue(download.ssl_context.check_hostname)
+
     def attachments(self):
         return [{"filename": "FIRST_FRONT.jpg"}, {"filename": "SECOND_FRONT.jpg"}], {"brand_name": "Example"}
 
@@ -179,6 +206,16 @@ class DownloadTests(LabelTest):
             self.assertEqual(download.download_ttb_labels("123", self.workspace), "failed")
         self.assertEqual(fetch.call_count, 1)
 
+    def test_untracked_partial_directory_reuses_existing_image(self):
+        directory = self.workspace / "123"
+        directory.mkdir()
+        (directory / "front_label.jpg").write_bytes(b"existing image")
+        with patch.object(download, "extract_label_images_and_metadata", return_value=self.attachments()), \
+                patch.object(download, "download_file", return_value=False) as fetch:
+            self.assertEqual(download.download_ttb_labels("123", self.workspace), "failed")
+        self.assertEqual(fetch.call_count, 1)
+        self.assertEqual((directory / "front_label.jpg").read_bytes(), b"existing image")
+
     def test_empty_download_failure_state(self):
         with patch.object(download, "extract_label_images_and_metadata", return_value=([], {})):
             self.assertEqual(download.download_ttb_labels("123", self.workspace), "failed")
@@ -202,6 +239,7 @@ class DownloadTests(LabelTest):
 
     def test_retry_bounds_and_permanent_error(self):
         for error, expected in ((TimeoutError("timeout"), 4),
+                                (urllib.error.URLError(ValueError("invalid configuration")), 1),
                                 (urllib.error.HTTPError("url", 403, "forbidden", {}, None), 1)):
             with self.subTest(error=error), patch.object(download.opener, "open", side_effect=error) as fetch, \
                     patch.object(download.time, "sleep"):
@@ -261,6 +299,21 @@ class OCRTests(LabelTest):
             readme.write("\n## Extracted Label Text\n\n*No readable text could be extracted from the label images.*\n")
         with patch.object(ocr, "extract_text_from_image", return_value="real text here"):
             self.assertEqual(ocr.process_label_directory(directory), "success")
+
+    def test_empty_legacy_ocr_headings_not_completion(self):
+        directory = self.legacy()
+        with (directory / "README.md").open("a") as readme:
+            readme.write("\n## Extracted Label Text\n\n### Front Label\n\n### Back Label\n\n")
+        self.assertFalse(label_state.ocr_complete(directory))
+
+    def test_legacy_completed_text_with_quality_exclusions_not_mass_requeued(self):
+        directory = self.legacy(text=True)
+        with (directory / "README.md").open("a") as readme:
+            readme.write("\n*1 image(s) excluded: text did not meet readability threshold*\n")
+        self.assertTrue(label_state.ocr_complete(directory))
+        with patch.object(ocr, "extract_text_from_image") as extract:
+            self.assertEqual(ocr.process_label_directory(directory), "skipped")
+            extract.assert_not_called()
 
     def test_partial_ocr_not_complete(self):
         directory = self.legacy(images=("front_label.jpg", "back_label.jpg"))

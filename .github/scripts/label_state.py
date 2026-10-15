@@ -10,6 +10,13 @@ OCR_HEADER = "## Extracted Label Text"
 IMAGE_SUFFIXES = {".jpg", ".jpeg", ".png"}
 
 
+def has_ocr_text(section):
+    blocks = re.findall(r"^### [^\n]+\n(.*?)(?=^### |\Z)", section,
+                        re.MULTILINE | re.DOTALL)
+    return any(block.strip() and not block.strip().startswith("*No readable text")
+               for block in blocks)
+
+
 def image_files(directory):
     return sorted(p for p in Path(directory).iterdir()
                   if p.is_file() and p.suffix.lower() in IMAGE_SUFFIXES)
@@ -43,8 +50,7 @@ def load_state(directory):
     downloaded = [name for name in expected if valid_image(directory, name)]
     complete = bool(expected) and len(downloaded) == len(expected)
     section = content.partition(OCR_HEADER)[2]
-    readable = bool(re.search(r"^### .+\n+\S", section, re.MULTILINE))
-    readable = readable and not re.search(r"\b[1-9]\d* image\(s\) excluded", section)
+    readable = has_ocr_text(section)
     return {
         "version": 1,
         "download": {
@@ -87,8 +93,7 @@ def ocr_complete(directory, state=None):
     section = readme.read_text(encoding="utf-8", errors="replace").partition(OCR_HEADER)[2]
     return (ocr.get("status") == "complete"
             and sorted(ocr.get("images", [])) == sorted(state["download"]["expected_images"])
-            and bool(re.search(r"^### .+\n+\S", section, re.MULTILINE))
-            and not re.search(r"\b[1-9]\d* image\(s\) excluded", section))
+            and has_ocr_text(section))
 
 
 def read_ids_file(path):

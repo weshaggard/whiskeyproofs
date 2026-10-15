@@ -7,16 +7,49 @@ import re
 import sys
 import time
 from datetime import datetime, timedelta
+from html.parser import HTMLParser
 from pathlib import Path
 
 from label_state import ocr_complete
 
 try:
     import requests
-    from bs4 import BeautifulSoup
     DEPENDENCIES_AVAILABLE = True
 except ImportError:
+    requests = None
     DEPENDENCIES_AVAILABLE = False
+
+
+class RegistryPage(HTMLParser):
+    """Read result links and visible messages without optional parser dependencies."""
+
+    def __init__(self, content):
+        super().__init__()
+        self.text_parts = []
+        self.links = []
+        self.anchor = None
+        self.hidden = 0
+        self.feed(content)
+        self.close()
+
+    def handle_starttag(self, tag, attrs):
+        if tag in ("script", "style"):
+            self.hidden += 1
+        if tag == "a":
+            self.anchor = {"href": dict(attrs).get("href", ""), "text": []}
+            self.links.append(self.anchor)
+
+    def handle_endtag(self, tag):
+        if tag in ("script", "style"):
+            self.hidden = max(0, self.hidden - 1)
+        if tag == "a":
+            self.anchor = None
+
+    def handle_data(self, data):
+        if not self.hidden:
+            self.text_parts.append(data)
+            if self.anchor is not None:
+                self.anchor["text"].append(data)
 
 
 class SearchError(RuntimeError):
@@ -38,14 +71,12 @@ class TTBLabelFinder:
         self.verbose = verbose
         self.session = requests.Session()
         self.session.headers.update({"User-Agent": "Mozilla/5.0"})
-        import urllib3
-        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
     def _request(self, method, url, **kwargs):
         # At most three retries, exclusively for transient transport/server failures.
         for attempt in range(4):
             try:
-                response = getattr(self.session, method)(url, timeout=30, verify=False, **kwargs)
+                response = getattr(self.session, method)(url, timeout=30, **kwargs)
                 response.raise_for_status()
                 return response
             except (requests.Timeout, requests.ConnectionError, requests.HTTPError) as exc:
@@ -88,16 +119,16 @@ class TTBLabelFinder:
         return self._parse_search_results(self._request("get", self.NEXT_PAGE_URL).text)
 
     def _parse_search_results(self, html_content):
-        soup = BeautifulSoup(html_content, "html.parser")
-        text = soup.get_text(" ", strip=True)
+        page = RegistryPage(html_content)
+        text = " ".join(page.text_parts)
         if re.search(r"captcha|unable to process|access denied|session (?:has )?expired|"
                      r"unexpected error|system error", text, re.IGNORECASE):
             raise ValueError(f"Registry returned an error: {text[:200]}")
         ids = list(dict.fromkeys(
-            match.group(1) for link in soup.find_all("a", href=True)
+            match.group(1) for link in page.links
             if (match := re.search(r"ttbid=(\d+)", link["href"], re.IGNORECASE))))
-        has_next = any(re.search(r"Next\s*>", link.get_text(" ", strip=True), re.IGNORECASE)
-                       for link in soup.find_all("a"))
+        has_next = any(re.search(r"Next\s*>", " ".join(link["text"]), re.IGNORECASE)
+                       for link in page.links)
         # Only explicit, recognized no-result responses can mean a successful empty search.
         if not ids and not re.search(
                 r"no\s+(?:(?:matching|approved)\s+)?(?:records?|results?|colas?|labels?)"
@@ -153,7 +184,7 @@ def main():
     finder = None
     try:
         if not DEPENDENCIES_AVAILABLE:
-            raise RuntimeError("Required dependencies requests and beautifulsoup4 are not installed")
+            raise RuntimeError("Required dependency requests is not installed")
         end = datetime.strptime(args.date_to, "%Y-%m-%d") if args.date_to else datetime.now()
         start = datetime.strptime(args.date_from, "%Y-%m-%d") if args.date_from else end - timedelta(days=7)
         if start > end or args.max_pages < 1:

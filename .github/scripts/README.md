@@ -47,7 +47,7 @@ only values labeled as ABV are doubled.
 
 ### find_new_ttb_labels.py
 
-Searches the TTB COLA Public Registry for new label approvals that are not yet in the `labels/` directory. This script is designed for automated discovery of new Kentucky whiskey labels.
+Searches the TTB COLA Public Registry for new whiskey label approvals across all origins and queues unfinished local downloads or OCR work for retry.
 
 **Requirements:**
 ```bash
@@ -75,7 +75,7 @@ python3 .github/scripts/find_new_ttb_labels.py --help
 **Options:**
 - `--from DATE`: Start date in YYYY-MM-DD format (default: 7 days ago)
 - `--to DATE`: End date in YYYY-MM-DD format (default: today)
-- `--origin CODE`: TTB origin code (default: 22 for Kentucky)
+- `--origin CODE`: TTB origin code (default: all origins)
 - `--class-from N`: Start of product class/type range (default: 100)
 - `--class-to N`: End of product class/type range (default: 150)
 - `--labels-dir PATH`: Path to labels directory (default: labels)
@@ -84,9 +84,9 @@ python3 .github/scripts/find_new_ttb_labels.py --help
 
 **Features:**
 - Searches TTB COLA Public Registry by date range and filters
-- Filters by origin code 22 (Kentucky) and product class 100-150 (whiskey)
-- Compares results against existing labels in `labels/` directory
-- Returns only new TTB IDs not yet downloaded
+- Filters by optional origin code and product class 100-150 (whiskey)
+- Compares results against download and OCR completion in `labels/`
+- Returns new TTB IDs and unfinished local work, including older pending labels
 - Saves results to JSON for further processing
 - Used by automated GitHub Action workflow
 
@@ -119,7 +119,7 @@ Found 20 new TTB ID(s):
 
 **Automation:**
 This script runs automatically via the `.github/workflows/find-new-ttb-labels.yml` workflow:
-- Runs daily at 6 AM UTC (1 AM EST / 2 AM EDT)
+- Runs daily at 15:00 UTC
 - Searches for labels from the past 7 days
 - Downloads any new labels found
 - Creates a PR with the new labels for review

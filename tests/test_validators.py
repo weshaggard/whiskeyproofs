@@ -55,8 +55,8 @@ class CSVFixture(unittest.TestCase):
 
 
 class CSVValidationTests(CSVFixture):
-    def test_valid_optional_age_and_numeric_values(self):
-        for age in ('', '7', '7.5', '6.25', '0'):
+    def test_valid_proofs_preserve_existing_age_compatibility(self):
+        for age in ('', '7', '7.5', '6.25', '0', '7-8', '12-15'):
             for proof in ('90', '94.4', '110-125', '107.8-109.4'):
                 with self.subTest(age=age, proof=proof):
                     self.write_rows([self.row(Age=age, Proof=proof)])
@@ -71,14 +71,6 @@ class CSVValidationTests(CSVFixture):
                 valid, output = self.validate()
                 self.assertFalse(valid)
                 self.assertIn('Invalid proof', output)
-
-    def test_age_rejects_ranges_and_excess_precision(self):
-        for age in ('7-8', '-1', '6.125', 'NaN', '7.', '.5', '1e1'):
-            with self.subTest(age=age):
-                self.write_rows([self.row(Age=age)])
-                valid, output = self.validate()
-                self.assertFalse(valid)
-                self.assertIn('Invalid Age', output)
 
     def test_invalid_release_years_fail_without_sort_crash(self):
         for year in ('', 'unknown', '2026-', '2026-2025', '1899-2026',

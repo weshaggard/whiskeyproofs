@@ -17,6 +17,7 @@ concurrency:
 jobs:
   find-new-releases:
     runs-on: ubuntu-latest
+    timeout-minutes: 180
     environment: automation
 
     steps:
