@@ -130,9 +130,11 @@ class NetworkTests(unittest.TestCase):
 
 class CsvTests(unittest.TestCase):
     def setUp(self):
-        self.directory = tempfile.TemporaryDirectory(dir=ROOT)
+        self.directory = tempfile.TemporaryDirectory()
         self.addCleanup(self.directory.cleanup)
         self.csv = Path(self.directory.name) / 'index.csv'
+        patch.object(urls, '__file__',
+                     str(Path(self.directory.name) / '.github/scripts/validate_urls.py')).start()
         self.report = Path(self.directory.name) / 'report.json'
         self.summary = Path(self.directory.name) / 'summary.md'
         self.write_csv(['https://old', 'https://new', 'https://new', ''])
@@ -171,7 +173,7 @@ class CsvTests(unittest.TestCase):
         check.assert_called_once_with('https://new')
         command = git.call_args.args[0]
         self.assertEqual(command[:3], ['git', 'show', '--end-of-options'])
-        self.assertEqual(command[3], f'main:{self.csv.relative_to(ROOT).as_posix()}')
+        self.assertEqual(command[3], 'main:index.csv')
         self.assertNotIn('shell', git.call_args.kwargs)
         result = json.loads(self.report.read_text())
         self.assertEqual(result['counts']['skipped_entries'], 1)

@@ -52,7 +52,7 @@ class DiscoveryTests(LabelTest):
                 super().__init__(message)
                 self.response = response
 
-        # Network behavior is mocked even on vanilla Python without requests installed.
+        # Mock network behavior; parser tests exercise the installed BeautifulSoup.
         network = types.SimpleNamespace(Session=MagicMock, HTTPError=HTTPError,
                                         Timeout=type("Timeout", (Exception,), {}),
                                         ConnectionError=type("ConnectionError", (Exception,), {}))
@@ -89,6 +89,21 @@ class DiscoveryTests(LabelTest):
         self.assertEqual(error.exception.partial_ids, ["123"])
         self.assertEqual(error.exception.pages_completed, 1)
 
+    def test_ambiguous_cursor_advancement_never_retried(self):
+        finder = self.finder()
+        first_page = MagicMock(text='<a href="?ttbid=123">123</a><a href="?pgfcn=nextset">Next &gt;</a>')
+        skipped_page = MagicMock(text='<a href="?ttbid=789">789</a>')
+        with patch.object(finder.session, "post", return_value=first_page), \
+                patch.object(finder.session, "get", side_effect=[
+                    discovery.requests.Timeout("response lost after cursor advanced"), skipped_page]) as get, \
+                patch.object(discovery.time, "sleep"):
+            with self.assertRaises(discovery.SearchError) as error:
+                finder.search_ttb_registry("01/01/2026", "01/02/2026")
+        self.assertEqual(get.call_count, 1)
+        self.assertEqual(error.exception.partial_ids, ["123"])
+        self.assertEqual(error.exception.pages_completed, 1)
+        self.assertIn("response lost", str(error.exception))
+
     def test_max_pages_is_failure(self):
         finder = self.finder()
         finder.MAX_PAGES = 1
@@ -118,7 +133,7 @@ class DiscoveryTests(LabelTest):
         finder = self.finder()
         with patch.object(finder.session, "get", return_value=MagicMock()) as get:
             finder._request("get", "https://example.test")
-        self.assertIsNot(get.call_args.kwargs.get("verify", True), False)
+        self.assertIs(get.call_args.kwargs["verify"], True)
 
     def test_pending_local_ids_queued_outside_registry(self):
         self.legacy("100", text=True)
@@ -216,6 +231,18 @@ class DownloadTests(LabelTest):
         self.assertEqual(fetch.call_count, 1)
         self.assertEqual((directory / "front_label.jpg").read_bytes(), b"existing image")
 
+    def test_known_partial_manifest_not_promoted_by_local_images(self):
+        directory = self.legacy()
+        (directory / "README.md").write_text("# Label\n\n## Label Images\n\n### Front Label\n")
+        state = {"version": 1, "download": {"status": "partial", "expected_images": [
+            "front_label.jpg", "back_label.jpg"], "downloaded_images": ["front_label.jpg"]},
+            "ocr": {"status": "pending"}}
+        label_state.save_state(directory, state)
+        loaded = label_state.load_state(directory)
+        self.assertEqual(loaded["download"]["status"], "partial")
+        self.assertEqual(loaded["download"]["expected_images"], ["front_label.jpg", "back_label.jpg"])
+        self.assertFalse(label_state.download_complete(directory, loaded))
+
     def test_empty_download_failure_state(self):
         with patch.object(download, "extract_label_images_and_metadata", return_value=([], {})):
             self.assertEqual(download.download_ttb_labels("123", self.workspace), "failed")
@@ -262,6 +289,19 @@ class DownloadTests(LabelTest):
 
 
 class OCRTests(LabelTest):
+    def test_legacy_heading_only_inventory_completes_ocr_without_network(self):
+        directory = self.legacy(images=("front_label.jpg", "back_label.jpg"))
+        (directory / "README.md").write_text("# Label\n\n## Label Images\n\n### Front Label\n")
+        state = label_state.load_state(directory)
+        self.assertTrue(label_state.download_complete(directory, state))
+        self.assertEqual(state["ocr"]["status"], "pending")
+        with patch.object(download, "extract_label_images_and_metadata") as network, \
+                patch.object(ocr, "extract_text_from_image", return_value="Readable whiskey label text"):
+            self.assertEqual(download.download_ttb_labels("123", self.workspace), "skipped")
+            self.assertEqual(ocr.process_label_directory(directory), "success")
+            network.assert_not_called()
+        self.assertTrue(label_state.ocr_complete(directory))
+
     def test_proof_and_abv_units(self):
         for text, expected in (
                 ("70 PROOF", "70"), ("PROOF 75", "75"), ("80 PROOF", "80"),

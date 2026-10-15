@@ -46,7 +46,12 @@ def load_state(directory):
     readme = directory / "README.md"
     content = readme.read_text(encoding="utf-8", errors="replace") if readme.exists() else ""
     expected = list(dict.fromkeys(re.findall(
-        r"!\[[^\]]*\]\(\./([^)\n]+\.(?:jpg|jpeg|png))\)", content, re.IGNORECASE)))
+        r"!\[[^\]]*\]\((?:\./)?([^)\n]+\.(?:jpg|jpeg|png))\)", content, re.IGNORECASE)))
+    # Old publicViewImage downloads sometimes have headings but no image embeds.
+    # Only migrate untracked legacy inventories; known manifest/README gaps win.
+    if (not expected and "## Label Images" in content
+            and not re.search(r"!\[[^\]]*\]\(", content)):
+        expected = [image.name for image in image_files(directory)]
     downloaded = [name for name in expected if valid_image(directory, name)]
     complete = bool(expected) and len(downloaded) == len(expected)
     section = content.partition(OCR_HEADER)[2]

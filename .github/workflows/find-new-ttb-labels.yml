@@ -92,6 +92,7 @@ jobs:
           INPUT_DATE_FROM: ${{ inputs.date_from }}
           INPUT_DATE_TO: ${{ inputs.date_to }}
         run: |
+          set -o pipefail
           # Set date range
           if [ -n "$INPUT_DATE_FROM" ]; then
             DATE_FROM="$INPUT_DATE_FROM"
