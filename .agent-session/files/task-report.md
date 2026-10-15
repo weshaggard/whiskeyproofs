@@ -1,33 +1,31 @@
 # Task Report
 
 ## Task
-Verify the reviewed `_data/whiskeyindex.csv` entry for Four Roses at the commented line and make the smallest valid correction if the entry is not supported.
+Update release discovery to use Breaking Bourbon's bourbon/rye press-release listing and prevent unavailable sources from silently breaking discovery.
 
 ## Result
 ✅ Success
 
 ## Summary
-- Items processed: 1
-- Succeeded: 1
+- Items processed: 2
+- Succeeded: 2
 - Failed: 0
 - Skipped: 0
 
 ## Completed
-- Confirmed the only actionable PR thread was comment `3615416034` on `_data/whiskeyindex.csv`.
-- Inspected the current Four Roses rows around line 610 and traced authorship with `git blame`.
-- Verified the suspicious row `Four Roses,100 Proof,,100,2026,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/four-roses-bourbon` was introduced by commit `f86ddf5`.
-- Confirmed `e37901c` did not modify the Four Roses section; it only added Village Garage rows.
-- Ran `python3 .github/scripts/validate_whiskey_data.py` before and after the change; both runs passed.
-- Verified via official Four Roses sources and reputable whiskey coverage that 2026 100-proof Four Roses releases exist only as named `Single Barrel Collection` recipe bottlings, not as a standalone `Four Roses 100 Proof` product.
-- Removed the unsupported generic row from `/tmp/workspace/_data/whiskeyindex.csv`.
+- Updated `/home/runner/work/whiskeyproofs/whiskeyproofs/.github/prompts/find-new-releases.prompt.md` to link directly to https://www.breakingbourbon.com/bourbon-rye-whiskey-press-releases instead of the generic homepage. No literal obsolete news URL was present in the automation files.
+- Added per-run source-content checks, verified replacement discovery, fallback to remaining sources, and source-health reporting. All-source failure must be reported as failure, not as no new releases.
+- Confirmed the requested URL loads and returns release content using web_fetch.
+- `git diff --check` passed; searched automation files and README for the obsolete news URL with no matches.
+- No executable code or whiskey data changed; no applicable documentation tests were found.
 
 ## Errors
-None.
+- The initial shell search returned `/bin/bash: line 1: rg: command not found`; used the provided search tool and grep instead.
 
 ## Remaining Work
 None.
 
 ## State
-- Modified files: `/tmp/workspace/_data/whiskeyindex.csv`, `/tmp/workspace/.agent-session/files/task-report.md`.
-- Validation command used: `python3 .github/scripts/validate_whiskey_data.py`.
-- Relevant evidence: official Four Roses `single-barrel-collection` page and whiskey coverage confirming the 2026 100-proof releases are recipe-specific collection entries, not a separate core product.
+- Repository: `/home/runner/work/whiskeyproofs/whiskeyproofs`.
+- The daily workflow `/home/runner/work/whiskeyproofs/whiskeyproofs/.github/workflows/find-new-releases.yml` reads the updated prompt directly; no workflow edits are needed.
+- Resilience checks are agent instructions, not a deterministic link-monitoring service.
