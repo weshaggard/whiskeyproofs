@@ -1,33 +1,39 @@
 # Task Report
 
 ## Task
-Verify the reviewed `_data/whiskeyindex.csv` entry for Four Roses at the commented line and make the smallest valid correction if the entry is not supported.
+Implement scheduled discovery source-health monitoring with failure alerts.
 
 ## Result
 ✅ Success
 
 ## Summary
-- Items processed: 1
-- Succeeded: 1
+- Items processed: 3
+- Succeeded: 3
 - Failed: 0
 - Skipped: 0
 
 ## Completed
-- Confirmed the only actionable PR thread was comment `3615416034` on `_data/whiskeyindex.csv`.
-- Inspected the current Four Roses rows around line 610 and traced authorship with `git blame`.
-- Verified the suspicious row `Four Roses,100 Proof,,100,2026,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/four-roses-bourbon` was introduced by commit `f86ddf5`.
-- Confirmed `e37901c` did not modify the Four Roses section; it only added Village Garage rows.
-- Ran `python3 .github/scripts/validate_whiskey_data.py` before and after the change; both runs passed.
-- Verified via official Four Roses sources and reputable whiskey coverage that 2026 100-proof Four Roses releases exist only as named `Single Barrel Collection` recipe bottlings, not as a standalone `Four Roses 100 Proof` product.
-- Removed the unsupported generic row from `/tmp/workspace/_data/whiskeyindex.csv`.
+- Added `/home/runner/work/whiskeyproofs/whiskeyproofs/.github/scripts/check_discovery_sources.py`. It reads fallback URLs from the existing discovery prompt, checks HTTPS HTML content, requires Breaking Bourbon press-release article links, and returns nonzero for any failed source. Network/429/5xx failures get at most three retries; permanent HTTP failures are not retried.
+- Added `/home/runner/work/whiskeyproofs/whiskeyproofs/.github/workflows/check-discovery-sources.yml`: daily 08:17 UTC and manual triggers, bounded runtime, summary publishing, and create/update of one open issue titled `Discovery source health check failing`. Concurrent runs are serialized. Discovery is not blocked.
+- Added 10 standard-library unittest cases in `/home/runner/work/whiskeyproofs/whiskeyproofs/.github/scripts/test_check_discovery_sources.py`; all passed.
+- Validated YAML parsing and bash syntax; exercised issue creation, issue update, and missing-report fallback using a mocked GitHub CLI without creating real issues.
+- Existing data validator passed for all 2,035 entries; no whiskey data changed. `git diff --check` passed.
+- Documented schedule, notifications, manual recovery, and local commands in `/home/runner/work/whiskeyproofs/whiskeyproofs/.github/WORKFLOW_TRIGGERS.md`.
+- Read-only review agent found no significant issues.
+- Secret scanning passed for all five modified files. Parallel validation returned zero CodeQL alerts but reported analysis skipped because there were no changes since its last run; its automated review executable was unavailable. The separate read-only review agent completed successfully.
+- Live check: 6 sources processed, 5 succeeded, 1 failed. Breaking Bourbon, Bourbon Culture, The Whiskey Wash, Distiller, and Fred Minnick passed.
 
 ## Errors
-None.
+- First unit test run exposed a hostname comparison that missed `www.breakingbourbon.com`; fixed the comparison and reran all tests successfully.
+- Live Whisky Advocate check at `https://www.whiskyadvocate.com` failed: `Network error: <urlopen error timed out>`. The checker performed the initial attempt plus three retries and stopped. Live output is saved in `/tmp/whiskeyproofs-source-health.md` (ephemeral).
+- Parallel validation's built-in review could not execute: `autofind binary not found`; no retries for the missing executable.
 
 ## Remaining Work
-None.
+- After deployment to the default branch, manually run `Discovery Source Health` to verify real GitHub issue permissions/notifications; alert CLI behavior was tested with mocks only.
+- If Whisky Advocate still times out on GitHub-hosted runners, verify it in a browser and investigate bot protection or a replacement URL before changing the discovery prompt.
 
 ## State
-- Modified files: `/tmp/workspace/_data/whiskeyindex.csv`, `/tmp/workspace/.agent-session/files/task-report.md`.
-- Validation command used: `python3 .github/scripts/validate_whiskey_data.py`.
-- Relevant evidence: official Four Roses `single-barrel-collection` page and whiskey coverage confirming the 2026 100-proof releases are recipe-specific collection entries, not a separate core product.
+- Repository: `/home/runner/work/whiskeyproofs/whiskeyproofs`.
+- No new third-party dependencies, secrets, or GitHub App configuration are required. Workflow uses the repository token with contents:read and issues:write.
+- Alert issue bodies are updated on recurring failures; issues are closed manually after a successful rerun.
+- Generic-source checks are availability/content smoke checks, not proof of current or complete release coverage.

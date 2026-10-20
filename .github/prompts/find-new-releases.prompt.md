@@ -14,12 +14,20 @@ Scope:
 
 Reputable fallback sources (in priority order):
 
-1. [Breaking Bourbon](https://www.breakingbourbon.com) – breaking bourbon news, release announcements, and batch details
+1. [Breaking Bourbon press releases](https://www.breakingbourbon.com/bourbon-rye-whiskey-press-releases) – bourbon and rye release announcements and batch details
 2. [Bourbon Culture](https://bourbonculture.com) – release news, batch info, and reviews
 3. [The Whiskey Wash](https://thewhiskeywash.com) – industry news and release coverage
 4. [Whisky Advocate](https://www.whiskyadvocate.com) – reviews and release announcements
 5. [Distiller](https://distiller.com) – product database and release details
 6. [Fred Minnick](https://fredminnick.com) – bourbon journalist coverage of new releases
+
+Source health:
+
+- Before using a discovery page, verify that it loads and contains relevant release listings; an HTTP 200 response alone is not sufficient.
+- Use the Breaking Bourbon press-release listing linked above, not a guessed news path.
+- If a source returns 404/410 or no longer contains release listings, look for its replacement through the site's navigation or a site-scoped search, and verify the replacement before using it. Follow the retry limits below for transient failures.
+- If no working replacement is found, continue with the remaining sources. A single unavailable source must not block discovery.
+- Report unavailable sources, errors, and any verified replacement URLs in the run report. If no sources could be checked successfully, report discovery as failed rather than claiming no new releases were found.
 
 Acceptance criteria:
 
@@ -104,3 +112,4 @@ At the end of the run, include:
 - Counts for processed/succeeded/failed/skipped items
 - Exact entries added or updated (including release-year range updates)
 - Any errors, retries performed, and remaining follow-up work
+- Source-health results, including unavailable discovery pages and verified replacement URLs
