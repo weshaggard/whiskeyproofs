@@ -32,6 +32,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+          # Sparse checkout also enables blob filtering, avoiding the label archive download.
+          sparse-checkout: |
+            /*
+            !/labels/
+          sparse-checkout-cone-mode: false
       - name: Set up Python
         uses: actions/setup-python@v6
         with:

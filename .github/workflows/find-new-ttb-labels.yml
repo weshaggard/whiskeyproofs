@@ -39,13 +39,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
         with:
-          fetch-depth: 0
+          fetch-depth: 1
+          # Preserve known label directories/metadata for discovery, but omit archived images.
+          sparse-checkout: |
+            /*
+            !/labels/
+            /labels/**/*.md
+            /labels/**/*.json
+          sparse-checkout-cone-mode: false
           token: ${{ steps.generate_token.outputs.token }}
       
       - name: Switch to PR branch if it already exists
         run: |
-          if git fetch origin automated/new-ttb-labels 2>/dev/null; then
-            git checkout automated/new-ttb-labels
+          if git fetch --depth=1 --filter=blob:none --no-tags origin automated/new-ttb-labels 2>/dev/null; then
+            git checkout -B automated/new-ttb-labels FETCH_HEAD
             echo "Checked out existing PR branch — new changes will be additive"
           else
             echo "Branch does not exist yet — it will be created from the current checkout"
@@ -178,7 +185,8 @@ jobs:
             git checkout -b automated/new-ttb-labels
           fi
 
-          git add -A
+          # Include newly downloaded images outside the sparse checkout.
+          git add --sparse -A
 
           if git diff --cached --quiet; then
             echo "No changes to commit"
