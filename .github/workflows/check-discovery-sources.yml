@@ -1,0 +1,70 @@
+name: Discovery Source Health
+
+on:
+  schedule:
+    # Check before daily release discovery, without blocking it.
+    - cron: '17 8 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: discovery-source-health
+  cancel-in-progress: false
+
+jobs:
+  check-sources:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.x'
+
+      - name: Test source health checker
+        run: python3 -m unittest discover -s .github/scripts -p 'test_check_discovery_sources.py'
+
+      - name: Check discovery sources
+        id: check
+        run: python3 .github/scripts/check_discovery_sources.py --report "$RUNNER_TEMP/source-health.md"
+
+      - name: Publish check summary
+        if: always() && steps.check.outcome != 'skipped'
+        run: |
+          if [ -f "$RUNNER_TEMP/source-health.md" ]; then
+            cat "$RUNNER_TEMP/source-health.md" >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Create or update failure alert
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          TITLE="Discovery source health check failing"
+          BODY="$RUNNER_TEMP/source-health-alert.md"
+          printf 'The scheduled/manual discovery source health check failed.\n\nRun: %s\n\n' "$RUN_URL" > "$BODY"
+          if [ -f "$RUNNER_TEMP/source-health.md" ]; then
+            cat "$RUNNER_TEMP/source-health.md" >> "$BODY"
+          else
+            printf 'The checker did not complete. See the run logs for details.\n' >> "$BODY"
+          fi
+          printf '\nVerify failing sources and update .github/prompts/find-new-releases.prompt.md if a URL moved. Close this issue after a successful rerun. Release discovery remains independent.\n' >> "$BODY"
+          ISSUE=$(gh issue list --state open --limit 1000 --json number,title \
+            --jq '.[] | select(.title == "Discovery source health check failing") | .number' | head -n 1)
+          if [ -n "$ISSUE" ]; then
+            gh issue edit "$ISSUE" --body-file "$BODY"
+          else
+            gh issue create --title "$TITLE" --body-file "$BODY"
+          fi
