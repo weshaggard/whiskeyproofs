@@ -1,10 +1,10 @@
 # Task Report
 
 ## Task
-Verify the reviewed `_data/whiskeyindex.csv` entry for Four Roses at the commented line and make the smallest valid correction if the entry is not supported.
+Diagnose and fix the failing `validate-and-build` GitHub Actions job in run `39806735709`, job `120493058684`.
 
 ## Result
-✅ Success
+⚠️ Partial
 
 ## Summary
 - Items processed: 1
@@ -13,21 +13,19 @@ Verify the reviewed `_data/whiskeyindex.csv` entry for Four Roses at the comment
 - Skipped: 0
 
 ## Completed
-- Confirmed the only actionable PR thread was comment `3615416034` on `_data/whiskeyindex.csv`.
-- Inspected the current Four Roses rows around line 610 and traced authorship with `git blame`.
-- Verified the suspicious row `Four Roses,100 Proof,,100,2026,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/four-roses-bourbon` was introduced by commit `f86ddf5`.
-- Confirmed `e37901c` did not modify the Four Roses section; it only added Village Garage rows.
-- Ran `python3 .github/scripts/validate_whiskey_data.py` before and after the change; both runs passed.
-- Verified via official Four Roses sources and reputable whiskey coverage that 2026 100-proof Four Roses releases exist only as named `Single Barrel Collection` recipe bottlings, not as a standalone `Four Roses 100 Proof` product.
-- Removed the unsupported generic row from `/tmp/workspace/_data/whiskeyindex.csv`.
+- Inspected Actions run `39806735709` (attempt 2) and job `120493058684`.
+- Identified the failure in `ruby/setup-ruby@6ca151fd1bfcfd6fe0c4eb6837eb0584d0134a0c`: the runner was `ubuntu-26.04-x64`, which that action did not recognize as a GitHub-hosted image.
+- Pinned the `validate-and-build` job in `.github/workflows/build.yml` to `ubuntu-24.04`.
+- Ran `python3 .github/scripts/validate_whiskey_data.py`; all checks passed for 2,049 entries.
 
 ## Errors
-None.
+- The Actions log reported: `The current runner (ubuntu-26.04-x64) was detected as self-hosted because the platform does not match a GitHub-hosted runner image (or that image is deprecated and no longer supported).`
+- The local Jekyll build could not start: `/bin/bash: line 1: bundle: command not found`. No retry was made because Bundler is not installed in this environment.
 
 ## Remaining Work
-None.
+- Confirm a rerun of `validate-and-build` succeeds with the pinned `ubuntu-24.04` runner, including the Ruby setup and Jekyll build steps.
 
 ## State
-- Modified files: `/tmp/workspace/_data/whiskeyindex.csv`, `/tmp/workspace/.agent-session/files/task-report.md`.
-- Validation command used: `python3 .github/scripts/validate_whiskey_data.py`.
-- Relevant evidence: official Four Roses `single-barrel-collection` page and whiskey coverage confirming the 2026 100-proof releases are recipe-specific collection entries, not a separate core product.
+- Modified files: `.github/workflows/build.yml` and `.agent-session/files/task-report.md`.
+- The job log retrieved for diagnosis is available at `/tmp/1792772178205-copilot-tool-output-8c811c.txt`.
+- Whiskey data validation passed; the Jekyll build was not run locally because Bundler is unavailable.
