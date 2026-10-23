@@ -1,39 +1,31 @@
 # Task Report
 
 ## Task
-Implement scheduled discovery source-health monitoring with failure alerts.
+Merge the current `main` branch into PR #303 and resolve conflicts.
 
 ## Result
 ✅ Success
 
 ## Summary
-- Items processed: 3
-- Succeeded: 3
+- Items processed: 1
+- Succeeded: 1
 - Failed: 0
 - Skipped: 0
 
 ## Completed
-- Added `/home/runner/work/whiskeyproofs/whiskeyproofs/.github/scripts/check_discovery_sources.py`. It reads fallback URLs from the existing discovery prompt, checks HTTPS HTML content, requires Breaking Bourbon press-release article links, and returns nonzero for any failed source. Network/429/5xx failures get at most three retries; permanent HTTP failures are not retried.
-- Added `/home/runner/work/whiskeyproofs/whiskeyproofs/.github/workflows/check-discovery-sources.yml`: daily 08:17 UTC and manual triggers, bounded runtime, summary publishing, and create/update of one open issue titled `Discovery source health check failing`. Concurrent runs are serialized. Discovery is not blocked.
-- Added 10 standard-library unittest cases in `/home/runner/work/whiskeyproofs/whiskeyproofs/.github/scripts/test_check_discovery_sources.py`; all passed.
-- Validated YAML parsing and bash syntax; exercised issue creation, issue update, and missing-report fallback using a mocked GitHub CLI without creating real issues.
-- Existing data validator passed for all 2,035 entries; no whiskey data changed. `git diff --check` passed.
-- Documented schedule, notifications, manual recovery, and local commands in `/home/runner/work/whiskeyproofs/whiskeyproofs/.github/WORKFLOW_TRIGGERS.md`.
-- Read-only review agent found no significant issues.
-- Secret scanning passed for all five modified files. Parallel validation returned zero CodeQL alerts but reported analysis skipped because there were no changes since its last run; its automated review executable was unavailable. The separate read-only review agent completed successfully.
-- Live check: 6 sources processed, 5 succeeded, 1 failed. Breaking Bourbon, Bourbon Culture, The Whiskey Wash, Distiller, and Fred Minnick passed.
+- Fetched `main` into `origin/main` and progressively deepened history until merge base `fa56e9cc4c2b429ba1c70052df91ae1e6d5ef0b4` was available.
+- Merged `origin/main`; the only conflict was this task report.
+- Resolved the report conflict for the current merge task. Other `main` changes merged without conflicts, including discovery source monitoring and its tests, updated whiskey data, and 69 new label records/assets.
+- Ran `python3 .github/scripts/test_check_discovery_sources.py`; all 10 tests passed.
+- Ran `python3 .github/scripts/validate_whiskey_data.py`; validation passed for 2,054 entries.
+- Parsed all five `.github/workflows/*.yml` files successfully.
 
 ## Errors
-- First unit test run exposed a hostname comparison that missed `www.breakingbourbon.com`; fixed the comparison and reran all tests successfully.
-- Live Whisky Advocate check at `https://www.whiskyadvocate.com` failed: `Network error: <urlopen error timed out>`. The checker performed the initial attempt plus three retries and stopped. Live output is saved in `/tmp/whiskeyproofs-source-health.md` (ephemeral).
-- Parallel validation's built-in review could not execute: `autofind binary not found`; no retries for the missing executable.
+- Initial unittest invocation `python3 -m unittest .github.scripts.test_check_discovery_sources` failed because the dotted `.github` path is not a valid Python module name (`ValueError: Empty module name`). Running the test file directly succeeded.
 
 ## Remaining Work
-- After deployment to the default branch, manually run `Discovery Source Health` to verify real GitHub issue permissions/notifications; alert CLI behavior was tested with mocks only.
-- If Whisky Advocate still times out on GitHub-hosted runners, verify it in a browser and investigate bot protection or a replacement URL before changing the discovery prompt.
+None.
 
 ## State
-- Repository: `/home/runner/work/whiskeyproofs/whiskeyproofs`.
-- No new third-party dependencies, secrets, or GitHub App configuration are required. Workflow uses the repository token with contents:read and issues:write.
-- Alert issue bodies are updated on recurring failures; issues are closed manually after a successful rerun.
-- Generic-source checks are availability/content smoke checks, not proof of current or complete release coverage.
+- Target branch: `main`, fetched at `14bf5619ea025d09c2b6a35f1923c2737fbcf3cc`.
+- Merge commit must have two parents: current branch and the fetched `origin/main`.
