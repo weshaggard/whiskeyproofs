@@ -1,39 +1,40 @@
 # Task Report
 
 ## Task
-Implement scheduled discovery source-health monitoring with failure alerts.
+Fix workflow run 39790271349 and resolve linked issue #301 by verifying and correcting the Whisky Advocate discovery source.
 
 ## Result
-✅ Success
+⚠️ Partial
 
 ## Summary
-- Items processed: 3
-- Succeeded: 3
-- Failed: 0
+- Items processed: 6 discovery sources
+- Succeeded: 5
+- Failed: 1
 - Skipped: 0
 
 ## Completed
-- Added `/home/runner/work/whiskeyproofs/whiskeyproofs/.github/scripts/check_discovery_sources.py`. It reads fallback URLs from the existing discovery prompt, checks HTTPS HTML content, requires Breaking Bourbon press-release article links, and returns nonzero for any failed source. Network/429/5xx failures get at most three retries; permanent HTTP failures are not retried.
-- Added `/home/runner/work/whiskeyproofs/whiskeyproofs/.github/workflows/check-discovery-sources.yml`: daily 08:17 UTC and manual triggers, bounded runtime, summary publishing, and create/update of one open issue titled `Discovery source health check failing`. Concurrent runs are serialized. Discovery is not blocked.
-- Added 10 standard-library unittest cases in `/home/runner/work/whiskeyproofs/whiskeyproofs/.github/scripts/test_check_discovery_sources.py`; all passed.
-- Validated YAML parsing and bash syntax; exercised issue creation, issue update, and missing-report fallback using a mocked GitHub CLI without creating real issues.
-- Existing data validator passed for all 2,035 entries; no whiskey data changed. `git diff --check` passed.
-- Documented schedule, notifications, manual recovery, and local commands in `/home/runner/work/whiskeyproofs/whiskeyproofs/.github/WORKFLOW_TRIGGERS.md`.
-- Read-only review agent found no significant issues.
-- Secret scanning passed for all five modified files. Parallel validation returned zero CodeQL alerts but reported analysis skipped because there were no changes since its last run; its automated review executable was unavailable. The separate read-only review agent completed successfully.
-- Live check: 6 sources processed, 5 succeeded, 1 failed. Breaking Bourbon, Bourbon Culture, The Whiskey Wash, Distiller, and Fred Minnick passed.
+- Investigated run https://github.com/weshaggard/whiskeyproofs/actions/runs/39790271349 and issue #301. The failing source was `https://www.whiskyadvocate.com`, which timed out after the health check's three retries.
+- Web search confirmed Whisky Advocate's official news page is `https://whiskyadvocate.com/News/`.
+- Updated `.github/prompts/find-new-releases.prompt.md` to use the official News page URL. Pushed commit `d74d21fef8164c0254fc272f7f202d9688949807` on branch `copilot/fix-action-run-39790271349`.
+- Focused checker tests passed: 10 tests.
+- Secret scanning passed. Parallel validation found no review comments; CodeQL was skipped because the prompt URL-only change is trivial.
+- Issue #301 remains open pending a successful rerun.
 
 ## Errors
-- First unit test run exposed a hostname comparison that missed `www.breakingbourbon.com`; fixed the comparison and reran all tests successfully.
-- Live Whisky Advocate check at `https://www.whiskyadvocate.com` failed: `Network error: <urlopen error timed out>`. The checker performed the initial attempt plus three retries and stopped. Live output is saved in `/tmp/whiskeyproofs-source-health.md` (ephemeral).
-- Parallel validation's built-in review could not execute: `autofind binary not found`; no retries for the missing executable.
+- Local source-health validation still timed out for `https://whiskyadvocate.com/News/` after the initial request plus three retries: `Network error: <urlopen error timed out>`. The other five sources passed.
+- `retry_workflow_run` for run 39790271349 was rejected with HTTP 403: `workflow run does not belong to the job repository and branch`.
+- Manual run 39806379508 on `main` was cancelled after its check remained in progress, so it did not verify the updated URL.
+- Run 39807022551 on the updated branch was cancelled after checkout `git fetch` remained in progress for 15 minutes; logs ended with `The operation was canceled.`
+- Run 39809757319 checked the updated URL on GitHub Actions; Whisky Advocate still timed out after three retries. The other five sources passed, so issue #301 remains open.
 
 ## Remaining Work
-- After deployment to the default branch, manually run `Discovery Source Health` to verify real GitHub issue permissions/notifications; alert CLI behavior was tested with mocks only.
-- If Whisky Advocate still times out on GitHub-hosted runners, verify it in a browser and investigate bot protection or a replacement URL before changing the discovery prompt.
+- Find a reachable Whisky Advocate discovery page or decide whether the source should be removed from the fallback list; the official `https://whiskyadvocate.com/News/` endpoint times out in both local validation and GitHub Actions.
+- After applying a verified fix, rerun the discovery source workflow and close issue #301 only if it succeeds.
 
 ## State
 - Repository: `/home/runner/work/whiskeyproofs/whiskeyproofs`.
-- No new third-party dependencies, secrets, or GitHub App configuration are required. Workflow uses the repository token with contents:read and issues:write.
-- Alert issue bodies are updated on recurring failures; issues are closed manually after a successful rerun.
-- Generic-source checks are availability/content smoke checks, not proof of current or complete release coverage.
+- Changed file: `.github/prompts/find-new-releases.prompt.md` only.
+- Issue #301: open.
+- Workflow run 39807022551: cancelled during checkout after 15 minutes.
+- Workflow run 39809757319: completed with failure; all sources except Whisky Advocate passed. Its failure alert updated issue #301.
+- No whiskey data or dependency files were changed.
