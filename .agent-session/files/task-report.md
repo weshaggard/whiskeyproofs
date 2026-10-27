@@ -1,10 +1,10 @@
 # Task Report
 
 ## Task
-Merge the current `main` branch into PR #303 and resolve conflicts.
+Investigate and fix the failing CI checks on PR #303.
 
 ## Result
-✅ Success
+⚠️ Partial
 
 ## Summary
 - Items processed: 1
@@ -13,19 +13,25 @@ Merge the current `main` branch into PR #303 and resolve conflicts.
 - Skipped: 0
 
 ## Completed
-- Fetched `main` into `origin/main` and progressively deepened history until merge base `fa56e9cc4c2b429ba1c70052df91ae1e6d5ef0b4` was available.
-- Merged `origin/main`; the only conflict was this task report.
-- Resolved the report conflict for the current merge task. Other `main` changes merged without conflicts, including discovery source monitoring and its tests, updated whiskey data, and 69 new label records/assets.
+- Inspected failed `Validate, Build, and Deploy` runs `40025781469` and `40030334256`.
+- Identified the blocking failure in `Build with Jekyll`: with Ruby 3.4, Jekyll 4.3.4 raises `LoadError: cannot load such file -- csv`. The log explicitly notes `csv` is no longer a default gem and recommends adding it to the Gemfile.
+- Confirmed `ruby/setup-ruby` and Bundler setup succeed in the latest failure; the failure occurs only when starting the Jekyll build.
+- Added `csv` `~> 3.3.6` to `/home/runner/work/whiskeyproofs/whiskeyproofs/Gemfile`; RubyGems reports 3.3.6 requires Ruby >= 2.5.0 and the advisory check found no vulnerabilities.
+- Installed dependencies to `/tmp` after the first local install attempt hit permission errors writing under `/var/lib/gems`.
+- Ran the Jekyll build successfully with the temporary bundle on the available local Ruby 3.2.3.
+- Ran `python3 .github/scripts/validate_whiskey_data.py`; all checks passed for 2,054 entries.
 - Ran `python3 .github/scripts/test_check_discovery_sources.py`; all 10 tests passed.
-- Ran `python3 .github/scripts/validate_whiskey_data.py`; validation passed for 2,054 entries.
-- Parsed all five `.github/workflows/*.yml` files successfully.
+- Verified `ruby -c Gemfile` and `git diff --check`.
 
 ## Errors
-- Initial unittest invocation `python3 -m unittest .github.scripts.test_check_discovery_sources` failed because the dotted `.github` path is not a valid Python module name (`ValueError: Empty module name`). Running the test file directly succeeded.
+- In CI, Jekyll failed with `cannot load such file -- csv (LoadError)` on Ruby 3.4.
+- The URL validation step reports some HTTP 404 URLs, including Chicken Cock links, and exits nonzero; the workflow marks this step `continue-on-error: true`, so it is not the build-blocking failure addressed here.
+- Initial local Bundler install failed with `Bundler::PermissionError` writing to `/var/lib/gems/3.2.0/cache`. Re-running with temporary writable bundle/cache paths succeeded.
 
 ## Remaining Work
-None.
+- Confirm the PR Actions run succeeds on Ruby 3.4 after adding the explicit `csv` dependency.
 
 ## State
-- Target branch: `main`, fetched at `14bf5619ea025d09c2b6a35f1923c2737fbcf3cc`.
-- Merge commit must have two parents: current branch and the fetched `origin/main`.
+- Changed files: `/home/runner/work/whiskeyproofs/whiskeyproofs/Gemfile` and this report.
+- Removed the ignored `Gemfile.lock`, `_site`, and local test/build caches after verification.
+- Local bundle path: `/tmp/whiskeyproofs-bundle`; cache/config are under `/tmp/whiskeyproofs-bundle-cache` and `/tmp/whiskeyproofs-bundler-home`.
