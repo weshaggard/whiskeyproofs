@@ -11,6 +11,7 @@ Name,Batch,Age,Proof,ReleaseYear,Distillery,Type,TTB_ID,url
 13th Colony Cask Strength Southern Bourbon,2024,,120.64,2024,Thirteenth Colony Distilleries,Bourbon,,https://www.13thcolonydistillery.com/13th-colony-releases-new-cask-strength-southern-bourbon
 1620 Distilling Company,Commander's Reserve,,100,2026,1620 Distilling Company,Bourbon,26153001000939,
 1792 Bourbon,XV,15,124.2,2026,Barton 1792,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/barton-1792-distillery-adds-two-landmark-expressions-to-its-whiskey-lineup-1792-kentucky-straight-rye-whiskey-and-1792-xv
+1792 Bourbon,Wheated Full Proof,,125,2026,Barton 1792,Bourbon,26141001000677,https://1792bourbon.com/
 1792 Bourbon,Sweet Wheat,,91.2,2015-2025,Barton 1792,Bourbon,14064001000038,https://1792bourbon.com/sweet-wheat/
 1792 Bourbon,Small Batch,,93.7,2002-2025,Barton 1792,Bourbon,24009001000225,https://1792bourbon.com/our-bourbon/
 1792 Bourbon,Single Barrel,,98.6,2015-2025,Barton 1792,Bourbon,24030001000597,https://1792bourbon.com/single-barrel/
@@ -484,7 +485,7 @@ Chicken Cock Annual Tin,Red Stave,,102.4,2023,Chicken Cock,Bourbon,,https://chic
 Chicken Cock Annual Tin,Mizunara,,105,2024,Chicken Cock,Bourbon,,https://chickencockwhiskey.com/pages/our-whiskey#mizunara
 Chicken Cock Annual Tin,Cotton Club Rye,20,100,2021,Chicken Cock,Rye,,https://chickencockwhiskey.com/pages/our-whiskey#cotton-club
 Chicken Cock Annual Tin,Chanticleer,,112,2022,Chicken Cock,Bourbon,,https://chickencockwhiskey.com/pages/our-whiskey#chanticleer
-Colonel E.H. Taylor Bottled in Bond,BTAC Fall 2025,15,100,2025,Buffalo Trace,Bourbon,25122001000085,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/e-h-taylor-jr-bottled-in-bond/
+Colonel E.H. Taylor Bottled in Bond,BTAC Fall 2025,15,100,2025,Buffalo Trace,Bourbon,25122001000085,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-bottled-in-bond/
 Conviction,standard,,100,2017-2026,Southern Grace Distilleries,Bourbon,17227001000793,https://www.southerngracedistilleries.com/conviction-straight-bourbon
 Conviction,Single Barrel Sample (2023),,94,2023,Southern Grace Distilleries,Bourbon,23129001000884,https://www.southerngracedistilleries.com/conviction-straight-bourbon
 Conviction,Single Barrel 8 Year,8,105,2026,Southern Grace Distilleries,Bourbon,26104001000171,https://www.southerngracedistilleries.com/conviction-straight-bourbon
