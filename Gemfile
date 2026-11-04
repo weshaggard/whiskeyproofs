@@ -2,6 +2,8 @@ source "https://rubygems.org"
 
 # Jekyll
 gem "jekyll", "~> 4.3.3"
+gem "csv", "~> 3.3.6"
+gem "base64", "~> 0.3.0"
 
 # Theme
 gem "jekyll-theme-minimal", "~> 0.2.0"

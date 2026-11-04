@@ -11,6 +11,7 @@ Name,Batch,Age,Proof,ReleaseYear,Distillery,Type,TTB_ID,url
 13th Colony Cask Strength Southern Bourbon,2024,,120.64,2024,Thirteenth Colony Distilleries,Bourbon,,https://www.13thcolonydistillery.com/13th-colony-releases-new-cask-strength-southern-bourbon
 1620 Distilling Company,Commander's Reserve,,100,2026,1620 Distilling Company,Bourbon,26153001000939,
 1792 Bourbon,XV,15,124.2,2026,Barton 1792,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/barton-1792-distillery-adds-two-landmark-expressions-to-its-whiskey-lineup-1792-kentucky-straight-rye-whiskey-and-1792-xv
+1792 Bourbon,Wheated Full Proof,,125,2026,Barton 1792,Bourbon,26141001000677,https://1792bourbon.com/
 1792 Bourbon,Sweet Wheat,,91.2,2015-2025,Barton 1792,Bourbon,14064001000038,https://1792bourbon.com/sweet-wheat/
 1792 Bourbon,Small Batch,,93.7,2002-2025,Barton 1792,Bourbon,24009001000225,https://1792bourbon.com/our-bourbon/
 1792 Bourbon,Single Barrel,,98.6,2015-2025,Barton 1792,Bourbon,24030001000597,https://1792bourbon.com/single-barrel/
@@ -156,6 +157,7 @@ Barrell Bourbon,Batch 004,,120.6,2014,Barrell Craft Spirits,Bourbon,142930010003
 Barrell Bourbon,Batch 003,,122.6,2014,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
 Barrell Bourbon,Batch 002,,117.8,2014,Barrell Craft Spirits,Bourbon,14191001000299,https://www.barrellbourbon.com/
 Barrell Bourbon,Batch 001,,121.6,2014,Barrell Craft Spirits,Bourbon,,https://www.barrellbourbon.com/
+Barrell Bourbon,12-Year French Toast(ed),12,107.24,2026,Barrell Craft Spirits,Bourbon,26224001000606,https://www.barrellbourbon.com/frenchtoasted
 Barrell Bourbon,12-Year Toasted Barrel,12,113.4,2026,Barrell Craft Spirits,Bourbon,26057001000122,https://www.fredminnick.com/2026/02/25/barrell-releases-12-year-toasted-barrel-bourbon/
 Barrell Bourbon,12-Year French Oak,,108.5,2025,Barrell Craft Spirits,Bourbon,25178001000556,https://www.barrellbourbon.com/frenchoak
 Barrell Bourbon,New Year 2026,,110.3,2025,Barrell Craft Spirits,Bourbon,25121001000945,https://www.barrellbourbon.com/
@@ -230,8 +232,10 @@ Birthday Bourbon,2002,12,95,2002,Old Forester,Bourbon,02156000000070,https://www
 Black Maple Hill,Kentucky Straight Bourbon,,95,2026,Rare Character Whiskey Co.,Bourbon,,https://www.rarecharacterwhiskey.com/blackmaplehill
 Black Maple Hill,16 Year,16,95,2026,Rare Character Whiskey Co.,Bourbon,,https://www.rarecharacterwhiskey.com/blackmaplehill
 Blackfork Farms,Heritage Reserve,,120,2026,Blackfork Spirits,Bourbon,26139001000120,https://blackforkfarms.com
+Blackhat,standard,4.5,100,2026,Blackhat Distillery,Bourbon,,
 Blade and Bow,standard,,91,2015-2026,Blade and Bow,Bourbon,25093001000789,https://www.bladeandbowwhiskey.com/
-Blade and Bow,30 Year,30,109,2025,Blade and Bow,Bourbon,,https://www.fredminnick.com/2025/11/14/blade-and-bow-releases-30-year-old-bourbon/
+Blade and Bow,30 Year Cask Strength,30,164.2,2026,Blade and Bow,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/blade-and-bow-unveils-rare-cask-strength-bottling-of-its-30-year-old-kentucky-straight-bourbon-whiskey
+Blade and Bow,30 Year,30,109,2025-2026,Blade and Bow,Bourbon,,https://www.fredminnick.com/2025/11/14/blade-and-bow-releases-30-year-old-bourbon/
 Blade and Bow,22 Year,22,92,2015-2026,Blade and Bow,Bourbon,,https://www.bladeandbowwhiskey.com/
 Blade and Bow,12 Year Solera Reserve,12,104,2026,Blade and Bow,Bourbon,25357001000108,https://www.prnewswire.com/news-releases/blade-and-bow-unveils-a-new-limited-annual-expression-12-year-old-solera-reserve-302804759.html
 Blanton's,Straight From The Barrel,,120-135,1999-2025,Buffalo Trace,Bourbon,22313001000951,https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-straight-from-the-barrel/
@@ -406,6 +410,8 @@ Buzzard's Roost,Fred Minnick's Club Marzipan Single Barrel,6,115.4,2026,Buzzard'
 Buzzard's Roost,Four Grain Double Oak Bourbon,5,100,2026,Buzzard's Roost Spirits,Bourbon,26026001000195,https://www.buzzardsroostwhiskey.com/
 Buzzard's Roost,Double Oak 11 Year Wheated,11,100,2026,Buzzard's Roost Spirits,Bourbon,26264001000431,https://www.buzzardsroostwhiskey.com/
 Buzzard's Roost,Char #1 Rye,,105,2019-2026,Buzzard's Roost Spirits,Rye,,https://www.buzzardsroostwhiskey.com/
+Caleb's Crossing,1776-2026 Batch KSR-1,8,110.76,2026,Green River Distilling Company,Rye,,https://seelbachs.com/products/caleb-s-crossing-1776-2026-kentucky-straight-rye-whiskey
+Caleb's Crossing,Rye Whiskey (Tullahoma Cask Finish),8,113.77,2025,MGP,Rye,,https://thebourbonculture.com/whiskey-reviews/calebs-crossing-rye-whiskey-2024-review/
 Calumet Farm,Origin Centennial,,100,2025,Barton 1792,Bourbon,,https://www.calumetbourbon.com/centennial-origin-bottle-release
 Calumet Farm,High Rye Centennial,,100,2025,Barton 1792,Rye,,https://www.calumetbourbon.com/centennial-rye-whiskey
 Calumet Farm,Citation 16 Year Single Rack Black,16,106,2022-2026,Barton 1792,Bourbon,24227001000523,https://www.calumetbourbon.com/16-year-old-citation
@@ -465,22 +471,22 @@ Chattanooga Whiskey Founder's Blend,13th Anniversary,,100,2025,Chattanooga Whisk
 Chattanooga Whiskey Founder's Blend,12th Anniversary,,100,2024,Chattanooga Whiskey Company,Bourbon,,https://chattanoogawhiskey.com/
 Chattanooga Whiskey Founder's Blend,11th Anniversary,,100,2023,Chattanooga Whiskey Company,Bourbon,,https://chattanoogawhiskey.com/
 Chattanooga Whiskey Founder's Blend,10th Anniversary,,100,2022,Chattanooga Whiskey Company,Bourbon,,https://chattanoogawhiskey.com/
-Chicken Cock,Wheated,5,94,2026,Chicken Cock,Bourbon,,https://chickencockwhiskey.com/whiskey/wheated-bourbon/
-Chicken Cock,Small Batch,4,100,2024-2025,Chicken Cock,Bourbon,,https://chickencockwhiskey.com/whiskey/small-batch/
-Chicken Cock,Rye,2,90,2020-2025,Chicken Cock,Rye,,https://chickencockwhiskey.com/whiskey/kentucky-straight-rye-whiskey/
+Chicken Cock,Wheated,5,94,2026,Chicken Cock,Bourbon,,https://chickencockwhiskey.com/pages/our-whiskey#wheated-bourbon
+Chicken Cock,Small Batch,4,100,2024-2025,Chicken Cock,Bourbon,,https://chickencockwhiskey.com/pages/our-whiskey#small-batch
+Chicken Cock,Rye,2,90,2020-2025,Chicken Cock,Rye,,https://chickencockwhiskey.com/pages/our-whiskey#rye
 Chicken Cock,Old Glory,4,100,2026,Bardstown Bourbon Company,Rye,,https://chickencockwhiskey.com/
-Chicken Cock,Miller's Reserve,,115,2025,Chicken Cock,American Whiskey,,https://chickencockwhiskey.com/whiskey/millers-reserve/
+Chicken Cock,Miller's Reserve,,115,2025,Chicken Cock,American Whiskey,,https://chickencockwhiskey.com/pages/our-whiskey#miller-s-reserve
 Chicken Cock,Legacy Series 170th Anniversary,6,115,2026,Chicken Cock,Bourbon,26204001000111,https://www.prnewswire.com/news-releases/chicken-cock-whiskey-celebrates-170th-anniversary-with-limited-edition-rooster-decanter--legacy-kentucky-straight-bourbon-releases-302869212.html
-Chicken Cock,Island Rooster,,95,2024,Chicken Cock,Rye,,https://chickencockwhiskey.com/whiskey/island-rooster/
-Chicken Cock,Inked Cask,,125,2025,Chicken Cock,Bourbon,25268001000088,https://chickencockwhiskey.com/chicken-cock-whiskey-x-inked-casked/
-Chicken Cock,Double Oak,8,92,2023-2025,Chicken Cock,Whiskey,,https://chickencockwhiskey.com/whiskey/double-oak-kentucky-whiskey/
-Chicken Cock,Bourbon,4,90,2019-2025,Chicken Cock,Bourbon,,https://chickencockwhiskey.com/whiskey/kentucky-straight-bourbon-whiskey/
+Chicken Cock,Island Rooster,,95,2024,Chicken Cock,Rye,,https://chickencockwhiskey.com/pages/our-whiskey#island-rooster
+Chicken Cock,Inked Cask,,125,2025,Chicken Cock,Bourbon,25268001000088,https://chickencockwhiskey.com/pages/our-whiskey
+Chicken Cock,Double Oak,8,92,2023-2025,Chicken Cock,Whiskey,,https://chickencockwhiskey.com/pages/our-whiskey#double-oak
+Chicken Cock,Bourbon,4,90,2019-2025,Chicken Cock,Bourbon,,https://chickencockwhiskey.com/pages/our-whiskey#bourbon
 Chicken Cock,170th Anniversary Rooster Decanter,8,115,2026,Chicken Cock,Bourbon,,https://www.prnewswire.com/news-releases/chicken-cock-whiskey-celebrates-170th-anniversary-with-limited-edition-rooster-decanter--legacy-kentucky-straight-bourbon-releases-302869212.html
-Chicken Cock Annual Tin,Red Stave,,102.4,2023,Chicken Cock,Bourbon,,https://chickencockwhiskey.com/whiskey/red-stave/
-Chicken Cock Annual Tin,Mizunara,,105,2024,Chicken Cock,Bourbon,,https://chickencockwhiskey.com/whiskey/mizunara/
-Chicken Cock Annual Tin,Cotton Club Rye,20,100,2021,Chicken Cock,Rye,,https://chickencockwhiskey.com/whiskey/20-year-old-cotton-club-rye/
-Chicken Cock Annual Tin,Chanticleer,,112,2022,Chicken Cock,Bourbon,,https://chickencockwhiskey.com/whiskey/chanticleer/
-Colonel E.H. Taylor Bottled in Bond,BTAC Fall 2025,15,100,2025,Buffalo Trace,Bourbon,25122001000085,https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/e-h-taylor-jr-bottled-in-bond/
+Chicken Cock Annual Tin,Red Stave,,102.4,2023,Chicken Cock,Bourbon,,https://chickencockwhiskey.com/pages/our-whiskey#red-stave
+Chicken Cock Annual Tin,Mizunara,,105,2024,Chicken Cock,Bourbon,,https://chickencockwhiskey.com/pages/our-whiskey#mizunara
+Chicken Cock Annual Tin,Cotton Club Rye,20,100,2021,Chicken Cock,Rye,,https://chickencockwhiskey.com/pages/our-whiskey#cotton-club
+Chicken Cock Annual Tin,Chanticleer,,112,2022,Chicken Cock,Bourbon,,https://chickencockwhiskey.com/pages/our-whiskey#chanticleer
+Colonel E.H. Taylor Bottled in Bond,BTAC Fall 2025,15,100,2025,Buffalo Trace,Bourbon,25122001000085,https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-bottled-in-bond/
 Conviction,standard,,100,2017-2026,Southern Grace Distilleries,Bourbon,17227001000793,https://www.southerngracedistilleries.com/conviction-straight-bourbon
 Conviction,Single Barrel Sample (2023),,94,2023,Southern Grace Distilleries,Bourbon,23129001000884,https://www.southerngracedistilleries.com/conviction-straight-bourbon
 Conviction,Single Barrel 8 Year,8,105,2026,Southern Grace Distilleries,Bourbon,26104001000171,https://www.southerngracedistilleries.com/conviction-straight-bourbon
@@ -508,6 +514,7 @@ Copper & Cask,Boston Rum Party,,120.2,2026,Copper & Cask,Rye,26117001000332,http
 Crooked Furrow,Noble Reserve,,90,2026,Proof Artisan Distillers,Bourbon,26265001000113,https://proofdistillers.com/spirits-crooked-furrow
 Crooked Furrow,7 Year,7,80,2024-2026,Proof Artisan Distillers,Bourbon,,https://proofdistillers.com/spirits-crooked-furrow
 Crooked Furrow,4 Year,4,92,2021-2026,Proof Artisan Distillers,Bourbon,,https://proofdistillers.com/crooked-furrow-4-year
+Curated Barrel Project,Batch 01 The Control,7,94,2026,Southern Distilling Company,Bourbon,26042001000263,https://thecuratedbarrelproject.com/
 Daniel Weller,Spelt Wheat,10,94,2026,Buffalo Trace,Bourbon,25251001000368,https://www.buffalotracedistillery.com/our-brands/w-l-weller/daniel-weller.html
 Daniel Weller,Emmer Wheat,,94,2023,Buffalo Trace,Bourbon,23122001000576,https://www.buffalotracedistillery.com/our-brands/w-l-weller/daniel-weller.html
 Dark Arts Whiskey House,Tres Vieux Quintessence 15 Year Indiana Rye,15,116.64,2026,Dark Arts Whiskey House,Rye,,https://www.darkartswhiskey.com/
@@ -613,7 +620,7 @@ Eagle Rare 20 Year,2019-2020,20,90,2019-2020,Buffalo Trace,Bourbon,2023100100048
 Eagle Rare 25 Year,standard,25,101,2025,Buffalo Trace,Bourbon,25206001000224,https://www.buffalotracedistillery.com/our-brands/eagle-rare/eagle-rare-25/
 Eagle Rare 30 Year,standard,30,101,2026,Buffalo Trace,Bourbon,,https://www.buffalotracedistillery.com/our-brands/eagle-rare/
 Eleanor,Batch 16 Sherry Cask,5,110,2025,Crowded Barrel Whiskey Co.,Bourbon,,https://shopcrowdedbarrelwhiskey.com/products/eleanor-batch-16-sherry-cask
-Eleanor,Batch 12 Pink Tequila,3.75,110,2024,Crowded Barrel Whiskey Co.,Bourbon,,https://shopcrowdedbarrelwhiskey.com/products/eleanor-batch-12-pink-tequila
+Eleanor,Batch 12 Pink Tequila,3.75,110,2024,Crowded Barrel Whiskey Co.,Bourbon,,https://crowdedbarrel.com/pages/our-whiskey
 Eleanor,95,4,95,2026,Crowded Barrel Whiskey Co.,Bourbon,26265001000479,https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=26265001000479
 Elijah Craig,Toasted Rye,,94,2024-2026,Heaven Hill,Rye,23347001000383,https://elijahcraig.com/toasted-rye
 Elijah Craig,Toasted Barrel,,94,2020-2026,Heaven Hill,Bourbon,20122001000174,https://heavenhilldistillery.com/elijah-craig-toasted-barrel.php
@@ -663,9 +670,11 @@ Elijah Craig Barrel Proof (ECBP),A314,12,132.4,2014,Heaven Hill,Bourbon,13232001
 Elijah Craig Barrel Proof (ECBP),C913,12,133.2,2013,Heaven Hill,Bourbon,13232001000241,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),B713,12,137,2013,Heaven Hill,Bourbon,13232001000241,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof (ECBP),A313,12,134.2,2013,Heaven Hill,Bourbon,13232001000241,https://elijahcraig.com/barrel-proof
+Elijah Craig Barrel Proof (ECBP),H-40,12,124.4,2026,Heaven Hill,Bourbon,,https://elijahcraig.com/barrel-proof
 Elijah Craig Barrel Proof Rye (ECBPR),B526,10.67,115.6,2026,Heaven Hill,Rye,25049001000197,https://www.nestorliquor.com/products/elijah-craig-barrel-proof-rye-batch-b526
 Elijah Craig Barrel Proof Rye (ECBPR),A126,11.9,120.4,2026,Heaven Hill,Rye,25049001000197,https://elijahcraig.com/barrel-proof-rye
 Elijah Craig Barrel Proof Rye (ECBPR),A925,12.25,108,2025,Heaven Hill,Rye,25049001000197,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/elijah-craig-launches-its-first-ever-barrel-proof-kentucky-straight-rye-whiskey
+Elijah Craig Barrel Proof Rye (ECBPR),H-40,10,124.4,2026,Heaven Hill,Rye,,https://elijahcraig.com/barrel-proof-rye
 Elmer T. Lee,standard,,90,1986-2025,Buffalo Trace,Bourbon,19072001000124,https://www.buffalotracedistillery.com/our-brands/elmer-t-lee-single-barrel/elmer-t-lee-single-barrel-bourbon/
 Elmer T. Lee,40th Anniversary Edition,,124.8-138.6,2026,Buffalo Trace,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/buffalo-trace-distillery-honors-40-years-of-elmer-t-lee-bourbon-with-first-ever-uncut-and-unfiltered-offering
 Epoch,standard,2,100,2018-2025,Baltimore Spirits Company,Rye,,https://baltimorespiritsco.com/epoch-rye-whiskey/
@@ -724,12 +733,14 @@ First West,Extra Aged,8,100,2025,15 STARS,Bourbon,,https://15stars.com/first-wes
 First West,Explorer,5,95,2026,15 STARS,Bourbon,,https://15stars.com/first-west/
 First West,Cigar Blend,11,106,2026,15 STARS,Bourbon,26163001000059,https://15stars.com/first-west/
 First West,Bourbon,7,106,2024,15 STARS,Bourbon,,https://barcart.15stars.com/products/first-west-bourbon
+Five & 20,SB(RW) Rye,2,90,2026,Five & 20 Spirits & Brewing,Rye,,https://fiveand20.com/
 Four Branches Bourbon,Liberty Reserve,10,100,2026,Four Branches Bourbon,Bourbon,,https://www.fourbranches.com/products/liberty-reserve
 Four Branches Bourbon,Founders Reserve,,96,2026,Four Branches Bourbon,Bourbon,26085001000545,https://fourbranches.com
 Four Branches Bourbon,Founders Blend,,96,2023-2025,Four Branches Bourbon,Bourbon,22354001000032,https://www.fourbranches.com/products/four-branches-bourbon
 Four Roses,Yellow Label,,80,2002-2026,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/four-roses-bourbon
 Four Roses,100 Proof,,100,2026,Four Roses,Bourbon,,https://www.fredminnick.com/2026/07/22/four-roses-100-proof-rolls-out-nationwide-for-on-premise-sales/
 Four Roses Anthology,Chapter 01: Origin,21,102.5-124.9,2026,Four Roses,Bourbon,25174001000230,https://www.fourrosesbourbon.com/bourbon/anthology
+Four Roses Experimental Series,No. 003,6,104,2026,Four Roses,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/four-roses-distillery-celebrates-the-holiday-season-with-chestnut-wood-finished-bourbon-in-third-experimental-series-release
 Four Roses Experimental Series,No. 002,,104,2026,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/honey-cask-finish
 Four Roses Experimental Series,No. 001,6,104,2026,Four Roses,Bourbon,,https://www.fourrosesbourbon.com/bourbon/experimental-collection
 Four Roses Limited Edition Small Batch,2026,14-23,109.2,2026,Four Roses,Bourbon,26166001000751,https://www.fourrosesbourbon.com/bourbon/limited-edition
@@ -828,6 +839,10 @@ George Washington's,Straight Rye Premium,5,93,2015-2026,George Washington's Dist
 George Washington's,Straight Rye,2,93,2012-2026,George Washington's Distillery,Rye,,https://www.mountvernon.org/the-estate-gardens/distillery/
 George Washington's,Spirit of '76,7,111.6,2026,George Washington's Distillery,Bourbon,26097001000095,https://www.mountvernon.org/estate-gardens/distillery/distilled-spirits-mount-vernon/george-washingtons-spirit-76-cask-strength-bourbon-whiskey
 George Washington's,Rye Whiskey,,86,2010-2026,George Washington's Distillery,Rye,,https://www.mountvernon.org/the-estate-gardens/distillery/
+Ghostwood,Original Blended,,90,2023-2026,Ghostwood Distilling Co.,Bourbon,,https://www.ghostwoodwhiskey.com/products/ghostwood-blended-bourbon-whiskey
+Ghostwood,Gold Chardonnay Cask Finish,,90,2026,Ghostwood Distilling Co.,Bourbon,,https://www.ghostwoodwhiskey.com/products/ghostwood-blended-bourbon-finished-in-chardonnay-casks
+Ghostwood,Black Barrel Proof,,114,2026,Ghostwood Distilling Co.,Bourbon,,https://www.ghostwoodwhiskey.com/products/ghostwood-barrel-proof-black-blended-bourbon-whiskey
+Ghostwood,3 Brothers,6,80,2026,Ghostwood Distilling Co.,Bourbon,26226001000037,https://www.ghostwoodwhiskey.com/products/ghostwood-3-brothers-bourbon-whiskey-80-proof
 Glenmore,Rye,,100,2026,Glenmore Distillery,Rye,,https://www.prnewswire.com/news-releases/sazerac-revives-historic-glenmore-name-with-the-launch-of-two-new-kentucky-whiskeys-302876437.html
 Glenmore,Bourbon,,100,2026,Glenmore Distillery,Bourbon,,https://www.prnewswire.com/news-releases/sazerac-revives-historic-glenmore-name-with-the-launch-of-two-new-kentucky-whiskeys-302876437.html
 Glover Park,Premium Select Single-Barrel,4,95,2026,Glover Park Brewery,Bourbon,26226001000062,https://ttbonline.gov/colasonline/viewColaDetails.do?action=publicFormDisplay&ttbid=26226001000062
@@ -971,6 +986,11 @@ Jefferson's,Reserve 8 Year,8,96,2026,Jefferson's Bourbon,Bourbon,,https://jeffer
 Jefferson's,Ocean Aged at Sea,,90,2012-2026,Jefferson's Bourbon,Bourbon,,https://jeffersonsbourbon.com/whiskeys/jeffersons-ocean-bourbon/
 Jefferson's,Founder's Reserve 20 Year,20,94,2026,Jefferson's Bourbon,Bourbon,,https://www.bevnet.com/pr/2026/06/30/jeffersons-bourbon-celebrates-americas-250th-anniversary-with-release-of-founders-reserve-20yearold
 Jeptha Creed,Solera Aged,,100,2026,Jeptha Creed Distillery,Bourbon,,https://jepthacreed.com/product/jeptha-creed-solera/
+Jeptha Creed,"Red, White & Blue Batch 5",,100,2026,Jeptha Creed Distillery,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/jeptha-creed-distillery-introduces-fifth-release-of-red-white-blue-bourbon
+Jeptha Creed,"Red, White & Blue Batch 4",,100,2025,Jeptha Creed Distillery,Bourbon,,https://jepthacreed.com/product/red-white-and-blue-bourbon/
+Jeptha Creed,"Red, White & Blue Batch 3",,100,2024,Jeptha Creed Distillery,Bourbon,,https://jepthacreed.com/product/red-white-and-blue-bourbon/
+Jeptha Creed,"Red, White & Blue Batch 2",,100,2023,Jeptha Creed Distillery,Bourbon,,https://www.breakingbourbon.com/review/jeptha-creed-red-white-blue-straight-bourbon-batch-2
+Jeptha Creed,"Red, White & Blue Batch 1",,100,2022,Jeptha Creed Distillery,Bourbon,,https://jepthacreed.com/product/red-white-and-blue-bourbon/
 Jeptha Creed,Bruce's Blue Bourbon,,100,2026,Jeptha Creed Distillery,Bourbon,,https://jepthacreed.com/product/bruces-blue-bourbon/
 Jim Beam,standard,,80,1933-2025,Jim Beam,Bourbon,,https://www.jimbeam.com/en-us/bourbons/jim-beam
 Jim Beam,Ten-Pin,10,100,2026,Jim Beam,Bourbon,26026001000310,https://www.fredminnick.com/2026/08/24/jim-beam-announces-return-of-ten-pin-decanter/
@@ -1441,6 +1461,7 @@ Penelope,Cooper Series Rio Batch 4,,98,2026,MGP,Bourbon,,https://www.breakingbou
 Penelope,Cooper Series Rio Batch 3,,98,2025,MGP,Bourbon,,https://shop.penelopebourbon.com/products/rio
 Penelope,Cooper Series Rio Batch 2,,98,2024,MGP,Bourbon,23318001000630,https://shop.penelopebourbon.com/products/rio
 Penelope,Cooper Series Rio Batch 1,,98,2023,MGP,Bourbon,23318001000630,https://shop.penelopebourbon.com/products/rio
+Penelope,Cooper Series Madagascar Batch 1,,99,2026,MGP,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/penelope-bourbon-introduces-madagascar-the-latest-release-in-its-cooper-series
 Penelope,Cooper Series Havana Batch 2,,93,2026,MGP,Bourbon,,https://shop.penelopebourbon.com/products/havana
 Penelope,Cooper Series Havana Batch 1,,93,2024,MGP,Bourbon,,https://shop.penelopebourbon.com/products/havana
 Penelope,Conundrum,12,101.5,2026,MGP,Rye,26117001000252,https://penelopebourbon.com/
@@ -1946,6 +1967,7 @@ Windows Distillery,Four Barrel,,102,2026,Windows Distillery,Bourbon,,https://www
 Windows Distillery,Batch One,,80,2024-2026,Windows Distillery,Bourbon,,https://shop.windowsdistillery.com/products/windows-distillery-batch-one-whiskey
 Winglore Spirits,BRRRT! Bourbon (Battle Creek),,100,2026,Winglore Spirits,Bourbon,26203001000182,https://theoldrickhouse.com/products/winglore-spirits-brrrt-2026-straight-bourbon-whiskey
 Wolfe & Wilson,Batch 1,2,100,2026,Stoll & Wolfe,Rye,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/new-wolfe-wilson-straight-rye-is-a-true-250th-anniversary-representation-of-american-whiskey-history
+Woodford Reserve,Double Oaked Rye,,90.4,2026,Woodford Reserve,Rye,26065001000088,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/woodford-reserve-introduces-double-oaked-rye
 Woodford Reserve Distillery Series,2026 Triple Pot Still,,100,2026,Woodford Reserve,Bourbon,26107001000078,https://www.woodfordreserve.com/whiskey/distillery-series/
 Woodford Reserve Distillery Series,2026 Red Corn,,90.4,2026,Woodford Reserve,Bourbon,,https://www.woodfordreserve.com/whiskey/distillery-series/
 Woodford Reserve Distillery Series,2026 Double Double Oaked,,90.4,2026,Woodford Reserve,Bourbon,,https://www.woodfordreserve.com/whiskey/distillery-series/

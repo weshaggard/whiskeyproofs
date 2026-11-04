@@ -27,7 +27,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
         with:
-          fetch-depth: 0
+          fetch-depth: 1
+          # Keep label evidence/OCR metadata without downloading archived images.
+          sparse-checkout: |
+            /*
+            !/labels/
+            /labels/**/*.md
+            /labels/**/*.json
+          sparse-checkout-cone-mode: false
           token: ${{ steps.generate_token.outputs.token }}
           persist-credentials: false
 
@@ -37,8 +44,8 @@ jobs:
         run: |
           git remote set-url origin https://x-access-token:${GITHUB_APP_TOKEN}@github.com/${{ github.repository }}.git
 
-          if git fetch origin automated/find-new-releases 2>/dev/null; then
-            git checkout automated/find-new-releases
+          if git fetch --depth=1 --filter=blob:none --no-tags origin automated/find-new-releases 2>/dev/null; then
+            git checkout -B automated/find-new-releases FETCH_HEAD
             echo "Checked out existing PR branch — new changes will be additive"
           else
             echo "Branch does not exist yet — it will be created from the current checkout"
@@ -112,7 +119,8 @@ jobs:
             git checkout -b automated/find-new-releases
           fi
 
-          git add -A
+          # Include newly downloaded images outside the sparse checkout.
+          git add --sparse -A
 
           if git diff --cached --quiet; then
             echo "No changes to commit"

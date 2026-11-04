@@ -1,40 +1,38 @@
 # Task Report
 
 ## Task
-Fix workflow run 39790271349 and resolve linked issue #301 by verifying and correcting the Whisky Advocate discovery source.
+Investigate and fix the failing CI checks on PR #303.
 
 ## Result
 ⚠️ Partial
 
 ## Summary
-- Items processed: 6 discovery sources
-- Succeeded: 5
-- Failed: 1
+- Items processed: 1
+- Succeeded: 1
+- Failed: 0
 - Skipped: 0
 
 ## Completed
-- Investigated run https://github.com/weshaggard/whiskeyproofs/actions/runs/39790271349 and issue #301. The failing source was `https://www.whiskyadvocate.com`, which timed out after the health check's three retries.
-- Web search confirmed Whisky Advocate's official news page is `https://whiskyadvocate.com/News/`.
-- Updated `.github/prompts/find-new-releases.prompt.md` to use the official News page URL. Pushed commit `d74d21fef8164c0254fc272f7f202d9688949807` on branch `copilot/fix-action-run-39790271349`.
-- Focused checker tests passed: 10 tests.
-- Secret scanning passed. Parallel validation found no review comments; CodeQL was skipped because the prompt URL-only change is trivial.
-- Issue #301 remains open pending a successful rerun.
+- Inspected failed `Validate, Build, and Deploy` runs `40025781469` and `40030334256`.
+- Identified the blocking failure in `Build with Jekyll`: with Ruby 3.4, Jekyll 4.3.4 raises `LoadError: cannot load such file -- csv`. The log explicitly notes `csv` is no longer a default gem and recommends adding it to the Gemfile.
+- Added `csv` `~> 3.3.6` to `/home/runner/work/whiskeyproofs/whiskeyproofs/Gemfile`; the subsequent CI run successfully installed it.
+- Inspected run `40534553447` and its failed job `122326719464`. The next blocking error was `LoadError: cannot load such file -- base64` from `safe_yaml` on Ruby 3.4.
+- Added `base64` `~> 0.3.0` to the Gemfile. RubyGems reports `base64` 0.3.0 requires Ruby >= 2.4 and `csv` 3.3.7 requires Ruby >= 2.5; advisory checks found no vulnerabilities for either dependency.
+- Installed dependencies to `/tmp` after the first local install attempt hit permission errors writing under `/var/lib/gems`.
+- Installed the updated bundle to `/tmp` and ran the Jekyll build successfully on the available local Ruby 3.2.3.
+- Ran `python3 .github/scripts/validate_whiskey_data.py`; all checks passed for 2,054 entries.
+- Ran `python3 .github/scripts/test_check_discovery_sources.py`; all 10 tests passed.
+- Verified `ruby -c Gemfile` and `git diff --check`.
 
 ## Errors
-- Local source-health validation still timed out for `https://whiskyadvocate.com/News/` after the initial request plus three retries: `Network error: <urlopen error timed out>`. The other five sources passed.
-- `retry_workflow_run` for run 39790271349 was rejected with HTTP 403: `workflow run does not belong to the job repository and branch`.
-- Manual run 39806379508 on `main` was cancelled after its check remained in progress, so it did not verify the updated URL.
-- Run 39807022551 on the updated branch was cancelled after checkout `git fetch` remained in progress for 15 minutes; logs ended with `The operation was canceled.`
-- Run 39809757319 checked the updated URL on GitHub Actions; Whisky Advocate still timed out after three retries. The other five sources passed, so issue #301 remains open.
+- CI run `40534553447` (attempt 2) failed in Jekyll with `cannot load such file -- base64 (LoadError)` on Ruby 3.4, after `csv` was fixed.
+- The URL validation step reports some HTTP 404 URLs, including Chicken Cock links, and exits nonzero; the workflow marks this step `continue-on-error: true`, so it is not the build-blocking failure addressed here.
+- Initial local Bundler install failed with `Bundler::PermissionError` writing to `/var/lib/gems/3.2.0/cache`. Re-running with temporary writable bundle/cache paths succeeded.
 
 ## Remaining Work
-- Find a reachable Whisky Advocate discovery page or decide whether the source should be removed from the fallback list; the official `https://whiskyadvocate.com/News/` endpoint times out in both local validation and GitHub Actions.
-- After applying a verified fix, rerun the discovery source workflow and close issue #301 only if it succeeds.
+- Confirm the PR Actions run succeeds on Ruby 3.4 after adding both explicit `csv` and `base64` dependencies.
 
 ## State
-- Repository: `/home/runner/work/whiskeyproofs/whiskeyproofs`.
-- Changed file: `.github/prompts/find-new-releases.prompt.md` only.
-- Issue #301: open.
-- Workflow run 39807022551: cancelled during checkout after 15 minutes.
-- Workflow run 39809757319: completed with failure; all sources except Whisky Advocate passed. Its failure alert updated issue #301.
-- No whiskey data or dependency files were changed.
+- Changed files: `/home/runner/work/whiskeyproofs/whiskeyproofs/Gemfile` and this report; `Gemfile` now declares `csv` `~> 3.3.6` and `base64` `~> 0.3.0`.
+- Remove ignored `Gemfile.lock`, `_site`, `.jekyll-cache`, and `.github/scripts/__pycache__` after verification.
+- Local bundle path: `/tmp/whiskeyproofs-bundle`; cache/config are under `/tmp/whiskeyproofs-bundle-cache` and `/tmp/whiskeyproofs-bundler-home`.
