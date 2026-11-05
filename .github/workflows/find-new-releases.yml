@@ -127,7 +127,18 @@ jobs:
             echo "has_changes=false" >> $GITHUB_OUTPUT
           else
             git commit -m "Automated bourbon and rye release update"
-            git push origin automated/find-new-releases
+            for attempt in 1 2 3; do
+              if git push origin automated/find-new-releases; then
+                break
+              fi
+              if [ "$attempt" -eq 3 ]; then
+                echo "Push failed after $attempt attempts" >&2
+                exit 1
+              fi
+              delay=$((2 ** attempt))
+              echo "Push failed (attempt $attempt/3); retrying in ${delay}s..."
+              sleep "$delay"
+            done
             echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
 
