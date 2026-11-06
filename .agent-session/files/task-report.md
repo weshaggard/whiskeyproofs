@@ -1,30 +1,30 @@
 # Task Report
 
 ## Task
-Replace the failing Whisky Advocate discovery source with a suitable working source, or remove it if no replacement is found.
+Remove Bourbon Obsessed and Distiller from the discovery source list in response to PR feedback.
 
 ## Result
 ✅ Success
 
 ## Summary
-- Items processed: 1
-- Succeeded: 1
+- Items processed: 2
+- Succeeded: 2
 - Failed: 0
 - Skipped: 0
 
 ## Completed
 - Investigated failed GitHub Actions run 42247712255: Whisky Advocate timed out; the other five sources passed.
-- Replaced Whisky Advocate with https://bourbonobsessed.com/ in `.github/prompts/find-new-releases.prompt.md`. Its homepage contains recent bourbon and rye release roundups.
-- Added a source-list assertion in `.github/scripts/test_check_discovery_sources.py`; all 10 targeted tests passed.
-- Ran the actual source health checker locally: six sources checked, zero failures.
+- Removed Bourbon Obsessed and Distiller from `.github/prompts/find-new-releases.prompt.md`, leaving four numbered sources.
+- Updated `.github/scripts/test_check_discovery_sources.py` to assert the remaining sources and adjust failure-report counts; all 10 targeted tests passed.
+- Ran the source health checker locally: four sources checked, zero failures.
 
 ## Errors
-- The original Whisky Advocate News URL and its indexed new-releases tag timed out on direct checks; web fetches also reported transport failures.
+- `git diff HEAD~2 HEAD` could not run because the clone is shallow (`fatal: bad revision 'HEAD~2'`); inspected the replacement commit against its available parent instead.
 
 ## Remaining Work
 - Run the Discovery Source Health workflow against the updated branch or after merging, and close issue #316 after a successful GitHub Actions run.
 
 ## State
 - Repository: `/home/runner/work/whiskeyproofs/whiskeyproofs`.
-- Local checker report: `/tmp/whiskey-source-health-report.md`.
+- Local checker report: `/tmp/whiskey-source-health-review.md`.
 - Retrying the original failed GitHub Actions run would use the old commit, not this change.

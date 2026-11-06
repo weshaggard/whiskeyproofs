@@ -17,9 +17,7 @@ Reputable fallback sources (in priority order):
 1. [Breaking Bourbon press releases](https://www.breakingbourbon.com/bourbon-rye-whiskey-press-releases) – bourbon and rye release announcements and batch details
 2. [Bourbon Culture](https://bourbonculture.com) – release news, batch info, and reviews
 3. [The Whiskey Wash](https://thewhiskeywash.com) – industry news and release coverage
-4. [Bourbon Obsessed](https://bourbonobsessed.com/) – bourbon and rye release roundups and news
-5. [Distiller](https://distiller.com) – product database and release details
-6. [Fred Minnick](https://fredminnick.com) – bourbon journalist coverage of new releases
+4. [Fred Minnick](https://fredminnick.com) – bourbon journalist coverage of new releases
 
 Source health:
 
