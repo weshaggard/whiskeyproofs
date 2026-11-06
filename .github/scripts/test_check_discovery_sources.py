@@ -24,6 +24,7 @@ class SourceHealthTests(unittest.TestCase):
         sources = checker.load_sources(checker.PROMPT.read_text())
         self.assertEqual(len(sources), 6)
         self.assertEqual(sources[0][1], "https://www.breakingbourbon.com/bourbon-rye-whiskey-press-releases")
+        self.assertEqual(sources[3], ("Bourbon Obsessed", "https://bourbonobsessed.com/"))
 
     def test_healthy_listing(self):
         body = '<p>Bourbon releases</p><a href="/bourbon-whiskey-press-releases/new-release">New release</a>'
