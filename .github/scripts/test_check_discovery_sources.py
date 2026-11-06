@@ -22,8 +22,12 @@ class SourceHealthTests(unittest.TestCase):
 
     def test_prompt_sources(self):
         sources = checker.load_sources(checker.PROMPT.read_text())
-        self.assertEqual(len(sources), 6)
-        self.assertEqual(sources[0][1], "https://www.breakingbourbon.com/bourbon-rye-whiskey-press-releases")
+        self.assertEqual(sources, [
+            ("Breaking Bourbon press releases", "https://www.breakingbourbon.com/bourbon-rye-whiskey-press-releases"),
+            ("Bourbon Culture", "https://bourbonculture.com"),
+            ("The Whiskey Wash", "https://thewhiskeywash.com"),
+            ("Fred Minnick", "https://fredminnick.com"),
+        ])
 
     def test_healthy_listing(self):
         body = '<p>Bourbon releases</p><a href="/bourbon-whiskey-press-releases/new-release">New release</a>'
@@ -80,10 +84,10 @@ class SourceHealthTests(unittest.TestCase):
     def test_run_reports_failure_and_continues(self):
         with tempfile.TemporaryDirectory() as directory:
             report = Path(directory) / "report.md"
-            with patch.object(checker, "check_source", side_effect=["HTTP 404"] + [None] * 5) as check, contextlib.redirect_stdout(io.StringIO()):
+            with patch.object(checker, "check_source", side_effect=["HTTP 404"] + [None] * 3) as check, contextlib.redirect_stdout(io.StringIO()):
                 self.assertEqual(checker.run(checker.PROMPT, report), 1)
-            self.assertEqual(check.call_count, 6)
-            self.assertIn("Checked: 6; failures: 1.", report.read_text())
+            self.assertEqual(check.call_count, 4)
+            self.assertIn("Checked: 4; failures: 1.", report.read_text())
             self.assertIn("HTTP 404", report.read_text())
 
     def test_run_success_and_invalid_configuration(self):
