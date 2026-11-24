@@ -112,7 +112,7 @@ Bardstown Bourbon Discovery Series,Batch 4,,115,2020,Bardstown Bourbon,Bourbon,,
 Bardstown Bourbon Discovery Series,Batch 3,,110.3,2020,Bardstown Bourbon,Bourbon,20093001000194,https://www.bardstownbourbon.com/products/discovery-series-3/
 Bardstown Bourbon Discovery Series,Batch 2,,122.2,2019,Bardstown Bourbon,Bourbon,,https://www.bardstownbourbon.com/products/discovery-series-2/
 Bardstown Bourbon Discovery Series,Batch 1,,121.2,2019,Bardstown Bourbon,Bourbon,19030001000905,https://www.bardstownbourbon.com/products/discovery-series-1/
-Bardstown Bourbon Distillery Reserve,Oak Encore Barrel Finish,,115.2,2026,Bardstown Bourbon,Bourbon,26202001000087,https://bardstownbourbon.com/our-products
+Bardstown Bourbon Distillery Reserve,Oak Encore Barrel Finish,,115.2,2026,Bardstown Bourbon,Bourbon,26202001000087,https://www.bardstownbourbon.com/products/oak-encore-barrel-finish/
 Bardstown Bourbon Distillery Reserve,Normandie Calvados Brandy Barrel,,104.2,2025,Bardstown Bourbon,Bourbon,,https://www.bardstownbourbon.com/products/normandie-calvados-brandy-barrel-finish/
 Bardstown Bourbon Distillery Reserve,Hokkaido Mizunara Oak,,109.3,2025,Bardstown Bourbon,Bourbon,,https://www.bardstownbourbon.com/products/hokkaido-mizunara-oak-barrel-finish/
 Bardstown Bourbon Distillery Reserve,Cathedral French Oak,,110.1,2025,Bardstown Bourbon,Bourbon,,https://www.bardstownbourbon.com/products/cathedral-french-oak/
@@ -461,6 +461,7 @@ Cedar Ridge Anniversary Edition,2026,,112,2026,Cedar Ridge Distillery,Bourbon,,h
 Cedar Ridge Anniversary Edition,2025,,110,2025,Cedar Ridge Distillery,Bourbon,,https://cedarridgedistillery.com/whiskeys/anniversary-edition-bourbon/
 Cellar & Folly Whiskey Company,Copper John Straight Rye,,92,2026,Cellar & Folly Whiskey Company,Rye,26261001000270,https://www.cellarandfollywhiskey.com/
 Chattanooga Whiskey,91,,91,2019-2026,Chattanooga Whiskey Company,Bourbon,22264001000793,https://chattanoogawhiskey.com/product/chattanooga-whiskey-91/
+Chattanooga Whiskey,Ranger 111,3,111,2026,Chattanooga Whiskey Company,Bourbon,26244001000346,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/chattanooga-whiskeys-ranger-111
 Chattanooga Whiskey,Cask 111,,111,2019-2026,Chattanooga Whiskey Company,Bourbon,22264001000815,https://chattanoogawhiskey.com/product/chattanooga-whiskey-111/
 Chattanooga Whiskey,99 Rye,,99,2020-2026,Chattanooga Whiskey Company,Rye,23299001000796,https://chattanoogawhiskey.com/product/chattanooga-whiskey-99/
 Chattanooga Whiskey Bottled-in-Bond,Fall 2022,4,100,2026,Chattanooga Whiskey Company,Bourbon,,https://chattanoogawhiskey.com/product/bib-fall-2022/
@@ -721,6 +722,15 @@ Fiddler,Soloist,,100,2019-2026,ASW Distillery,Bourbon,,https://www.fiddlerwhiske
 Fiddler,Georgia Heartwood,,112-123,2019-2026,ASW Distillery,Bourbon,,https://www.fiddlerwhiskey.com/heartwood-1
 Fiddler,Combine (Soil to Still),8,112,2026,ASW Distillery,Bourbon,26072001000444,https://www.bevnet.com/pr/2026/07/13/asw-distillery-and-john-deere-launch-soil-to-still--a-historic-american-whiskey-partnership
 Fiddler,Chin Music (Atlanta Braves),6,100,2026,ASW Distillery,Bourbon,26162001000113,https://www.fiddlerwhiskey.com/
+Fierce & Kind,Very Limited Release Batch 03,6,116.2,2026,Fierce & Kind,Bourbon,,https://fiercenkind.com/products/limited-release-single-barrel-cask-strength-whiskey
+Fierce & Kind,Straight Bourbon,3,90,2026,Fierce & Kind,Bourbon,,https://fiercenkind.com/products/fierce-kind-straight-bourbon
+Fierce & Kind,Straight Bourbon,2,86,2023-2024,Fierce & Kind,Bourbon,22314001000644,https://fiercenkind.com/blogs/fierce-and-kind-news/straight-bourbon-featured-in-san-diego-magazine
+Fierce & Kind,Single Barrel Cask Strength,3,110,2025-2026,Fierce & Kind,Bourbon,26272001000512,https://fiercenkind.com/products/fierce-kind-very-limited-release-single-barrel-cask-strength-straight-bourbon-110-proof
+Fierce & Kind,Single Barrel Cask Strength,2.75,110,2024,Fierce & Kind,Bourbon,,https://fiercenkind.com/blogs/fierce-and-kind-news/single-barrel-cask-strength-featured-in-the-whiskey-lifestyle
+Fierce & Kind,Single Barrel Cask Strength,,110,2023,Fierce & Kind,Bourbon,,https://fiercenkind.com/products/fierce-kind-very-limited-release-single-barrel-cask-strength-straight-bourbon-110-proof
+Fierce & Kind,Pride Straight Bourbon,3.83,86,2026,Fierce & Kind,Bourbon,,https://fiercenkind.com/products/limited-pride-releas-straight-gay-bourbon
+Fierce & Kind,Pride Straight Bourbon,2,86,2024,Fierce & Kind,Bourbon,24142001001137,https://fiercenkind.com/blogs/fierce-and-kind-news/pride-business-highlights-fierce-kind-pride-collection
+Fierce & Kind,Pride Single Barrel Cask Strength,2.5,110,2024,Fierce & Kind,Bourbon,24142001001138,https://fiercenkind.com/blogs/fierce-and-kind-news/pride-business-highlights-fierce-kind-pride-collection
 Filmland Spirits,The Crimson Cask,4,90,2026,Undisclosed Kentucky,Bourbon,,https://www.filmlandspirits.com/
 Final Flight Reserve,standard,,108,2026,Bespoken Spirits,Bourbon,,https://thewhiskeywash.com/whiskey-news/final-flight-reserve-bourbon-honors-av-8b-harrier-retirement/
 Fincasa De La Tierra,Batch 004,,100,2026,Fincasa De La Tierra,Rye,,https://www.fincasawhiskey.com/whiskey
@@ -1227,6 +1237,16 @@ Maker's Mark World Wood Collection,Expedition 01,,95,2026,Maker's Mark,Bourbon,,
 Marquee,Exclusive Small Batch,,94,2026,New Era Whiskey,Bourbon,26201001000140,https://marqueebourbon.com
 Maven,standard,7,94,2026,The Maven Distillery,Bourbon,26162001000162,https://themavenwhiskey.com/
 McCracken Jubilee,standard,,90,2026,McCracken Curve Distillery,Bourbon,26128001000815,https://mccrackencurve.com/
+McLaughlin,Cask Strength Baby Barrel Bourbon - Bottle 945,5,123.9,2025,McLaughlin Distillery,Bourbon,,https://www.breakingbourbon.com/review/mclaughlin-distillery-cask-strength-baby-barrel-bourbon
+McLaughlin,Cask Strength Baby Barrel Bourbon - Barrel 1731 (SBC 111),5,124.28,2026,McLaughlin Distillery,Bourbon,,https://www.breakingbourbon.com/single-barrel-club/bc-110-111-mclaughlin-distillery
+McLaughlin,Cask Strength Baby Barrel Bourbon - Barrel 1724 (SBC 110),5,126.1,2026,McLaughlin Distillery,Bourbon,,https://www.breakingbourbon.com/single-barrel-club/bc-110-111-mclaughlin-distillery
+McLaughlin,Cask Strength Baby Barrel Bourbon - Barrel 1681 (SBC 117),5,119.2,2026,McLaughlin Distillery,Bourbon,,https://www.breakingbourbon.com/single-barrel-club/sbc-115-116-117-mclaughlin-distillery
+McLaughlin,Cask Strength Baby Barrel Bourbon - Barrel 1680 (SBC 116),5,118.32,2026,McLaughlin Distillery,Bourbon,,https://www.breakingbourbon.com/single-barrel-club/sbc-115-116-117-mclaughlin-distillery
+McLaughlin,Cask Strength Baby Barrel Bourbon - Barrel 1679 (SBC 115),5,117.56,2026,McLaughlin Distillery,Bourbon,,https://www.breakingbourbon.com/single-barrel-club/sbc-115-116-117-mclaughlin-distillery
+McLaughlin,Cask Strength Baby Barrel Bourbon - Barrel 1645 (SBC 125),5.33,119.15,2026,McLaughlin Distillery,Bourbon,,https://www.breakingbourbon.com/single-barrel-club/sbc-122-125-mclaughlin-distillery
+McLaughlin,Cask Strength Baby Barrel Bourbon - Barrel 1643 (SBC 124),5.33,121.78,2026,McLaughlin Distillery,Bourbon,,https://www.breakingbourbon.com/single-barrel-club/sbc-122-125-mclaughlin-distillery
+McLaughlin,Cask Strength Baby Barrel Bourbon - Barrel 1641 (SBC 123),5.33,120.32,2026,McLaughlin Distillery,Bourbon,,https://www.breakingbourbon.com/single-barrel-club/sbc-122-125-mclaughlin-distillery
+McLaughlin,Cask Strength Baby Barrel Bourbon - Barrel 1632 (SBC 122),5.33,115,2026,McLaughlin Distillery,Bourbon,,https://www.breakingbourbon.com/single-barrel-club/sbc-122-125-mclaughlin-distillery
 Mellow Corn,standard,4,100,1945-2025,Heaven Hill,Corn Whiskey,,https://heavenhilldistillery.com/mellow-corn.php
 Michter's 10 Year Bourbon,2015-2024,10,94.4,2015-2024,Michter's,Bourbon,16085001000498,https://michters.com/whiskey/10-year-kentucky-straight-bourbon/
 Michter's 10 Year Bourbon,2025,10,94.4,2025,Michter's,Bourbon,25138001000027,https://michters.com/whiskey/10-year-kentucky-straight-bourbon/
@@ -1294,6 +1314,7 @@ Never Say Die,Small Batch,6,95,2022-2026,Wilderness Trail Distillery,Bourbon,242
 New Era Whiskey,Magic Moonbow at Cumberland Falls,8,115,2026,New Era Whiskey,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/new-era-whiskey-releases-three-cask-strength-bourbons-to-honor-kentucky-parks
 New Era Whiskey,Nature's Crossing at Natural Bridge,8,115,2026,New Era Whiskey,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/new-era-whiskey-releases-three-cask-strength-bourbons-to-honor-kentucky-parks
 New Era Whiskey,Dark Wonders at Mammoth Cave,8,113.8,2026,New Era Whiskey,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/new-era-whiskey-releases-three-cask-strength-bourbons-to-honor-kentucky-parks
+New Riff,Winter Whiskey,4,100,2020-2026,New Riff,Bourbon,20239001000400,https://newriffdistilling.com/spirits/new-riff-winter-whiskey/
 New Riff Balboa Rye,2026,4,100,2026,New Riff,Rye,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/award-winning-balboa-rye-returns-as-new-riff-distilling-announces-release
 New Riff Bottled in Bond,standard,4,100,2018-2026,New Riff,Bourbon,24318001000303,https://www.newriffdistilling.com/spirits/kentucky-straight-bourbon-whiskey/
 New Riff Bottled in Bond Rye,standard,4,100,2018-2026,New Riff,Rye,,https://www.newriffdistilling.com/spirits/kentucky-straight-rye-whiskey/
@@ -1496,6 +1517,7 @@ Penelope,Architects of Golf Hole 3,6,94,2026,MGP,Bourbon,,https://www.penelopebo
 Penelope,Architects of Golf Hole 2,6,94,2026,MGP,Bourbon,,https://www.penelopebourbon.com/architects-of-golf
 Penelope,Architects of Golf Hole 1,6,94,2026,MGP,Bourbon,,https://www.penelopebourbon.com/architects-of-golf
 Pikesville Rye,standard,6,110,2015-2025,Heaven Hill,Rye,06259001000356,https://heavenhilldistillery.com/pikesville-straight-rye.php
+Pinhook Vertical Series Bourbon,2026,11,114.4,2026,Pinhook,Bourbon,25323001000448,https://pinhookbourbon.com/products/vertical-series-bourbon-11-year
 Pinhook Vertical Series Bourbon,2025,10,115.9,2025,Pinhook,Bourbon,,https://pinhookbourbon.com/products/vertical-series-bourbon-10-year
 Pinhook Vertical Series Bourbon,2024,9,114.3,2024,Pinhook,Bourbon,,https://pinhookbourbon.com/products/vertical-series-bourbon-2
 Pinhook Vertical Series Bourbon,2023,8,114.6,2023,Pinhook,Bourbon,,https://pinhookbourbon.com/products/vertical-series-bourbon-1
@@ -1873,8 +1895,8 @@ Watch Hill Exceptional Series,Batch 02,20,124.1,2024,Undisclosed Kentucky,Bourbo
 Watch Hill Exceptional Series,Batch 01,20,146.15,2024,Undisclosed Kentucky,Bourbon,,
 Wattie Boone,Ancient Reserve,,86,2026,Preservation Distillery,Bourbon,26127001000861,https://preservationdistillery.com/
 Waxhaw,Rye,,90,2026,Great Wagon Road Distilling Co.,Rye,26127001000337,https://www.gwrdistilling.com
-Wenzel,Sherry Barrel Finished Batch 2,7,119.1,2026,Wenzel Distillery,Bourbon,,https://www.wenzeldistillery.com/sherry-cask-finished-bourbon
-Wenzel,Sherry Barrel Finished Batch 1,7,109,2025,Wenzel Distillery,Bourbon,,https://www.wenzeldistillery.com/sherry-cask-finished-bourbon
+Wenzel,Sherry Barrel Finished Batch 2,7,119.1,2026,Wenzel Distillery,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/wenzels-award-winning-sherry-barrel-finished-bourbon-is-back
+Wenzel,Sherry Barrel Finished Batch 1,7,109,2025,Wenzel Distillery,Bourbon,,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/wenzels-award-winning-sherry-barrel-finished-bourbon-is-back
 Wheel Horse,Spring 2026 Double Oak,5,101,2026,Green River Distilling,Bourbon,26103001000626,https://wheelhorsewhiskey.com/
 Wheel Horse,Cigar Blend 2026,5,101,2026,Green River Distilling,Bourbon,,https://wheelhorsewhiskey.com/
 Wheel Horse,101 Rye,,101,2020-2026,Green River Distilling,Rye,,https://wheelhorsewhiskey.com/
@@ -2073,6 +2095,7 @@ Wyoming Whiskey,US Rugby Hall of Fame Release,10,92,2026,Wyoming Whiskey,Bourbon
 Wyoming Whiskey,State of the Union,6,98,2026,Wyoming Whiskey,Bourbon,26131001000514,https://www.breakingbourbon.com/bourbon-whiskey-press-releases/wyoming-whiskey-introduces-state-of-the-union
 Wyoming Whiskey,Small Batch,5,88,2012-2026,Wyoming Whiskey,Bourbon,,https://www.wyomingwhiskey.com/small-batch
 Wyoming Whiskey,Single Barrel,5,96,2014-2026,Wyoming Whiskey,Bourbon,,https://www.wyomingwhiskey.com/
+Wyoming Whiskey,Saddle Up Santa - Holiday Edition No. 1,6,99,2026,Wyoming Whiskey,Bourbon,,https://thewhiskeywash.com/whiskey-news/wyoming-whiskey-introduces-saddle-up-santa-in-time-for-christmas/
 Wyoming Whiskey,Double Cask,5,100,2017-2026,Wyoming Whiskey,Bourbon,,https://www.wyomingwhiskey.com/
 Wyoming Whiskey,Buffalo Bill Cody,6,97,2025-2026,Wyoming Whiskey,Bourbon,,https://www.wyomingwhiskey.com/buffalo-bill-cody
 Wyoming Whiskey Barrel Strength,2026 (#6429),10,124,2026,Wyoming Whiskey,Bourbon,,https://www.fredminnick.com/2026/01/08/wyoming-whiskey-releases-highly-limited-barrel-strength-6429/
